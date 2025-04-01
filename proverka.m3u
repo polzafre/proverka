@@ -1,103 +1,137 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/epg/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",Liberty-2025-4-1-22-04 http://iptvin.ru
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",CineMan-2025-4-1-23-04 http://iptvin.ru
 http://overlay.iptvin.fun/iptvin.ru.mp4
-#EXTINF:-1 group-title="Кино и сериалы",Liberty BBC HD
-http://str29.ottg.online/7909/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty DC HD
-http://str29.ottg.online/3021/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Disney HD
-http://str29.ottg.online/3333/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Fan HD
-http://str29.ottg.online/2448/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Marvel 4K
-http://str29.ottg.online/9072/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Netflix 4K
-http://str29.ottg.online/5347/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Pixar HD
-http://str29.ottg.online/9400/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty South Park HD
-http://str29.ottg.online/1803/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty XX Век 4K
-http://str29.ottg.online/4671/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Аванпост 4K
-http://str29.ottg.online/4051/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Автогир HD
-http://str29.ottg.online/3001/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Аниме HD
-http://str29.ottg.online/6972/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Бебимульт HD
-http://str29.ottg.online/5126/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Боевики HD
-http://str29.ottg.online/4628/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Занавес HD
-http://str29.ottg.online/6641/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Индия 4K
-http://str29.ottg.online/7566/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Кино ENG 4K
-http://str29.ottg.online/3418/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Кино UKR 4K
-http://str29.ottg.online/3182/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Кино UKR HD
-http://str29.ottg.online/8087/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Кино Микс 4K
-http://str29.ottg.online/6172/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Комедии HD
-http://str29.ottg.online/2056/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Короткометражный HD
-http://str29.ottg.online/7449/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Криминал 4K
-http://str29.ottg.online/6935/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Крош HD
-http://str29.ottg.online/2832/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Куб 4K
-http://str29.ottg.online/8143/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Легенда 4K
-http://str29.ottg.online/5513/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Мелодрамы HD
-http://str29.ottg.online/5629/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Мим HD
-http://str29.ottg.online/4487/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Мульт 4K
-http://str29.ottg.online/1696/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Мульт ENG 4K
-http://str29.ottg.online/5793/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Мульт UKR 4K
-http://str29.ottg.online/8196/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Мульт UKR HD
-http://str29.ottg.online/1461/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Наука HD
-http://str29.ottg.online/1193/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Планета360 HD
-http://str29.ottg.online/3228/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Планктон HD
-http://str29.ottg.online/2486/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Русфильм 4K
-http://str29.ottg.online/5977/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Сваты HD
-http://str29.ottg.online/7963/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Семейный 4K
-http://str29.ottg.online/3348/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Сериалы 4K
-http://str29.ottg.online/6524/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Сериалы HD
-http://str29.ottg.online/9268/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Симпсоны HD
-http://str29.ottg.online/4040/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Сказки HD
-http://str29.ottg.online/6310/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Союз 4K
-http://str29.ottg.online/4195/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Триллеры 4K
-http://str29.ottg.online/2300/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Туркфильм 4K
-http://str29.ottg.online/7188/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Ужасы 4K
-http://str29.ottg.online/3214/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Шоу HD
-http://str29.ottg.online/8558/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Музыкальные",Liberty МиксMusic HD
-http://str29.ottg.online/7283/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Познавательные",Liberty Эротика HD
-http://str29.ottg.online/6052/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",Liberty Нетфликс 4K
-http://wps5c7yt.rostelekom.xyz/iptv/TQTGTV6WW58X62U7LLRM5DM4/19402/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Air Crash
+http://cdn.admuspeh.my/8826/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan CCCP 4K
+http://cdn.admuspeh.my/8795/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Marvel
+http://cdn.admuspeh.my/8951/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Melodrama
+http://cdn.admuspeh.my/8955/video.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan MiniSeries
+http://cdn.admuspeh.my/8961/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan OLD 4K
+http://cdn.admuspeh.my/8804/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Premium
+http://cdn.admuspeh.my/8967/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Relax 4K
+http://cdn.admuspeh.my/8822/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Thriller
+http://cdn.admuspeh.my/8954/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Top
+http://cdn.admuspeh.my/8959/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan VHS
+http://cdn.admuspeh.my/8807/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Военные Сериалы
+http://cdn.admuspeh.my/8574/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Катастрофы
+http://cdn.admuspeh.my/8957/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Комедийные сериалы
+http://cdn.admuspeh.my/8958/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Криминальные Сериалы
+http://cdn.admuspeh.my/8772/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Лесник
+http://cdn.admuspeh.my/8767/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Ментовские Войны
+http://cdn.admuspeh.my/8802/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan ПёС + Лихач
+http://cdn.admuspeh.my/8824/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan РуКино
+http://cdn.admuspeh.my/8871/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Сваты
+http://cdn.admuspeh.my/8825/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Симпсоны
+http://cdn.admuspeh.my/8833/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Скорая помощь
+http://cdn.admuspeh.my/8821/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Ужасы
+http://cdn.admuspeh.my/8960/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan Фитнес
+http://cdn.admuspeh.my/8771/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Кино и сериалы",CineMan
+http://cdn.admuspeh.my/8952/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 group-title="Общие",CineMan Action HD
+http://91.204.123.195:80/351/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan Cartoons Short HD
+http://91.204.123.195:80/347/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan Cartoons-90 HD
+http://91.204.123.195:80/484/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan HD
+http://91.204.123.195:80/348/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan HD
+http://91.204.123.195:80/349/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan Marvel HD
+http://91.204.123.195:80/354/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan Melodrama HD
+http://91.204.123.195:80/472/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan Thriller HD
+http://91.204.123.195:80/352/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan Top HD
+http://91.204.123.195:80/350/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan VHS HD
+http://91.204.123.195:80/474/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan Катастрофы HD
+http://91.204.123.195:80/471/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan Комедия HD
+http://91.204.123.195:80/356/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan Ментовские войны HD
+http://91.204.123.195:80/477/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan Сваты HD
+http://91.204.123.195:80/359/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan Симпсоны HD
+http://91.204.123.195:80/476/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://only4.tv/ch/7231.png" logo="https://epgx.site/p/cineman-skorpom.png" channelId="-1" tvg-id="cineman-skorpom" tvg-shift="1" shift="2",CineMan Скорая помощь HD
+http://91.204.123.195:80/475/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan Ужасы HD
+http://91.204.123.195:80/355/index.m3u8
+#EXTINF:-1 group-title="Общие",CineMan_Cartoons_Big HD
+http://45.151.69.10:8887/8866/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Cartoons_Short HD
+http://45.151.69.10:8887/8867/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Catastrophe HD
+http://45.151.69.10:8887/8957/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_ExExEx HD 18
+http://45.151.69.10:8887/8868/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_ExExEx_Two HD 18
+http://45.151.69.10:8887/8869/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Fitnes HD
+http://45.151.69.10:8887/8771/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Horror HD
+http://45.151.69.10:8887/8960/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Katasrofy_Doc HD
+http://45.151.69.10:8887/8826/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Marvel HD
+http://45.151.69.10:8887/8951/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Melodrama HD
+http://45.151.69.10:8887/8955/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Mentovskie_Vojny HD
+http://45.151.69.10:8887/8802/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_MiniSeries HD
+http://45.151.69.10:8887/8961/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Pes HD
+http://45.151.69.10:8887/8824/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Premium HD
+http://45.151.69.10:8887/8967/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Simpsons HD
+http://45.151.69.10:8887/8833/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Skoraya_Pomosch HD
+http://45.151.69.10:8887/8821/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Svaty HD
+http://45.151.69.10:8887/8825/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_TOP HD
+http://45.151.69.10:8887/8959/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Thriller HD
+http://45.151.69.10:8887/8954/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_Univer_Realnye_Pacany HD
+http://45.151.69.10:8887/8958/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_VHS HD
+http://45.151.69.10:8887/8807/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",CineMan_ru_Kino HD
+http://45.151.69.10:8887/8871/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",Cineman HD
+http://45.151.69.10:8887/8952/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Эротика (18+)",Cineman_Gluhar_Karpov_Nevskiy HD
+http://45.151.69.10:8887/8772/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/nsdmbc8/Cineman-6-ATV-220x220.png" logo="https://i.ibb.co/QjsXCBZ/683862448dcd287f13aab4692cda3841.png" channelId="-1" tvg-id="atv-cineman",ATV Cineman
+http://ott-cdn.ucom.am/s66/04.m3u8
