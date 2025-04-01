@@ -1,598 +1,855 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sony-turbo" tvg-name=".black (EDTV)" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="ВСЕ",.black (EDTV)
-http://188.190.222.53/Sony_turbo/index.m3u8
-#EXTINF:-1 tvg-id="sony-tv" tvg-name=".red (EDTV)" tvg-logo="https://iptvx.one/picons/sony.png" group-title="ВСЕ",.red (EDTV)
-http://178.124.152.238:8088/sony
-#EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi (EDTV)" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="ВСЕ",.sci-fi (EDTV)
-http://130.193.73.10:8937/play/a02q
-#EXTINF:-1 tvg-id="pervy" tvg-name="1 канал (HD ready)" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="ВСЕ",1 канал (HD ready)
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-id="pervy" tvg-name="1 канал (HD ready)" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="ВСЕ",1 канал (HD ready)
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-id="12-omsk" tvg-name="12 Канал (Омск) (HD ready)" tvg-logo="https://iptvx.one/picons/12-omsk.png" group-title="ВСЕ",12 Канал (Омск) (HD ready)
-https://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1FILMAX Фантастика (FWVGA)" tvg-logo="https://online-tv.live/images/1filmax.png" group-title="ВСЕ",1FILMAX Фантастика (FWVGA)
-http://hls.goodgame.ru:8080/hls/204708.m3u8
-#EXTINF:-1 tvg-id="1hd" tvg-name="1HD (HD)" tvg-logo="https://iptvx.one/picons/1hd-music.png" group-title="ВСЕ",1HD (HD)
-http://91.247.68.229:8000/play/eee/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2FILMAX Комедия (FWVGA)" tvg-logo="https://online-tv.live/images/2filmax.png" group-title="ВСЕ",2FILMAX Комедия (FWVGA)
-http://hls.goodgame.ru:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-id="2na2" tvg-name="2x2 (WSVGA)" tvg-logo="https://iptvx.one/picons/2na2.png" group-title="ВСЕ",2x2 (WSVGA)
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-#EXTINF:-1 tvg-id="312-kino" tvg-name="312 Кино (EDTV)" tvg-logo="https://iptvx.one/picons/312-kino.png" group-title="ВСЕ",312 Кино (EDTV)
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-id="360-podmoskovie" tvg-name="360° (HD ready)" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="ВСЕ",360° (HD ready)
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="360-podmoskovie" tvg-name="360° (HD ready)" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="ВСЕ",360° (HD ready)
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="7tv" tvg-name="7 TV (EDTV)" tvg-logo="https://iptvx.one/picons/7tv.png" group-title="ВСЕ",7 TV (EDTV)
-http://v4.proofix.ru:80/7tv-live/index.m3u8
-#EXTINF:-1 tvg-id="avto24" tvg-name="АВТО 24 (EDTV)" tvg-logo="https://iptvx.one/picons/avto24.png" group-title="ВСЕ",АВТО 24 (EDTV)
-http://178.124.152.238:8088/auto24
-#EXTINF:-1 tvg-id="arsenaltv" tvg-name="Арсенал (FWVGA)" tvg-logo="https://iptvx.one/picons/arsenaltv.png" group-title="ВСЕ",Арсенал (FWVGA)
-http://ott-cdn.ucom.am/s68/04.m3u8
-#EXTINF:-1 tvg-id="astraxan24" tvg-name="Астрахань 24 (HD)" tvg-logo="https://iptvx.one/picons/astraxan24.png" group-title="ВСЕ",Астрахань 24 (HD)
-http://astrakhan24.mediacdn.ru:80/cdn/astrakhan24/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="bashkortostan24" tvg-name="Башкортостан 24 (HD)" tvg-logo="https://iptvx.one/picons/bashkortostan24.png" group-title="ВСЕ",Башкортостан 24 (HD)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 (HD ready)" tvg-logo="https://iptvx.one/picons/belarus1hd.png" group-title="ВСЕ",Беларусь 1 (HD ready)
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 (HD ready)" tvg-logo="https://iptvx.one/picons/belarus1hd.png" group-title="ВСЕ",Беларусь 1 (HD ready)
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 tvg-id="belarus2" tvg-name="Беларусь 2 (HD)" tvg-logo="https://iptvx.one/picons/belarus2hd.png" group-title="ВСЕ",Беларусь 2 (HD)
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="belarus3" tvg-name="Беларусь 3 (HD)" tvg-logo="https://iptvx.one/picons/belarus3hd.png" group-title="ВСЕ",Беларусь 3 (HD)
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="tro" tvg-name="БелРос (WSVGA)" tvg-logo="https://iptvx.one/picons/belros.png" group-title="ВСЕ",БелРос (WSVGA)
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 tvg-id="tro" tvg-name="БелРос (WSVGA)" tvg-logo="https://iptvx.one/picons/belros.png" group-title="ВСЕ",БелРос (WSVGA)
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 tvg-id="bobior" tvg-name="Бобёр (EDTV)" tvg-logo="https://iptvx.one/picons/bober.png" group-title="ВСЕ",Бобёр (EDTV)
-http://195.18.23.20:8000/play/1/index.m3u8
-#EXTINF:-1 tvg-id="bolshaya-azia" tvg-name="Большая Азия (HD ready)" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="ВСЕ",Большая Азия (HD ready)
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="bolshaya-azia" tvg-name="Большая Азия (HD ready)" tvg-logo="https://iptvx.one/picons/bolshaya-azia.png" group-title="ВСЕ",Большая Азия (HD ready)
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="brianskaya-gubernia" tvg-name="Брянская губерния (HD)" tvg-logo="https://iptvx.one/picons/brianskaya-gubernia.png" group-title="ВСЕ",Брянская губерния (HD)
-https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
-#EXTINF:-1 tvg-id="bst" tvg-name="БСТ (Башкортостан) (HD)" tvg-logo="https://iptvx.one/picons/bst.png" group-title="ВСЕ",БСТ (Башкортостан) (HD)
-http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-name="В мире животных (HD)" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-title="ВСЕ",В мире животных (HD)
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
-#EXTINF:-1 tvg-id="vektor-24" tvg-name="Вектор 24 (HD ready)" tvg-logo="https://iptvx.one/picons/vektor-24.png" group-title="ВСЕ",Вектор 24 (HD ready)
-http://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
-#EXTINF:-1 tvg-id="vetta24" tvg-name="Ветта 24 (Пермь) (EDTV)" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="ВСЕ",Ветта 24 (Пермь) (EDTV)
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 tvg-id="volga" tvg-name="Волга (Нижний Новгород) (HD)" tvg-logo="https://iptvx.one/picons/volga.png" group-title="ВСЕ",Волга (Нижний Новгород) (HD)
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-id="volgograd-24" tvg-name="Волгоград 24 (WSVGA)" tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="ВСЕ",Волгоград 24 (WSVGA)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_103_aa662c17/chunklist.m3u8
-#EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-name="Вопросы и ответы (EDTV)" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-title="ВСЕ",Вопросы и ответы (EDTV)
-http://178.212.71.253:8000/play/97/index.m3u8
-#EXTINF:-1 tvg-id="vostok-24" tvg-name="Восток 24 (EDTV)" tvg-logo="https://iptvx.one/picons/vostok-24.png" group-title="ВСЕ",Восток 24 (EDTV)
-http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
-#EXTINF:-1 tvg-id="vremia" tvg-name="Время (HD ready)" tvg-logo="https://iptvx.one/picons/vremia.png" group-title="ВСЕ",Время (HD ready)
-https://cdn2.skygo.mn/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
-#EXTINF:-1 tvg-id="vremia" tvg-name="Время (HD ready)" tvg-logo="https://iptvx.one/picons/vremia.png" group-title="ВСЕ",Время (HD ready)
-https://cdn2.skygo.mn/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
-#EXTINF:-1 tvg-id="glazami-turista" tvg-name="Глазами туриста (HD)" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="ВСЕ",Глазами туриста (HD)
-https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
-#EXTINF:-1 tvg-id="gubernia-samara" tvg-name="Губерния (Самара) (WSVGA)" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="ВСЕ",Губерния (Самара) (WSVGA)
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="deviatka" tvg-name="Девятка (HD)" tvg-logo="https://iptvx.one/picons/deviatka.png" group-title="ВСЕ",Девятка (HD)
-https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
-#EXTINF:-1 tvg-id="denpobedy" tvg-name="День Победы (HD ready)" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="ВСЕ",День Победы (HD ready)
-https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
-#EXTINF:-1 tvg-id="detsky-mir" tvg-name="Детский мир (EDTV)" tvg-logo="https://iptvx.one/picons/detsky-mir.png" group-title="ВСЕ",Детский мир (EDTV)
-http://178.124.152.238:8088/detmir
-#EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино Int (WVGA)" tvg-logo="https://iptvx.one/picons/detkinoint-tviksel.png" group-title="ВСЕ",Детское кино Int (WVGA)
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="Диалоги о рыбалке (EDTV)" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" group-title="ВСЕ",Диалоги о рыбалке (EDTV)
-http://130.193.73.10:8937/play/a04q
-#EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая Рыбалка (HD)" tvg-logo="https://iptvx.one/picons/dikaya-rybalka-hd.png" group-title="ВСЕ",Дикая Рыбалка (HD)
-http://130.193.73.10:8937/play/a04p
-#EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий (EDTV)" tvg-logo="https://iptvx.one/picons/dikiy.png" group-title="ВСЕ",Дикий (EDTV)
-http://130.193.73.10:8937/play/a04s
-#EXTINF:-1 tvg-id="doktor" tvg-name="Доктор (EDTV)" tvg-logo="https://iptvx.one/picons/doktor.png" group-title="ВСЕ",Доктор (EDTV)
-http://130.193.73.10:8937/play/a01q
-#EXTINF:-1 tvg-id="domkino" tvg-name="Дом Кино (WSVGA)" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="ВСЕ",Дом Кино (WSVGA)
-https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом кино Премиум (HD)" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="ВСЕ",Дом кино Премиум (HD)
-http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-name="Домашние Животные (EDTV)" tvg-logo="https://iptvx.one/picons/domashnie-zhivotnye.png" group-title="ВСЕ",Домашние Животные (EDTV)
-http://130.193.73.10:8937/play/a02d
-#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний (HD)" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="ВСЕ",Домашний (HD)
-https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
-#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний (WVGA)" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="ВСЕ",Домашний (WVGA)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 tvg-id="domashny-int" tvg-name="Домашний Int (EDTV)" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="ВСЕ",Домашний Int (EDTV)
-http://178.124.152.238:8088/dom
-#EXTINF:-1 tvg-id="domodedovo" tvg-name="Домодедово ТВ (HD ready)" tvg-logo="https://iptvx.one/picons/domodedovo.png" group-title="ВСЕ",Домодедово ТВ (HD ready)
-http://91.143.36.166:7844/udp/239.1.190.4:1234
-#EXTINF:-1 tvg-id="don-24" tvg-name="Дон 24 (Ростов-на-Дону) (nHD)" tvg-logo="https://iptvx.one/picons/don-24.png" group-title="ВСЕ",Дон 24 (Ростов-на-Дону) (nHD)
-https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
-#EXTINF:-1 tvg-id="drive" tvg-name="ДРАЙВ (HD)" tvg-logo="https://iptvx.one/picons/drive.png" group-title="ВСЕ",ДРАЙВ (HD)
-http://178.212.71.253:8000/play/92/index.m3u8
-#EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино (EDTV)" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="ВСЕ",Еврокино (EDTV)
-http://109.200.130.123:7537/play/a020
-#EXTINF:-1 tvg-id="ege-tv" tvg-name="ЕГЭ ТВ (EDTV)" tvg-logo="https://iptvx.one/picons/ege-tv.png" group-title="ВСЕ",ЕГЭ ТВ (EDTV)
-http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="eda" tvg-name="Еда (EDTV)" tvg-logo="https://iptvx.one/picons/eda.png" group-title="ВСЕ",Еда (EDTV)
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
-#EXTINF:-1 tvg-id="enisey-region" tvg-name="Енисей (Красноярск) (HD)" tvg-logo="https://iptvx.one/picons/enisey-region.png" group-title="ВСЕ",Енисей (Красноярск) (HD)
-https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="zhar-ptica" tvg-name="Жар-Птица (EDTV)" tvg-logo="https://iptvx.one/picons/zhar-ptica.png" group-title="ВСЕ",Жар-Птица (EDTV)
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1 tvg-id="zhara" tvg-name="Жара (EDTV)" tvg-logo="https://iptvx.one/picons/zhara.png" group-title="ВСЕ",Жара (EDTV)
-http://130.193.73.10:8937/play/a03y
-#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-name="Живая Планета (EDTV)" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="ВСЕ",Живая Планета (EDTV)
-http://130.193.73.10:8937/play/a01m
-#EXTINF:-1 tvg-id="zhivaya-priroda" tvg-name="Живая Природа (HD)" tvg-logo="https://iptvx.one/picons/zhivaya-priroda.png" group-title="ВСЕ",Живая Природа (HD)
-https://livetv.mylifeisgood.net.ru/channels/jivyapriroda.m3u8
-#EXTINF:-1 tvg-id="zhivi-aktivno" tvg-name="Живи Активно (WSVGA)" tvg-logo="https://iptvx.one/picons/zhivi-aktivno.png" group-title="ВСЕ",Живи Активно (WSVGA)
-https://livetv.mylifeisgood.net.ru/channels/jiviactivno.m3u8
-#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-name="Загородная Жизнь (EDTV)" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="ВСЕ",Загородная Жизнь (EDTV)
-http://185.57.68.33/40/mpegts
-#EXTINF:-1 tvg-id="zagorodny" tvg-name="Загородный (FWVGA)" tvg-logo="https://iptvx.one/picons/zagorodny.png" group-title="ВСЕ",Загородный (FWVGA)
-http://ott-cdn.ucom.am/s31/04.m3u8
-#EXTINF:-1 tvg-id="zagorodny-int" tvg-name="Загородный Int (HD)" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" group-title="ВСЕ",Загородный Int (HD)
-https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-#EXTINF:-1 tvg-id="zal-suda" tvg-name="Зал суда (EDTV)" tvg-logo="https://iptvx.one/picons/zal-suda.png" group-title="ВСЕ",Зал суда (EDTV)
-http://95.156.76.230:33001/udp/230.4.34.6:1234
-#EXTINF:-1 tvg-id="zapad-24" tvg-name="Запад 24 (Калининград) (WSVGA)" tvg-logo="https://iptvx.one/picons/zapad-24.png" group-title="ВСЕ",Запад 24 (Калининград) (WSVGA)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда (HD)" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="ВСЕ",Звезда (HD)
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда (HD)" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="ВСЕ",Звезда (HD)
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-name="Здоровое ТВ (EDTV)" tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group-title="ВСЕ",Здоровое ТВ (EDTV)
-http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
-#EXTINF:-1 tvg-id="zootv" tvg-name="Зоо ТВ (HD)" tvg-logo="https://iptvx.one/picons/zootv.png" group-title="ВСЕ",Зоо ТВ (HD)
-http://31.148.48.15/Zoo_TV/index.m3u8
-#EXTINF:-1 tvg-id="illuzion-plus" tvg-name="Иллюзион+ (EDTV)" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="ВСЕ",Иллюзион+ (EDTV)
-http://130.193.73.10:8937/play/a02y
-#EXTINF:-1 tvg-id="istoria" tvg-name="История (EDTV)" tvg-logo="https://iptvx.one/picons/istoria.png" group-title="ВСЕ",История (EDTV)
-http://109.200.130.123:7537/play/a025
-#EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-name="Калейдоскоп ТВ (EDTV)" tvg-logo="https://iptvx.one/picons/kaleydoskop.png" group-title="ВСЕ",Калейдоскоп ТВ (EDTV)
-http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="karusel" tvg-name="Карусель (EDTV)" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="ВСЕ",Карусель (EDTV)
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-#EXTINF:-1 tvg-id="karusel-int" tvg-name="Карусель Int (HD ready)" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="ВСЕ",Карусель Int (HD ready)
-https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
-#EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко (HD)" tvg-logo="https://iptvx.one/picons/kineko.png" group-title="ВСЕ",Кинеко (HD)
-http://130.193.73.10:8937/play/a03d
-#EXTINF:-1 tvg-id="kino1int-tviksel" tvg-name="Кино 1 Int (WVGA)" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" group-title="ВСЕ",Кино 1 Int (WVGA)
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="kino-bez-granic" tvg-name="Кино без границ (EDTV)" tvg-logo="https://iptvx.one/picons/kino-bez-granic.png" group-title="ВСЕ",Кино без границ (EDTV)
-http://31.173.165.29:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="kinomult" tvg-name="Кино Мульт (EDTV)" tvg-logo="https://iptvx.one/picons/kinomult.png" group-title="ВСЕ",Кино Мульт (EDTV)
-http://109.200.130.123:7537/play/a024
-#EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ (EDTV)" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="ВСЕ",Кино ТВ (EDTV)
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kinosat" tvg-name="Киноман (EDTV)" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="ВСЕ",Киноман (EDTV)
-http://178.212.71.253:8000/play/66/index.m3u8
-#EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ (HD)" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="ВСЕ",Кинопоказ (HD)
-http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="rus-hualiang-tv" tvg-name="Китай ТВ (HD)" tvg-logo="https://iptvx.one/picons/rus-hualiang-tv.png" group-title="ВСЕ",Китай ТВ (HD)
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Комедия (EDTV)" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="ВСЕ",Комедия (EDTV)
-http://130.193.73.10:8937/play/a03k
-#EXTINF:-1 tvg-id="krasnaya-linia" tvg-name="Красная линия (EDTV)" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="ВСЕ",Красная линия (EDTV)
-https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="krasnaya-linia" tvg-name="Красная линия (EDTV)" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png" group-title="ВСЕ",Красная линия (EDTV)
-https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="krasnodar" tvg-name="Краснодар (HD)" tvg-logo="https://iptvx.one/picons/krasnodar.png" group-title="ВСЕ",Краснодар (HD)
-http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="kuban-24" tvg-name="Кубань 24 (Краснодар) (WVGA)" tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="ВСЕ",Кубань 24 (Краснодар) (WVGA)
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Кулинар ТВ (EDTV)" tvg-logo="http://only4.tv/ch/8903.png" group-title="ВСЕ",Кулинар ТВ (EDTV)
-http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:-1 tvg-id="lapki-live" tvg-name="Лапки Live (EDTV)" tvg-logo="https://iptvx.one/picons/lapki-live.png" group-title="ВСЕ",Лапки Live (EDTV)
-http://91.247.68.229:8000/play/Lapki/index.m3u8
-#EXTINF:-1 tvg-id="legendarny24" tvg-name="Легендарный 24 (Севастополь) (HD)" tvg-logo="https://iptvx.one/picons/legendarny24.png" group-title="ВСЕ",Легендарный 24 (Севастополь) (HD)
-https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1 tvg-id="lipeckoe-vremia" tvg-name="Липецкое время (HD ready)" tvg-logo="https://iptvx.one/picons/lipeckoe-vremia.png" group-title="ВСЕ",Липецкое время (HD ready)
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино (EDTV)" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="ВСЕ",Любимое кино (EDTV)
-http://130.193.73.10:8937/play/a037
-#EXTINF:-1 tvg-id="maydan" tvg-name="Майдан (EDTV)" tvg-logo="https://iptvx.one/picons/maydan.png" group-title="ВСЕ",Майдан (EDTV)
-http://dmi3y-tv.ru/hls/zabava/region/KZN/CH_MAIDAN.m3u8
-#EXTINF:-1 tvg-id="mama" tvg-name="Мама (EDTV)" tvg-logo="https://iptvx.one/picons/mama.png" group-title="ВСЕ",Мама (EDTV)
-http://188.190.222.53/Mama/index.m3u8
-#EXTINF:-1 tvg-id="mir" tvg-name="Мир (HD)" tvg-logo="https://iptvx.one/picons/mir.png" group-title="ВСЕ",Мир (HD)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="mir" tvg-name="Мир (HD)" tvg-logo="https://iptvx.one/picons/mir.png" group-title="ВСЕ",Мир (HD)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="mir-seriala" tvg-name="Мир сериала (EDTV)" tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-title="ВСЕ",Мир сериала (EDTV)
-http://188.190.222.53/Mir_seriala/index.m3u8
-#EXTINF:-1 tvg-id="mordovia-24" tvg-name="Мордовия 24 (Саранск) (HD ready)" tvg-logo="https://iptvx.one/picons/mordovia-24.png" group-title="ВСЕ",Мордовия 24 (Саранск) (HD ready)
-https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1 tvg-id="moskovsky-obrazovatelny" tvg-name="Мособр TV (HD ready)" tvg-logo="https://iptvx.one/picons/moskovsky-obrazovatelny.png" group-title="ВСЕ",Мособр TV (HD ready)
-http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция (HD)" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="ВСЕ",Мосфильм. Золотая коллекция (HD)
-http://31.184.194.43:8080/3/index.m3u8
-#EXTINF:-1 tvg-id="moya-planeta" tvg-name="Моя Планета (EDTV)" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="ВСЕ",Моя Планета (EDTV)
-http://194.143.148.28:8080/Nauka20/mpegts
-#EXTINF:-1 tvg-id="morskoy" tvg-name="Моя стихия (EDTV)" tvg-logo="https://iptvx.one/picons/morskoy.png" group-title="ВСЕ",Моя стихия (EDTV)
-http://109.200.130.123:7537/play/a02f
-#EXTINF:-1 tvg-id="mtv-volgograd" tvg-name="МТВ (Волгоград) (HD ready)" tvg-logo="https://iptvx.one/picons/mtv-volgograd.png" group-title="ВСЕ",МТВ (Волгоград) (HD ready)
-https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской (EDTV)" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="ВСЕ",Мужской (EDTV)
-http://195.26.83.96:7007/play/11/index.m3u8
-#EXTINF:-1 tvg-id="muztv" tvg-name="МузТВ (EDTV)" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="ВСЕ",МузТВ (EDTV)
-http://130.193.73.10:8937/play/a042
-#EXTINF:-1 tvg-id="muzyka-pervogo" tvg-name="Музыка Первого (EDTV)" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="ВСЕ",Музыка Первого (EDTV)
-http://130.193.73.10:8937/play/a043
-#EXTINF:-1 tvg-id="mult" tvg-name="Мульт (HD)" tvg-logo="https://iptvx.one/picons/mult.png" group-title="ВСЕ",Мульт (HD)
-http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="multimania" tvg-name="Мультиландия (EDTV)" tvg-logo="https://iptvx.one/picons/multimania.png" group-title="ВСЕ",Мультиландия (EDTV)
-http://130.193.73.10:8937/play/a00z
-#EXTINF:-1 tvg-id="multimania-lv" tvg-name="Мультимания (SDTV)" tvg-logo="https://iptvx.one/picons/multimania-lv.png" group-title="ВСЕ",Мультимания (SDTV)
-http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
-#EXTINF:-1 tvg-id="multimuzyka" tvg-name="МУЛЬТиМУЗЫКА (WSVGA)" tvg-logo="https://iptvx.one/picons/multimuzyka.png" group-title="ВСЕ",МУЛЬТиМУЗЫКА (WSVGA)
-http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
-#EXTINF:-1 tvg-id="nauka-20" tvg-name="Наука (EDTV)" tvg-logo="https://iptvx.one/picons/nauka-20.png" group-title="ВСЕ",Наука (EDTV)
-http://178.124.152.238:8088/nauka
-#EXTINF:-1 tvg-id="nasha-sibir" tvg-name="Наша Сибирь (FWVGA)" tvg-logo="https://iptvx.one/picons/nasha-sibir.png" group-title="ВСЕ",Наша Сибирь (FWVGA)
-https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
-#EXTINF:-1 tvg-id="nasha-tema" tvg-name="Наша Тема (EDTV)" tvg-logo="https://iptvx.one/picons/nasha-tema.png" group-title="ВСЕ",Наша Тема (EDTV)
-http://178.212.71.253:8000/play/73/index.m3u8
-#EXTINF:-1 tvg-id="saxa" tvg-name="НВК Саха (HD)" tvg-logo="https://iptvx.one/picons/saxa.png" group-title="ВСЕ",НВК Саха (HD)
-https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-name="Неизвестная Россия (HD)" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="ВСЕ",Неизвестная Россия (HD)
-http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-name="Неизвестная Россия (HD)" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="ВСЕ",Неизвестная Россия (HD)
-http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="nn-24" tvg-name="Нижний Новгород 24 (HD ready)" tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="ВСЕ",Нижний Новгород 24 (HD ready)
-http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
-#EXTINF:-1 tvg-id="novy-vek-tambov" tvg-name="Новый Век (Тамбов) (HD ready)" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" group-title="ВСЕ",Новый Век (Тамбов) (HD ready)
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
-#EXTINF:-1 tvg-id="nst" tvg-name="НСТ (EDTV)" tvg-logo="https://iptvx.one/picons/nst.png" group-title="ВСЕ",НСТ (EDTV)
-http://130.193.73.10:8937/play/a03c
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ (HD)" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="ВСЕ",НТВ (HD)
-http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ (HD)" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="ВСЕ",НТВ (HD)
-http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ (WVGA)" tvg-logo="http://epg.one/img2/162.png" group-title="ВСЕ",НТВ (WVGA)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ (WVGA)" tvg-logo="http://epg.one/img2/162.png" group-title="ВСЕ",НТВ (WVGA)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-id="ntv-pravo" tvg-name="НТВ Право (EDTV)" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="ВСЕ",НТВ Право (EDTV)
-http://130.193.73.10:8937/play/a01s
-#EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ Сериал (WSVGA)" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="ВСЕ",НТВ Сериал (WSVGA)
-http://cdn2.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-style" tvg-name="НТВ Стиль (WSVGA)" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="ВСЕ",НТВ Стиль (WSVGA)
-http://cdn2.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-xit" tvg-name="НТВ Хит (WSVGA)" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="ВСЕ",НТВ Хит (WSVGA)
-http://cdn2.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:-1 tvg-id="o_" tvg-name="О! (EDTV)" tvg-logo="https://iptvx.one/picons/o_.png" group-title="ВСЕ",О! (EDTV)
-http://130.193.73.10:8937/play/a016
-#EXTINF:-1 tvg-id="o2tv" tvg-name="О!2 (EDTV)" tvg-logo="https://iptvx.one/picons/o2tv.png" group-title="ВСЕ",О!2 (EDTV)
-http://195.26.83.96:7006/play/1/index.m3u8
-#EXTINF:-1 tvg-id="ont-by" tvg-name="ОНТ (HD)" tvg-logo="https://iptvx.one/picons/ont-by.png" group-title="ВСЕ",ОНТ (HD)
-https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
-#EXTINF:-1 tvg-id="ont-by" tvg-name="ОНТ (HD)" tvg-logo="https://iptvx.one/picons/ont-by.png" group-title="ВСЕ",ОНТ (HD)
-https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
-#EXTINF:-1 tvg-id="otkryty-mir" tvg-name="Открытый мир (WSVGA)" tvg-logo="https://iptvx.one/picons/otkryty-mir.png" group-title="ВСЕ",Открытый мир (WSVGA)
-http://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:-1 tvg-id="otr" tvg-name="ОТР (EDTV)" tvg-logo="https://iptvx.one/picons/otr.png" group-title="ВСЕ",ОТР (EDTV)
-http://130.193.73.10:8937/play/a00e
-#EXTINF:-1 tvg-id="otr" tvg-name="ОТР (EDTV)" tvg-logo="https://iptvx.one/picons/otr.png" group-title="ВСЕ",ОТР (EDTV)
-http://130.193.73.10:8937/play/a00e
-#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-name="ОХОТА И РЫБАЛКА (EDTV)" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-title="ВСЕ",ОХОТА И РЫБАЛКА (EDTV)
-http://178.212.71.253:8000/play/93/index.m3u8
-#EXTINF:-1 tvg-id="eureka-hd" tvg-name="Первый Космический (HD)" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group-title="ВСЕ",Первый Космический (HD)
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
-#EXTINF:-1 tvg-id="perec-int" tvg-name="Перец (EDTV)" tvg-logo="https://iptvx.one/picons/perec.png" group-title="ВСЕ",Перец (EDTV)
-http://213.91.178.133:8000/play/a0ay
-#EXTINF:-1 tvg-id="pingvin-lolo" tvg-name="Пингвин (SDTV)" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png" group-title="ВСЕ",Пингвин (SDTV)
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pobeda" tvg-name="Победа (EDTV)" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="ВСЕ",Победа (EDTV)
-http://130.193.73.10:8937/play/a03h
-#EXTINF:-1 tvg-id="pobeda" tvg-name="Победа (HD ready)" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="ВСЕ",Победа (HD ready)
-https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
-#EXTINF:-1 tvg-id="poexali" tvg-name="Поехали! (EDTV)" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="ВСЕ",Поехали! (EDTV)
-http://130.193.73.10:8937/play/a01n
-#EXTINF:-1 tvg-id="prikluchenia-hd" tvg-name="Приключения (HD)" tvg-logo="https://iptvx.one/picons/prikluchenia-hd.png" group-title="ВСЕ",Приключения (HD)
-http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="prima" tvg-name="Прима (Красноярск) (HD)" tvg-logo="https://iptvx.one/picons/prima.png" group-title="ВСЕ",Прима (Красноярск) (HD)
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-id="prnk-tv" tvg-name="ПРНК (HD ready)" tvg-logo="https://iptvx.one/picons/prnk-tv.png" group-title="ВСЕ",ПРНК (HD ready)
-https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
-#EXTINF:-1 tvg-id="prnk-tv" tvg-name="ПРНК (HD ready)" tvg-logo="https://iptvx.one/picons/prnk-tv.png" group-title="ВСЕ",ПРНК (HD ready)
-https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
-#EXTINF:-1 tvg-id="prodvizhenie" tvg-name="Продвижение (WSVGA)" tvg-logo="https://iptvx.one/picons/prodvizhenie.png" group-title="ВСЕ",Продвижение (WSVGA)
-http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1 tvg-id="prosveschenie" tvg-name="Просвещение (SDTV)" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="ВСЕ",Просвещение (SDTV)
-http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="psixologia-21" tvg-name="Психология (EDTV)" tvg-logo="https://iptvx.one/picons/psixologia-21.png" group-title="ВСЕ",Психология (EDTV)
-http://178.212.71.253:8000/play/96/index.m3u8
-#EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! (EDTV)" tvg-logo="http://epg.one/img2/1003.png" group-title="ВСЕ",Пятница! (EDTV)
-http://130.193.73.10:8937/play/a018
-#EXTINF:-1 tvg-id="piatnica" tvg-name="Пятница! (HD)" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="ВСЕ",Пятница! (HD)
-https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
-#EXTINF:-1 tvg-id="piatnica-int" tvg-name="Пятница! Int (EDTV)" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="ВСЕ",Пятница! Int (EDTV)
-https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал (EDTV)" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="ВСЕ",Пятый канал (EDTV)
-http://130.193.73.10:8937/play/a00h
-#EXTINF:-1 tvg-id="5kanal-ru" tvg-name="Пятый канал (EDTV)" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="ВСЕ",Пятый канал (EDTV)
-http://130.193.73.10:8937/play/a00h
-#EXTINF:-1 tvg-id="radost-moya" tvg-name="Радость моя (WSVGA)" tvg-logo="https://iptvx.one/picons/radost-moya.png" group-title="ВСЕ",Радость моя (WSVGA)
-http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="ratnik" tvg-name="Ратник (HD)" tvg-logo="https://iptvx.one/picons/ratnik.png" group-title="ВСЕ",Ратник (HD)
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ratnik" tvg-name="Ратник (HD)" tvg-logo="https://iptvx.one/picons/ratnik.png" group-title="ВСЕ",Ратник (HD)
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ (HD)" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="ВСЕ",Рен ТВ (HD)
-https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ (HD)" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="ВСЕ",Рен ТВ (HD)
-https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ (WVGA)" tvg-logo="http://epg.one/img2/18.png" group-title="ВСЕ",Рен ТВ (WVGA)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ (WVGA)" tvg-logo="http://epg.one/img2/18.png" group-title="ВСЕ",Рен ТВ (WVGA)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 tvg-id="rentv-int" tvg-name="Рен ТВ Int (HD ready)" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="ВСЕ",Рен ТВ Int (HD ready)
-https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
-#EXTINF:-1 tvg-id="rentv-int" tvg-name="Рен ТВ Int (HD ready)" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="ВСЕ",Рен ТВ Int (HD ready)
-https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
-#EXTINF:-1 tvg-id="retro-tv" tvg-name="Ретро (EDTV)" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="ВСЕ",Ретро (EDTV)
-http://194.158.218.123:8880/Retrotv/index.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 (HD)" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="ВСЕ",Россия 1 (HD)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 (HD)" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="ВСЕ",Россия 1 (HD)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 (WVGA)" tvg-logo="http://epg.one/img2/711.png" group-title="ВСЕ",Россия 1 (WVGA)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1 (WVGA)" tvg-logo="http://epg.one/img2/711.png" group-title="ВСЕ",Россия 1 (WVGA)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-name="Россия К (HD)" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="ВСЕ",Россия К (HD)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 tvg-id="ramenskoe-tv" tvg-name="РТВ (Раменск) (HD ready)" tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png" group-title="ВСЕ",РТВ (Раменск) (HD ready)
-https://e10-ll.facecast.net/rtv/0.m3u8
-#EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер (EDTV)" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="ВСЕ",Русский бестселлер (EDTV)
-http://130.193.73.10:8937/play/a03l
-#EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив (EDTV)" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="ВСЕ",Русский детектив (EDTV)
-http://130.193.73.10:8937/play/a03o
-#EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион (EDTV 404p)" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="ВСЕ",Русский иллюзион (EDTV 404p)
-http://192.166.144.101:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман (EDTV)" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="ВСЕ",Русский роман (EDTV)
-http://130.193.73.10:8937/play/a03n
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Рыболов (EDTV)" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="ВСЕ",Рыболов (EDTV)
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
-#EXTINF:-1 tvg-id="ryzhy" tvg-name="Рыжий (FWVGA)" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="ВСЕ",Рыжий (FWVGA)
-http://ott-cdn.ucom.am/s57/index.m3u8
-#EXTINF:-1 tvg-id="s1-surgut" tvg-name="С1 (Сургут) (WSVGA)" tvg-logo="https://iptvx.one/picons/s1-surgut.png" group-title="ВСЕ",С1 (Сургут) (WSVGA)
-https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:-1 tvg-id="sapfir" tvg-name="Сапфир (EDTV)" tvg-logo="https://iptvx.one/picons/sapfir.png" group-title="ВСЕ",Сапфир (EDTV)
-http://135.181.115.81:8000/play/a03f/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан (EDTV)" tvg-logo="https://iptvx.one/picons/sarafan.png" group-title="ВСЕ",Сарафан (EDTV)
-http://31.148.48.15/Sarafan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sarov-24" tvg-name="Саров 24 (HD ready)" tvg-logo="https://iptvx.one/picons/sarov-24.png" group-title="ВСЕ",Саров 24 (HD ready)
-http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="svetloe-tv" tvg-name="Светлое ТВ (EDTV)" tvg-logo="https://iptvx.one/picons/svetloe-tv.png" group-title="ВСЕ",Светлое ТВ (EDTV)
-http://176.107.219.20:9000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="svoyo-tv-stavropol" tvg-name="Своё ТВ (Ставрополь) (HD)" tvg-logo="https://iptvx.one/picons/svoyo-tv-stavropol.png" group-title="ВСЕ",Своё ТВ (Ставрополь) (HD)
-https://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="smaylik-tv" tvg-name="Смайл ТВ (HD ready)" tvg-logo="https://iptvx.one/picons/smaylik-tv.png" group-title="ВСЕ",Смайл ТВ (HD ready)
-https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="solnce" tvg-name="Солнце (WSVGA)" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="ВСЕ",Солнце (WSVGA)
-https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
-#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-name="Страна FM (HD ready)" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="ВСЕ",Страна FM (HD ready)
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="strk" tvg-name="СТРК (HD ready)" tvg-logo="https://iptvx.one/picons/strk.png" group-title="ВСЕ",СТРК (HD ready)
-http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="sts" tvg-name="СТС (HD)" tvg-logo="https://iptvx.one/picons/sts.png" group-title="ВСЕ",СТС (HD)
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd
-#EXTINF:-1 tvg-id="sts" tvg-name="СТС (HVGA)" tvg-logo="https://iptvx.one/picons/sts.png" group-title="ВСЕ",СТС (HVGA)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-id="sts-int" tvg-name="СТС Int (SDTV)" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="ВСЕ",СТС Int (SDTV)
-https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
-#EXTINF:-1 tvg-id="sts-kids-hd" tvg-name="СТС Kids (EDTV)" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="ВСЕ",СТС Kids (EDTV)
-http://195.26.83.96:7006/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="sts-kids-hd" tvg-name="СТС Kids (HD)" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="ВСЕ",СТС Kids (HD)
-http://130.193.73.10:8937/play/a017
-#EXTINF:-1 tvg-id="sts-love" tvg-name="СТС Love (EDTV)" tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="ВСЕ",СТС Love (EDTV)
-http://178.212.71.253:8002/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="super" tvg-name="Суббота (EDTV)" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="ВСЕ",Суббота (EDTV)
-http://130.193.73.10:8937/play/a03a
-#EXTINF:-1 tvg-id="super" tvg-name="Суббота (HD)" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="ВСЕ",Суббота (HD)
-https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр (FWVGA)" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="ВСЕ",ТВ Центр (FWVGA)
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр (FWVGA)" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="ВСЕ",ТВ Центр (FWVGA)
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3 (EDTV)" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="ВСЕ",ТВ3 (EDTV)
-http://130.193.73.10:8937/play/a03q
-#EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3 (EDTV)" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="ВСЕ",ТВ3 (EDTV)
-http://130.193.73.10:8937/play/a03q
-#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-name="Твоё ТВ (HD)" tvg-logo="https://iptvx.one/picons/tvoyo-tv-hd.png" group-title="ВСЕ",Твоё ТВ (HD)
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-id="tvoetv-humor" tvg-name="Твоё ТВ Юмор (HD)" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" group-title="ВСЕ",Твоё ТВ Юмор (HD)
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-id="teatr" tvg-name="Театр (EDTV)" tvg-logo="https://iptvx.one/picons/teatr.png" group-title="ВСЕ",Театр (EDTV)
-http://195.26.83.96:7005/play/16/index.m3u8
-#EXTINF:-1 tvg-id="teledom" tvg-name="Теледом (HD ready)" tvg-logo="https://iptvx.one/picons/teledom.png" group-title="ВСЕ",Теледом (HD ready)
-http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 tvg-id="telekafe" tvg-name="Телекафе (EDTV)" tvg-logo="https://iptvx.one/picons/telekafe.png" group-title="ВСЕ",Телекафе (EDTV)
-http://130.193.73.10:8937/play/a03u
-#EXTINF:-1 tvg-id="texno-24" tvg-name="Техно 24 (EDTV)" tvg-logo="https://iptvx.one/picons/texno-24.png" group-title="ВСЕ",Техно 24 (EDTV)
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
-#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ (EDTV)" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="ВСЕ",ТНТ (EDTV)
-http://188.190.222.53/THT/index.m3u8
-#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ (HD)" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="ВСЕ",ТНТ (HD)
-http://130.193.73.10:8937/play/a01z
-#EXTINF:-1 tvg-id="tnt-music" tvg-name="ТНТ Music (HD)" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="ВСЕ",ТНТ Music (HD)
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4 (EDTV)" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="ВСЕ",ТНТ4 (EDTV)
-http://178.212.71.253:8000/play/106/index.m3u8
-#EXTINF:-1 tvg-id="tnt4-international" tvg-name="ТНТ4 Int (EDTV)" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="ВСЕ",ТНТ4 Int (EDTV)
-https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
-#EXTINF:-1 tvg-id="tonus-tv" tvg-name="Тонус (EDTV)" tvg-logo="https://iptvx.one/picons/tonus-tv.png" group-title="ВСЕ",Тонус (EDTV)
-http://stream01.vnet.am/ZooTv/mono.m3u8
-#EXTINF:-1 tvg-id="tochka-otryva" tvg-name="Точка Отрыва (EDTV)" tvg-logo="https://iptvx.one/picons/tochka-otryva.png" group-title="ВСЕ",Точка Отрыва (EDTV)
-http://130.193.73.10:8937/play/a021
-#EXTINF:-1 tvg-id="tochka-tv" tvg-name="Точка ТВ (EDTV)" tvg-logo="https://iptvx.one/picons/tochka-tv.png" group-title="ВСЕ",Точка ТВ (EDTV)
-http://31.148.48.15/Tochka_TV/index.m3u8
-#EXTINF:-1 tvg-id="tcb" tvg-name="ТСВ (EDTV)" tvg-logo="https://iptvx.one/picons/tcb.png" group-title="ВСЕ",ТСВ (EDTV)
-http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
-#EXTINF:-1 tvg-id="tcb" tvg-name="ТСВ (EDTV)" tvg-logo="https://iptvx.one/picons/tcb.png" group-title="ВСЕ",ТСВ (EDTV)
-http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
-#EXTINF:-1 tvg-id="detsky" tvg-name="Уникум (EDTV)" tvg-logo="https://iptvx.one/picons/unikum.png" group-title="ВСЕ",Уникум (EDTV)
-http://130.193.73.10:8937/play/a015
-#EXTINF:-1 tvg-id="usadba" tvg-name="Усадьба (EDTV)" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="ВСЕ",Усадьба (EDTV)
-http://130.193.73.10:8937/play/a024
-#EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное ТВ (FWVGA)" tvg-logo="https://iptvx.one/picons/centralnoye-tv.png" group-title="ВСЕ",Центральное ТВ (FWVGA)
-http://ott-cdn.ucom.am/s20/03.m3u8
-#EXTINF:-1 tvg-id="che" tvg-name="Че! (EDTV)" tvg-logo="https://iptvx.one/picons/che.png" group-title="ВСЕ",Че! (EDTV)
-http://178.212.71.253:8002/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="shanson-tv" tvg-name="Шансон ТВ (EDTV 404)" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="ВСЕ",Шансон ТВ (EDTV 404)
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="yu" tvg-name="Ю (EDTV)" tvg-logo="https://iptvx.one/picons/yu.png" group-title="ВСЕ",Ю (EDTV)
-http://92.53.64.197:5050/yu/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 tvg-id="insit-tv" tvg-name="ЮУрГУ (Челябинск) (HD ready)" tvg-logo="https://iptvx.one/picons/insit-tv.png" group-title="ВСЕ",ЮУрГУ (Челябинск) (HD ready)
-http://tvrlive.susu.ru/1800k/playlist.m3u8
-#EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1 (EDTV)" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="ВСЕ",Amedia 1 (EDTV)
-http://130.193.73.10:8937/play/a02m
-#EXTINF:-1 tvg-id="amedia2" tvg-name="Amedia 2 (FWVGA)" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="ВСЕ",Amedia 2 (FWVGA)
-http://ott-cdn.ucom.am/s33/04.m3u8
-#EXTINF:-1 tvg-id="amedia-hit" tvg-name="Amedia Hit (EDTV)" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="ВСЕ",Amedia Hit (EDTV)
-http://31.173.165.29:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="amedia-premium" tvg-name="Amedia Premium (HD)" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="ВСЕ",Amedia Premium (HD)
-http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="ani" tvg-name="Ani (WSVGA)" tvg-logo="https://iptvx.one/picons/ani.png" group-title="ВСЕ",Ani (WSVGA)
-http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
-#EXTINF:-1 tvg-id="animal-planet-eu" tvg-name="Animal Planet (EDTV)" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="ВСЕ",Animal Planet (EDTV)
-http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="bollywood-hd" tvg-name="BollywooD (HD)" tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="ВСЕ",BollywooD (HD)
-http://130.193.73.10:8937/play/a02l
-#EXTINF:-1 tvg-id="bridge-tv" tvg-name="Bridge (EDTV)" tvg-logo="https://iptvx.one/picons/bridge-tv.png" group-title="ВСЕ",Bridge (EDTV)
-http://195.26.83.96:7007/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-name="Bridge Русский хит (EDTV)" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" group-title="ВСЕ",Bridge Русский хит (EDTV)
-http://31.173.165.29:8000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-name="Bridge Шлягер (EDTV)" tvg-logo="https://iptvx.one/picons/bridge-tv-shlager.png" group-title="ВСЕ",Bridge Шлягер (EDTV)
-http://178.212.71.253:8000/play/142/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-name="Bridge Classic (EDTV)" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png" group-title="ВСЕ",Bridge Classic (EDTV)
-http://178.212.71.253:8000/play/135/index.m3u8
-#EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge Deluxe (EDTV)" tvg-logo="https://iptvx.one/picons/bridge-hd.png" group-title="ВСЕ",Bridge Deluxe (EDTV)
-http://31.173.165.29:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-name="Bridge Hits (EDTV)" tvg-logo="https://iptvx.one/picons/bridge-tv-dance.png" group-title="ВСЕ",Bridge Hits (EDTV)
-http://178.212.71.253:8000/play/134/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-name="Bridge Rock (EDTV)" tvg-logo="https://iptvx.one/picons/bridge-tv-rock.png" group-title="ВСЕ",Bridge Rock (EDTV)
-http://178.212.71.253:8000/play/101/index.m3u8
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network (EDTV)" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="ВСЕ",Cartoon Network (EDTV)
-http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="boomerang" tvg-name="Cartoonito (EDTV)" tvg-logo="https://iptvx.one/picons/boomerang.png" group-title="ВСЕ",Cartoonito (EDTV)
-http://135.181.115.81:8000/play/a04e/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema (EDTV)" tvg-logo="https://iptvx.one/picons/cinema.png" group-title="ВСЕ",Cinema (EDTV)
-http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 tvg-id="clubbing-tv" tvg-name="Clubbing TV (HD ready)" tvg-logo="https://iptvx.one/picons/clubbing-tv.png" group-title="ВСЕ",Clubbing TV (HD ready)
-https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="stv-by" tvg-name="CTV.BY (HD)" tvg-logo="https://iptvx.one/picons/stv-by.png" group-title="ВСЕ",CTV.BY (HD)
-http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="stv-by" tvg-name="CTV.BY (HD)" tvg-logo="https://iptvx.one/picons/stv-by.png" group-title="ВСЕ",CTV.BY (HD)
-http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci (EDTV)" tvg-logo="https://iptvx.one/picons/da-vinci.png" group-title="ВСЕ",Da Vinci (EDTV)
-http://130.193.73.10:8937/play/a014
-#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery (HD)" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="ВСЕ",Discovery (HD)
-http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="timeless-dizi" tvg-name="Dizi (EDTV)" tvg-logo="https://iptvx.one/picons/timeless-dizi.png" group-title="ВСЕ",Dizi (EDTV)
-http://194.158.222.36:6086
-#EXTINF:-1 tvg-id="ducktv" tvg-name="Duck TV (EDTV)" tvg-logo="https://iptvx.one/picons/ducktv.png" group-title="ВСЕ",Duck TV (EDTV)
-http://178.219.128.68:64888/DUCKTV
-#EXTINF:-1 tvg-id="e-tv" tvg-name="E (HD)" tvg-logo="https://iptvx.one/picons/e-tv.png" group-title="ВСЕ",E (HD)
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="fanhd" tvg-name="FAN (EDTV)" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="ВСЕ",FAN (EDTV)
-http://109.200.130.123:7537/play/a02a
-#EXTINF:-1 tvg-id="fanhd" tvg-name="FAN (HD)" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="ВСЕ",FAN (HD)
-http://hlss.goodgame.ru/hls/157239.m3u8
-#EXTINF:-1 tvg-id="filmbox-ru" tvg-name="Filmbox (EDTV)" tvg-logo="https://iptvx.one/picons/filmbox-ru.png" group-title="ВСЕ",Filmbox (EDTV)
-http://130.193.73.10:8937/play/a03s
-#EXTINF:-1 tvg-id="filmbox-arthouse" tvg-name="Filmbox Arthouse (EDTV)" tvg-logo="https://iptvx.one/picons/filmbox-arthouse.png" group-title="ВСЕ",Filmbox Arthouse (EDTV)
-http://130.193.73.10:8937/play/a03t
-#EXTINF:-1 tvg-id="flixsnip" tvg-name="FlixSnip (EDTV)" tvg-logo="https://iptvx.one/picons/flixsnip.png" group-title="ВСЕ",FlixSnip (EDTV)
-http://130.193.73.10:8937/play/a02r
-#EXTINF:-1 tvg-id="gags-network" tvg-name="Gags Network (D1)" tvg-logo="https://iptvx.one/picons/gags-network.png" group-title="ВСЕ",Gags Network (D1)
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Gagsnetwork
-#EXTINF:-1 tvg-id="galaxy-tv" tvg-name="Galaxy TV (EDTV)" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" group-title="ВСЕ",Galaxy TV (EDTV)
-http://31.173.165.29:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-id="history" tvg-name="History (EDTV)" tvg-logo="https://iptvx.one/picons/history.png" group-title="ВСЕ",History (EDTV)
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="hollywood" tvg-name="HollywooD (EDTV)" tvg-logo="https://iptvx.one/picons/hollywood.png" group-title="ВСЕ",HollywooD (EDTV)
-http://109.200.130.123:7537/play/a02g
-#EXTINF:-1 tvg-id="hollywood-hd" tvg-name="HollywooD (HD)" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="ВСЕ",HollywooD (HD)
-http://130.193.73.10:8937/play/a02k
-#EXTINF:-1 tvg-id="jimjam" tvg-name="JimJam (EDTV)" tvg-logo="https://epg.iptvx.one/picons/jimjam.png" group-title="ВСЕ",JimJam (EDTV)
-http://91.146.94.234:10000/play/a061
-#EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24 (EDTV)" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="ВСЕ",Kino 24 (EDTV)
-https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-id="nano-hd" tvg-name="Nano (HD)" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="ВСЕ",Nano (HD)
-http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild (EDTV)" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="ВСЕ",Nat Geo Wild (EDTV)
-http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic (EDTV)" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="ВСЕ",National Geographic (EDTV)
-http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-name="Nickelodeon (EDTV)" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="ВСЕ",Nickelodeon (EDTV)
-http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="retro-music-cz" tvg-name="Retro Music TV (WSVGA)" tvg-logo="https://iptvx.one/picons/retro-music-cz.png" group-title="ВСЕ",Retro Music TV (WSVGA)
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="romance" tvg-name="Romance (EDTV)" tvg-logo="https://iptvx.one/picons/romance.png" group-title="ВСЕ",Romance (EDTV)
-http://130.193.73.10:8937/play/a01o
-#EXTINF:-1 tvg-id="rtg-tv" tvg-name="RTG (EDTV)" tvg-logo="https://iptvx.one/picons/rtg-tv.png" group-title="ВСЕ",RTG (EDTV)
-http://195.26.83.96:7007/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="rtg-hd" tvg-name="RTG (HD)" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group-title="ВСЕ",RTG (HD)
-http://130.193.73.10:8937/play/a01h
-#EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi (EDTV)" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="ВСЕ",RTVi (EDTV)
-http://45.143.108.110:2203/RTVi
-#EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi (EDTV)" tvg-logo="https://iptvx.one/picons/rtvi.png" group-title="ВСЕ",RTVi (EDTV)
-http://45.143.108.110:2203/RTVi
-#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU TV (FWVGA)" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="ВСЕ",RU TV (FWVGA)
-https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
-#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU TV (HD)" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="ВСЕ",RU TV (HD)
-https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 tvg-id="russian-musicbox" tvg-name="Russian MusicBox (HD ready)" tvg-logo="https://iptvx.one/picons/russian-musicbox.png" group-title="ВСЕ",Russian MusicBox (HD ready)
-https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
-#EXTINF:-1 tvg-id="shot-tv" tvg-name="SHOT TV (EDTV)" tvg-logo="https://iptvx.one/picons/shot-tv.png" group-title="ВСЕ",SHOT TV (EDTV)
-http://109.200.130.123:7537/play/a02b
-#EXTINF:-1 tvg-id="sochi-live" tvg-name="Sochi Live (Сочи) (HD ready)" tvg-logo="https://iptvx.one/picons/sochi-live.png" group-title="ВСЕ",Sochi Live (Сочи) (HD ready)
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="start-world" tvg-name="Start World (EDTV)" tvg-logo="https://iptvx.one/picons/start-world.png" group-title="ВСЕ",Start World (EDTV)
-http://95.156.76.230:33001/udp/230.4.34.66:1234
-#EXTINF:-1 tvg-id="terra-ru" tvg-name="TERRA (HD)" tvg-logo="https://iptvx.one/picons/terra-ru.png" group-title="ВСЕ",TERRA (HD)
-http://130.193.73.10:8937/play/a01g
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC (HD)" tvg-logo="https://iptvx.one/picons/tlc.png" group-title="ВСЕ",TLC (HD)
-http://91.146.94.234:10000/play/a05k
-#EXTINF:-1 tvg-id="sovsek" tvg-name="Top Secret (EDTV)" tvg-logo="https://iptvx.one/picons/sovsek.png" group-title="ВСЕ",Top Secret (EDTV)
-http://178.124.152.238:8088/sovsec
-#EXTINF:-1 tvg-id="trashtv" tvg-name="Trash (HD ready)" tvg-logo="https://iptvx.one/picons/trashtv.png" group-title="ВСЕ",Trash (HD ready)
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
-#EXTINF:-1 tvg-id="travel-adventure" tvg-name="Travel+Adventure (EDTV)" tvg-logo="https://iptvx.one/picons/travel-adventure.png" group-title="ВСЕ",Travel+Adventure (EDTV)
-http://130.193.73.10:8937/play/a026
-#EXTINF:-1 tvg-id="tv-brics" tvg-name="TV BRICS (HD)" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="ВСЕ",TV BRICS (HD)
-http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="tv-brics" tvg-name="TV BRICS (HD)" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="ВСЕ",TV BRICS (HD)
-http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="tvmchannel" tvg-name="TVM Channel (EDTV)" tvg-logo="https://iptvx.one/picons/tvmchannel.png" group-title="ВСЕ",TVM Channel (EDTV)
-http://cdn-01.bonus-tv.ru/tvm_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="univer-tv" tvg-name="UNIVER (HD)" tvg-logo="https://iptvx.one/picons/univer-tv.png" group-title="ВСЕ",UNIVER (HD)
-http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="Viasat Kino World (EDTV)" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="ВСЕ",Viasat Kino World (EDTV)
-https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="viasat-explore" tvg-name="Viju EXPLORE (EDTV)" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="ВСЕ",Viju EXPLORE (EDTV)
-http://130.193.73.10:8937/play/a01j
-#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viju HISTORY (EDTV)" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="ВСЕ",Viju HISTORY (EDTV)
-http://188.190.222.53/Viasat_History/index.m3u8
-#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viju NATURE (EDTV)" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="ВСЕ",Viju NATURE (EDTV)
-http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000 (EDTV)" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="ВСЕ",Viju TV1000 (EDTV)
-http://130.193.73.10:8937/play/a02s
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="Viju TV1000 Русское (EDTV)" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="ВСЕ",Viju TV1000 Русское (EDTV)
-http://130.193.73.10:8937/play/a02u
-#EXTINF:-1 tvg-id="tv1000-action" tvg-name="Viju TV1000 Action (EDTV)" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="ВСЕ",Viju TV1000 Action (EDTV)
-http://130.193.73.10:8937/play/a02t
-#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="Viju TV1000 romantica (HD)" tvg-logo="https://iptvx.one/picons/viju-tv1000-romantica.png" group-title="ВСЕ",Viju TV1000 romantica (HD)
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=dGl6AFJnDNX9roNQ_jM59g&e=1743018185&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-id="vip-premiere" tvg-name="Viju+ premiere (HD)" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="ВСЕ",Viju+ premiere (HD)
-http://130.193.73.10:8937/play/a03g
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2012 [США/2009]" tvg-logo="" group-title="ВСЕ",2012 [США/2009]
+http://dmi3y-tv.ru/hls/film/2012.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="47 ронинов [США/2013]" tvg-logo="" group-title="ВСЕ",47 ронинов [США/2013]
+http://dmi3y-tv.ru/hls/film/47RONINOV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Агент Джонни Инглиш [США/2003]" tvg-logo="" group-title="ВСЕ",Агент Джонни Инглиш [США/2003]
+http://dmi3y-tv.ru/hls/film/AGENT_DZHONNI_INGLISH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Агент Джонни Инглиш: Перезагрузка [США/2011]" tvg-logo="" group-title="ВСЕ",Агент Джонни Инглиш: Перезагрузка [США/2011]
+http://dmi3y-tv.ru/hls/film/AGENT_DZHONNI_INGLISH_PEREZAGRUZKA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Альфа [США/2018]" tvg-logo="" group-title="ВСЕ",Альфа [США/2018]
+http://dmi3y-tv.ru/hls/film/ALFA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Амулет [ВЕЛИКОБРИТАНИЯ/2020]" tvg-logo="" group-title="ВСЕ",Амулет [ВЕЛИКОБРИТАНИЯ/2020]
+http://dmi3y-tv.ru/hls/film/AMULET.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Амундсен [США/2019]" tvg-logo="" group-title="ВСЕ",Амундсен [США/2019]
+http://dmi3y-tv.ru/hls/film/AMUNDSEN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ангелы Чарли [США/2019]" tvg-logo="" group-title="ВСЕ",Ангелы Чарли [США/2019]
+http://dmi3y-tv.ru/hls/film/ANGELY_CHARLI_2019.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ангелы Чарли 2: Только вперед [США/2003]" tvg-logo="" group-title="ВСЕ",Ангелы Чарли 2: Только вперед [США/2003]
+http://dmi3y-tv.ru/hls/film/ANGELY_CHARLI2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Аниара: Космическая обитель [США/2018]" tvg-logo="" group-title="ВСЕ",Аниара: Космическая обитель [США/2018]
+http://dmi3y-tv.ru/hls/film/ANIARA_KOSMICHESKAYAOBITEL.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Анна [США/2019]" tvg-logo="" group-title="ВСЕ",Анна [США/2019]
+http://dmi3y-tv.ru/hls/film/ANNA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Астерикс и тайное зелье [МУЛЬТ/ФРАНЦИЯ/2018]" tvg-logo="" group-title="ВСЕ",Астерикс и тайное зелье [МУЛЬТ/ФРАНЦИЯ/2018]
+http://dmi3y-tv.ru/hls/multfilm/ASTERIKS_I_TAYNOE_ZELE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Астрал 2 [США/2013]" tvg-logo="" group-title="ВСЕ",Астрал 2 [США/2013]
+http://dmi3y-tv.ru/hls/film/ASTRAL2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Астрал 3 [США/2015]" tvg-logo="" group-title="ВСЕ",Астрал 3 [США/2015]
+http://dmi3y-tv.ru/hls/film/ASTRAL3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Астрал 4: Последний ключ [США/2018]" tvg-logo="" group-title="ВСЕ",Астрал 4: Последний ключ [США/2018]
+http://dmi3y-tv.ru/hls/film/ASTRAL4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Атака Юрского периода [США/2012]" tvg-logo="" group-title="ВСЕ",Атака Юрского периода [США/2012]
+http://dmi3y-tv.ru/hls/film/ATAKA_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Аферисты Дик и Джейн [США/2005]" tvg-logo="" group-title="ВСЕ",Аферисты Дик и Джейн [США/2005]
+http://dmi3y-tv.ru/hls/film/AFERISTY_DIK_I_DZHEYN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бабушка лёгкого поведения [РОССИЯ/2017]" tvg-logo="" group-title="ВСЕ",Бабушка лёгкого поведения [РОССИЯ/2017]
+http://dmi3y-tv.ru/hls/film/BABUSHKA_LEGKOGO_POVEDENIYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бамблби [США/2018]" tvg-logo="" group-title="ВСЕ",Бамблби [США/2018]
+http://dmi3y-tv.ru/hls/film/BAMBLBI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Банда Келли [США/2003]" tvg-logo="" group-title="ВСЕ",Банда Келли [США/2003]
+http://dmi3y-tv.ru/hls/film/BANDA_KELLI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Барашек Шон [МУЛЬТ/ВЕЛИКОБРИТАНИЯ/2014]" tvg-logo="" group-title="ВСЕ",Барашек Шон [МУЛЬТ/ВЕЛИКОБРИТАНИЯ/2014]
+http://dmi3y-tv.ru/hls/multfilm/BARASHEK_SHON.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Батарейки не прилагаются [США/1987]" tvg-logo="" group-title="ВСЕ",Батарейки не прилагаются [США/1987]
+http://dmi3y-tv.ru/hls/film/BATAREYKI_NE_PRILAGAYUTSYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бегущий по лезвию 2049 [США/2017]" tvg-logo="" group-title="ВСЕ",Бегущий по лезвию 2049 [США/2017]
+http://dmi3y-tv.ru/hls/film/BEGUSHIY_PO_LEZVIYU_2049.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Белоснежка и охотник [США/2012]" tvg-logo="" group-title="ВСЕ",Белоснежка и охотник [США/2012]
+http://dmi3y-tv.ru/hls/film/BELOSNEZHKA_I_OHOTNIK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бесконечность [США/2021]" tvg-logo="" group-title="ВСЕ",Бесконечность [США/2021]
+http://dmi3y-tv.ru/hls/film/BESKONECHNOST.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бетховен [США/1992]" tvg-logo="" group-title="ВСЕ",Бетховен [США/1992]
+http://dmi3y-tv.ru/hls/film/BETHOVEN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бетховен 2 [США/1993]" tvg-logo="" group-title="ВСЕ",Бетховен 2 [США/1993]
+http://dmi3y-tv.ru/hls/film/BETHOVEN2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Библиотекарь 2: Возвращение в Копи Царя Соломона [США/2006]" tvg-logo="" group-title="ВСЕ",Библиотекарь 2: Возвращение в Копи Царя Соломона [США/2006]
+http://dmi3y-tv.ru/hls/film/BIBLIOTEKAR2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Библиотекарь 3: Проклятие иудовой чаши [США/2008]" tvg-logo="" group-title="ВСЕ",Библиотекарь 3: Проклятие иудовой чаши [США/2008]
+http://dmi3y-tv.ru/hls/film/BIBLIOTEKAR3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бладшот [США/2020]" tvg-logo="" group-title="ВСЕ",Бладшот [США/2020]
+http://dmi3y-tv.ru/hls/film/BLADSHOT.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Боевой робот номер 4 [США/2020]" tvg-logo="" group-title="ВСЕ",Боевой робот номер 4 [США/2020]
+http://dmi3y-tv.ru/hls/film/BOEVOY_ROBOT_N4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Босс-молокосос 2 [МУЛЬТ/США/2021]" tvg-logo="" group-title="ВСЕ",Босс-молокосос 2 [МУЛЬТ/США/2021]
+http://dmi3y-tv.ru/hls/multfilm/BOSS_MOLOKOSOS2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Братья Гримм [США/2005]" tvg-logo="" group-title="ВСЕ",Братья Гримм [США/2005]
+http://dmi3y-tv.ru/hls/film/BRATYA_GRIMM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бросок кобры [США/2009]" tvg-logo="" group-title="ВСЕ",Бросок кобры [США/2009]
+http://dmi3y-tv.ru/hls/film/BROSOK_KOBRY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бросок кобры 2 [США/2013]" tvg-logo="" group-title="ВСЕ",Бросок кобры 2 [США/2013]
+http://dmi3y-tv.ru/hls/film/BROSOK_KOBRY2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="В земле [ВЕЛИКОБРИТАНИЯ/2021]" tvg-logo="" group-title="ВСЕ",В земле [ВЕЛИКОБРИТАНИЯ/2021]
+http://dmi3y-tv.ru/hls/film/V_ZEMLE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="В ночи [США/1985]" tvg-logo="" group-title="ВСЕ",В ночи [США/1985]
+http://dmi3y-tv.ru/hls/film/V_NOCHI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="В осаде [США/1992]" tvg-logo="" group-title="ВСЕ",В осаде [США/1992]
+http://dmi3y-tv.ru/hls/film/V_OSADE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="В осаде 2: Темная территория [США/1995]" tvg-logo="" group-title="ВСЕ",В осаде 2: Темная территория [США/1995]
+http://dmi3y-tv.ru/hls/film/V_OSADE2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Валериан и город тысячи планет [США/2017]" tvg-logo="" group-title="ВСЕ",Валериан и город тысячи планет [США/2017]
+http://dmi3y-tv.ru/hls/film/VALERIAN_I_GOROD_1000_PLANET.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ван Хельсинг [США/2004]" tvg-logo="" group-title="ВСЕ",Ван Хельсинг [США/2004]
+http://dmi3y-tv.ru/hls/film/VAN_HELSING.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Великолепная семёрка [США/2016]" tvg-logo="" group-title="ВСЕ",Великолепная семёрка [США/2016]
+http://dmi3y-tv.ru/hls/film/VELIKOLEPNAYA7.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Веном [США/2018]" tvg-logo="" group-title="ВСЕ",Веном [США/2018]
+http://dmi3y-tv.ru/hls/film/VENOM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Вий [РОССИЯ/2014]" tvg-logo="" group-title="ВСЕ",Вий [РОССИЯ/2014]
+http://dmi3y-tv.ru/hls/film/VIY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Вирус страха [США/2020]" tvg-logo="" group-title="ВСЕ",Вирус страха [США/2020]
+http://dmi3y-tv.ru/hls/film/VIRUS_STRAHA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Водный мир [США/1995]" tvg-logo="" group-title="ВСЕ",Водный мир [США/1995]
+http://dmi3y-tv.ru/hls/film/VODNYI_MIR.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Возвращение в Голубую лагуну [США/1991]" tvg-logo="" group-title="ВСЕ",Возвращение в Голубую лагуну [США/1991]
+http://dmi3y-tv.ru/hls/film/VOZVRASHENIE_V_GOLUBUYU_LAGUNU.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Возмездие [США/2010]" tvg-logo="" group-title="ВСЕ",Возмездие [США/2010]
+http://dmi3y-tv.ru/hls/film/VOZMEZDIE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Война миров [США/2005]" tvg-logo="" group-title="ВСЕ",Война миров [США/2005]
+http://dmi3y-tv.ru/hls/film/VOYNA_MIROV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Война миров Z [США/2013]" tvg-logo="" group-title="ВСЕ",Война миров Z [США/2013]
+http://dmi3y-tv.ru/hls/film/VOYNA_MIROV_Z.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Волки и овцы: бе-е-е-зумное превращение [МУЛЬТ/РОССИЯ/2016]" tvg-logo="" group-title="ВСЕ",Волки и овцы: бе-е-е-зумное превращение [МУЛЬТ/РОССИЯ/2016]
+http://dmi3y-tv.ru/hls/multfilm/VOLKI_I_OVTSY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Волки и овцы: Ход свиньей [МУЛЬТ/РОССИЯ/2018]" tvg-logo="" group-title="ВСЕ",Волки и овцы: Ход свиньей [МУЛЬТ/РОССИЯ/2018]
+http://dmi3y-tv.ru/hls/multfilm/VOLKI_I_OVTSY_HOD_SVINEY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Восточный ветер [ГЕРМАНИЯ/2013]" tvg-logo="" group-title="ВСЕ",Восточный ветер [ГЕРМАНИЯ/2013]
+http://dmi3y-tv.ru/hls/film/VOSTOCHNY_VETER.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Восточный ветер 2 [ГЕРМАНИЯ/2015]" tvg-logo="" group-title="ВСЕ",Восточный ветер 2 [ГЕРМАНИЯ/2015]
+http://dmi3y-tv.ru/hls/film/VOSTOCHNY_VETER2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Восточный ветер 3: Наследие Оры [ГЕРМАНИЯ/2017]" tvg-logo="" group-title="ВСЕ",Восточный ветер 3: Наследие Оры [ГЕРМАНИЯ/2017]
+http://dmi3y-tv.ru/hls/film/VOSTOCHNY_VETER3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Восточный ветер 4: Легенда о Воине [ГЕРМАНИЯ/2019]" tvg-logo="" group-title="ВСЕ",Восточный ветер 4: Легенда о Воине [ГЕРМАНИЯ/2019]
+http://dmi3y-tv.ru/hls/film/VOSTOCHNY_VETER4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Время [США/2021]" tvg-logo="" group-title="ВСЕ",Время [США/2021]
+http://dmi3y-tv.ru/hls/film/VREMYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Время первых [РОССИЯ/2017]" tvg-logo="" group-title="ВСЕ",Время первых [РОССИЯ/2017]
+http://dmi3y-tv.ru/hls/film/VREMYA_PERVYH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Все ждут Рождество 2: Люси и магический кристалл [США/2020]" tvg-logo="" group-title="ВСЕ",Все ждут Рождество 2: Люси и магический кристалл [США/2020]
+http://dmi3y-tv.ru/hls/film/VSE_ZHDUT_ROZHDESTVO2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Все ждут Рождество: Люси против Крампуса [США/2018]" tvg-logo="" group-title="ВСЕ",Все ждут Рождество: Люси против Крампуса [США/2018]
+http://dmi3y-tv.ru/hls/film/VSE_ZHDUT_ROZHDESTVO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Выживший [США/2015]" tvg-logo="" group-title="ВСЕ",Выживший [США/2015]
+http://dmi3y-tv.ru/hls/film/VYZHIVSHIY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Выкрутасы [РОССИЯ/2010]" tvg-logo="" group-title="ВСЕ",Выкрутасы [РОССИЯ/2010]
+http://dmi3y-tv.ru/hls/film/VYKRUTASY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Гагарин. Первый в космосе [РОССИЯ/2013]" tvg-logo="" group-title="ВСЕ",Гагарин. Первый в космосе [РОССИЯ/2013]
+http://dmi3y-tv.ru/hls/film/GAGARIN_1_V_KOSMOSE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Где-то во времени [США/2018]" tvg-logo="" group-title="ВСЕ",Где-то во времени [США/2018]
+http://dmi3y-tv.ru/hls/film/GDETO_VO_VREMENI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Гемини [США/2019]" tvg-logo="" group-title="ВСЕ",Гемини [США/2019]
+http://dmi3y-tv.ru/hls/film/GEMINI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Геракл: Начало легенды [США/2014]" tvg-logo="" group-title="ВСЕ",Геракл: Начало легенды [США/2014]
+http://dmi3y-tv.ru/hls/film/GERAKL_NACHALO_LEGENDY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Герой [КИТАЙ/2002]" tvg-logo="" group-title="ВСЕ",Герой [КИТАЙ/2002]
+http://dmi3y-tv.ru/hls/film/GEROY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Голодные игры [США/2012]" tvg-logo="" group-title="ВСЕ",Голодные игры [США/2012]
+http://dmi3y-tv.ru/hls/film/GOLODNYE_IGRY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Голодные игры: И вспыхнет пламя [США/2013]" tvg-logo="" group-title="ВСЕ",Голодные игры: И вспыхнет пламя [США/2013]
+http://dmi3y-tv.ru/hls/film/GOLODNYE_IGRY_I_VSPYHNET_PLAMYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Голодный кролик атакует [США/2011]" tvg-logo="" group-title="ВСЕ",Голодный кролик атакует [США/2011]
+http://dmi3y-tv.ru/hls/film/GOLODNY_KROLIK_ATAKUET.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Горец [ВЕЛИКОБРИТАНИЯ/1986]" tvg-logo="" group-title="ВСЕ",Горец [ВЕЛИКОБРИТАНИЯ/1986]
+http://dmi3y-tv.ru/hls/film/GORETS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Горец 2: Оживление [ВЕЛИКОБРИТАНИЯ/1990]" tvg-logo="" group-title="ВСЕ",Горец 2: Оживление [ВЕЛИКОБРИТАНИЯ/1990]
+http://dmi3y-tv.ru/hls/film/GORETS2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Горец 3: Последнее измерение [ВЕЛИКОБРИТАНИЯ/1994]" tvg-logo="" group-title="ВСЕ",Горец 3: Последнее измерение [ВЕЛИКОБРИТАНИЯ/1994]
+http://dmi3y-tv.ru/hls/film/GORETS3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Гори. гори ясно [США/2019]" tvg-logo="" group-title="ВСЕ",Гори. гори ясно [США/2019]
+http://dmi3y-tv.ru/hls/film/GORI_GORI_YASNO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Гороскоп на удачу [РОССИЯ/2015]" tvg-logo="" group-title="ВСЕ",Гороскоп на удачу [РОССИЯ/2015]
+http://dmi3y-tv.ru/hls/film/GOROSKOP_NA_UDACHU.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Гравитация [США/2013]" tvg-logo="" group-title="ВСЕ",Гравитация [США/2013]
+http://dmi3y-tv.ru/hls/film/GRAVITACIYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Двое: я и моя тень [США/1995]" tvg-logo="" group-title="ВСЕ",Двое: я и моя тень [США/1995]
+http://dmi3y-tv.ru/hls/film/DVOE_YA_I_MOYA_TEN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Двухсотлетний человек [США/1999]" tvg-logo="" group-title="ВСЕ",Двухсотлетний человек [США/1999]
+http://dmi3y-tv.ru/hls/film/200LETNIY_CHELOVEK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Девушка в поезде [США/2016]" tvg-logo="" group-title="ВСЕ",Девушка в поезде [США/2016]
+http://dmi3y-tv.ru/hls/film/DEVUSHKA_V_POEZDE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Девушка. которая застряла в паутине [США/2018]" tvg-logo="" group-title="ВСЕ",Девушка. которая застряла в паутине [США/2018]
+http://dmi3y-tv.ru/hls/film/DEVUSHKA_KOTORAYA_ZASTRYALA_V_PAUTINE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Демон внутри [США/2016]" tvg-logo="" group-title="ВСЕ",Демон внутри [США/2016]
+http://dmi3y-tv.ru/hls/film/DEMON_VNUTRI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="День выборов [РОССИЯ/2007]" tvg-logo="" group-title="ВСЕ",День выборов [РОССИЯ/2007]
+http://dmi3y-tv.ru/hls/film/DEN_VYBOROV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Детсадовский полицейский [США/1990]" tvg-logo="" group-title="ВСЕ",Детсадовский полицейский [США/1990]
+http://dmi3y-tv.ru/hls/film/DETSADOVSKIY_POLITSEYSKIY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Детские игры 2 [США/1990]" tvg-logo="" group-title="ВСЕ",Детские игры 2 [США/1990]
+http://dmi3y-tv.ru/hls/film/DETSKIE_IGRY2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Детские игры 3 [США/1991]" tvg-logo="" group-title="ВСЕ",Детские игры 3 [США/1991]
+http://dmi3y-tv.ru/hls/film/DETSKIE_IGRY3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Джек Ричер [США/2012]" tvg-logo="" group-title="ВСЕ",Джек Ричер [США/2012]
+http://dmi3y-tv.ru/hls/film/DZHEK_RICHER.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Джек Ричер 2: Никогда не возвращайся [США/2016]" tvg-logo="" group-title="ВСЕ",Джек Ричер 2: Никогда не возвращайся [США/2016]
+http://dmi3y-tv.ru/hls/film/DZHEK_RICHER2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Джиперс Криперс [США/2001]" tvg-logo="" group-title="ВСЕ",Джиперс Криперс [США/2001]
+http://dmi3y-tv.ru/hls/film/DZHIPERS_KRIPERS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Джон Уик 2 [США/2017]" tvg-logo="" group-title="ВСЕ",Джон Уик 2 [США/2017]
+http://dmi3y-tv.ru/hls/film/DJONUIK2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Джон Уик 3 [США/2019]" tvg-logo="" group-title="ВСЕ",Джон Уик 3 [США/2019]
+http://dmi3y-tv.ru/hls/film/DJONUIK3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Джуманджи: Новый уровень [США/2019]" tvg-logo="" group-title="ВСЕ",Джуманджи: Новый уровень [США/2019]
+http://dmi3y-tv.ru/hls/film/DZHUMANDZHI_NEW_UROVEN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Джунгли [РОССИЯ/2012]" tvg-logo="" group-title="ВСЕ",Джунгли [РОССИЯ/2012]
+http://dmi3y-tv.ru/hls/film/DZHUNGLI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дивергент [США/2014]" tvg-logo="" group-title="ВСЕ",Дивергент [США/2014]
+http://dmi3y-tv.ru/hls/film/DIVERGENT.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дивергент. глава 2: Инсургент [США/2015]" tvg-logo="" group-title="ВСЕ",Дивергент. глава 2: Инсургент [США/2015]
+http://dmi3y-tv.ru/hls/film/DIVERGENT2_INSURGENT.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дивергент. глава 3: За стеной [США/2016]" tvg-logo="" group-title="ВСЕ",Дивергент. глава 3: За стеной [США/2016]
+http://dmi3y-tv.ru/hls/film/DIVERGENT3_ZA_STENOY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикие предки [МУЛЬТ/ВЕЛИКОБРИТАНИЯ/2018]" tvg-logo="" group-title="ВСЕ",Дикие предки [МУЛЬТ/ВЕЛИКОБРИТАНИЯ/2018]
+http://dmi3y-tv.ru/hls/multfilm/DIKIE_PREDKI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дитя робота [США/2018]" tvg-logo="" group-title="ВСЕ",Дитя робота [США/2018]
+http://dmi3y-tv.ru/hls/film/DITYA_ROBOTA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дитя человеческое [США/2006]" tvg-logo="" group-title="ВСЕ",Дитя человеческое [США/2006]
+http://dmi3y-tv.ru/hls/film/DITYA_CHELOVECHESKOE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Добро пожаловать в Зомбилэнд! [США/2009]" tvg-logo="" group-title="ВСЕ",Добро пожаловать в Зомбилэнд! [США/2009]
+http://dmi3y-tv.ru/hls/film/DOBRO_POZHALOVAT_V_ZOMBILEND.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Добрыня Никитич и Змей Горыныч [МУЛЬТ/РОССИЯ/2006]" tvg-logo="" group-title="ВСЕ",Добрыня Никитич и Змей Горыныч [МУЛЬТ/РОССИЯ/2006]
+http://dmi3y-tv.ru/hls/multfilm/DOBRYNYANIKITICH_I_ZMEY_GORYNYCH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом большой мамочки [США/2000]" tvg-logo="" group-title="ВСЕ",Дом большой мамочки [США/2000]
+http://dmi3y-tv.ru/hls/film/DOM_BOLSHOY_MAMOCHKI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом большой мамочки 2 [США/2006]" tvg-logo="" group-title="ВСЕ",Дом большой мамочки 2 [США/2006]
+http://dmi3y-tv.ru/hls/film/DOM_BOLSHOY_MAMOCHKI2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом напротив [США/2016]" tvg-logo="" group-title="ВСЕ",Дом напротив [США/2016]
+http://dmi3y-tv.ru/hls/film/DOM_NAPROTIV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Доспехи бога: В поисках сокровищ [КНР/США/2017]" tvg-logo="" group-title="ВСЕ",Доспехи бога: В поисках сокровищ [КНР/США/2017]
+http://dmi3y-tv.ru/hls/film/DOSPEHIBOGA_V_POISKAH_SOKROVISH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дракула [США/2014]" tvg-logo="" group-title="ВСЕ",Дракула [США/2014]
+http://dmi3y-tv.ru/hls/film/DRAKULA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дракулов [РОССИЯ/2021]" tvg-logo="" group-title="ВСЕ",Дракулов [РОССИЯ/2021]
+http://dmi3y-tv.ru/hls/film/DRAKULOV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Другие [США/2001]" tvg-logo="" group-title="ВСЕ",Другие [США/2001]
+http://dmi3y-tv.ru/hls/film/DRUGIE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Другой мир [США/2003]" tvg-logo="" group-title="ВСЕ",Другой мир [США/2003]
+http://dmi3y-tv.ru/hls/film/DRUGOYMIR.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Другой мир 2: Эволюция [США/2006]" tvg-logo="" group-title="ВСЕ",Другой мир 2: Эволюция [США/2006]
+http://dmi3y-tv.ru/hls/film/DRUGOYMIR2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Другой мир. Войны крови [США/2016]" tvg-logo="" group-title="ВСЕ",Другой мир. Войны крови [США/2016]
+http://dmi3y-tv.ru/hls/film/DRUGOYMIR_VOINY_KROVI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Другой мир. Восстание ликанов [США/2008]" tvg-logo="" group-title="ВСЕ",Другой мир. Восстание ликанов [США/2008]
+http://dmi3y-tv.ru/hls/film/DRUGOYMIR_VOSSTANIE_LIKANOV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дюна [США/1984]" tvg-logo="" group-title="ВСЕ",Дюна [США/1984]
+http://dmi3y-tv.ru/hls/film/DYUNA_1984.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Его собачье дело [США/2016]" tvg-logo="" group-title="ВСЕ",Его собачье дело [США/2016]
+http://dmi3y-tv.ru/hls/film/EGO_SOBACHE_DELO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ёлки [РОССИЯ/2010]" tvg-logo="" group-title="ВСЕ",Ёлки [РОССИЯ/2010]
+http://dmi3y-tv.ru/hls/film/ELKI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ёлки 1914 [РОССИЯ/2014]" tvg-logo="" group-title="ВСЕ",Ёлки 1914 [РОССИЯ/2014]
+http://dmi3y-tv.ru/hls/film/ELKI1914.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ёлки 2 [РОССИЯ/2011]" tvg-logo="" group-title="ВСЕ",Ёлки 2 [РОССИЯ/2011]
+http://dmi3y-tv.ru/hls/film/ELKI2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ёлки 3 [РОССИЯ/2013]" tvg-logo="" group-title="ВСЕ",Ёлки 3 [РОССИЯ/2013]
+http://dmi3y-tv.ru/hls/film/ELKI3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ёлки 5 [РОССИЯ/2016]" tvg-logo="" group-title="ВСЕ",Ёлки 5 [РОССИЯ/2016]
+http://dmi3y-tv.ru/hls/film/ELKI5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ёлки лохматые [РОССИЯ/2014]" tvg-logo="" group-title="ВСЕ",Ёлки лохматые [РОССИЯ/2014]
+http://dmi3y-tv.ru/hls/film/ELKI_LOHMATYE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ёлки новые [РОССИЯ/2017]" tvg-logo="" group-title="ВСЕ",Ёлки новые [РОССИЯ/2017]
+http://dmi3y-tv.ru/hls/film/ELKI_NOVYE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Женщина в черном [КАНАДА/2012]" tvg-logo="" group-title="ВСЕ",Женщина в черном [КАНАДА/2012]
+http://dmi3y-tv.ru/hls/film/ZHENSHINA_V_CHERNOM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Женщина в черном 2: Ангел смерти [КАНАДА/2014]" tvg-logo="" group-title="ВСЕ",Женщина в черном 2: Ангел смерти [КАНАДА/2014]
+http://dmi3y-tv.ru/hls/film/ZHENSHINA_V_CHERNOM2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Живое [США/2017]" tvg-logo="" group-title="ВСЕ",Живое [США/2017]
+http://dmi3y-tv.ru/hls/film/ZHIVOE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="За пределами Вселенной [ВЕЛИКОБРИТАНИЯ/2017]" tvg-logo="" group-title="ВСЕ",За пределами Вселенной [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmi3y-tv.ru/hls/film/ZA_PREDELAMI_VSELENNOY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Заклинание [США/2020]" tvg-logo="" group-title="ВСЕ",Заклинание [США/2020]
+http://dmi3y-tv.ru/hls/film/ZAKLINANIE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Затерянный мир [США/2009]" tvg-logo="" group-title="ВСЕ",Затерянный мир [США/2009]
+http://dmi3y-tv.ru/hls/film/ZATERYANNY_MIR.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Затура: Космическое приключение [США/2005]" tvg-logo="" group-title="ВСЕ",Затура: Космическое приключение [США/2005]
+http://dmi3y-tv.ru/hls/film/ZATURA_KOSMICHESKOE_PRIKLYUCHENIE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Защитники [РОССИЯ/2016]" tvg-logo="" group-title="ВСЕ",Защитники [РОССИЯ/2016]
+http://dmi3y-tv.ru/hls/film/ZASHITNIKI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звонок 2 [США/2005]" tvg-logo="" group-title="ВСЕ",Звонок 2 [США/2005]
+http://dmi3y-tv.ru/hls/film/ZVONOK2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Зелёная миля [США/1999]" tvg-logo="" group-title="ВСЕ",Зелёная миля [США/1999]
+http://dmi3y-tv.ru/hls/film/ZELYONAYA_MILYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Зелёный Шершень [США/2011]" tvg-logo="" group-title="ВСЕ",Зелёный Шершень [США/2011]
+http://dmi3y-tv.ru/hls/film/ZELENY_SHERSHEN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Зеркала [США/2008]" tvg-logo="" group-title="ВСЕ",Зеркала [США/2008]
+http://dmi3y-tv.ru/hls/film/ZERKALA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Зеркала: Инкарнация [США/2020]" tvg-logo="" group-title="ВСЕ",Зеркала: Инкарнация [США/2020]
+http://dmi3y-tv.ru/hls/film/ZERKALA_INKARNATSIYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Злой дух [КАНАДА/2017]" tvg-logo="" group-title="ВСЕ",Злой дух [КАНАДА/2017]
+http://dmi3y-tv.ru/hls/film/ZLOY_DUH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Знакомьтесь: Дэйв [США/2008]" tvg-logo="" group-title="ВСЕ",Знакомьтесь: Дэйв [США/2008]
+http://dmi3y-tv.ru/hls/film/ZNAKOMTES_DEYV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Иван Царевич и Серый Волк [МУЛЬТ/РОССИЯ/2011]" tvg-logo="" group-title="ВСЕ",Иван Царевич и Серый Волк [МУЛЬТ/РОССИЯ/2011]
+http://dmi3y-tv.ru/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Иван Царевич и Серый Волк 2 [МУЛЬТ/РОССИЯ/2013]" tvg-logo="" group-title="ВСЕ",Иван Царевич и Серый Волк 2 [МУЛЬТ/РОССИЯ/2013]
+http://dmi3y-tv.ru/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Иван Царевич и Серый Волк 3 [МУЛЬТ/РОССИЯ/2015]" tvg-logo="" group-title="ВСЕ",Иван Царевич и Серый Волк 3 [МУЛЬТ/РОССИЯ/2015]
+http://dmi3y-tv.ru/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Игра Эндера [США/2013]" tvg-logo="" group-title="ВСЕ",Игра Эндера [США/2013]
+http://dmi3y-tv.ru/hls/film/IGRA_ENDERA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Илья Муромец и Соловей Разбойник [МУЛЬТ/РОССИЯ/2007]" tvg-logo="" group-title="ВСЕ",Илья Муромец и Соловей Разбойник [МУЛЬТ/РОССИЯ/2007]
+http://dmi3y-tv.ru/hls/multfilm/ILYAMUROMEC_I_SOLOVEY_RAZBOYNIK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Инкассатор [США/2009]" tvg-logo="" group-title="ВСЕ",Инкассатор [США/2009]
+http://dmi3y-tv.ru/hls/film/INKASSATOR.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Инопланетянин [США/1982]" tvg-logo="" group-title="ВСЕ",Инопланетянин [США/1982]
+http://dmi3y-tv.ru/hls/film/INOPLANETYANIN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Иностранец [США/2017]" tvg-logo="" group-title="ВСЕ",Иностранец [США/2017]
+http://dmi3y-tv.ru/hls/film/INOSTRANETZ.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Интерстеллар [США/2014]" tvg-logo="" group-title="ВСЕ",Интерстеллар [США/2014]
+http://dmi3y-tv.ru/hls/film/INTERSTELLAR.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Искусственный разум [США/2001]" tvg-logo="" group-title="ВСЕ",Искусственный разум [США/2001]
+http://dmi3y-tv.ru/hls/film/ISKUSSTVENNY_RAZUM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Исчезнувшая [США/2014]" tvg-logo="" group-title="ВСЕ",Исчезнувшая [США/2014]
+http://dmi3y-tv.ru/hls/film/ISCHEZNUVSHAYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Каникулы президента [РОССИЯ/2018]" tvg-logo="" group-title="ВСЕ",Каникулы президента [РОССИЯ/2018]
+http://dmi3y-tv.ru/hls/film/KANIKULY_PREZIDENTA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Каникулы строгого режима [РОССИЯ/2009]" tvg-logo="" group-title="ВСЕ",Каникулы строгого режима [РОССИЯ/2009]
+http://dmi3y-tv.ru/hls/film/KANIKULY_STROGOGO_REZHIMA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Капкан [США/2019]" tvg-logo="" group-title="ВСЕ",Капкан [США/2019]
+http://dmi3y-tv.ru/hls/film/KAPKAN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Капкан времени [США/2005]" tvg-logo="" group-title="ВСЕ",Капкан времени [США/2005]
+http://dmi3y-tv.ru/hls/film/KAPKAN_VREMENI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Каратэ-пацан [КНР/США/2010]" tvg-logo="" group-title="ВСЕ",Каратэ-пацан [КНР/США/2010]
+http://dmi3y-tv.ru/hls/film/KARATE_PATSAN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинг Конг [США/2005]" tvg-logo="" group-title="ВСЕ",Кинг Конг [США/2005]
+http://dmi3y-tv.ru/hls/film/KING_KONG.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кладбище домашних животных [США/2019]" tvg-logo="" group-title="ВСЕ",Кладбище домашних животных [США/2019]
+http://dmi3y-tv.ru/hls/film/KLADBISHE_DOMASHNIH_ZHIVOTNYH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кловерфилд 10 [США/2016]" tvg-logo="" group-title="ВСЕ",Кловерфилд 10 [США/2016]
+http://dmi3y-tv.ru/hls/film/KLOVERFILD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Книга Илая [США/2010]" tvg-logo="" group-title="ВСЕ",Книга Илая [США/2010]
+http://dmi3y-tv.ru/hls/film/KNIGAILAYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Когда звонит незнакомец [США/2006]" tvg-logo="" group-title="ВСЕ",Когда звонит незнакомец [США/2006]
+http://dmi3y-tv.ru/hls/film/KOGDA_ZVONIT_NEZNAKOMETS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Код апокалипсиса [РОССИЯ/2007]" tvg-logo="" group-title="ВСЕ",Код апокалипсиса [РОССИЯ/2007]
+http://dmi3y-tv.ru/hls/film/KOD_APOKALIPSISA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Континуум [США/2014]" tvg-logo="" group-title="ВСЕ",Континуум [США/2014]
+http://dmi3y-tv.ru/hls/film/KONTINUUM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Королевский корги [МУЛЬТ/БЕЛЬГИЯ/2019]" tvg-logo="" group-title="ВСЕ",Королевский корги [МУЛЬТ/БЕЛЬГИЯ/2019]
+http://dmi3y-tv.ru/hls/multfilm/KOROLEVSKIY_KORGI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Короли улиц [США/2008]" tvg-logo="" group-title="ВСЕ",Короли улиц [США/2008]
+http://dmi3y-tv.ru/hls/film/KOROLI_ULITS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Космос [ВЕЛИКОБРИТАНИЯ/2019]" tvg-logo="" group-title="ВСЕ",Космос [ВЕЛИКОБРИТАНИЯ/2019]
+http://dmi3y-tv.ru/hls/film/KOSMOS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кот в сапогах [МУЛЬТ/США/2011]" tvg-logo="" group-title="ВСЕ",Кот в сапогах [МУЛЬТ/США/2011]
+http://dmi3y-tv.ru/hls/multfilm/KOT_V_SAPOGAH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кот Гром и заколдованный дом [МУЛЬТ/США/2013]" tvg-logo="" group-title="ВСЕ",Кот Гром и заколдованный дом [МУЛЬТ/США/2013]
+http://dmi3y-tv.ru/hls/multfilm/KOT_GROM_I_ZAKOLDOVANNY_DOM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Красотки в бегах [США/2015]" tvg-logo="" group-title="ВСЕ",Красотки в бегах [США/2015]
+http://dmi3y-tv.ru/hls/film/KRASOTKI_V_BEGAH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Крик [США/1996]" tvg-logo="" group-title="ВСЕ",Крик [США/1996]
+http://dmi3y-tv.ru/hls/film/KRIK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Крик 2 [США/1997]" tvg-logo="" group-title="ВСЕ",Крик 2 [США/1997]
+http://dmi3y-tv.ru/hls/film/KRIK2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Крик 3 [США/1997]" tvg-logo="" group-title="ВСЕ",Крик 3 [США/1997]
+http://dmi3y-tv.ru/hls/film/KRIK3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кукла 2: Брамс [США/2020]" tvg-logo="" group-title="ВСЕ",Кукла 2: Брамс [США/2020]
+http://dmi3y-tv.ru/hls/film/KUKLA2_BRAMS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Курьер из Рая [РОССИЯ/2013]" tvg-logo="" group-title="ВСЕ",Курьер из Рая [РОССИЯ/2013]
+http://dmi3y-tv.ru/hls/film/KURER_IZ_RAYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Лара Крофт: Расхитительница гробниц [США/2001]" tvg-logo="" group-title="ВСЕ",Лара Крофт: Расхитительница гробниц [США/2001]
+http://dmi3y-tv.ru/hls/film/LARA_KROFT_RASHITITELNITSA_GROBNITS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Лара Крофт: Расхитительница гробниц 2 Колыбель жизни [США/2003]" tvg-logo="" group-title="ВСЕ",Лара Крофт: Расхитительница гробниц 2 Колыбель жизни [США/2003]
+http://dmi3y-tv.ru/hls/film/LARA_KROFT_RASHITITELNITSA_GROBNITS2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Легенда Зорро [США/2005]" tvg-logo="" group-title="ВСЕ",Легенда Зорро [США/2005]
+http://dmi3y-tv.ru/hls/film/LEGENDA_ZORRO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Легион [США/2010]" tvg-logo="" group-title="ВСЕ",Легион [США/2010]
+http://dmi3y-tv.ru/hls/film/LEGION.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ледокол [РОССИЯ/2016]" tvg-logo="" group-title="ВСЕ",Ледокол [РОССИЯ/2016]
+http://dmi3y-tv.ru/hls/film/LEDOKOL.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ледяной капкан [США/2020]" tvg-logo="" group-title="ВСЕ",Ледяной капкан [США/2020]
+http://dmi3y-tv.ru/hls/film/LEDYANOY_KAPKAN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Лекарство от здоровья [США/2017]" tvg-logo="" group-title="ВСЕ",Лекарство от здоровья [США/2017]
+http://dmi3y-tv.ru/hls/film/LEKARSTVO_OT_ZDOROVYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Лемони Сникет. 33 несчастья [США/2004]" tvg-logo="" group-title="ВСЕ",Лемони Сникет. 33 несчастья [США/2004]
+http://dmi3y-tv.ru/hls/film/LEMONI_SNIKET_33NESCHASTYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Лес самоубийц [США/2015]" tvg-logo="" group-title="ВСЕ",Лес самоубийц [США/2015]
+http://dmi3y-tv.ru/hls/film/LES_SAMOUBIYTS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ловец снов [США/2020]" tvg-logo="" group-title="ВСЕ",Ловец снов [США/2020]
+http://dmi3y-tv.ru/hls/film/LOVETS_SNOV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ловушка времени [США/2017]" tvg-logo="" group-title="ВСЕ",Ловушка времени [США/2017]
+http://dmi3y-tv.ru/hls/film/LOVUSHKA_VREMENI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Лучший стрелок [США/1986]" tvg-logo="" group-title="ВСЕ",Лучший стрелок [США/1986]
+http://dmi3y-tv.ru/hls/film/LUCHSHIY_STRELOK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Лэйк Плэсид: Озеро страха [США/1999]" tvg-logo="" group-title="ВСЕ",Лэйк Плэсид: Озеро страха [США/1999]
+http://dmi3y-tv.ru/hls/film/LEYK_PLESID_OZERO_STRAHA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Люди в черном [США/1997]" tvg-logo="" group-title="ВСЕ",Люди в черном [США/1997]
+http://dmi3y-tv.ru/hls/film/LYUDI_V_CHERNOM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Люди в черном. Интернэшнл [США/2019]" tvg-logo="" group-title="ВСЕ",Люди в черном. Интернэшнл [США/2019]
+http://dmi3y-tv.ru/hls/film/LYUDI_V_CHERNOM_INT.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мадагаскар [МУЛЬТ/США/2005]" tvg-logo="" group-title="ВСЕ",Мадагаскар [МУЛЬТ/США/2005]
+http://dmi3y-tv.ru/hls/multfilm/MADAGASKAR.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="мама! [США/2017]" tvg-logo="" group-title="ВСЕ",мама! [США/2017]
+http://dmi3y-tv.ru/hls/film/MAMA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мара. Пожиратель снов [США/2018]" tvg-logo="" group-title="ВСЕ",Мара. Пожиратель снов [США/2018]
+http://dmi3y-tv.ru/hls/film/MARA_POZHIRATEL_SNOV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матрица [США/1999]" tvg-logo="" group-title="ВСЕ",Матрица [США/1999]
+http://dmi3y-tv.ru/hls/film/THE_MATRIX.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матрица: Перезагрузка [США/2003]" tvg-logo="" group-title="ВСЕ",Матрица: Перезагрузка [США/2003]
+http://dmi3y-tv.ru/hls/film/THE_MATRIX_PEREZAGRUZKA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матрица: Революция [США/2003]" tvg-logo="" group-title="ВСЕ",Матрица: Революция [США/2003]
+http://dmi3y-tv.ru/hls/film/THE_MATRIX_REVOLYUCIYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мачете [США/2010]" tvg-logo="" group-title="ВСЕ",Мачете [США/2010]
+http://dmi3y-tv.ru/hls/film/MACHETE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мачете убивает [США/2013]" tvg-logo="" group-title="ВСЕ",Мачете убивает [США/2013]
+http://dmi3y-tv.ru/hls/film/MACHETE_UBIVAET.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Машина [ВЕЛИКОБРИТАНИЯ/2013]" tvg-logo="" group-title="ВСЕ",Машина [ВЕЛИКОБРИТАНИЯ/2013]
+http://dmi3y-tv.ru/hls/film/MASHINA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Медальон [США/2012]" tvg-logo="" group-title="ВСЕ",Медальон [США/2012]
+http://dmi3y-tv.ru/hls/film/MEDALON.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Метро [РОССИЯ/2012]" tvg-logo="" group-title="ВСЕ",Метро [РОССИЯ/2012]
+http://dmi3y-tv.ru/hls/film/METRO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Механик [США/2010]" tvg-logo="" group-title="ВСЕ",Механик [США/2010]
+http://dmi3y-tv.ru/hls/film/MEHANIK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мир Юрского периода [США/2015]" tvg-logo="" group-title="ВСЕ",Мир Юрского периода [США/2015]
+http://dmi3y-tv.ru/hls/film/MIR_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Миссия невыполнима [США/1996]" tvg-logo="" group-title="ВСЕ",Миссия невыполнима [США/1996]
+http://dmi3y-tv.ru/hls/film/MISSIYA_NEVYPOLNIMA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Миссия невыполнима 2 [США/2000]" tvg-logo="" group-title="ВСЕ",Миссия невыполнима 2 [США/2000]
+http://dmi3y-tv.ru/hls/film/MISSIYA_NEVYPOLNIMA2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Миссия невыполнима 3 [США/2006]" tvg-logo="" group-title="ВСЕ",Миссия невыполнима 3 [США/2006]
+http://dmi3y-tv.ru/hls/film/MISSIYA_NEVYPOLNIMA3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Миссия невыполнима: Племя изгоев [США/2015]" tvg-logo="" group-title="ВСЕ",Миссия невыполнима: Племя изгоев [США/2015]
+http://dmi3y-tv.ru/hls/film/MISSIYA_NEVYPOLNIMA_PLEMYA_IZGOEV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Миссия невыполнима: Последствия [США/2018]" tvg-logo="" group-title="ВСЕ",Миссия невыполнима: Последствия [США/2018]
+http://dmi3y-tv.ru/hls/film/MISSIYA_NEVYPOLNIMA_POSLEDSTVIYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Миссия невыполнима: Протокол Фантом [США/2011]" tvg-logo="" group-title="ВСЕ",Миссия невыполнима: Протокол Фантом [США/2011]
+http://dmi3y-tv.ru/hls/film/MISSIYA_NEVYPOLNIMA_PROTOKOL_FANTOM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Миссия Серенити [США/2005]" tvg-logo="" group-title="ВСЕ",Миссия Серенити [США/2005]
+http://dmi3y-tv.ru/hls/film/MISSIYA_SERENITI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Монстро [США/2008]" tvg-logo="" group-title="ВСЕ",Монстро [США/2008]
+http://dmi3y-tv.ru/hls/film/MONSTRO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Монстры на каникулах [МУЛЬТ/США/2012]" tvg-logo="" group-title="ВСЕ",Монстры на каникулах [МУЛЬТ/США/2012]
+http://dmi3y-tv.ru/hls/multfilm/MONSTRY_NA_KANIKULAH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Монстры на каникулах 3. Море зовёт [МУЛЬТ/США/2018]" tvg-logo="" group-title="ВСЕ",Монстры на каникулах 3. Море зовёт [МУЛЬТ/США/2018]
+http://dmi3y-tv.ru/hls/multfilm/MONSTRY_NA_KANIKULAH3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Морпехи [США/2005]" tvg-logo="" group-title="ВСЕ",Морпехи [США/2005]
+http://dmi3y-tv.ru/hls/film/MORPEHI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Морские паразиты [США/2019]" tvg-logo="" group-title="ВСЕ",Морские паразиты [США/2019]
+http://dmi3y-tv.ru/hls/film/MORSKIE_PARAZITY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Морской бой [США/2012]" tvg-logo="" group-title="ВСЕ",Морской бой [США/2012]
+http://dmi3y-tv.ru/hls/film/MORSKOY_BOY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Моя ужасная няня [США/2005]" tvg-logo="" group-title="ВСЕ",Моя ужасная няня [США/2005]
+http://dmi3y-tv.ru/hls/film/MOYA_UZHASNAYA_NYANYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Моя ужасная няня 2 [США/2010]" tvg-logo="" group-title="ВСЕ",Моя ужасная няня 2 [США/2010]
+http://dmi3y-tv.ru/hls/film/MOYA_UZHASNAYA_NYANYA2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мумия [США/1999]" tvg-logo="" group-title="ВСЕ",Мумия [США/1999]
+http://dmi3y-tv.ru/hls/film/MUMIYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мумия возвращается [США/2001]" tvg-logo="" group-title="ВСЕ",Мумия возвращается [США/2001]
+http://dmi3y-tv.ru/hls/film/MUMIYA_VOZVRASHAETSYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мумия: Гробница Императора Драконов [США/2008]" tvg-logo="" group-title="ВСЕ",Мумия: Гробница Императора Драконов [США/2008]
+http://dmi3y-tv.ru/hls/film/MUMIYA_GROBNITSAIMPERATORADRAKONOV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мышиная охота [США/1997]" tvg-logo="" group-title="ВСЕ",Мышиная охота [США/1997]
+http://dmi3y-tv.ru/hls/film/MYSHINAYA_OHOTA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="На крючке [США/2008]" tvg-logo="" group-title="ВСЕ",На крючке [США/2008]
+http://dmi3y-tv.ru/hls/film/NA_KRYUCHKE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="На пятьдесят оттенков темнее [США/2017]" tvg-logo="" group-title="ВСЕ",На пятьдесят оттенков темнее [США/2017]
+http://dmi3y-tv.ru/hls/film/NA_50_OTTENKOV_TEMNEE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Назад в будущее 2 [США/1989]" tvg-logo="" group-title="ВСЕ",Назад в будущее 2 [США/1989]
+http://dmi3y-tv.ru/hls/film/NAZAD_V_BUDUSHEE2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Нападение на 13-й участок [США/2005]" tvg-logo="" group-title="ВСЕ",Нападение на 13-й участок [США/2005]
+http://dmi3y-tv.ru/hls/film/NAPADENIE_NA_13_UCHASTOK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Напарник [РОССИЯ/2017]" tvg-logo="" group-title="ВСЕ",Напарник [РОССИЯ/2017]
+http://dmi3y-tv.ru/hls/film/NAPARNIK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наша Russia: Яйца судьбы [РОССИЯ/2010]" tvg-logo="" group-title="ВСЕ",Наша Russia: Яйца судьбы [РОССИЯ/2010]
+http://dmi3y-tv.ru/hls/film/NASHA_RUSSIA_YAYTSASUDBY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Невезучие [США/2003]" tvg-logo="" group-title="ВСЕ",Невезучие [США/2003]
+http://dmi3y-tv.ru/hls/film/NEVEZUCHIE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Невероятный Халк [США/2008]" tvg-logo="" group-title="ВСЕ",Невероятный Халк [США/2008]
+http://dmi3y-tv.ru/hls/film/NEVEROYATNY_HALK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Невидимка [США/2000]" tvg-logo="" group-title="ВСЕ",Невидимка [США/2000]
+http://dmi3y-tv.ru/hls/film/NEVIDIMKA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Незваные [США/2008]" tvg-logo="" group-title="ВСЕ",Незваные [США/2008]
+http://dmi3y-tv.ru/hls/film/NEZVANYE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Нечто [США/2011]" tvg-logo="" group-title="ВСЕ",Нечто [США/2011]
+http://dmi3y-tv.ru/hls/film/NECHTO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Никто [США/2021]" tvg-logo="" group-title="ВСЕ",Никто [США/2021]
+http://dmi3y-tv.ru/hls/film/NIKTO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Новый Человек-паук: Высокое напряжение [США/2014]" tvg-logo="" group-title="ВСЕ",Новый Человек-паук: Высокое напряжение [США/2014]
+http://dmi3y-tv.ru/hls/film/NEW_CHELOVEK_PAUK_VYSOKOENAPRYAZHENIE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ной [США/2014]" tvg-logo="" group-title="ВСЕ",Ной [США/2014]
+http://dmi3y-tv.ru/hls/film/NOY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Обитаемый остров [РОССИЯ/2008]" tvg-logo="" group-title="ВСЕ",Обитаемый остров [РОССИЯ/2008]
+http://dmi3y-tv.ru/hls/film/OBITAEMY_OSTROV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Обитель теней [ИСПАНИЯ/2017]" tvg-logo="" group-title="ВСЕ",Обитель теней [ИСПАНИЯ/2017]
+http://dmi3y-tv.ru/hls/film/OBITEL_TENEY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Облачно. возможны осадки в виде фрикаделек [МУЛЬТ/США/2009]" tvg-logo="" group-title="ВСЕ",Облачно. возможны осадки в виде фрикаделек [МУЛЬТ/США/2009]
+http://dmi3y-tv.ru/hls/multfilm/OBLACHNO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Облачно... 2. Месть ГМО [МУЛЬТ/США/2013]" tvg-logo="" group-title="ВСЕ",Облачно... 2. Месть ГМО [МУЛЬТ/США/2013]
+http://dmi3y-tv.ru/hls/multfilm/OBLACHNO2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Обливион [США/2013]" tvg-logo="" group-title="ВСЕ",Обливион [США/2013]
+http://dmi3y-tv.ru/hls/film/OBLIVION.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Образцовый самец 2 [США/2016]" tvg-logo="" group-title="ВСЕ",Образцовый самец 2 [США/2016]
+http://dmi3y-tv.ru/hls/film/OBRAZTSOVY_SAMETS2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Омерзительная восьмерка [США/2015]" tvg-logo="" group-title="ВСЕ",Омерзительная восьмерка [США/2015]
+http://dmi3y-tv.ru/hls/film/OMERZITELNAYA_8.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Он - дракон [РОССИЯ/2015]" tvg-logo="" group-title="ВСЕ",Он - дракон [РОССИЯ/2015]
+http://dmi3y-tv.ru/hls/film/ON_DRAKON.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Оружейный барон [США/2005]" tvg-logo="" group-title="ВСЕ",Оружейный барон [США/2005]
+http://dmi3y-tv.ru/hls/film/ORUZHEYNY_BARON.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Особое мнение [США/2002]" tvg-logo="" group-title="ВСЕ",Особое мнение [США/2002]
+http://dmi3y-tv.ru/hls/film/OSOBOE_MNENIE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Остров головорезов [США/1995]" tvg-logo="" group-title="ВСЕ",Остров головорезов [США/1995]
+http://dmi3y-tv.ru/hls/film/OSTROV_GOLOVOREZOV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Остров проклятых [США/2009]" tvg-logo="" group-title="ВСЕ",Остров проклятых [США/2009]
+http://dmi3y-tv.ru/hls/film/OP.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Остров фантазий [США/2020]" tvg-logo="" group-title="ВСЕ",Остров фантазий [США/2020]
+http://dmi3y-tv.ru/hls/film/OSTROV_FANTAZIY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="От заката до рассвета [США/1995]" tvg-logo="" group-title="ВСЕ",От заката до рассвета [США/1995]
+http://dmi3y-tv.ru/hls/film/OT_ZAKATA_DO_RASSVETA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Отмель [США/2016]" tvg-logo="" group-title="ВСЕ",Отмель [США/2016]
+http://dmi3y-tv.ru/hls/film/OTMEL.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Отрыв [РОССИЯ/2018]" tvg-logo="" group-title="ВСЕ",Отрыв [РОССИЯ/2018]
+http://dmi3y-tv.ru/hls/film/OTRYV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Отчаянный [США/1995]" tvg-logo="" group-title="ВСЕ",Отчаянный [США/1995]
+http://dmi3y-tv.ru/hls/film/OTCHAYANNY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Охотники [США/2013]" tvg-logo="" group-title="ВСЕ",Охотники [США/2013]
+http://dmi3y-tv.ru/hls/film/OHOTNIKI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Охотники за привидениями 2 [США/1989]" tvg-logo="" group-title="ВСЕ",Охотники за привидениями 2 [США/1989]
+http://dmi3y-tv.ru/hls/film/OHOTNIKI_ZA_PRIVIDENIYAMI2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Охотники на ведьм [США/2012]" tvg-logo="" group-title="ВСЕ",Охотники на ведьм [США/2012]
+http://dmi3y-tv.ru/hls/film/OHOTNIKI_NA_VEDM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Охранник [США/2006]" tvg-logo="" group-title="ВСЕ",Охранник [США/2006]
+http://dmi3y-tv.ru/hls/film/OHRANNIK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пакт [США/2011]" tvg-logo="" group-title="ВСЕ",Пакт [США/2011]
+http://dmi3y-tv.ru/hls/film/PAKT.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пакт 2 [США/2014]" tvg-logo="" group-title="ВСЕ",Пакт 2 [США/2014]
+http://dmi3y-tv.ru/hls/film/PAKT2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Паразиты [КОРЕЯ/2019]" tvg-logo="" group-title="ВСЕ",Паразиты [КОРЕЯ/2019]
+http://dmi3y-tv.ru/hls/film/PARAZITY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Парк Юрского периода [США/1993]" tvg-logo="" group-title="ВСЕ",Парк Юрского периода [США/1993]
+http://dmi3y-tv.ru/hls/film/PARK_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Парк Юрского периода 2: Затерянный мир [США/1997]" tvg-logo="" group-title="ВСЕ",Парк Юрского периода 2: Затерянный мир [США/1997]
+http://dmi3y-tv.ru/hls/film/PARK_YURSKOGO_PERIODA2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Парк Юрского периода 3 [США/2001]" tvg-logo="" group-title="ВСЕ",Парк Юрского периода 3 [США/2001]
+http://dmi3y-tv.ru/hls/film/PARK_YURSKOGO_PERIODA3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пассажир [США/2018]" tvg-logo="" group-title="ВСЕ",Пассажир [США/2018]
+http://dmi3y-tv.ru/hls/film/PASSAZHIR.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пассажиры [США/2016]" tvg-logo="" group-title="ВСЕ",Пассажиры [США/2016]
+http://dmi3y-tv.ru/hls/film/PASSAZHIRY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Патриот [США/2000]" tvg-logo="" group-title="ВСЕ",Патриот [США/2000]
+http://dmi3y-tv.ru/hls/film/PATRIOT.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Патруль времени [КИТАЙ/2010]" tvg-logo="" group-title="ВСЕ",Патруль времени [КИТАЙ/2010]
+http://dmi3y-tv.ru/hls/film/PATRUL_VREMENI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Перспектива [США/2018]" tvg-logo="" group-title="ВСЕ",Перспектива [США/2018]
+http://dmi3y-tv.ru/hls/film/PERSPEKTIVA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пес под прикрытием [США/2019]" tvg-logo="" group-title="ВСЕ",Пес под прикрытием [США/2019]
+http://dmi3y-tv.ru/hls/film/PES_POD_PRIKRYTIEM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пианист [ВЕЛИКОБРИТАНИЯ/2002]" tvg-logo="" group-title="ВСЕ",Пианист [ВЕЛИКОБРИТАНИЯ/2002]
+http://dmi3y-tv.ru/hls/film/PIANIST.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пиковая дама: Зазеркалье [РОССИЯ/2018]" tvg-logo="" group-title="ВСЕ",Пиковая дама: Зазеркалье [РОССИЯ/2018]
+http://dmi3y-tv.ru/hls/film/PIKOVAYA_DAMA_ZAZERKALE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пиксели [США/2015]" tvg-logo="" group-title="ВСЕ",Пиксели [США/2015]
+http://dmi3y-tv.ru/hls/film/PIKSELI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пипец 2 [США/2013]" tvg-logo="" group-title="ВСЕ",Пипец 2 [США/2013]
+http://dmi3y-tv.ru/hls/film/PIPETS2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Плохие парни навсегда [США/2020]" tvg-logo="" group-title="ВСЕ",Плохие парни навсегда [США/2020]
+http://dmi3y-tv.ru/hls/film/PLOHIE_PARNI_NAVSEGDA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Повелитель стихий [США/2010]" tvg-logo="" group-title="ВСЕ",Повелитель стихий [США/2010]
+http://dmi3y-tv.ru/hls/film/POVELITEL_STIHIY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Поворот не туда: Наследие [США/2021]" tvg-logo="" group-title="ВСЕ",Поворот не туда: Наследие [США/2021]
+http://dmi3y-tv.ru/hls/film/POVOROT_NE_TUDA_NASLEDIE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Поезд в Пусан [КОРЕЯ/2016]" tvg-logo="" group-title="ВСЕ",Поезд в Пусан [КОРЕЯ/2016]
+http://dmi3y-tv.ru/hls/film/POEZDVPUSAN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Поиск [США/2018]" tvg-logo="" group-title="ВСЕ",Поиск [США/2018]
+http://dmi3y-tv.ru/hls/film/POISK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пол: Секретный материальчик [США/2011]" tvg-logo="" group-title="ВСЕ",Пол: Секретный материальчик [США/2011]
+http://dmi3y-tv.ru/hls/film/POL_SEKRETNY_MATERIALCHIK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Полночь на злаковом поле [США/2021]" tvg-logo="" group-title="ВСЕ",Полночь на злаковом поле [США/2021]
+http://dmi3y-tv.ru/hls/film/POLNOCH_NA_ZLAKOVOM_POLE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Полтергейст [США/2015]" tvg-logo="" group-title="ВСЕ",Полтергейст [США/2015]
+http://dmi3y-tv.ru/hls/film/POLTERGEYST.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Помешанный на времени [США/2018]" tvg-logo="" group-title="ВСЕ",Помешанный на времени [США/2018]
+http://dmi3y-tv.ru/hls/film/POMESHANNY_NA_VREMENI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Помогите. я уменьшил своих родителей! [ГЕРМАНИЯ/2018]" tvg-logo="" group-title="ВСЕ",Помогите. я уменьшил своих родителей! [ГЕРМАНИЯ/2018]
+http://dmi3y-tv.ru/hls/film/POMOGITE_YA_UMENSHIL_SVOIH_RODITELEY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Помогите. я уменьшил свою училку! [ГЕРМАНИЯ/2015]" tvg-logo="" group-title="ВСЕ",Помогите. я уменьшил свою училку! [ГЕРМАНИЯ/2015]
+http://dmi3y-tv.ru/hls/film/POMOGITE_YA_UMENSHIL_SVOYU_UCHILKU.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Портал [США/2020]" tvg-logo="" group-title="ВСЕ",Портал [США/2020]
+http://dmi3y-tv.ru/hls/film/PORTAL.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="После нашей эры [США/2013]" tvg-logo="" group-title="ВСЕ",После нашей эры [США/2013]
+http://dmi3y-tv.ru/hls/film/POSLE_NASHEY_ERY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Последний киногерой [США/1993]" tvg-logo="" group-title="ВСЕ",Последний киногерой [США/1993]
+http://dmi3y-tv.ru/hls/film/POSLEDNIY_KINOGEROY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Последний рубеж [США/2013]" tvg-logo="" group-title="ВСЕ",Последний рубеж [США/2013]
+http://dmi3y-tv.ru/hls/film/POSLEDNIY_RUBEZH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Потерянный остров [РОССИЯ/2019]" tvg-logo="" group-title="ВСЕ",Потерянный остров [РОССИЯ/2019]
+http://dmi3y-tv.ru/hls/film/POTERYANNY_OSTROV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Потомство Чаки [США/2004]" tvg-logo="" group-title="ВСЕ",Потомство Чаки [США/2004]
+http://dmi3y-tv.ru/hls/film/POTOMSTVO_CHAKI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Потрошители [США/2009]" tvg-logo="" group-title="ВСЕ",Потрошители [США/2009]
+http://dmi3y-tv.ru/hls/film/POTROSHITELI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Предвестники бури [США/2004]" tvg-logo="" group-title="ВСЕ",Предвестники бури [США/2004]
+http://dmi3y-tv.ru/hls/film/PREDVESTNIKI_BURI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Представь себе [США/2008]" tvg-logo="" group-title="ВСЕ",Представь себе [США/2008]
+http://dmi3y-tv.ru/hls/film/PREDSTAV_SEBE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Преступить черту [ИСПАНИЯ/2020]" tvg-logo="" group-title="ВСЕ",Преступить черту [ИСПАНИЯ/2020]
+http://dmi3y-tv.ru/hls/film/PRESTUPIT_CHERTU.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Привидение [США/1990]" tvg-logo="" group-title="ВСЕ",Привидение [США/1990]
+http://dmi3y-tv.ru/hls/film/PRIVIDENIE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Призрак [РОССИЯ/2015]" tvg-logo="" group-title="ВСЕ",Призрак [РОССИЯ/2015]
+http://dmi3y-tv.ru/hls/film/PRIZRAK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Призрак в доспехах [США/2017]" tvg-logo="" group-title="ВСЕ",Призрак в доспехах [США/2017]
+http://dmi3y-tv.ru/hls/film/PRIZRAK_V_DOSPEHAH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Призрак дома на холме [США/1999]" tvg-logo="" group-title="ВСЕ",Призрак дома на холме [США/1999]
+http://dmi3y-tv.ru/hls/film/PRIZRAK_DOMA_NA_HOLME.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Призрачный гонщик [США/2007]" tvg-logo="" group-title="ВСЕ",Призрачный гонщик [США/2007]
+http://dmi3y-tv.ru/hls/film/PRIZRACHNY_GONSHIK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Призрачный патруль [США/2013]" tvg-logo="" group-title="ВСЕ",Призрачный патруль [США/2013]
+http://dmi3y-tv.ru/hls/film/PRIZRACHNY_PATRUL.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Приключения Паддингтона 2 [ВЕЛИКОБРИТАНИЯ/2017]" tvg-logo="" group-title="ВСЕ",Приключения Паддингтона 2 [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmi3y-tv.ru/hls/film/PRIKLYUCHENIYA_PADDINGTONA2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Приключения Тинтина: Тайна Единорога [МУЛЬТ/США/2011]" tvg-logo="" group-title="ВСЕ",Приключения Тинтина: Тайна Единорога [МУЛЬТ/США/2011]
+http://dmi3y-tv.ru/hls/multfilm/PRIKLYUCHENIYA_TINTINA_TAYNA_EDINOROGA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пришелец [РОССИЯ/2018]" tvg-logo="" group-title="ВСЕ",Пришелец [РОССИЯ/2018]
+http://dmi3y-tv.ru/hls/film/PRISHELEC.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пришельцы на чердаке [США/2009]" tvg-logo="" group-title="ВСЕ",Пришельцы на чердаке [США/2009]
+http://dmi3y-tv.ru/hls/film/PRISHELTSY_NA_CHERDAKE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пробуждающая совесть [ДАНИЯ/2016]" tvg-logo="" group-title="ВСЕ",Пробуждающая совесть [ДАНИЯ/2016]
+http://dmi3y-tv.ru/hls/film/PROBUZHDAYUSHAYA_SOVEST.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пробуждающая совесть 2: Дар змеи [ДАНИЯ/2019]" tvg-logo="" group-title="ВСЕ",Пробуждающая совесть 2: Дар змеи [ДАНИЯ/2019]
+http://dmi3y-tv.ru/hls/film/PROBUZHDAYUSHAYA_SOVEST2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Проводник [РОССИЯ/2018]" tvg-logo="" group-title="ВСЕ",Проводник [РОССИЯ/2018]
+http://dmi3y-tv.ru/hls/film/PROVODNIK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Прогулка среди могил [США/2014]" tvg-logo="" group-title="ВСЕ",Прогулка среди могил [США/2014]
+http://dmi3y-tv.ru/hls/film/PSM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Проклятие [США/2020]" tvg-logo="" group-title="ВСЕ",Проклятие [США/2020]
+http://dmi3y-tv.ru/hls/film/PROKLYATIE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Проклятие Спящей красавицы [США/2015]" tvg-logo="" group-title="ВСЕ",Проклятие Спящей красавицы [США/2015]
+http://dmi3y-tv.ru/hls/film/PROKLYATIESPYASHEYKRASAVITSY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Проклятие: Кукла ведьмы [США/2018]" tvg-logo="" group-title="ВСЕ",Проклятие: Кукла ведьмы [США/2018]
+http://dmi3y-tv.ru/hls/film/PROKLYATIE_KUKLA_VEDMY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Проклятие: Обитель смерти [США/2018]" tvg-logo="" group-title="ВСЕ",Проклятие: Обитель смерти [США/2018]
+http://dmi3y-tv.ru/hls/film/PROKLYATIE_OBITEL_SMERTI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Проклятый дом [США/2018]" tvg-logo="" group-title="ВСЕ",Проклятый дом [США/2018]
+http://dmi3y-tv.ru/hls/film/PROKLYATY_DOM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Птичка на проводе [США/1990]" tvg-logo="" group-title="ВСЕ",Птичка на проводе [США/1990]
+http://dmi3y-tv.ru/hls/film/PTICHKA_NA_PROVODE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пушки Акимбо [ВЕЛИКОБРИТАНИЯ/2019]" tvg-logo="" group-title="ВСЕ",Пушки Акимбо [ВЕЛИКОБРИТАНИЯ/2019]
+http://dmi3y-tv.ru/hls/film/PUSHKI_AKIMBO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Разлом [США/2018]" tvg-logo="" group-title="ВСЕ",Разлом [США/2018]
+http://dmi3y-tv.ru/hls/film/RAZLOM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Разлом времени [США/2017]" tvg-logo="" group-title="ВСЕ",Разлом времени [США/2017]
+http://dmi3y-tv.ru/hls/film/RAZLOM_VREMENI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ранго [МУЛЬТ/США/2011]" tvg-logo="" group-title="ВСЕ",Ранго [МУЛЬТ/США/2011]
+http://dmi3y-tv.ru/hls/multfilm/RANGO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Расправа [США/2018]" tvg-logo="" group-title="ВСЕ",Расправа [США/2018]
+http://dmi3y-tv.ru/hls/film/RASPRAVA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рассказы Русалочки [США/2018]" tvg-logo="" group-title="ВСЕ",Рассказы Русалочки [США/2018]
+http://dmi3y-tv.ru/hls/film/RASSKAZY_RUSALOCHKI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ремнант: Всё ещё вижу тебя [США/2018]" tvg-logo="" group-title="ВСЕ",Ремнант: Всё ещё вижу тебя [США/2018]
+http://dmi3y-tv.ru/hls/film/REMNANT_VSE_ESHE_VIZHU_TEBYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Репродукция [США/2018]" tvg-logo="" group-title="ВСЕ",Репродукция [США/2018]
+http://dmi3y-tv.ru/hls/film/REPRODUKCIYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Робин Гуд [США/2010]" tvg-logo="" group-title="ВСЕ",Робин Гуд [США/2010]
+http://dmi3y-tv.ru/hls/film/ROBIN_GUD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Робинзон Крузо: Очень обитаемый остров [МУЛЬТ/ФРАНЦИЯ/2016]" tvg-logo="" group-title="ВСЕ",Робинзон Крузо: Очень обитаемый остров [МУЛЬТ/ФРАНЦИЯ/2016]
+http://dmi3y-tv.ru/hls/multfilm/ROBINZON_KRUZO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Робот по имени Чаппи [США/2015]" tvg-logo="" group-title="ВСЕ",Робот по имени Чаппи [США/2015]
+http://dmi3y-tv.ru/hls/film/ROBOT_PO_IMENI_CHAPPI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рок Дог [МУЛЬТ/США/2016]" tvg-logo="" group-title="ВСЕ",Рок Дог [МУЛЬТ/США/2016]
+http://dmi3y-tv.ru/hls/multfilm/ROK_DOG.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русалка на суше [США/2019]" tvg-logo="" group-title="ВСЕ",Русалка на суше [США/2019]
+http://dmi3y-tv.ru/hls/film/RUSALKA_NA_SUSHE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рыжая Соня [США/1985]" tvg-logo="" group-title="ВСЕ",Рыжая Соня [США/1985]
+http://dmi3y-tv.ru/hls/film/RYZHAYA_SONYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="С меня хватит [США/2002]" tvg-logo="" group-title="ВСЕ",С меня хватит [США/2002]
+http://dmi3y-tv.ru/hls/film/S_MENYA_HVATIT.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Салют-7 [РОССИЯ/2017]" tvg-logo="" group-title="ВСЕ",Салют-7 [РОССИЯ/2017]
+http://dmi3y-tv.ru/hls/film/SALYUT7.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Святые из Бундока 2. День всех святых [США/2009]" tvg-logo="" group-title="ВСЕ",Святые из Бундока 2. День всех святых [США/2009]
+http://dmi3y-tv.ru/hls/film/SVYATYE_IZ_BUNDOKA2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сделка с дьяволом [США/2006]" tvg-logo="" group-title="ВСЕ",Сделка с дьяволом [США/2006]
+http://dmi3y-tv.ru/hls/film/SDELKA_S_DYAVOLOM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Седьмой сын [РОССИЯ/2014]" tvg-logo="" group-title="ВСЕ",Седьмой сын [РОССИЯ/2014]
+http://dmi3y-tv.ru/hls/film/7_SYN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Семейка Крудс: Новоселье [МУЛЬТ/США/2020]" tvg-logo="" group-title="ВСЕ",Семейка Крудс: Новоселье [МУЛЬТ/США/2020]
+http://dmi3y-tv.ru/hls/multfilm/SEMEYKA_KRUDS_NOVOSELE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сердце из стали [КИТАЙ/2017]" tvg-logo="" group-title="ВСЕ",Сердце из стали [КИТАЙ/2017]
+http://dmi3y-tv.ru/hls/film/SERDCE_IZ_STALI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сингулярность [США/2017]" tvg-logo="" group-title="ВСЕ",Сингулярность [США/2017]
+http://dmi3y-tv.ru/hls/film/SINGULYARNOST.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Синяя бездна 2 [США/2019]" tvg-logo="" group-title="ВСЕ",Синяя бездна 2 [США/2019]
+http://dmi3y-tv.ru/hls/film/SINYAYA_BEZDNA2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сквозь снег [США/2013]" tvg-logo="" group-title="ВСЕ",Сквозь снег [США/2013]
+http://dmi3y-tv.ru/hls/film/SKVOZ_SNEG.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Слендермен [США/2018]" tvg-logo="" group-title="ВСЕ",Слендермен [США/2018]
+http://dmi3y-tv.ru/hls/film/SLENDERMEN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Смоки и Бандит [США/1977]" tvg-logo="" group-title="ВСЕ",Смоки и Бандит [США/1977]
+http://dmi3y-tv.ru/hls/film/SMOKI_I_BANDIT.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Смокинг [США/2002]" tvg-logo="" group-title="ВСЕ",Смокинг [США/2002]
+http://dmi3y-tv.ru/hls/film/SMOKING.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Смурфики 2 [МУЛЬТ/США/2013]" tvg-logo="" group-title="ВСЕ",Смурфики 2 [МУЛЬТ/США/2013]
+http://dmi3y-tv.ru/hls/multfilm/SMURFIKI2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Смурфики. Затерянная деревня [МУЛЬТ/США/2017]" tvg-logo="" group-title="ВСЕ",Смурфики. Затерянная деревня [МУЛЬТ/США/2017]
+http://dmi3y-tv.ru/hls/multfilm/SMURFIKI_ZATERYANNAYA_DEREVNYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Снеговик [США/2017]" tvg-logo="" group-title="ВСЕ",Снеговик [США/2017]
+http://dmi3y-tv.ru/hls/film/SNEGOVIK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Снегурочка против всех [США/2021]" tvg-logo="" group-title="ВСЕ",Снегурочка против всех [США/2021]
+http://dmi3y-tv.ru/hls/film/SNEGUROCHKA_PROTIV_VSEH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Снежная королева [МУЛЬТ/РОССИЯ/2012]" tvg-logo="" group-title="ВСЕ",Снежная королева [МУЛЬТ/РОССИЯ/2012]
+http://dmi3y-tv.ru/hls/multfilm/SNEZHNAYA_KOROLEVA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Снежная королева 2: Перезаморозка [МУЛЬТ/РОССИЯ/2014]" tvg-logo="" group-title="ВСЕ",Снежная королева 2: Перезаморозка [МУЛЬТ/РОССИЯ/2014]
+http://dmi3y-tv.ru/hls/multfilm/SNEZHNAYA_KOROLEVA2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Снежная королева 3: Огонь и лёд [МУЛЬТ/РОССИЯ/2016]" tvg-logo="" group-title="ВСЕ",Снежная королева 3: Огонь и лёд [МУЛЬТ/РОССИЯ/2016]
+http://dmi3y-tv.ru/hls/multfilm/SNEZHNAYA_KOROLEVA3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сокровище Амазонки [США/2003]" tvg-logo="" group-title="ВСЕ",Сокровище Амазонки [США/2003]
+http://dmi3y-tv.ru/hls/film/SOKROVISHE_AMAZONKI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Соник в кино [США/2020]" tvg-logo="" group-title="ВСЕ",Соник в кино [США/2020]
+http://dmi3y-tv.ru/hls/film/SONIC_V_KINO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Спасатели Малибу [ВЕЛИКОБРИТАНИЯ/2017]" tvg-logo="" group-title="ВСЕ",Спасатели Малибу [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmi3y-tv.ru/hls/film/SPASATELI_MALIBU.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Спирит Непокорный [МУЛЬТ/США/2021]" tvg-logo="" group-title="ВСЕ",Спирит Непокорный [МУЛЬТ/США/2021]
+http://dmi3y-tv.ru/hls/multfilm/SPIRIT_NEPOKORNYI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сплит [США/2017]" tvg-logo="" group-title="ВСЕ",Сплит [США/2017]
+http://dmi3y-tv.ru/hls/film/SPLIT.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Стань легендой! Бигфут Младший [МУЛЬТ/БЕЛЬГИЯ/2017]" tvg-logo="" group-title="ВСЕ",Стань легендой! Бигфут Младший [МУЛЬТ/БЕЛЬГИЯ/2017]
+http://dmi3y-tv.ru/hls/multfilm/STAN_LEGENDOY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Стартрек: Бесконечность [США/2016]" tvg-logo="" group-title="ВСЕ",Стартрек: Бесконечность [США/2016]
+http://dmi3y-tv.ru/hls/film/STARTREK_BESKONECHNOST.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Столкновение с бездной [США/1998]" tvg-logo="" group-title="ВСЕ",Столкновение с бездной [США/1998]
+http://dmi3y-tv.ru/hls/film/STOLKNOVENIE_S_BEZDNOY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сторожевая застава [УКРАИНА/2017]" tvg-logo="" group-title="ВСЕ",Сторожевая застава [УКРАИНА/2017]
+http://dmi3y-tv.ru/hls/film/STOROZHEVAYA_ZASTAVA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Страна призраков [ФРАНЦИЯ/2018]" tvg-logo="" group-title="ВСЕ",Страна призраков [ФРАНЦИЯ/2018]
+http://dmi3y-tv.ru/hls/film/STRANA_PRIZRAKOV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Страшно красив [США/2011]" tvg-logo="" group-title="ВСЕ",Страшно красив [США/2011]
+http://dmi3y-tv.ru/hls/film/STRASHNO_KRASIV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Судная ночь 2 [США/2014]" tvg-logo="" group-title="ВСЕ",Судная ночь 2 [США/2014]
+http://dmi3y-tv.ru/hls/film/SUDNAYA_NOCH2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Судная ночь 3 [США/2016]" tvg-logo="" group-title="ВСЕ",Судная ночь 3 [США/2016]
+http://dmi3y-tv.ru/hls/film/SUDNAYA_NOCH3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Судная ночь навсегда [США/2021]" tvg-logo="" group-title="ВСЕ",Судная ночь навсегда [США/2021]
+http://dmi3y-tv.ru/hls/film/SUDNAYA_NOCH_NAVSEGDA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Супер Такса [США/2015]" tvg-logo="" group-title="ВСЕ",Супер Такса [США/2015]
+http://dmi3y-tv.ru/hls/film/SUPER_TAKSA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Супергерои [ДОК/ВЕЛИКОБРИТАНИЯ/2018]" tvg-logo="" group-title="ВСЕ",Супергерои [ДОК/ВЕЛИКОБРИТАНИЯ/2018]
+http://dmi3y-tv.ru/hls/film/SUPERGEROI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тёмная башня [США/2017]" tvg-logo="" group-title="ВСЕ",Тёмная башня [США/2017]
+http://dmi3y-tv.ru/hls/film/TEMNAYA_BASHNYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Терминатор: Генезис [США/2015]" tvg-logo="" group-title="ВСЕ",Терминатор: Генезис [США/2015]
+http://dmi3y-tv.ru/hls/film/TERMINATOR_GENEZIS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Терминатор. Да придет спаситель [США/2009]" tvg-logo="" group-title="ВСЕ",Терминатор. Да придет спаситель [США/2009]
+http://dmi3y-tv.ru/hls/film/TERMINATOR_DA_PRIDET_SPASITEL.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Территория [РОССИЯ/2014]" tvg-logo="" group-title="ВСЕ",Территория [РОССИЯ/2014]
+http://dmi3y-tv.ru/hls/film/TERRITORIYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Титан [США/2018]" tvg-logo="" group-title="ВСЕ",Титан [США/2018]
+http://dmi3y-tv.ru/hls/film/TITAN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Трансформеры [США/2007]" tvg-logo="" group-title="ВСЕ",Трансформеры [США/2007]
+http://dmi3y-tv.ru/hls/film/TRANSFORMERY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Трансформеры 2: Месть падших [США/2009]" tvg-logo="" group-title="ВСЕ",Трансформеры 2: Месть падших [США/2009]
+http://dmi3y-tv.ru/hls/film/TRANSFORMERY2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Трансформеры 3: Темная сторона Луны [США/2011]" tvg-logo="" group-title="ВСЕ",Трансформеры 3: Темная сторона Луны [США/2011]
+http://dmi3y-tv.ru/hls/film/TRANSFORMERY3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Трансформеры 4: Эпоха истребления [США/2014]" tvg-logo="" group-title="ВСЕ",Трансформеры 4: Эпоха истребления [США/2014]
+http://dmi3y-tv.ru/hls/film/TRANSFORMERY4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Трансформеры 5: Последний рыцарь [США/2017]" tvg-logo="" group-title="ВСЕ",Трансформеры 5: Последний рыцарь [США/2017]
+http://dmi3y-tv.ru/hls/film/TRANSFORMERY5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тренер Картер [США/2005]" tvg-logo="" group-title="ВСЕ",Тренер Картер [США/2005]
+http://dmi3y-tv.ru/hls/film/TRENER_KARTER.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Третий лишний [США/2012]" tvg-logo="" group-title="ВСЕ",Третий лишний [США/2012]
+http://dmi3y-tv.ru/hls/film/3_LISHNIY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Третий лишний 2 [США/2015]" tvg-logo="" group-title="ВСЕ",Третий лишний 2 [США/2015]
+http://dmi3y-tv.ru/hls/film/3_LISHNIY2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Три богатыря и Морской царь [МУЛЬТ/РОССИЯ/2016]" tvg-logo="" group-title="ВСЕ",Три богатыря и Морской царь [МУЛЬТ/РОССИЯ/2016]
+http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_I_MORSKOY_CAR.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Три богатыря и Наследница престола [МУЛЬТ/РОССИЯ/2018]" tvg-logo="" group-title="ВСЕ",Три богатыря и Наследница престола [МУЛЬТ/РОССИЯ/2018]
+http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_I_NASLEDNICA_PRESTOLA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Три богатыря и принцесса Египта [МУЛЬТ/РОССИЯ/2017]" tvg-logo="" group-title="ВСЕ",Три богатыря и принцесса Египта [МУЛЬТ/РОССИЯ/2017]
+http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_I_PRINCESSA_EGIPTA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Три богатыря и Шамаханская царица [МУЛЬТ/РОССИЯ/2010]" tvg-logo="" group-title="ВСЕ",Три богатыря и Шамаханская царица [МУЛЬТ/РОССИЯ/2010]
+http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_I_SHAMAHANSKAYA_CARICA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Три богатыря на дальних берегах [МУЛЬТ/РОССИЯ/2012]" tvg-logo="" group-title="ВСЕ",Три богатыря на дальних берегах [МУЛЬТ/РОССИЯ/2012]
+http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_NA_DALNIH_BEREGAH.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Три богатыря. Ход конем [МУЛЬТ/РОССИЯ/2014]" tvg-logo="" group-title="ВСЕ",Три богатыря. Ход конем [МУЛЬТ/РОССИЯ/2014]
+http://dmi3y-tv.ru/hls/multfilm/TRIBOGATYRYA_HOD_KONEM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Три метра над уровнем неба [ИСПАНИЯ/2010]" tvg-logo="" group-title="ВСЕ",Три метра над уровнем неба [ИСПАНИЯ/2010]
+http://dmi3y-tv.ru/hls/film/3METRA_NAD_UROVNEM_NEBA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Трудная мишень [США/1993]" tvg-logo="" group-title="ВСЕ",Трудная мишень [США/1993]
+http://dmi3y-tv.ru/hls/film/TRUDNAYA_MISHEN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Туннель: Опасно для жизни [НОРВЕГИЯ/2019]" tvg-logo="" group-title="ВСЕ",Туннель: Опасно для жизни [НОРВЕГИЯ/2019]
+http://dmi3y-tv.ru/hls/film/TUNNEL_OPASNO_DLYA_ZHIZNI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тысяча слов [США/2009]" tvg-logo="" group-title="ВСЕ",Тысяча слов [США/2009]
+http://dmi3y-tv.ru/hls/film/1000SLOV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Убить Билла [США/2003]" tvg-logo="" group-title="ВСЕ",Убить Билла [США/2003]
+http://dmi3y-tv.ru/hls/film/UBIT_BILLA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Убить Билла 2 [США/2004]" tvg-logo="" group-title="ВСЕ",Убить Билла 2 [США/2004]
+http://dmi3y-tv.ru/hls/film/UBIT_BILLA2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ужас Амитивилля [США/2005]" tvg-logo="" group-title="ВСЕ",Ужас Амитивилля [США/2005]
+http://dmi3y-tv.ru/hls/film/UZHAS_AMITIVILLYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ужастики [США/2015]" tvg-logo="" group-title="ВСЕ",Ужастики [США/2015]
+http://dmi3y-tv.ru/hls/film/UZHASTIKI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ускорение [США/2015]" tvg-logo="" group-title="ВСЕ",Ускорение [США/2015]
+http://dmi3y-tv.ru/hls/film/USKORENIE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Факультет [США/1998]" tvg-logo="" group-title="ВСЕ",Факультет [США/1998]
+http://dmi3y-tv.ru/hls/film/FAKULTET.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Фантом [РОССИЯ/США/2011]" tvg-logo="" group-title="ВСЕ",Фантом [РОССИЯ/США/2011]
+http://dmi3y-tv.ru/hls/film/FANTOM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Форсаж 9 [США/2021]" tvg-logo="" group-title="ВСЕ",Форсаж 9 [США/2021]
+http://dmi3y-tv.ru/hls/film/FORSAZH9.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Халк [США/2003]" tvg-logo="" group-title="ВСЕ",Халк [США/2003]
+http://dmi3y-tv.ru/hls/film/HALK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Химера [США/2009]" tvg-logo="" group-title="ВСЕ",Химера [США/2009]
+http://dmi3y-tv.ru/hls/film/HIMERA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Хоббит: Битва пяти воинств [США/2014]" tvg-logo="" group-title="ВСЕ",Хоббит: Битва пяти воинств [США/2014]
+http://dmi3y-tv.ru/hls/film/HOBBIT_BITVA_5TI_VOINSTV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Хоббит: Нежданное путешествие [США/2012]" tvg-logo="" group-title="ВСЕ",Хоббит: Нежданное путешествие [США/2012]
+http://dmi3y-tv.ru/hls/film/HOBBIT_NEZHDANNOE_PUTESHESTVIE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Хоббит: Пустошь Смауга [США/2013]" tvg-logo="" group-title="ВСЕ",Хоббит: Пустошь Смауга [США/2013]
+http://dmi3y-tv.ru/hls/film/HOBBIT_PUSTOSH_SMAUGA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Хранители [США/2009]" tvg-logo="" group-title="ВСЕ",Хранители [США/2009]
+http://dmi3y-tv.ru/hls/film/HRANITELI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Хранитель времени [США/2011]" tvg-logo="" group-title="ВСЕ",Хранитель времени [США/2011]
+http://dmi3y-tv.ru/hls/film/HRANITEL_VREMENI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Хроники Риддика [США/2004]" tvg-logo="" group-title="ВСЕ",Хроники Риддика [США/2004]
+http://dmi3y-tv.ru/hls/film/HRONIKI_RIDDIKA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Хэнкок [США/2008]" tvg-logo="" group-title="ВСЕ",Хэнкок [США/2008]
+http://dmi3y-tv.ru/hls/film/HENKOK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Царь скорпионов [США/2002]" tvg-logo="" group-title="ВСЕ",Царь скорпионов [США/2002]
+http://dmi3y-tv.ru/hls/film/TSAR_SKORPIONOV.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Человек из стали [США/2013]" tvg-logo="" group-title="ВСЕ",Человек из стали [США/2013]
+http://dmi3y-tv.ru/hls/film/CHELOVEK_IZ_STALI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Человек на Луне [США/2018]" tvg-logo="" group-title="ВСЕ",Человек на Луне [США/2018]
+http://dmi3y-tv.ru/hls/film/CHELOVEK_NA_LUNE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Человек-паук: Вдали от дома [США/2019]" tvg-logo="" group-title="ВСЕ",Человек-паук: Вдали от дома [США/2019]
+http://dmi3y-tv.ru/hls/film/CHELOVEK_PAUK_VDALI_OT_DOMA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Человек-паук. Возвращение домой [США/2017]" tvg-logo="" group-title="ВСЕ",Человек-паук. Возвращение домой [США/2017]
+http://dmi3y-tv.ru/hls/film/CHELOVEK_PAUK_VOZVRASHENIEDOMOY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Человек-паук. Через вселенные [МУЛЬТ/США/2018]" tvg-logo="" group-title="ВСЕ",Человек-паук. Через вселенные [МУЛЬТ/США/2018]
+http://dmi3y-tv.ru/hls/multfilm/CHELOVEK_PAUK_CHEREZ_VSELENNYE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Челюсти [США/1975]" tvg-logo="" group-title="ВСЕ",Челюсти [США/1975]
+http://dmi3y-tv.ru/hls/film/CHELYUSTI.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Челюсти 2 [США/1978]" tvg-logo="" group-title="ВСЕ",Челюсти 2 [США/1978]
+http://dmi3y-tv.ru/hls/film/CHELYUSTI2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Черепашки-ниндзя [США/2014]" tvg-logo="" group-title="ВСЕ",Черепашки-ниндзя [США/2014]
+http://dmi3y-tv.ru/hls/film/CHEREPASHKI_NINDZYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Черепашки-ниндзя 2 [США/2016]" tvg-logo="" group-title="ВСЕ",Черепашки-ниндзя 2 [США/2016]
+http://dmi3y-tv.ru/hls/film/CHEREPASHKI_NINDZYA2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Черная дыра [США/2000]" tvg-logo="" group-title="ВСЕ",Черная дыра [США/2000]
+http://dmi3y-tv.ru/hls/film/CHERNAYA_DYRA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Черная молния [РОССИЯ/2009]" tvg-logo="" group-title="ВСЕ",Черная молния [РОССИЯ/2009]
+http://dmi3y-tv.ru/hls/film/CHERNAYA_MOLNIYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Четыре пера [США/2002]" tvg-logo="" group-title="ВСЕ",Четыре пера [США/2002]
+http://dmi3y-tv.ru/hls/film/CHETYRE_PERA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шальная карта [США/2014]" tvg-logo="" group-title="ВСЕ",Шальная карта [США/2014]
+http://dmi3y-tv.ru/hls/film/SHALNAYA_KARTA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шестой день [США/2000]" tvg-logo="" group-title="ВСЕ",Шестой день [США/2000]
+http://dmi3y-tv.ru/hls/film/6_DEN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Школа выживания [США/2008]" tvg-logo="" group-title="ВСЕ",Школа выживания [США/2008]
+http://dmi3y-tv.ru/hls/film/SHKOLA_VYZHIVANIYA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шрэк [МУЛЬТ/США/2001]" tvg-logo="" group-title="ВСЕ",Шрэк [МУЛЬТ/США/2001]
+http://dmi3y-tv.ru/hls/multfilm/SHREK.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шрэк 2 [МУЛЬТ/США/2004]" tvg-logo="" group-title="ВСЕ",Шрэк 2 [МУЛЬТ/США/2004]
+http://dmi3y-tv.ru/hls/multfilm/SHREK2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Шрэк третий [МУЛЬТ/США/2007]" tvg-logo="" group-title="ВСЕ",Шрэк третий [МУЛЬТ/США/2007]
+http://dmi3y-tv.ru/hls/multfilm/SHREK_TRETIY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Штурм Белого дома [США/2013]" tvg-logo="" group-title="ВСЕ",Штурм Белого дома [США/2013]
+http://dmi3y-tv.ru/hls/film/SHTURM_BELOGO_DOMA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Эван Всемогущий [США/2007]" tvg-logo="" group-title="ВСЕ",Эван Всемогущий [США/2007]
+http://dmi3y-tv.ru/hls/film/EVAN_VSEMOGUSHIY.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Эксперимент: Зло [США/2013]" tvg-logo="" group-title="ВСЕ",Эксперимент: Зло [США/2013]
+http://dmi3y-tv.ru/hls/film/EKSPERIMENT_ZLO.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Эмоджи фильм [МУЛЬТ/США/2017]" tvg-logo="" group-title="ВСЕ",Эмоджи фильм [МУЛЬТ/США/2017]
+http://dmi3y-tv.ru/hls/multfilm/EMODZHI_FILM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Эрнест и Селестина: Приключения мышки и медведя [МУЛЬТ/ФРАНЦИЯ/2012]" tvg-logo="" group-title="ВСЕ",Эрнест и Селестина: Приключения мышки и медведя [МУЛЬТ/ФРАНЦИЯ/2012]
+http://dmi3y-tv.ru/hls/multfilm/ERNEST_I_SELESTINA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ю-571 [США/2000]" tvg-logo="" group-title="ВСЕ",Ю-571 [США/2000]
+http://dmi3y-tv.ru/hls/film/YU_571.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Я легенда [США/2007]" tvg-logo="" group-title="ВСЕ",Я легенда [США/2007]
+http://dmi3y-tv.ru/hls/film/YA_LEGENDA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Я. Франкенштейн [США/2013]" tvg-logo="" group-title="ВСЕ",Я. Франкенштейн [США/2013]
+http://dmi3y-tv.ru/hls/film/YA_FRANKENSHTEYN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doom [США/2005]" tvg-logo="" group-title="ВСЕ",Doom [США/2005]
+http://dmi3y-tv.ru/hls/film/DOOM.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tomb Raider. Лара Крофт [США/2018]" tvg-logo="" group-title="ВСЕ",Tomb Raider. Лара Крофт [США/2018]
+http://dmi3y-tv.ru/hls/film/TOMB_RAIDER_LARA_KROFT.m3u8
