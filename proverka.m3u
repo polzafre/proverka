@@ -1,281 +1,73 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/epg/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",MM-2025-4-1-23-04 http://iptvin.ru
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",Fresh-2025-4-1-23-04 http://iptvin.ru
 http://overlay.iptvin.fun/iptvin.ru.mp4
-#EXTINF:-1 tvg-name="КуклаDummy (2001)" tvg-logo="https://avatars.mds.yandex.net/i?id=7829f219cdb6a50c776f7f29ac9459ae_l-5246802-images-thumbs&n=13" group-title="Кино и сериалы",КуклаDummy (2001)
-https://vod-playlist-cache.nuum.ru/nuum-vod-production/df2ef4e0-83b3-471e-722a-429b239c841c/master.m3u8
-#EXTINF:-1 tvg-name="НеуловимыйAnthony Zimmer (2005)" tvg-logo="https://sun9-19.userapi.com/impf/c849324/v849324367/166f24/vZGvZIWb0FY.jpg?size=475x600&quality=96&sign=d5f218f64c207e93a1ddd457b12e308a&type=album" group-title="Кино и сериалы",НеуловимыйAnthony Zimmer (2005)
-https://vod-playlist-cache.nuum.ru/nuum-vod-production/feb5b26a-5050-497d-46c2-bdd12c95c1ae/master.m3u8
-#EXTINF:-1 group-title="Beetv" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/14b072806fc95af1e801_60x60.jpg",MMA-TV.COM HD
-http://87.99.87.203:2007/channel/nbaedc4/index.m3u8?q=66a6423f297e15732552f053875b2722
-#EXTINF:-1 group-title="Game Stream Not 24/7" tvg-logo="https://goodgame.ru/files/avatars/av_208733_AhSU.jpg",gnumme
-https://hls.goodgame.ru/hls/19272_720.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers",MMA-TV.COM
-http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDAxNjgyNjQsImlhdCI6MTc0MDA4MTg2NCwiY2lkIjo2LCJ1aWQiOjg5NTUwODYzNSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.pWnmoG6w-3nMWTTzpXbSpEM8ccpbxnImaD1m4kOc-Qc&offset=10
-#EXTINF:-1 group-title="Кино и сериалы",MM Скорость HD
-http://hls127.homeiptv.org:8080/minimax-skorost-m4f/video.m3u8
-#EXTINF:-1 group-title="Музыкальные",GabbaRit_Rammstein&Lindemann
-http://158.101.211.157:2020/channel/n11b4c189/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://www.vuemmetv.it/wp-content/uploads/2017/12/VUEMME_logoata.jpg",Vuemme TV
-http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
-#EXTINF:-1 tvg-name="Radio Nomme" group-title="Радио",Radio Nomme
-http://149.210.138.12:8000/nommeraadio
-#EXTINF:-1 tvg-name="Radio Record-Summer Dance" group-title="Радио",Radio Record-Summer Dance
-http://radiorecord.hostingradio.ru/summerparty96.aacp
-#EXTINF:-1 tvg-name="Radio Record-Summer Lounge" group-title="Радио",Radio Record-Summer Lounge
-http://radiorecord.hostingradio.ru/summerlounge96.aacp
-#EXTINF:-1 tvg-name="SKY Radio Summer Hits" group-title="Радио",SKY Radio Summer Hits
-https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR28.mp3
-#EXTINF:-1 tvg-name="Лав Радио:Summer" group-title="Радио",Лав Радио:Summer
-http://microit.n340.ru:9000/VgMv0WV17ZVx1uuo_5_summer_56
-#EXTINF:-1 tvg-name="Радио Hit FM - Summer Hits" group-title="Радио",РадиоHit FM - Summer Hits
-http://stream.hitfm.md:8000/summer_hits_320
-#EXTINF:-1 tvg-name="Радио Maximum - Rammstein" group-title="Радио",РадиоMaximum - Rammstein
-http://maximum.hostingradio.ru/rammstein96.aacp
-#EXTINF:-1 tvg-name="Радио Монте-Карло - Summertime" group-title="Радио",РадиоМонте-Карло - Summertime
-http://montecarlo.hostingradio.ru/summertime96.aacp
-#EXTINF:-1 group-title="Спорт",MMA-TV.COM HD
-http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDI1IDg6MDQ6MjYgUE0maGFzaF92YWx1ZT1HV29TRXdMOTdYZVRGdHNMUkI2V1Z3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1 group-title="Спорт",MMA-TV.COM
-http://95.142.88.250:80/MMA-TV.com/index.m3u8
-#EXTINF:-1 group-title="Спорт",MMA-TV.COM
-https://flussonic.salomtv.uz/MMATV/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5122.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-007%20HD.png" channelId="-1" tvg-id="mm-007",MM 007 HD
-http://str29.ottg.online/1190/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/mcL2Dbk/Mini-Max-Celebrity-165x165.png" logo="https://epg.openboxfan.com/picon/minimaxcelebrity.png" channelId="-1" tvg-id="mm-celebrity",MM Celebrity HD
-http://str29.ottg.online/9541/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/YTTHC9L/Mini-Max-Classic-165x165.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-classic%20HD.png" channelId="-1" tvg-id="mm-classic",MM Classic HD
-http://str29.ottg.online/4789/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/5WGqnsK/Mini-Max-Experiment-165x165.png" logo="https://epg.openboxfan.com/picon/minimaxexperiment.png" channelId="-1" tvg-id="mm-experiment",MM Experiment HD
-http://str29.ottg.online/4968/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",MM Flip UHD
-http://str29.ottg.online/6182/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5139.png" logo="http://overlay.iptvin.fun/epg/PIC/mmhoney.png" channelId="-1" tvg-id="mm-honey",MM Honey HD
-http://str29.ottg.online/4629/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5155.png" logo="http://overlay.iptvin.fun/epg/PIC/mmlesson.png" channelId="-1" tvg-id="mm-lesson",MM Lesson HD
-http://str29.ottg.online/7616/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5208.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-live%20planet%20HD.png" channelId="-1" tvg-id="mm-liveplanet",MM Live Planet HD
-http://str29.ottg.online/4085/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5123.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-love%20HD.png" channelId="-1" tvg-id="mm-love",MM Love HD
-http://str29.ottg.online/8384/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5124.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-newfilm%201%20HD.png" channelId="-1" tvg-id="mm-newfilm1",MM NewFilm 1 HD
-http://str29.ottg.online/9582/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5125.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-newfilm%202%20HD.png" channelId="-1" tvg-id="mm-newfilm2",MM NewFilm 2 HD
-http://str29.ottg.online/2462/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5126.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-newfilm%203%20HD.png" channelId="-1" tvg-id="mm-newfilm3",MM NewFilm 3 HD
-http://str29.ottg.online/3151/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5127.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-newfilm.ru%20HD.png" channelId="-1" tvg-id="mm-newfilm-ru",MM NewFilm RU HD
-http://str29.ottg.online/1571/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/VqWns8r/Mini-Max-Old-School-165x165.png" logo="https://epg.openboxfan.com/picon/minimaxoldschool.png" channelId="-1" tvg-id="mm-oldschool",MM OldSchool HD
-http://str29.ottg.online/9976/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/7CLdjHv/Mini-Max-Relax-165x165.png" logo="https://epg.openboxfan.com/picon/minimaxrelax.png" channelId="-1",MM Relax HD
-http://str29.ottg.online/4153/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5156.png" logo="http://overlay.iptvin.fun/epg/PIC/mmsmile.png" channelId="-1" tvg-id="mm-smile",MM Smile HD
-http://str29.ottg.online/3788/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",MM Tom and Jerry HD
-http://str29.ottg.online/5857/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/6413.png" logo="https://epg.openboxfan.com/picon/minimaxtranslation.png" channelId="-1" tvg-id="mm-translation",MM Translation HD
-http://str29.ottg.online/1186/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5130.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-UFO%20HD.png" channelId="-1" tvg-id="mm-ufo",MM UFO HD
-http://str29.ottg.online/4264/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5131.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-ussr-1941-1945%20HD.png" channelId="-1" tvg-id="mm-ussr45",MM USSR 1941-1945 HD
-http://str29.ottg.online/3599/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5209.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-ussr-%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%20HD.png" channelId="-1" tvg-id="mm-usssrdetektiv",MM USSR Детектив HD
-http://str29.ottg.online/7483/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",MM USSR Драма HD
-http://str29.ottg.online/3819/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5132.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-ussr-%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" channelId="-1" tvg-id="mm-ussrkomedia",MM USSR Комедия HD
-http://str29.ottg.online/1121/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5133.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-ussr-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%20HD.png" channelId="-1" tvg-id="mm-ussrmultfilm",MM USSR Мультфильм HD
-http://str29.ottg.online/7225/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/n8BR8rf/Mini-Max-Walt-Disney-165x165.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-ussr-%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" channelId="-1" tvg-id="mm-ussrprikluchenia",MM USSR Приключения HD
-http://str29.ottg.online/9068/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5134.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-ussr-%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8%20HD.png" channelId="-1" tvg-id="mm-ussrskazki",MM USSR Сказки HD
-http://str29.ottg.online/3374/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/n8BR8rf/Mini-Max-Walt-Disney-165x165.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-walt%20disney%20HD.png" channelId="-1" tvg-id="mm-waltdisney",MM Walt Disney HD
-http://str29.ottg.online/3781/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",MM World Hits HD
-http://str29.ottg.online/6813/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5137.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%90%D0%B3%D0%B0%D1%82%D0%B0%20%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%20HD.png" channelId="-1" tvg-id="mm-agatakristi",MM Агата Кристи HD
-http://str29.ottg.online/6906/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5140.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%B1%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20classic%20HD.png" channelId="-1" tvg-id="mm-boevikclassic",MM Боевик Classic HD
-http://str29.ottg.online/4171/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5141.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%B1%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20HD.png" channelId="-1" tvg-id="mm-boevik",MM Боевик HD
-http://str29.ottg.online/2053/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5142.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%B2%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BD%20HD.png" channelId="-1" tvg-id="mm-western",MM Вестерн HD
-http://str29.ottg.online/8466/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5144.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D0%BD%D1%8B%20HD.png" channelId="-1" tvg-id="mm-voronin",MM Воронины HD
-http://str29.ottg.online/3466/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",MM Грайндхаус HD
-http://str29.ottg.online/4601/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/VHL6qh4/Mini-Max-Griffiny-165x165.png" logo="https://epg.openboxfan.com/picon/minimax%D0%B3%D1%80%D0%B8%D1%84%D1%84%D0%B8%D0%BD%D1%8B.png" channelId="-1" tvg-id="mm-griffin",MM Гриффины HD
-http://str29.ottg.online/5556/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/F4HdWVJ/Mini-Max-Drama-165x165.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%20HD.png" channelId="-1" tvg-id="mm-drama",MM Драма HD
-http://str29.ottg.online/9941/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5145.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%B7%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5%20HD.png" channelId="-1" tvg-id="mm-zatmenie",MM Затмение HD
-http://str29.ottg.online/6567/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5146.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20HD.png" channelId="-1" tvg-id="mm-istoria",MM История HD
-http://str29.ottg.online/2476/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5147.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0%20HD.png" channelId="-1" tvg-id="mm-katastrofa",MM Катастрофа HD
-http://str29.ottg.online/9725/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5148.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%BD%D0%B8%D0%BA%20HD.png" channelId="-1" tvg-id="mm-kvartirnik",MM Квартирник HD
-http://str29.ottg.online/4037/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5149.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%BF%D0%B0%D0%BD%D0%BA%20HD.png" channelId="-1" tvg-id="mm-kiberpank",MM Киберпанк HD
-http://str29.ottg.online/3441/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",MM Кинофестиваль HD
-http://str29.ottg.online/7749/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5150.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20classic%20HD.png" channelId="-1" tvg-id="mm-komediaclassic",MM Комедия Classic HD
-http://str29.ottg.online/4024/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5151.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" channelId="-1" tvg-id="mm-komedia",MM Комедия HD
-http://str29.ottg.online/8038/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5152.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%20HD.png" channelId="-1" tvg-id="mm-kriminal",MM Криминал HD
-http://str29.ottg.online/5220/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5153.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BA%D1%80%D1%83%D1%82%D1%8B%D0%B5%2090-%D0%B5%20HD.png" channelId="-1" tvg-id="mm-krut90",MM Крутые 90-е HD
-http://str29.ottg.online/5495/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5154.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BA%D1%83%D0%BD%D0%B3-%D1%84%D1%83%20HD.png" channelId="-1" tvg-id="mm-kungfu",MM Кунг-Фу HD
-http://str29.ottg.online/3715/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/6411.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D0%BC%D0%B8%D1%80%20HD.png" channelId="-1" tvg-id="mm-makromir",MM Макромир HD
-http://str29.ottg.online/4234/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/6412.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BC%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8%D1%80%20HD.png" channelId="-1" tvg-id="mm-megamir",MM Мегамир HD
-http://str29.ottg.online/5908/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/6410.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BC%D0%B8%D1%80%20HD.png" channelId="-1" tvg-id="mm-mikromir",MM Микромир HD
-http://str29.ottg.online/2131/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5157.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20HD.png" channelId="-1" tvg-id="mm-mifologia",MM Мифология HD
-http://str29.ottg.online/5157/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5158.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BD%D1%83%D0%B0%D1%80%20HD.png" channelId="-1" tvg-id="mm-nuar",MM Нуар HD
-http://str29.ottg.online/6491/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/P1m9MTK/Mini-Max-Otkrytiya-165x165.png" logo="https://epg.openboxfan.com/picon/minimaxоткрытия.png" channelId="-1",MM Открытия HD
-http://str29.ottg.online/2202/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5160.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20HD.png" channelId="-1" tvg-id="mm-pogruzhenie",MM Погружение HD
-http://str29.ottg.online/7686/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",MM Полицейский с Рублёвки HD
-http://str29.ottg.online/8573/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5161.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" channelId="-1" tvg-id="mm-prikluchenia",MM Приключения HD
-http://str29.ottg.online/4596/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5163.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%80%D0%BE%D1%81%D0%BA%D0%B8%D0%BD%D0%BE%20HD.png" channelId="-1" tvg-id="mm-roskino",MM Роскино HD
-http://str29.ottg.online/1488/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5164.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%81%D0%B2%D0%B0%D1%82%D1%8B%20HD.png" channelId="-1" tvg-id="mm-svaty",MM Сваты HD
-http://str29.ottg.online/3318/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5210.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%201%20HD.png" channelId="-1" tvg-id="mm-semejny1",MM Семейный 1 HD
-http://str29.ottg.online/1358/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5211.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%202%20HD.png" channelId="-1" tvg-id="mm-semejny2",MM Семейный 2 HD
-http://str29.ottg.online/2262/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",MM Синематограф HD
-http://str29.ottg.online/3812/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы",MM Ситком 2.0 HD
-http://str29.ottg.online/6880/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5165.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%81%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%20HD.png" channelId="-1" tvg-id="mm-sitkom",MM Ситком HD
-http://str29.ottg.online/2511/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5166.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C%20HD.png" channelId="-1" tvg-id="mm-skorost",MM Скорость HD
-http://str29.ottg.online/1581/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5167.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%81%D0%BF%D0%BE%D1%80%D1%82%20HD.png" channelId="-1" tvg-id="mm-sport",MM Спорт HD
-http://str29.ottg.online/3451/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5168.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%20%D0%9A%D0%B8%D0%BD%D0%B3%20HD.png" channelId="-1" tvg-id="mm-stivenking",MM Стивен Кинг HD
-http://str29.ottg.online/7848/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5169.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%20HD.png" channelId="-1" tvg-id="mm-supergeroi",MM Супергерои HD
-http://str29.ottg.online/1556/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5171.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%82%D1%80%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%20HD.png" channelId="-1" tvg-id="mm-triller",MM Триллер HD
-http://str29.ottg.online/4829/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5172.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%83%D0%B6%D0%B0%D1%81%D1%82%D0%B8%D0%BA%20HD.png" channelId="-1" tvg-id="mm-uzhastik",MM Ужастик HD
-http://str29.ottg.online/4708/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5215.png" logo="https://epg.openboxfan.com/picon/minimaxужасыclassic.png" channelId="-1" tvg-id="mm-uzhasyclassic",MM Ужасы Classic HD
-http://str29.ottg.online/6908/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5212.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%83%D0%B6%D0%B0%D1%81%D1%8B%20HD.png" channelId="-1" tvg-id="mm-uzhasy",MM Ужасы HD
-http://str29.ottg.online/5519/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5175.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20HD.png" channelId="-1" tvg-id="mm-fantastika",MM Фантастика HD
-http://str29.ottg.online/6901/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/5176.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D1%84%D0%BE%D0%B1%D0%B8%D1%8F%20HD.png" channelId="-1" tvg-id="mm-fobia",MM Фобия HD
-http://str29.ottg.online/4293/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.one/img/5128.png" logo="https://epg.openboxfan.com/picon/minimaxrock.png" channelId="-1",MM Rock HD
-http://str29.ottg.online/2952/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Музыкальные",Vuemme TV
-http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="https://i.postimg.cc/ZY8t5CpN/8698f8174bf9151672bf27e9d1cd1f35.png" logo="https://i.postimg.cc/m2TxzBy5/f7b9111271a7ddf921e8a7104525471f.png" channelId="3877" tvg-id="m1global",MMA-TV
-http://ead1a.de2.mirror-tv.net:88/s/05bf6016/m1-global.m3u8
-#EXTINF:-1 group-title="Общие",MMA-TV.COM
-http://213.226.137.140:81/tl/l404/mpegts
-#EXTINF:-1 group-title="Общие",MMA_TV HD
-http://45.151.69.10:8887/8380/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Action HD
-http://45.151.69.10:8887/8745/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Boevik_Classic HD
-http://45.151.69.10:8887/8411/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Celebrity HD
-http://45.151.69.10:8887/8991/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Detektiv HD
-http://45.151.69.10:8887/8656/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Drama HD
-http://45.151.69.10:8887/8894/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Flip UHD
-http://45.151.69.10:8887/8404/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Fobiya HD
-http://45.151.69.10:8887/8994/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Horror HD
-http://45.151.69.10:8887/8725/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Istoriya HD
-http://45.151.69.10:8887/8933/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Katastrofa HD
-http://45.151.69.10:8887/8746/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Kiberpank HD
-http://45.151.69.10:8887/8545/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Komediya HD
-http://45.151.69.10:8887/8708/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Komediya_sssr HD
-http://45.151.69.10:8887/8744/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Krytue_90e HD
-http://45.151.69.10:8887/8547/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Kung_Fu HD
-http://45.151.69.10:8887/8559/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Love HD
-http://45.151.69.10:8887/8328/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Multfilm HD
-http://45.151.69.10:8887/8913/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_NewFilm_1 HD
-http://45.151.69.10:8887/8741/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_NewFilm_2 HD
-http://45.151.69.10:8887/8742/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_NewFilm_3 HD
-http://45.151.69.10:8887/8743/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_NewFilm_ru HD
-http://45.151.69.10:8887/8706/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_SuperHeroes HD
-http://45.151.69.10:8887/8710/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Svaty HD
-http://45.151.69.10:8887/8893/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Tom&Jarry HD
-http://45.151.69.10:8887/8997/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_UFO HD
-http://45.151.69.10:8887/8410/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_Walt_Disney HD
-http://45.151.69.10:8887/8914/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",MM_rosKino HD
-http://45.151.69.10:8887/8709/index.m3u8?token=iptvin.ru
-#EXTINF:-1 group-title="Общие",Vuemme TV
-http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/ZY8t5CpN/8698f8174bf9151672bf27e9d1cd1f35.png" logo="https://i.postimg.cc/m2TxzBy5/f7b9111271a7ddf921e8a7104525471f.png" channelId="3877" tvg-id="m1global",MMA-TV HD
-http://str29.ottg.online/8318/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/ZY8t5CpN/8698f8174bf9151672bf27e9d1cd1f35.png" logo="https://i.postimg.cc/m2TxzBy5/f7b9111271a7ddf921e8a7104525471f.png" channelId="3877" tvg-id="m1global",MMA-TV
-http://str29.ottg.online/8036/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
-#EXTINF:-1 group-title="Без группы",MMA-TV.COM HD
-http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNjo1OToyOCBBTSZoYXNoX3ZhbHVlPWJSQ2oxSE9DVkpwclNId3BrdHlTeEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Без группы",MMA-TV.COM
-http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM1NzcxNjYsImlhdCI6MTc0MzQ5MDc2NiwiY2lkIjo2LCJ1aWQiOjkwNTk3NDY0OSwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.qQmOCsIrW7g1F1uhqHhj4IzR2vps995tUVKzyjuzxfE&offset=10
-#EXTINF:-1 group-title="Без группы",MMA-TV.com
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=M1_Global
-#EXTINF:-1 group-title="Без группы",Vuemme TV
-http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
-#EXTINF:-1 group-title="Без группы",gnumme
-https://hls.goodgame.ru/hls/19272_720.m3u8
-#EXTINF:-1,Pornbox: Mommy Blows Best
-http://tvmate.icu:8080/live/jazzlove087gmail.com3/XmqC8037Yn/160015.m3u8
-#EXTINF:-1 group-title="Turkey",TBMM TV
-https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-#EXTINF:-1 group-title="VIP Cinema+",MM Скорость 1920x1080
-http://hls127.homeiptv.org:8080/minimax-skorost-m4f/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/6412.png" logo="http://overlay.iptvin.online/epg/PIC/%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BA%D1%81-%D0%BC%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8%D1%80%20HD.png" channelId="-1" tvg-id="mm-megamir",MM Мегамир HD
-http://ecc91067.rossteleccom.net/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/18195/index.m3u8
-#EXTINF:-1 group-title="Спорт",Bellator MMA HD
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Без группы",MMA TV
-http://sc.id-tv.kz/M-1.m3u8
-#EXTINF:-1 group-title="Без группы",MMA-TV.com
-http://87.76.32.36:9105/udp/238.1.0.119:2000
+#EXTINF:-1 group-title="Кино и сериалы",CPS Fresh HD
+http://hls127.homeiptv.org:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",CPS Fresh UA HD
+http://hls127.homeiptv.org:8080/CPS_Fresh_UA/video.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img/5606.png",Fresh HD AM
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 tvg-name="Radio Fresh (Австралия)" group-title="Радио",Radio Fresh (Австралия)
+http://live.fresh927.com.au/freshmp3
+#EXTINF:-1 tvg-name="Radio Fresh FM (BG)" group-title="Радио",Radio Fresh FM (BG)
+http://193.108.24.21:8000/fresh
+#EXTINF:-1 tvg-name="Radio Kiss (UK) - Fresh" group-title="Радио",Radio Kiss (UK) - Fresh
+http://91.193.245.198/kissfresh.mp3
+#EXTINF:-1 tvg-name="Radio Kronehit Fresh" group-title="Радио",Radio Kronehit Fresh
+https://secureonair.krone.at/kronehit22.mp3
+#EXTINF:-1 tvg-name="Radio Novosti Fresh" group-title="Радио",Radio Novosti Fresh
+https://novosti.radiostreaming.rs/novosti8
+#EXTINF:-1 tvg-name="АМГ Радио- Fresh" group-title="Радио",АМГ Радио- Fresh
+http://fresh.amgradio.ru/Fresh
+#EXTINF:-1 tvg-name="Новое радио (BY) - Fresh" group-title="Радио",Новое радио (BY) - Fresh
+https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio
+#EXTINF:-1 tvg-name="Радио Fresh FM (Кингисепп)" group-title="Радио",РадиоFresh FM (Кингисепп)
+http://free.radioheart.ru:8000/COMEDY_KING_96.5
+#EXTINF:-1 tvg-name="Радио Fresh FM (Сосновый бор)" group-title="Радио",РадиоFresh FM (Сосновый бор)
+http://a2.radioheart.ru:8007/live
+#EXTINF:-1 tvg-name="Радио Fresh FM" group-title="Радио",РадиоFresh FM
+http://icecast-ext.dimfm.ru:8000/fresh-320
+#EXTINF:-1 tvg-language="Armenian" tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148" group-title="Армения" tvg-id="hlsproxy-58" Fresh TV
+http://158.101.211.157:2020/channel/4c91bd17/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 group-title="Кино и сериалы",Sky High Fresh HD
+http://str29.ottg.online/3334/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Sky High Fresh HDR HD
+http://str29.ottg.online/4846/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Общие",Fresh Adventure HD
+http://91.204.123.195:80/432/index.m3u8
+#EXTINF:-1 group-title="Общие",Fresh Cinema HD
+http://91.204.123.195:80/423/index.m3u8
+#EXTINF:-1 group-title="Общие",Fresh Comedy HD
+http://91.204.123.195:80/426/index.m3u8
+#EXTINF:-1 group-title="Общие",Fresh Family
+http://91.204.123.195:80/427/index.m3u8
+#EXTINF:-1 group-title="Общие",Fresh Fantastic HD
+http://91.204.123.195:80/429/index.m3u8
+#EXTINF:-1 group-title="Общие",Fresh Horror HD
+http://91.204.123.195:80/431/index.m3u8
+#EXTINF:-1 group-title="Общие",Fresh Kids HD
+http://91.204.123.195:80/425/index.m3u8
+#EXTINF:-1 group-title="Общие",Fresh Premiere
+http://91.204.123.195:80/424/index.m3u8
+#EXTINF:-1 group-title="Общие",Fresh Rating HD
+http://91.204.123.195:80/422/index.m3u8
+#EXTINF:-1 group-title="Общие",Fresh Romantic
+http://91.204.123.195:80/433/index.m3u8
+#EXTINF:-1 group-title="Общие",Fresh Series HD
+http://91.204.123.195:80/430/index.m3u8
+#EXTINF:-1 group-title="Общие",Fresh Thriller HD
+http://91.204.123.195:80/434/index.m3u8
+#EXTINF:-1 group-title="Общие",Fresh VHS HD
+http://91.204.123.195:80/428/index.m3u8
+#EXTINF:-1 group-title="Украина",SunFM Fresh
+http://tinyurl.com/%64%65%6F%74%76%6F%6C%65%67/id464/vi%64%65o.m3u8?secret=z9uobpke
+#EXTINF:-1 group-title="Без группы",Fresh HD AM
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 group-title="Армения" tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png" logo="https://i.postimg.cc/8CDqMy8Z/2c43f3a39088b5417833eec8a005c13b.png" channelId="-1" tvg-id="freshtv",Fresh TV
+https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
+#EXTINF:-1 group-title="VIP Cinema+",CPS Fresh HD
+http://hls127.homeiptv.org:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="VIP Cinema+",CPS FreshUA HD
+http://hls127.homeiptv.org:8080/CPS_Fresh_UA/video.m3u8
+#EXTINF:-1 group-title="Армения",Fresh TV
+https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
