@@ -1,16 +1,103 @@
-#EXTINF:-1 group-title="Viju", viju romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Aae2ZXyY0C-jexMsUPkBnw&e=1744398095&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="Viju", Viju TV1000
-http://130.193.73.10:8937/play/a02s
-#EXTINF:-1 group-title="Viju", Viju TV1000 Action
-http://130.193.73.10:8937/play/a02t
-#EXTINF:-1 group-title="Viju", Viju TV1000 Русское
-http://130.193.73.10:8937/play/a02u
-#EXTINF:-1 group-title="Viju", Viju Nature
-http://130.193.73.10:8937/play/a01k
-#EXTINF:-1 group-title="Viju", Viju History
-http://188.190.222.53/Viasat_History/index.m3u8
-#EXTINF:-1 group-title="Viju", Viju Explore
-http://cdntv.online/high/5px3ac89zsm2/317.m3u8
-#EXTINF:-1 group-title="Viju", Viju+ Sport
-http://31.173.165.29:8000/play/a017/index.m3u8
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/epg/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",Liberty-2025-4-1-22-04 http://iptvin.ru
+http://overlay.iptvin.fun/iptvin.ru.mp4
+#EXTINF:-1 group-title="Кино и сериалы",Liberty BBC HD
+http://str29.ottg.online/7909/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty DC HD
+http://str29.ottg.online/3021/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Disney HD
+http://str29.ottg.online/3333/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Fan HD
+http://str29.ottg.online/2448/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Marvel 4K
+http://str29.ottg.online/9072/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Netflix 4K
+http://str29.ottg.online/5347/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Pixar HD
+http://str29.ottg.online/9400/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty South Park HD
+http://str29.ottg.online/1803/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty XX Век 4K
+http://str29.ottg.online/4671/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Аванпост 4K
+http://str29.ottg.online/4051/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Автогир HD
+http://str29.ottg.online/3001/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Аниме HD
+http://str29.ottg.online/6972/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Бебимульт HD
+http://str29.ottg.online/5126/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Боевики HD
+http://str29.ottg.online/4628/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Занавес HD
+http://str29.ottg.online/6641/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Индия 4K
+http://str29.ottg.online/7566/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Кино ENG 4K
+http://str29.ottg.online/3418/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Кино UKR 4K
+http://str29.ottg.online/3182/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Кино UKR HD
+http://str29.ottg.online/8087/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Кино Микс 4K
+http://str29.ottg.online/6172/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Комедии HD
+http://str29.ottg.online/2056/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Короткометражный HD
+http://str29.ottg.online/7449/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Криминал 4K
+http://str29.ottg.online/6935/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Крош HD
+http://str29.ottg.online/2832/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Куб 4K
+http://str29.ottg.online/8143/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Легенда 4K
+http://str29.ottg.online/5513/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Мелодрамы HD
+http://str29.ottg.online/5629/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Мим HD
+http://str29.ottg.online/4487/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Мульт 4K
+http://str29.ottg.online/1696/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Мульт ENG 4K
+http://str29.ottg.online/5793/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Мульт UKR 4K
+http://str29.ottg.online/8196/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Мульт UKR HD
+http://str29.ottg.online/1461/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Наука HD
+http://str29.ottg.online/1193/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Планета360 HD
+http://str29.ottg.online/3228/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Планктон HD
+http://str29.ottg.online/2486/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Русфильм 4K
+http://str29.ottg.online/5977/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Сваты HD
+http://str29.ottg.online/7963/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Семейный 4K
+http://str29.ottg.online/3348/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Сериалы 4K
+http://str29.ottg.online/6524/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Сериалы HD
+http://str29.ottg.online/9268/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Симпсоны HD
+http://str29.ottg.online/4040/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Сказки HD
+http://str29.ottg.online/6310/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Союз 4K
+http://str29.ottg.online/4195/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Триллеры 4K
+http://str29.ottg.online/2300/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Туркфильм 4K
+http://str29.ottg.online/7188/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Ужасы 4K
+http://str29.ottg.online/3214/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Шоу HD
+http://str29.ottg.online/8558/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Музыкальные",Liberty МиксMusic HD
+http://str29.ottg.online/7283/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Познавательные",Liberty Эротика HD
+http://str29.ottg.online/6052/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы",Liberty Нетфликс 4K
+http://wps5c7yt.rostelekom.xyz/iptv/TQTGTV6WW58X62U7LLRM5DM4/19402/index.m3u8
