@@ -1,0 +1,512 @@
+#EXTM3U
+#EXTINF:-1, PolzaFre IPTV
+https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/epg/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",viju-2025-4-1-19-04 http://iptvin.ru
+http://overlay.iptvin.fun/iptvin.ru.mp4
+#EXTINF:-1 group-title="",vijuTV1000romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=yPHg7zHOfpZ91Z_U2Kz4AQ&e=1740600350&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="",vijuTV1000новелла
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=QqdyfDPQu79V9Hr30o-j_w&e=1740246539&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Beetv" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/61fec69de70bab6cc834_60x60.jpg" tvg-id="hlsproxy-194",viju Explore HD
+http://87.99.87.203:2007/channel/n64ac12f4/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Beetv" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/b39fef11291da9460741_60x60.jpg" tvg-id="hlsproxy-196",viju History HD
+http://87.99.87.203:2007/channel/n58f3c895/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Beetv" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/f62139ad70f9c6ba8ab7_60x60.jpg" tvg-id="hlsproxy-197",viju Nature HD
+http://87.99.87.203:2007/channel/1bdc2352/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Beetv" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/74eb9199703f0134f7b1_60x60.jpg" tvg-id="hlsproxy-171",viju TV1000 HD
+http://87.99.87.203:2007/channel/n32f03c08/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Beetv" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/4841875879d0123f7b81_60x60.jpg" tvg-id="hlsproxy-172",viju TV1000 action HD
+http://87.99.87.203:2007/channel/1c2400aa/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Beetv" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/80b83be50eb9e05a6f67_60x60.png" tvg-id="hlsproxy-429",viju TV1000 русское HD
+http://87.99.87.203:2007/channel/72281e2a/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Beetv" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/e3d92e452f3b9f8491a0_60x60.jpg" tvg-id="hlsproxy-173",viju+ Comedy HD
+http://87.99.87.203:2007/channel/n446852cf/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Beetv" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/e1f735f6deed4442245a_60x60.jpg" tvg-id="hlsproxy-174",viju+ Megahit HD
+http://87.99.87.203:2007/channel/3ac7980d/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Beetv" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/5d14526d862698d35536_60x60.jpg" tvg-id="hlsproxy-175",viju+ Premiere HD
+http://87.99.87.203:2007/channel/28aeeed1/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Beetv" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/d10c0eb3cfb280ef056f_60x60.jpg" tvg-id="hlsproxy-55135",viju+ Serial HD
+http://87.99.87.203:2007/channel/3537f6/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Beetv" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/9f1a4d155695461b6423_60x60.jpg" tvg-id="hlsproxy-199",viju+ Sport
+http://87.99.87.203:2007/channel/n487d183e/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Cloudflare Inc",Viju+ Planet HD
+https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
+#EXTINF:-1 group-title="Sarkor-Telecom",Viju Explore HD
+https://flussonic.salomtv.uz/Viasat_Explorer/video.m3u8
+#EXTINF:-1 group-title="Sarkor-Telecom",Viju History HD
+https://flussonic.salomtv.uz/Viasat_History/video.m3u8
+#EXTINF:-1 group-title="Sarkor-Telecom",Viju Nature HD
+https://flussonic.salomtv.uz/Viasat_Nature/video.m3u8
+#EXTINF:-1 group-title="Starnet" tvg-id="hlsproxy-194" tvg-logo="http://158.101.211.157:2020/logos/viasat-explore.png",Viju Explore HD
+http://87.99.87.203:2007/channel/3feabb60/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Starnet" tvg-id="hlsproxy-196" tvg-logo="http://158.101.211.157:2020/logos/viasat-history.png",Viju History HD
+http://87.99.87.203:2007/channel/4ba305bf/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Starnet" tvg-id="hlsproxy-197" tvg-logo="http://158.101.211.157:2020/logos/viasat-nature.png",Viju Nature HD
+http://87.99.87.203:2007/channel/n6b37c582/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Starnet" tvg-id="hlsproxy-172" tvg-logo="http://158.101.211.157:2020/logos/tv1000-action.png",Viju TV1000 Action HD
+http://87.99.87.203:2007/channel/n711a2022/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Starnet" tvg-id="hlsproxy-171" tvg-logo="http://158.101.211.157:2020/logos/tv1000.png",Viju TV1000 HD
+http://87.99.87.203:2007/channel/45fbdb24/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Starnet" tvg-id="hlsproxy-429" tvg-logo="http://158.101.211.157:2020/logos/tv1000-russkoe.png",Viju TV1000 Русское HD
+http://87.99.87.203:2007/channel/57a22576/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Starnet" tvg-id="hlsproxy-173" tvg-logo="http://158.101.211.157:2020/logos/vip-comedy.png",Viju+ Comedy HD
+http://87.99.87.203:2007/channel/602e7b85/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Starnet" tvg-id="hlsproxy-174" tvg-logo="http://158.101.211.157:2020/logos/vip-megahit.png",Viju+ Megahit HD
+http://87.99.87.203:2007/channel/290a9439/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Starnet" tvg-id="hlsproxy-198" tvg-logo="http://158.101.211.157:2020/logos/viasat-nature-hd-history-hd.png",Viju+ Planet HD
+http://87.99.87.203:2007/channel/44a14026/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Starnet" tvg-id="hlsproxy-175" tvg-logo="http://158.101.211.157:2020/logos/vip-premiere.png",Viju+ Premiere HD
+http://87.99.87.203:2007/channel/2cb7825/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Starnet" tvg-id="hlsproxy-55135" tvg-logo="http://158.101.211.157:2020/logos/vip-serial.png",Viju+ Serial HD
+http://87.99.87.203:2007/channel/n5b33f9b6/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 group-title="Starnet" tvg-id="hlsproxy-199" tvg-logo="http://158.101.211.157:2020/logos/viasat-sport.png",Viju+ Sport HD
+http://87.99.87.203:2007/channel/n1c7b7eba/index.m3u8?q=66a6423f297e15732552f053875b2722
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=aPP5XBTN0AifLCMEptXtAQ&e=1740246462&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad50
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action
+http://185.50.148.2:7703/TV1000Action/index.m3u8
+#EXTINF:-1 tvg-name="tv1000-action-cee" group-title="Кино и сериалы" tvg-id="hlsproxy-172" tvg-logo="http://158.101.211.157:2020/logos/tv1000-action.png",Viju TV1000 Action
+http://158.101.211.157:2020/channel/73d3b296/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы",Viju TV1000 HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=wwti_y32n99TetZ6XoOeKg&e=1740246227&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-171" tvg-logo="http://158.101.211.157:2020/logos/tv1000.png",Viju TV1000 Новелла
+http://158.101.211.157:2020/channel/n60cfbb4/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское
+http://185.50.148.2:7703/TV1000RusKino/index.m3u8
+#EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы",Viju TV1000
+http://185.50.148.2:7703/TV1000/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ Comedy HD
+http://arbiter.bolshoe.tv/?path=abr2/tv_1000_comedy_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDI1IDg6MDQ6NDEgQU0maGFzaF92YWx1ZT1RTDFrVEpNd2tqeGJhL3NLajE1T0Z3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ Comedy
+http://77.239.125.42:8070/Dimonovich1982_tv1000comedyhd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ Megahit HD
+http://arbiter.bolshoe.tv/?path=abr2/tv_1000_megahit_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDI1IDg6MDQ6NDEgQU0maGFzaF92YWx1ZT1RTDFrVEpNd2tqeGJhL3NLajE1T0Z3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ Megahit
+http://77.239.125.42:8070/Dimonovich1982_tv1000megahithd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ Premiere HD
+http://arbiter.bolshoe.tv/?path=abr2/tv1000_premium_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDI1IDg6MDQ6NDEgQU0maGFzaF92YWx1ZT1RTDFrVEpNd2tqeGJhL3NLajE1T0Z3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ Premiere
+http://77.239.125.42:8070/Dimonovich1982_tv1000premiumhd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ Serial
+http://77.239.125.42:8070/Dimonovich1982_viasatgolfhd/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/64.jpg" tvg-id="hlsproxy-172",viju TV1000 Action
+http://158.101.211.157:2020/channel/n1d000267/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="hlsproxy-171" tvg-logo="http://158.101.211.157:2020/logos/tv1000.png",viju TV1000 Romantica
+http://158.101.211.157:2020/channel/n4d48c330/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Viju_TV1000_Romantica.svg/revision/latest/scale-to-width-down/284?cb=20240928200507" tvg-id="viju-tv1000-romantica" group-title="Кино и сериалы",viju TV1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=yPHg7zHOfpZ91Z_U2Kz4AQ&e=1740600350&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="viju-tv1000-novella" group-title="Кино и сериалы",viju TV1000 Новелла
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=QqdyfDPQu79V9Hr30o-j_w&e=1740246539&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/118.png" tvg-id="hlsproxy-429",viju TV1000 Русское
+http://158.101.211.157:2020/channel/5752faee/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/100.png" tvg-id="hlsproxy-171",viju TV1000
+http://158.101.211.157:2020/channel/58b8c63d/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://pl.ottglanz.tv:80/icon/2903.png" tvg-id="hlsproxy-173",viju+ Comedy HD
+http://158.101.211.157:2020/channel/n28e30f73/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://pl.ottglanz.tv:80/icon/8448.png" tvg-id="hlsproxy-174",viju+ Megahit HD
+http://158.101.211.157:2020/channel/n70153fcf/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://pl.ottglanz.tv:80/icon/8785.png" tvg-id="hlsproxy-175",viju+ Premiere HD
+http://158.101.211.157:2020/channel/77f0cb2d/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/2838.png" tvg-id="hlsproxy-55135",viju+ Serial HD
+http://158.101.211.157:2020/channel/1bba7b52/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 group-title="Орбита Плюс",viju+ Sport
+https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viju Explore
+http://185.50.148.2:7703/ViasatExplorer/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viju History
+http://185.50.148.2:7703/ViasatHistory/index.m3u8
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные",Viju Nature
+http://185.50.148.2:7703/ViasatNature/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viju+ Planet HD
+http://130.193.73.10:8937/play/a01l
+#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-194" tvg-logo="http://158.101.211.157:2020/logos/viasat-explore.png",viju Explore
+http://158.101.211.157:2020/channel/2bba7434/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-196" tvg-logo="http://158.101.211.157:2020/logos/viasat-history.png",viju History HD
+http://158.101.211.157:2020/channel/n3d6e8539/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-197" tvg-logo="http://158.101.211.157:2020/logos/viasat-nature.png",viju Nature HD
+http://158.101.211.157:2020/channel/n14ccfb8a/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 group-title="Познавательные" tvg-id="hlsproxy-198" tvg-logo="http://158.101.211.157:2020/logos/viasat-nature-hd-history-hd.png",viju+ Planet
+http://158.101.211.157:2020/channel/n628cd23a/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 group-title="Спорт" tvg-id="hlsproxy-199" tvg-logo="http://158.101.211.157:2020/logos/viasat-sport.png",Viju+ Sport HD
+http://158.101.211.157:2020/channel/6b427abd/index.m3u8?q=2dc8bf12a0c121ff160edf65946e6fbd
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Спорт",Viju+ Sport HD
+http://213.226.137.140:81/tl/l97/mpegts
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Спорт",Viju+ Sport
+http://185.50.148.2:7703/ViasatSport/index.m3u8
+#EXTINF:-1 group-title="Спорт",viju+ Sport
+http://tv.ttk.mx:9187
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/9trfDfx/5e738f2ebe9772099746a3f02569d74c.png" logo="https://i.ibb.co/M71rGr7/47e5e480773b7d9aae3a37a44470fa3d.png" channelId="607" tvg-id="vip-comedy",Viju+ Comedy HD
+http://193.242.190.6:8099/202/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/6BtJWyZ/76f0b30e924a1de33960fc89374345a5.png" logo="https://i.ibb.co/Dk7XhnC/49d17121148e124b5382fa88c2f9d746.png" channelId="606" tvg-name="ViP Megahit" tvg-id="vip-megahit",Viju+ Megahit HD
+https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/GdCXSdc/5c6dd95a2d1d1ca70b3de0f71f756653.png" logo="https://i.ibb.co/whM5Zzp/b584b45deaa1ebe4b9a383bc28b40bb1.png" channelId="605" tvg-id="vip-premiere",Viju+ Premiere HD
+http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Action HD
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Action
+http://flu.ttk.mx:90/TV1000_Action/mono.m3u8?token=hs06e
+#EXTINF:-1 group-title="Без группы",Viju TV1000 HD
+http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://31.47.199.45:1403/nature/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/GdCXSdc/5c6dd95a2d1d1ca70b3de0f71f756653.png" logo="https://i.ibb.co/whM5Zzp/b584b45deaa1ebe4b9a383bc28b40bb1.png" channelId="605" tvg-id="vip-premiere",viju+ Premiere HD
+http://tinyurl.com/%64%65%6F%6F%6C%65%67%74%768/a01a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Общие",Viju TV1000 action
+http://ead1a.de2.mirror-tv.net:88/s/05bf6016/tv1000-action.m3u8
+#EXTINF:-1 group-title="Общие",Viju TV1000 русское
+http://ead1a.de2.mirror-tv.net:88/s/05bf6016/tv1000-russkoje.m3u8
+#EXTINF:-1 group-title="Общие",Viju TV1000
+http://ead1a.de2.mirror-tv.net:88/s/05bf6016/tv1000.m3u8
+#EXTINF:-1 group-title="Общие",Viju explore
+http://ead1a.de2.mirror-tv.net:88/s/05bf6016/viasat-explore.m3u8
+#EXTINF:-1 group-title="Общие",Viju history
+http://ead1a.de2.mirror-tv.net:88/s/05bf6016/viasat-history.m3u8
+#EXTINF:-1 group-title="Общие",Viju nature
+http://ead1a.de2.mirror-tv.net:88/s/05bf6016/viasat-nature.m3u8
+#EXTINF:-1 group-title="Общие",Viju+ Comedy HD Premium+
+http://str29.ottg.online/9807/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Общие",Viju+ Megahit HD Premium+
+http://str29.ottg.online/7787/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Общие",Viju+ Premiere HD Premium+
+http://str29.ottg.online/2110/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Общие",Viju+ Serial HD Premium+
+http://str29.ottg.online/2572/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/VmL2BF9/be9094037da30c4e8fe3b24932fc6b99.png" logo="https://i.ibb.co/fYQtgNc/966d19501a7230e78a562efa2ab851ec.png" channelId="1383" tvg-id="viasat-sport",Viju+ Sport HD
+http://91.204.123.195:80/333/index.m3u8
+#EXTINF:-1 group-title="Общие",Viju+ sport
+http://ead1a.de2.mirror-tv.net:88/s/05bf6016/viasat-sport.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/bbW5mGs/c8431c6b419350685df1324f50767c97.png" logo="https://i.ibb.co/RvmVJpQ/52f9133234c5744b635d900da2db9f64.png" channelId="165" tvg-name="Viasat Explore" tvg-id="viasat-explore",viju Explore HD
+http://45.151.69.10:8887/8085/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/tZ70R8r/f9594814523caac76d84b83ee2ee32cc.png" logo="https://i.ibb.co/wwmdbF2/4036b4997cd53aa9bea1f76bc2874e90.png" channelId="757" tvg-name="Viasat Nature" tvg-id="viasat-nature",viju Nature HD
+http://45.151.69.10:8887/8087/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/1G7NWxC/6f4da7d1d347497eac03b83c8470cb16.png" channelId="214" tvg-name="viju TV1000 action" tvg-id="tv1000-action",viju TV1000 Action HD
+http://str29.ottg.online/9080/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/pR9Phm4/48f58ada10d0436e42714be1d2c8860c.png" logo="https://i.ibb.co/3Bxk7gT/272b9031f767081ba38898074a6c2eff.png" channelId="66" tvg-name="viju TV1000" tvg-id="tv1000",viju TV1000 HD
+http://45.151.69.10:8887/8048/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/pR9Phm4/48f58ada10d0436e42714be1d2c8860c.png" logo="https://i.ibb.co/3Bxk7gT/272b9031f767081ba38898074a6c2eff.png" channelId="66" tvg-name="viju TV1000" tvg-id="tv1000",viju TV1000 HD
+http://str29.ottg.online/1411/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Общие",viju TV1000 Русское HD
+http://str29.ottg.online/1502/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/PDFH8jm/721e447170c7828266ecf2ae6c92e54e.png" logo="https://i.ibb.co/hfDK8Tr/a410579ccb1f78a872d239c04cd77bd7.png" channelId="66" tvg-id="tv1000",viju TV1000
+http://str29.ottg.online/9948/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Общие",viju TV1000_Action HD
+http://45.151.69.10:8887/8049/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",viju TV1000_russkoe HD
+http://45.151.69.10:8887/8050/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/9trfDfx/5e738f2ebe9772099746a3f02569d74c.png" logo="https://i.ibb.co/M71rGr7/47e5e480773b7d9aae3a37a44470fa3d.png" channelId="607" tvg-id="vip-comedy",viju+ Comedy HD
+http://45.151.69.10:8887/8108/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/9trfDfx/5e738f2ebe9772099746a3f02569d74c.png" logo="https://i.ibb.co/M71rGr7/47e5e480773b7d9aae3a37a44470fa3d.png" channelId="607" tvg-id="vip-comedy",viju+ Comedy HD
+http://str29.ottg.online/2903/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/6BtJWyZ/76f0b30e924a1de33960fc89374345a5.png" logo="https://i.ibb.co/Dk7XhnC/49d17121148e124b5382fa88c2f9d746.png" channelId="606" tvg-name="ViP Megahit" tvg-id="vip-megahit",viju+ Megahit HD
+http://45.151.69.10:8887/8109/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/6BtJWyZ/76f0b30e924a1de33960fc89374345a5.png" logo="https://i.ibb.co/Dk7XhnC/49d17121148e124b5382fa88c2f9d746.png" channelId="606" tvg-name="ViP Megahit" tvg-id="vip-megahit",viju+ Megahit HD
+http://str29.ottg.online/8448/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/GdCXSdc/5c6dd95a2d1d1ca70b3de0f71f756653.png" logo="https://i.ibb.co/whM5Zzp/b584b45deaa1ebe4b9a383bc28b40bb1.png" channelId="605" tvg-id="vip-premiere",viju+ Premiere HD
+http://45.151.69.10:8887/8119/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/GdCXSdc/5c6dd95a2d1d1ca70b3de0f71f756653.png" logo="https://i.ibb.co/whM5Zzp/b584b45deaa1ebe4b9a383bc28b40bb1.png" channelId="605" tvg-id="vip-premiere",viju+ Premiere HD
+http://str29.ottg.online/8785/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/XVgTQ5q/e45c0eda93b8649978bad11b91405952.png" logo="https://i.ibb.co/F67LccG/6af5f29fc48060b51dee4a8b1f62f626.png" channelId="3894" tvg-id="vip-serial",viju+ Serial HD
+http://str29.ottg.online/1514/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/VmL2BF9/be9094037da30c4e8fe3b24932fc6b99.png" logo="https://i.ibb.co/fYQtgNc/966d19501a7230e78a562efa2ab851ec.png" channelId="1383" tvg-id="viasat-sport",viju+ Sport HD
+http://45.151.69.10:8887/8015/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Общие",viju_TV1000_Novella HD
+http://45.151.69.10:8887/8973/index.m3u8?token=iptvin.ru
+#EXTINF:-1 group-title="Познавательные",Viju+ Explore
+http://tinyurl.com/%74%76%7A%61%74%61%6B8/qifTuixjNu/mpegts?token=gpjndAdXg8YxVEJH
+#EXTINF:-1 group-title="Познавательные",Viju+ History
+http://tinyurl.com/%74%76%7A%61%74%61%6B8/6atLTDhpTl/mpegts?token=gpjndAdXg8YxVEJH
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/bbW5mGs/c8431c6b419350685df1324f50767c97.png" logo="https://i.ibb.co/RvmVJpQ/52f9133234c5744b635d900da2db9f64.png" channelId="165" tvg-name="Viasat Explore" tvg-id="viasat-explore",viju Explore HD
+http://str29.ottg.online/3139/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/61sbQM4/fdfe456ddc50f2af40b28f5fc2b8575f.png" logo="https://i.ibb.co/XXYdRqD/6dbb4eecf3245074cd1f7293a48ae3d0.png" channelId="165" tvg-name="Viasat Explore" tvg-id="viasat-explore",viju Explore
+http://str29.ottg.online/1146/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/xqVJyKv/18f283e93549560c25cc64504c4f1340.png" logo="https://i.ibb.co/QcWkG42/e505b1ecdecff3197f9fc114dc22e9ed.png" channelId="130" tvg-name="Viasat History" tvg-id="viasat-history",viju History HD
+http://str29.ottg.online/4637/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/mq3JnBD/3de08f65bf01c568ee4b14410706be4e.png" logo="https://i.ibb.co/G5s314B/9738080a61e0624df990a537278cd4d3.png" channelId="166" tvg-name="Viasat History" tvg-id="viasat-history",viju History
+http://str29.ottg.online/1212/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/tZ70R8r/f9594814523caac76d84b83ee2ee32cc.png" logo="https://i.ibb.co/wwmdbF2/4036b4997cd53aa9bea1f76bc2874e90.png" channelId="757" tvg-name="Viasat Nature" tvg-id="viasat-nature",viju Nature HD
+http://str29.ottg.online/5532/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",viju Nature
+http://str29.ottg.online/4504/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/c62jMJp/38e084bc5676ad33dee15fefa2f9ec55.png" logo="https://i.ibb.co/9bgckMm/54d3b15df290edd822fdb3ef557e3372.png" channelId="588" tvg-id="viasat-nature-history-hd",viju+ Planet HD
+http://str29.ottg.online/8772/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/VmL2BF9/be9094037da30c4e8fe3b24932fc6b99.png" logo="https://i.ibb.co/fYQtgNc/966d19501a7230e78a562efa2ab851ec.png" channelId="1383" tvg-id="viasat-sport",viju+ Sport HD
+http://str29.ottg.online/1072/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/C0b2Bgx/d48ea0829594ea31a0d2ab8672ec2892.png" logo="https://i.ibb.co/p0V8C4t/db3c3ab8862799ebb46a0f7d579bca35.png" channelId="155" tvg-id="viasat-sport",viju+ Sport
+http://str29.ottg.online/2839/video.m3u8?token=db27e5b69aa04add74d3a0f41d99f262
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.postimg.cc/0y963s7x/35d1e6165de65a3d56fe9390584b018b.png" logo="https://i.postimg.cc/HW7783pG/c7127d5872999f7c3141b5e82401e6c3.png" channelId="-1" tvg-id="viju-tv1000-novella",viju TV1000 новелла
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=2ZgxAXejNwn3VpWugDjOYA&e=1742618293&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/c62jMJp/38e084bc5676ad33dee15fefa2f9ec55.png" logo="https://i.ibb.co/9bgckMm/54d3b15df290edd822fdb3ef557e3372.png" channelId="588" tvg-id="viasat-nature-history-hd",Viju+ Planet HD
+https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/C0b2Bgx/d48ea0829594ea31a0d2ab8672ec2892.png" logo="https://i.ibb.co/p0V8C4t/db3c3ab8862799ebb46a0f7d579bca35.png" channelId="155" tvg-id="viasat-sport",viju+ Sport
+http://tv.ttk.mx:9187
+#EXTINF:-1 group-title="Без группы",viju TV1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Aae2ZXyY0C-jexMsUPkBnw&e=1744398095&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/9trfDfx/5e738f2ebe9772099746a3f02569d74c.png" logo="https://i.ibb.co/M71rGr7/47e5e480773b7d9aae3a37a44470fa3d.png" channelId="607" tvg-id="vip-comedy",Viju+ Comedy HD
+http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM1MzEzODAsImlhdCI6MTc0MzQ0NDk4MCwiY2lkIjo2LCJ1aWQiOjkwNTg0ODY5MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.5RjOljZkMeUpXllp9a0ZFaevkqUrr8Xo8LLqAksBQc4&offset=3
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/6BtJWyZ/76f0b30e924a1de33960fc89374345a5.png" logo="https://i.ibb.co/Dk7XhnC/49d17121148e124b5382fa88c2f9d746.png" channelId="606" tvg-name="ViP Megahit" tvg-id="vip-megahit",Viju+ Megahit HD
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM1MzEzODAsImlhdCI6MTc0MzQ0NDk4MCwiY2lkIjo2LCJ1aWQiOjkwNTg0ODY5MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.5RjOljZkMeUpXllp9a0ZFaevkqUrr8Xo8LLqAksBQc4&offset=3
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/GdCXSdc/5c6dd95a2d1d1ca70b3de0f71f756653.png" logo="https://i.ibb.co/whM5Zzp/b584b45deaa1ebe4b9a383bc28b40bb1.png" channelId="605" tvg-id="vip-premiere",Viju+ Premiere HD
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM1MzEzODAsImlhdCI6MTc0MzQ0NDk4MCwiY2lkIjo2LCJ1aWQiOjkwNTg0ODY5MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.5RjOljZkMeUpXllp9a0ZFaevkqUrr8Xo8LLqAksBQc4&offset=3
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/XVgTQ5q/e45c0eda93b8649978bad11b91405952.png" logo="https://i.ibb.co/F67LccG/6af5f29fc48060b51dee4a8b1f62f626.png" channelId="3894" tvg-id="vip-serial",Viju+ Serial HD
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM1MzEzODAsImlhdCI6MTc0MzQ0NDk4MCwiY2lkIjo2LCJ1aWQiOjkwNTg0ODY5MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.5RjOljZkMeUpXllp9a0ZFaevkqUrr8Xo8LLqAksBQc4&offset=3
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/61sbQM4/fdfe456ddc50f2af40b28f5fc2b8575f.png" logo="https://i.ibb.co/XXYdRqD/6dbb4eecf3245074cd1f7293a48ae3d0.png" channelId="165" tvg-name="Viasat Explore" tvg-id="viasat-explore",Viju Explore
+http://130.193.73.10:8937/play/a01j
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/mq3JnBD/3de08f65bf01c568ee4b14410706be4e.png" logo="https://i.ibb.co/G5s314B/9738080a61e0624df990a537278cd4d3.png" channelId="166" tvg-name="Viasat History" tvg-id="viasat-history",Viju History
+http://188.190.222.53/Viasat_History/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://130.193.73.10:8937/play/a01k
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/C0b2Bgx/d48ea0829594ea31a0d2ab8672ec2892.png" logo="https://i.ibb.co/p0V8C4t/db3c3ab8862799ebb46a0f7d579bca35.png" channelId="155" tvg-id="viasat-sport",Viju+ Sport
+http://s3.merlive.am/viasatsport/index.m3u8
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Action HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=AUEALxAtkmYmIibPESjtdw&e=1743575210&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Action
+http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM1MzEzODAsImlhdCI6MTc0MzQ0NDk4MCwiY2lkIjo2LCJ1aWQiOjkwNTg0ODY5MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.5RjOljZkMeUpXllp9a0ZFaevkqUrr8Xo8LLqAksBQc4&offset=3
+#EXTINF:-1 group-title="Без группы",Viju TV1000 HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=drVbRyiaEbVJ_ZYOey7AXQ&e=1743575189&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Русское HD
+http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM1MzEzODAsImlhdCI6MTc0MzQ0NDk4MCwiY2lkIjo2LCJ1aWQiOjkwNTg0ODY5MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.5RjOljZkMeUpXllp9a0ZFaevkqUrr8Xo8LLqAksBQc4&offset=3
+#EXTINF:-1 group-title="Без группы",Viju TV1000
+http://130.193.73.10:8937/play/a02s
+#EXTINF:-1 group-title="Без группы",viju TV1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=dGl6AFJnDNX9roNQ_jM59g&e=1743018185&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Без группы",viju TV1000 Новелла
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=2ZgxAXejNwn3VpWugDjOYA&e=1742618293&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/gP633Xq/a82ced18ceaa247241f263f1bd2597dc.png" logo="https://i.ibb.co/GJ2stmP/fc4c0d4c84d48fb853b5dc3b6c5db4c3.png" channelId="607" tvg-id="vip-comedy",Viju+ Comedy
+http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/t34C6WZ/0e5f26c0b175f980ffbc940f8c897ce6.png" logo="https://i.ibb.co/R38FjVX/ae04e726476834e50e9844a1cc92e3c2.png" channelId="605" tvg-id="vip-premiere",Viju+ Premiere
+http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/PDFH8jm/721e447170c7828266ecf2ae6c92e54e.png" logo="https://i.ibb.co/hfDK8Tr/a410579ccb1f78a872d239c04cd77bd7.png" channelId="66" tvg-id="tv1000",viju TV1000
+http://135.181.115.81:8000/play/a047/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/C0b2Bgx/d48ea0829594ea31a0d2ab8672ec2892.png" logo="https://i.ibb.co/p0V8C4t/db3c3ab8862799ebb46a0f7d579bca35.png" channelId="155" tvg-id="viasat-sport",viju+ Sport
+http://stream02.vnet.am/AutoPlus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Action
+http://91.205.199.3/tv1000action/index.m3u8
+#EXTINF:-1 group-title="Без группы",Viju TV1000
+http://91.205.199.3/tv1000/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/9trfDfx/5e738f2ebe9772099746a3f02569d74c.png" logo="https://i.ibb.co/M71rGr7/47e5e480773b7d9aae3a37a44470fa3d.png" channelId="607" tvg-id="vip-comedy",Viju+ Comedy HD
+http://91.205.199.3:80/vipcomedi/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/gP633Xq/a82ced18ceaa247241f263f1bd2597dc.png" logo="https://i.ibb.co/GJ2stmP/fc4c0d4c84d48fb853b5dc3b6c5db4c3.png" channelId="607" tvg-id="vip-comedy",Viju+ Comedy
+http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/t34C6WZ/0e5f26c0b175f980ffbc940f8c897ce6.png" logo="https://i.ibb.co/R38FjVX/ae04e726476834e50e9844a1cc92e3c2.png" channelId="605" tvg-id="vip-premiere",Viju+ Premiere
+http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/PDFH8jm/721e447170c7828266ecf2ae6c92e54e.png" logo="https://i.ibb.co/hfDK8Tr/a410579ccb1f78a872d239c04cd77bd7.png" channelId="66" tvg-id="tv1000",viju TV1000
+http://135.181.115.81:8000/play/a047/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/C0b2Bgx/d48ea0829594ea31a0d2ab8672ec2892.png" logo="https://i.ibb.co/p0V8C4t/db3c3ab8862799ebb46a0f7d579bca35.png" channelId="155" tvg-id="viasat-sport",Viju+ Sport
+http://stream02.vnet.am/AutoPlus/mono.m3u8
+#EXTINF:-1 group-title="Россия",viju+ Sport
+http://stream02.vnet.am/AutoPlus/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/bbW5mGs/c8431c6b419350685df1324f50767c97.png" logo="https://i.ibb.co/RvmVJpQ/52f9133234c5744b635d900da2db9f64.png" channelId="165" tvg-name="Viasat Explore" tvg-id="viasat-explore",Viju Explore HD
+http://cdntv.online/high/5px3ac89zsm2/373.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/bbW5mGs/c8431c6b419350685df1324f50767c97.png" logo="https://i.ibb.co/RvmVJpQ/52f9133234c5744b635d900da2db9f64.png" channelId="165" tvg-name="Viasat Explore" tvg-id="viasat-explore",Viju Explore HD
+http://ip1.orgip.net/417/video.m3u8?token=A3b61a999e
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/61sbQM4/fdfe456ddc50f2af40b28f5fc2b8575f.png" logo="https://i.ibb.co/XXYdRqD/6dbb4eecf3245074cd1f7293a48ae3d0.png" channelId="165" tvg-name="Viasat Explore" tvg-id="viasat-explore",Viju Explore
+http://cdntv.online/high/5px3ac89zsm2/317.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/xqVJyKv/18f283e93549560c25cc64504c4f1340.png" logo="https://i.ibb.co/QcWkG42/e505b1ecdecff3197f9fc114dc22e9ed.png" channelId="130" tvg-name="Viasat History" tvg-id="viasat-history",Viju History HD
+http://cdntv.online/high/5px3ac89zsm2/374.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/xqVJyKv/18f283e93549560c25cc64504c4f1340.png" logo="https://i.ibb.co/QcWkG42/e505b1ecdecff3197f9fc114dc22e9ed.png" channelId="130" tvg-name="Viasat History" tvg-id="viasat-history",Viju History HD
+http://ip1.orgip.net/410/video.m3u8?token=A3b61a999e
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/mq3JnBD/3de08f65bf01c568ee4b14410706be4e.png" logo="https://i.ibb.co/G5s314B/9738080a61e0624df990a537278cd4d3.png" channelId="166" tvg-name="Viasat History" tvg-id="viasat-history",Viju History
+http://cdntv.online/high/5px3ac89zsm2/318.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/tZ70R8r/f9594814523caac76d84b83ee2ee32cc.png" logo="https://i.ibb.co/wwmdbF2/4036b4997cd53aa9bea1f76bc2874e90.png" channelId="757" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature HD
+http://cdntv.online/high/5px3ac89zsm2/319.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/tZ70R8r/f9594814523caac76d84b83ee2ee32cc.png" logo="https://i.ibb.co/wwmdbF2/4036b4997cd53aa9bea1f76bc2874e90.png" channelId="757" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature HD
+http://ip1.orgip.net/449/video.m3u8?token=A3b61a999e
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/c62jMJp/38e084bc5676ad33dee15fefa2f9ec55.png" logo="https://i.ibb.co/9bgckMm/54d3b15df290edd822fdb3ef557e3372.png" channelId="588" tvg-id="viasat-nature-history-hd",Viju+ Planet HD
+http://ip1.orgip.net/420/video.m3u8?token=A3b61a999e
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/K0P4PvN/9389d0963e40befe01ee9fca7b0cce9b.png" logo="https://i.ibb.co/XpCvq42/b86f61452caa8a5c7518b7a0cd5ecc76.png" channelId="588" tvg-id="viasat-nature-history-hd",Viju+ Planet
+http://cdntv.online/high/5px3ac89zsm2/375.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/gP633Xq/a82ced18ceaa247241f263f1bd2597dc.png" logo="https://i.ibb.co/GJ2stmP/fc4c0d4c84d48fb853b5dc3b6c5db4c3.png" channelId="607" tvg-id="vip-comedy",Viju+ Comedy
+http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/t34C6WZ/0e5f26c0b175f980ffbc940f8c897ce6.png" logo="https://i.ibb.co/R38FjVX/ae04e726476834e50e9844a1cc92e3c2.png" channelId="605" tvg-id="vip-premiere",Viju+ Premiere
+http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/PDFH8jm/721e447170c7828266ecf2ae6c92e54e.png" logo="https://i.ibb.co/hfDK8Tr/a410579ccb1f78a872d239c04cd77bd7.png" channelId="66" tvg-id="tv1000",viju TV1000
+http://135.181.115.81:8000/play/a047/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/9trfDfx/5e738f2ebe9772099746a3f02569d74c.png" logo="https://i.ibb.co/M71rGr7/47e5e480773b7d9aae3a37a44470fa3d.png" channelId="607" tvg-id="vip-comedy",Viju+ Comedy HD
+http://91.205.199.3:80/vipcomedi/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/9trfDfx/5e738f2ebe9772099746a3f02569d74c.png" logo="https://i.ibb.co/M71rGr7/47e5e480773b7d9aae3a37a44470fa3d.png" channelId="607" tvg-id="vip-comedy",Viju+ Comedy HD
+https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/GdCXSdc/5c6dd95a2d1d1ca70b3de0f71f756653.png" logo="https://i.ibb.co/whM5Zzp/b584b45deaa1ebe4b9a383bc28b40bb1.png" channelId="605" tvg-id="vip-premiere",Viju+ Premiere HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=2ZgxAXejNwn3VpWugDjOYA&e=1742618293&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/mq3JnBD/3de08f65bf01c568ee4b14410706be4e.png" logo="https://i.ibb.co/G5s314B/9738080a61e0624df990a537278cd4d3.png" channelId="166" tvg-name="Viasat History" tvg-id="viasat-history",Viju History
+http://vipyxyzapi.xyz:8080/VIP01257172513273596/a2bfd138ee88/4356
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/9trfDfx/5e738f2ebe9772099746a3f02569d74c.png" logo="https://i.ibb.co/M71rGr7/47e5e480773b7d9aae3a37a44470fa3d.png" channelId="607" tvg-id="vip-comedy",Viju+ Comedy HD
+http://95.156.76.230:33001/udp/230.4.34.109:1234
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/gP633Xq/a82ced18ceaa247241f263f1bd2597dc.png" logo="https://i.ibb.co/GJ2stmP/fc4c0d4c84d48fb853b5dc3b6c5db4c3.png" channelId="607" tvg-id="vip-comedy",Viju+ Comedy
+http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/gP633Xq/a82ced18ceaa247241f263f1bd2597dc.png" logo="https://i.ibb.co/GJ2stmP/fc4c0d4c84d48fb853b5dc3b6c5db4c3.png" channelId="607" tvg-id="vip-comedy",Viju+ Comedy
+http://31.173.165.29:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/61vQCyY/4c55f3991b2e67acfd9b660c062d6e2b.png" logo="https://i.ibb.co/dkC8695/f3fc3fa9c3e55a7b4e5d09c3cbb9a526.png" channelId="606" tvg-name="ViP Megahit" tvg-id="vip-megahit",Viju+ Megahit
+http://31.173.165.29:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/GdCXSdc/5c6dd95a2d1d1ca70b3de0f71f756653.png" logo="https://i.ibb.co/whM5Zzp/b584b45deaa1ebe4b9a383bc28b40bb1.png" channelId="605" tvg-id="vip-premiere",Viju+ Premiere HD
+http://130.193.73.10:8937/play/a03g
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/GdCXSdc/5c6dd95a2d1d1ca70b3de0f71f756653.png" logo="https://i.ibb.co/whM5Zzp/b584b45deaa1ebe4b9a383bc28b40bb1.png" channelId="605" tvg-id="vip-premiere",Viju+ Premiere HD
+http://95.156.76.230:33001/udp/230.4.34.107:1234
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/t34C6WZ/0e5f26c0b175f980ffbc940f8c897ce6.png" logo="https://i.ibb.co/R38FjVX/ae04e726476834e50e9844a1cc92e3c2.png" channelId="605" tvg-id="vip-premiere",Viju+ Premiere
+http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/t34C6WZ/0e5f26c0b175f980ffbc940f8c897ce6.png" logo="https://i.ibb.co/R38FjVX/ae04e726476834e50e9844a1cc92e3c2.png" channelId="605" tvg-id="vip-premiere",Viju+ Premiere
+http://31.173.165.29:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/61sbQM4/fdfe456ddc50f2af40b28f5fc2b8575f.png" logo="https://i.ibb.co/XXYdRqD/6dbb4eecf3245074cd1f7293a48ae3d0.png" channelId="165" tvg-name="Viasat Explore" tvg-id="viasat-explore",Viju Explore
+http://130.193.73.10:8937/play/a01j
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/61sbQM4/fdfe456ddc50f2af40b28f5fc2b8575f.png" logo="https://i.ibb.co/XXYdRqD/6dbb4eecf3245074cd1f7293a48ae3d0.png" channelId="165" tvg-name="Viasat Explore" tvg-id="viasat-explore",Viju Explore
+http://31.173.165.29:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/61sbQM4/fdfe456ddc50f2af40b28f5fc2b8575f.png" logo="https://i.ibb.co/XXYdRqD/6dbb4eecf3245074cd1f7293a48ae3d0.png" channelId="165" tvg-name="Viasat Explore" tvg-id="viasat-explore",Viju Explore
+http://tv.ttk.mx:9184
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/mq3JnBD/3de08f65bf01c568ee4b14410706be4e.png" logo="https://i.ibb.co/G5s314B/9738080a61e0624df990a537278cd4d3.png" channelId="166" tvg-name="Viasat History" tvg-id="viasat-history",Viju History
+http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/mq3JnBD/3de08f65bf01c568ee4b14410706be4e.png" logo="https://i.ibb.co/G5s314B/9738080a61e0624df990a537278cd4d3.png" channelId="166" tvg-name="Viasat History" tvg-id="viasat-history",Viju History
+http://188.190.222.53/Viasat_History/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/mq3JnBD/3de08f65bf01c568ee4b14410706be4e.png" logo="https://i.ibb.co/G5s314B/9738080a61e0624df990a537278cd4d3.png" channelId="166" tvg-name="Viasat History" tvg-id="viasat-history",Viju History
+http://31.173.165.29:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/mq3JnBD/3de08f65bf01c568ee4b14410706be4e.png" logo="https://i.ibb.co/G5s314B/9738080a61e0624df990a537278cd4d3.png" channelId="166" tvg-name="Viasat History" tvg-id="viasat-history",Viju History
+http://mfe02.cliptv.az/dash/Viasat_History_SD78905ty.ism/playlist.mpd
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/mq3JnBD/3de08f65bf01c568ee4b14410706be4e.png" logo="https://i.ibb.co/G5s314B/9738080a61e0624df990a537278cd4d3.png" channelId="166" tvg-name="Viasat History" tvg-id="viasat-history",Viju History
+http://tv.ttk.mx:9185
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://130.193.73.10:8937/play/a01k
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://31.173.165.29:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/wB806kS/dbd1d29394f2ac5608020d700dcb5dc3.png" logo="https://i.ibb.co/QNdNKpF/54e509932c2845dc9bba83776caa9d90.png" channelId="172" tvg-name="Viasat Nature" tvg-id="viasat-nature",Viju Nature
+http://tv.ttk.mx:9186
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/K0P4PvN/9389d0963e40befe01ee9fca7b0cce9b.png" logo="https://i.ibb.co/XpCvq42/b86f61452caa8a5c7518b7a0cd5ecc76.png" channelId="588" tvg-id="viasat-nature-history-hd",Viju+ Planet
+http://31.173.165.29:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/C0b2Bgx/d48ea0829594ea31a0d2ab8672ec2892.png" logo="https://i.ibb.co/p0V8C4t/db3c3ab8862799ebb46a0f7d579bca35.png" channelId="155" tvg-id="viasat-sport",Viju+ Sport
+http://135.181.115.81:8000/play/a00f/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/C0b2Bgx/d48ea0829594ea31a0d2ab8672ec2892.png" logo="https://i.ibb.co/p0V8C4t/db3c3ab8862799ebb46a0f7d579bca35.png" channelId="155" tvg-id="viasat-sport",Viju+ Sport
+http://31.173.165.29:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/C0b2Bgx/d48ea0829594ea31a0d2ab8672ec2892.png" logo="https://i.ibb.co/p0V8C4t/db3c3ab8862799ebb46a0f7d579bca35.png" channelId="155" tvg-id="viasat-sport",Viju+ Sport
+http://ott-cdn.ucom.am/s38/04.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/C0b2Bgx/d48ea0829594ea31a0d2ab8672ec2892.png" logo="https://i.ibb.co/p0V8C4t/db3c3ab8862799ebb46a0f7d579bca35.png" channelId="155" tvg-id="viasat-sport",Viju+ Sport
+http://tv.ttk.mx:9187
+#EXTINF:-1 group-title="Без группы",Viju TV 1000
+http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Action
+http://130.193.73.10:8937/play/a02t
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Action
+http://31.173.165.29:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Action
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Action
+http://95.156.76.230:33001/udp/230.4.34.97:1234
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Action
+http://tv.ttk.mx:9182
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Русское
+http://130.193.73.10:8937/play/a02u
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Русское
+http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Русское
+http://31.173.165.29:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Русское
+http://95.156.76.230:33001/udp/230.4.34.96:1234
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Русское
+http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
+#EXTINF:-1 group-title="Без группы",Viju TV1000 Русское
+http://tv.ttk.mx:9183
+#EXTINF:-1 group-title="Без группы",Viju TV1000
+http://130.193.73.10:8937/play/a02s
+#EXTINF:-1 group-title="Без группы",Viju TV1000
+http://135.181.115.81:8000/play/a047/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Без группы",Viju TV1000
+http://31.173.165.29:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="Без группы",Viju TV1000
+http://95.156.76.230:33001/udp/230.4.34.98:1234
+#EXTINF:-1 group-title="Без группы",Viju TV1000
+http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
+#EXTINF:-1 group-title="Без группы",Viju TV1000
+http://tv.ttk.mx:9181
+#EXTINF:-1 group-title="Без группы",Эрос ТВ/Viju TV1000
+https://live-erostv.cdnvideo.ru/erostv/erostv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Кино и сериалы",Viju TV1000 (EDTV)
+http://130.193.73.10:8937/play/a02s
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Кино и сериалы",Viju TV1000 Action (EDTV)
+http://130.193.73.10:8937/play/a02t
+#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://iptvx.one/picons/viju-tv1000-romantica.png" group-title="Кино и сериалы",Viju TV1000 romantica HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=dGl6AFJnDNX9roNQ_jM59g&e=1743018185&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="Кино и сериалы",Viju TV1000 Русское (EDTV)
+http://130.193.73.10:8937/play/a02u
+#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="Кино и сериалы",Viju+ premiere HD
+http://130.193.73.10:8937/play/a03g
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Познавательные",Viju History (Edtv)
+http://188.190.222.53/Viasat_History/index.m3u8
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="Познавательные",Viju Nature (Edtv)
+http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="Спорт",Viju+ sport (EDTV)
+http://135.181.115.81:8000/play/a00f/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Хобби и Увлечения",Viju Explore (Edtv)
+http://130.193.73.10:8937/play/a01j
+#EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 (EDTV)
+http://130.193.73.10:8937/play/a02s
+#EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 (EDTV)
+http://130.193.73.10:8937/play/a02s
+#EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 Action (EDTV)
+http://130.193.73.10:8937/play/a02t
+#EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 Action (EDTV)
+http://130.193.73.10:8937/play/a02t
+#EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 Русское (EDTV)
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ Comedy HD
+http://91.205.199.3:80/vipcomedi/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ Comedy
+http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ Premiere
+http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ comedy HD
+http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ premiere HD
+http://130.193.73.10:8937/play/a03g
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ premiere HD
+http://130.193.73.10:8937/play/a03g
+#EXTINF:-1 group-title="Кино и сериалы",viju TV1000
+http://135.181.115.81:8000/play/a047/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино и сериалы",viju+ TV1000 action
+https://s3.merlive.am/tv1000action/index.m3u8?key=fas-tv.com
+#EXTINF:-1 group-title="Кино и сериалы",viju+ TV1000
+https://s3.merlive.am/tv1000/index.m3u8?key=fas-tv.com
+#EXTINF:-1 group-title="Кино и сериалы",viju+ megahit
+https://s3.merlive.am/vipmegahit/index.m3u8?key=fas-tv.com
+#EXTINF:-1 group-title="Кино и сериалы",viju+ serial
+https://s3.merlive.am/vipserialhd/index.m3u8?key=fas-tv.com
+#EXTINF:-1 group-title="Познавательные",Viju Explore
+https://s3.merlive.am/viasatexplorer/index.m3u8?key=fas-tv.com
+#EXTINF:-1 group-title="Познавательные",Viju History (Edtv)
+http://185.50.148.2:7703/ViasatHistory/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viju History (Edtv)
+http://185.50.148.2:7703/ViasatHistory/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viju Nature (Edtv)
+http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Познавательные",Viju Nature
+https://s3.merlive.am/viasatnature/index.m3u8?key=fas-tv.com
+#EXTINF:-1 group-title="Познавательные",Viju+ planet HD
+http://130.193.73.10:8937/play/a01l
+#EXTINF:-1 group-title="Хобби и Увлечения",Viju Explore (Edtv)
+http://130.193.73.10:8937/play/a01j
+#EXTINF:-1,Viju TV1000 Action HD
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+#EXTINF:-1,Viju TV1000 Action HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=y7n9V_dHFYYHtp7RHjvjMA&e=1742495911&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1,Viju TV1000 Action HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=y7n9V_dHFYYHtp7RHjvjMA&e=1742495911&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1,Viju TV1000 Action
+http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDE3NjczODAsImlhdCI6MTc0MTY4MDk4MCwiY2lkIjo2LCJ1aWQiOjkwMDI5NTgzMCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.vqLxBCz86wA8MUvNT4O5Lv1kI8Rmz2WosAIyDwAdFoM&offset=3
+#EXTINF:-1,Viju TV1000 Action
+http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDE3NjczODAsImlhdCI6MTc0MTY4MDk4MCwiY2lkIjo2LCJ1aWQiOjkwMDI5NTgzMCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.vqLxBCz86wA8MUvNT4O5Lv1kI8Rmz2WosAIyDwAdFoM&offset=3
+#EXTINF:-1,Viju TV1000 HD
+http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
+#EXTINF:-1,Viju TV1000 HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=fR3YgYqdplTGVMYA56DTJQ&e=1742495859&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1,Viju TV1000 HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=fR3YgYqdplTGVMYA56DTJQ&e=1742495859&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1,Viju TV1000 Русское HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
+#EXTINF:-1,Viju TV1000 Русское HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
+#EXTINF:-1,Viju TV1000
+http://93.189.224.246:52900/play/a00p/index.m3u8
+#EXTINF:-1,Viju TV1000
+http://93.189.224.246:52900/play/a00p/index.m3u8
