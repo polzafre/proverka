@@ -182,27 +182,6 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/14178/index.m3u8
 
 ----------------------------------
 
-#EXTINF:-1 group-title="MM", MM Боевик Classic HD
-http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13027/index.m3u8
-#EXTINF:-1 group-title="MM", MM История HD
-http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13033/index.m3u8
-#EXTINF:-1 group-title="MM", MM Фантастика HD
-http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13062/index.m3u8
-#EXTINF:-1 group-title="MM", MM Боевик Classic HD
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13027/index.m3u8
-#EXTINF:-1 group-title="MM", MM История HD
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13033/index.m3u8
-#EXTINF:-1 group-title="MM", MM Фантастика HD
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13062/index.m3u8
-#EXTINF:-1 group-title="MM", MM Боевик Classic HD
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13027/index.m3u8
-#EXTINF:-1 group-title="MM", MM История HD
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13033/index.m3u8
-#EXTINF:-1 group-title="MM", MM Фантастика HD
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13062/index.m3u8
-
-----------------------------------
-
 #EXTINF:-1 group-title="КИНО", Кинокомедия
 http://192.168.0.101:9090/PEERS/164
 #EXTINF:-1 group-title="КИНО", Киномикс
@@ -242,33 +221,33 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7244/index.m3u8
 
 ----------------------------------
 
-#EXTINF:-1 group-title="Fresh ", Fresh Adventure
+#EXTINF:-1 group-title="Fresh", Fresh Adventure
 http://ott.watch/stream/DZ66D3MHP4P/432.m3u8
-#EXTINF:-1 group-title="Fresh ", Fresh Cinema
+#EXTINF:-1 group-title="Fresh", Fresh Cinema
 http://ott.watch/stream/DZ66D3MHP4P/423.m3u8
-#EXTINF:-1 group-title="Fresh ", Fresh Comedy
+#EXTINF:-1 group-title="Fresh", Fresh Comedy
 http://ott.watch/stream/DZ66D3MHP4P/426.m3u8
-#EXTINF:-1 group-title="Fresh ", Fresh Family
+#EXTINF:-1 group-title="Fresh", Fresh Family
 http://ott.watch/stream/DZ66D3MHP4P/427.m3u8
-#EXTINF:-1 group-title="Fresh ", Fresh Fantastic
+#EXTINF:-1 group-title="Fresh", Fresh Fantastic
 http://ott.watch/stream/DZ66D3MHP4P/429.m3u8
-#EXTINF:-1 group-title="Fresh ", Fresh Horror
+#EXTINF:-1 group-title="Fresh", Fresh Horror
 http://ott.watch/stream/DZ66D3MHP4P/431.m3u8
-#EXTINF:-1 group-title="Fresh ", Fresh Kids
+#EXTINF:-1 group-title="Fresh", Fresh Kids
 http://ott.watch/stream/DZ66D3MHP4P/425.m3u8
-#EXTINF:-1 group-title="Fresh ", Fresh Premiere
+#EXTINF:-1 group-title="Fresh", Fresh Premiere
 http://ott.watch/stream/DZ66D3MHP4P/424.m3u8
-#EXTINF:-1 group-title="Fresh ", Fresh Rating
+#EXTINF:-1 group-title="Fresh", Fresh Rating
 http://ott.watch/stream/DZ66D3MHP4P/422.m3u8
-#EXTINF:-1 group-title="Fresh ", Fresh Romantic
+#EXTINF:-1 group-title="Fresh", Fresh Romantic
 http://ott.watch/stream/DZ66D3MHP4P/433.m3u8
-#EXTINF:-1 group-title="Fresh ", Fresh Series
+#EXTINF:-1 group-title="Fresh", Fresh Series
 http://ott.watch/stream/DZ66D3MHP4P/430.m3u8
-#EXTINF:-1 group-title="Fresh ", Fresh Thriller
+#EXTINF:-1 group-title="Fresh", Fresh Thriller
 http://ott.watch/stream/DZ66D3MHP4P/434.m3u8
-#EXTINF:-1 group-title="Fresh ", Fresh VHS
+#EXTINF:-1 group-title="Fresh", Fresh VHS
 http://ott.watch/stream/DZ66D3MHP4P/428.m3u8
-#EXTINF:-1 group-title="Fresh ", Fresh TV
+#EXTINF:-1 group-title="Fresh", Fresh TV
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 
 ----------------------------------
@@ -331,7 +310,24 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15025/index.m3u8
 
 ----------------------------------
 
-
+#EXTINF:-1 group-title="MM", MM Боевик Classic HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13027/index.m3u8
+#EXTINF:-1 group-title="MM", MM История HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13033/index.m3u8
+#EXTINF:-1 group-title="MM", MM Фантастика HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13062/index.m3u8
+#EXTINF:-1 group-title="MM", MM Боевик Classic HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13027/index.m3u8
+#EXTINF:-1 group-title="MM", MM История HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13033/index.m3u8
+#EXTINF:-1 group-title="MM", MM Фантастика HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13062/index.m3u8
+#EXTINF:-1 group-title="MM", MM Боевик Classic HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13027/index.m3u8
+#EXTINF:-1 group-title="MM", MM История HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13033/index.m3u8
+#EXTINF:-1 group-title="MM", MM Фантастика HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13062/index.m3u8
 
 
 
