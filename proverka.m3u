@@ -1,589 +1,379 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/epg/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",Матч-2025-4-5-01-04 http://iptvin.ru
-http://overlay.iptvin.fun/iptvin.ru.mp4
-#EXTINF:-1 group-title="",МАТЧ ТВ
-http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="",Матч! HD
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="",Матч! Премьер
-http://195.18.23.20:8000/play/88/index.m3u8
-#EXTINF:-1 group-title="",Матч!Арена
-http://45.11.139.43:8555/matcharena/index.m3u8
-#EXTINF:-1 172" catchup="default" group-title="Lime",Матч! Арена
-https://mhd128.iptv2022.com/p/W8esoTLE-Q-qhtYModoEOg,1743541213/streaming/match_arena/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 175" catchup="default" group-title="Lime",Матч! Боец
-https://mhd128.iptv2022.com/p/BH8XLkgRW6GRnfPkILo1GQ,1743541213/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 174" catchup="default" group-title="Lime",Матч! Игра
-https://mhd128.iptv2022.com/p/RM01l3QW1SQcvFmpnbugvw,1743541213/streaming/match_igra/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 10227" catchup="default" group-title="Lime",Матч! Премьер HD
-https://mhd128.iptv2022.com/p/I38kTEbPyBgK7fdDOILYDA,1743541213/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 10227" catchup="default" group-title="Lime",Матч! Премьер
-https://mhd128.iptv2022.com/p/ZJ19xtnvpvelytADNDjT0A,1743541213/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 10167" catchup="default" group-title="Lime",Матч! Страна
-https://mhd128.iptv2022.com/p/q_38JeWttQQ1WXuzbb3nRQ,1743541213/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 10234" catchup="default" group-title="Lime",Матч! Футбол 1 HD
-https://mhd128.iptv2022.com/p/YNPyYZlI-iWRJ_ommPgbRA,1743541213/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 10235" catchup="default" group-title="Lime",Матч! Футбол 2 HD
-https://mhd128.iptv2022.com/p/zsHGOIi4BCGbf3yx8Wv2Xw,1743541213/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 10236" catchup="default" group-title="Lime",Матч! Футбол 3 HD
-https://mhd128.iptv2022.com/p/S0fm8ddiIq1pwSBwVRBnWg,1743541213/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 157" catchup="default" group-title="Lime",Матч!
-https://mhd128.iptv2022.com/p/YcYc9R7Mg57ila8rBGpbqQ,1743541213/streaming/matchott/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Movielab",Матч! HD
-https://tv.movielab.pro/397/video.m3u8?token=5aced0d58c5fcbb02b7d7c6250cc3471254f46c7-31d80200123ee60f7ddcba38d4792aef-1743576869-1743490469
-#EXTINF:-1 group-title="Movielab",Матч! Арена HD
-https://tv.movielab.pro/146/video.m3u8?token=b6b95e3127848f70863655cd1be4fdcdd4d292f7-26744d7cf92bdf6d29c6aca77ad4a60e-1743576869-1743490469
-#EXTINF:-1 group-title="Movielab",Матч! Игра HD
-https://tv.movielab.pro/268/video.m3u8?token=1fcc6f7496856983eafcfa66687f9c7b6fcd6b62-ff16e632562336ffbc8b2ff24170034e-1743576869-1743490469
-#EXTINF:-1 group-title="Movielab",Матч! Премьер HD
-https://tv.movielab.pro/250/video.m3u8?token=ef3af7550df65e458f0aa51554f85889fc3007bb-f4b4fa5da1dd3bc28c87626e9f4f2d10-1743576869-1743490469
-#EXTINF:-1 group-title="Movielab",Матч! Футбол 1 HD
-https://tv.movielab.pro/260/video.m3u8?token=33a95ea30e1d32f76e14d897fdc773219573bb4b-70a0845cde6061785cc0357edd10b383-1743576869-1743490469
-#EXTINF:-1 group-title="Movielab",Матч! Футбол 2 HD
-https://tv.movielab.pro/271/video.m3u8?token=6f19b3c832b1b151ee9234e7965134551cc9a418-e46e301bde5ec6e96380300fdf7c714a-1743576869-1743490469
-#EXTINF:-1 group-title="Movielab",Матч! Футбол 3 HD
-https://tv.movielab.pro/329/video.m3u8?token=cef09c83fa66f0c4e272e18bc2abf59fc8428469-5454688f3227e4e710b07fc51e5235e1-1743576869-1743490469
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers",Матч! Боец
-http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM1NzcxNjYsImlhdCI6MTc0MzQ5MDc2NiwiY2lkIjo2LCJ1aWQiOjkwNTk3NDY0OSwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.qQmOCsIrW7g1F1uhqHhj4IzR2vps995tUVKzyjuzxfE&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers",Матч! Игра
-http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM1NzcxNjYsImlhdCI6MTc0MzQ5MDc2NiwiY2lkIjo2LCJ1aWQiOjkwNTk3NDY0OSwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.qQmOCsIrW7g1F1uhqHhj4IzR2vps995tUVKzyjuzxfE&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers",Матч! страна
-http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM1NzcxNjYsImlhdCI6MTc0MzQ5MDc2NiwiY2lkIjo2LCJ1aWQiOjkwNTk3NDY0OSwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.qQmOCsIrW7g1F1uhqHhj4IzR2vps995tUVKzyjuzxfE&offset=10
-#EXTINF:-1 group-title="Rutube",Матч! ТВ HD
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=zF5nEVE7Fuv24NBru8OcWA&e=1743577112&scheme=https
-#EXTINF:-1 group-title="Tricolor ",Матч! ТВ
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=match
-#EXTINF:-1 group-title="Wink" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 tvg-name="Матч-реванш" tvg-logo="https://images.vfl.ru/ii/1620122564/af151fa7/34321684.jpg" group-title="Мульти-Пульти",Матч-реванш
-https://mults.info/mp4/match_revansh.mp4
-#EXTINF:-1 tvg-name="Необыкновенный матч" tvg-logo="https://images.vfl.ru/ii/1620122564/af151fa7/34321684.jpg" group-title="Мульти-Пульти",Необыкновенный матч
-https://mults.info/mp4/neobyknovennyi_match.mp4
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! (-17)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-61200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! (-18)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-64800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! (-19)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-68400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! (-20)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-72000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! (-21)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-75600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! (-22)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-79200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! (-23)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-82800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! (-24)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-86400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! (-25)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-90000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! (-26)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-93600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! (-27)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-97200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! (-28)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-100800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! (-29)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-104400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! (-30)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-108000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -10ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -10ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-36000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -11ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -11ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-39600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -12ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -12ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-43200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -13ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -13ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-46800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -14ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -14ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-50400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -15ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -15ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-57600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -16ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -16ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-61200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -1ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -1ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-3600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -2ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -2ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -3ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -3ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-10800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -4ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -4ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -5ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -5ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-18000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -6ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -6ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -7ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -7ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-25200
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -8ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -8ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ -9ч" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ -9ч
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-32400
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч ТВ" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия Геоблок",Матч! ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Спорт",МАТЧ HD
-http://tv.ttk.mx:9094
-#EXTINF:-1 group-title="Спорт",Матч! HD
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-#EXTINF:-1 tvg-id="match-tv" group-title="Спорт",Матч! HD
-http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mzk5NDA1OSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzMzg5MjU5LCJzZXNzaW9uX2lkIjoiOTY1M2JkNzc3Njk4YzdmODRjNDc5OTU1NGRkNDc1NzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KGHLVTxp2-xOck8DUZg4A8YS053lPLNvKDX-g8l770U
-#EXTINF:-1 group-title="Спорт",Матч! Арена HD
-http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNjo1OToyOCBBTSZoYXNoX3ZhbHVlPWJSQ2oxSE9DVkpwclNId3BrdHlTeEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт",Матч! Арена HD
-https://tv.movielab.pro/146/video.m3u8?token=b6b95e3127848f70863655cd1be4fdcdd4d292f7-26744d7cf92bdf6d29c6aca77ad4a60e-1743576869-1743490469
-#EXTINF:-1 group-title="Спорт",Матч! Арена
-http://178.212.71.253:8000/play/54/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Спорт",Матч! Арена
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Спорт",Матч! Арена
-http://tv.ttk.mx:9153
-#EXTINF:-1 group-title="Спорт",Матч! БОЕЦ
-http://tv.ttk.mx:9107
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-boets" group-title="Спорт",Матч! Боец
-http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM2MDUxODAsImlhdCI6MTc0MzUxODc4MCwiY2lkIjo2LCJ1aWQiOjkwNjA0NzI0NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hS6ev19w1cXWXF8CRLqwdAkCRK5CSF6pvoPTYTY0ZhM&offset=3
-#EXTINF:-1 group-title="Спорт",Матч! Боец
-http://95.181.17.14/4nvenc/boets/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNjo1OToyOCBBTSZoYXNoX3ZhbHVlPWJSQ2oxSE9DVkpwclNId3BrdHlTeEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 tvg-id="match-boets" group-title="Спорт",Матч! Боец
-http://178.212.71.253:8000/play/55/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Борец
-http://178.212.71.253:8000/play/55/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Игра HD
-http://95.181.17.14/7nvenc/sport2HD/71/fhd/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNjo1OToyOCBBTSZoYXNoX3ZhbHVlPWJSQ2oxSE9DVkpwclNId3BrdHlTeEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-igra" group-title="Спорт",Матч! Игра
-http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM2MDUxODAsImlhdCI6MTc0MzUxODc4MCwiY2lkIjo2LCJ1aWQiOjkwNjA0NzI0NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hS6ev19w1cXWXF8CRLqwdAkCRK5CSF6pvoPTYTY0ZhM&offset=3
-#EXTINF:-1 group-title="Спорт",Матч! Игра
-http://178.212.71.253:8000/play/56/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Игра
-http://tv.ttk.mx:9152
-#EXTINF:-1 group-title="Спорт",Матч! Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNjo1OToyOCBBTSZoYXNoX3ZhbHVlPWJSQ2oxSE9DVkpwclNId3BrdHlTeEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 tvg-id="match-premier" group-title="Спорт",Матч! Премьер HD
-https://tv.movielab.pro/250/video.m3u8?token=ef3af7550df65e458f0aa51554f85889fc3007bb-f4b4fa5da1dd3bc28c87626e9f4f2d10-1743576869-1743490469
-#EXTINF:-1 group-title="Спорт",Матч! Премьер
-http://178.212.71.253:8000/play/57/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Страна HD
-http://95.181.17.6/4nvenc/ntvsport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNjo1OToyOCBBTSZoYXNoX3ZhbHVlPWJSQ2oxSE9DVkpwclNId3BrdHlTeEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-nash-sport" group-title="Спорт",Матч! Страна
-http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM2MDUxODAsImlhdCI6MTc0MzUxODc4MCwiY2lkIjo2LCJ1aWQiOjkwNjA0NzI0NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hS6ev19w1cXWXF8CRLqwdAkCRK5CSF6pvoPTYTY0ZhM&offset=3
-#EXTINF:-1 group-title="Спорт",Матч! Страна
-http://178.212.71.253:8000/play/51/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Страна
-http://tv.ttk.mx:9154
-#EXTINF:-1 group-title="Спорт",Матч! ТВ HD
-http://178.212.71.253:8000/play/34/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! ТВ HD
-http://92.53.64.197:5050/match_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорт",Матч! ТВ HD
-http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNjo1OToyOCBBTSZoYXNoX3ZhbHVlPWJSQ2oxSE9DVkpwclNId3BrdHlTeEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт",Матч! ТВ
-http://92.53.64.197:5050/match_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорт",Матч! ТВ
-http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNjo1OToyOCBBTSZoYXNoX3ZhbHVlPWJSQ2oxSE9DVkpwclNId3BrdHlTeEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт",Матч! ТВ
-http://tv.ttk.mx:9002
-#EXTINF:-1 tvg-id="match-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="Спорт",Матч! ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
-http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNjo1OToyOCBBTSZoYXNoX3ZhbHVlPWJSQ2oxSE9DVkpwclNId3BrdHlTeEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
-http://tv.ttk.mx:9114
-#EXTINF:-1 tvg-id="match-football1" group-title="Спорт",Матч! Футбол 1 HD
-https://tv.movielab.pro/260/video.m3u8?token=33a95ea30e1d32f76e14d897fdc773219573bb4b-70a0845cde6061785cc0357edd10b383-1743576869-1743490469
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
-http://178.212.71.253:8000/play/58/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
-http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNjo1OToyOCBBTSZoYXNoX3ZhbHVlPWJSQ2oxSE9DVkpwclNId3BrdHlTeEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
-http://tv.ttk.mx:9111
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
-http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNjo1OToyOCBBTSZoYXNoX3ZhbHVlPWJSQ2oxSE9DVkpwclNId3BrdHlTeEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
-http://tv.ttk.mx:9116
-#EXTINF:-1 tvg-id="match-football3" group-title="Спорт",Матч! Футбол 3 HD
-https://tv.movielab.pro/329/video.m3u8?token=cef09c83fa66f0c4e272e18bc2abf59fc8428469-5454688f3227e4e710b07fc51e5235e1-1743576869-1743490469
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
-http://tv.ttk.mx:9112
-#EXTINF:-1 group-title="Спорт",Матч! футбол 1
-http://tv.ttk.mx:9108
-#EXTINF:-1 group-title="Ялта",Матч!
-http://178.212.71.253:8000/play/3/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/Yyn5GTh/tvico-n562.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! HD
-http://s3.merlive.am/matchtvhd/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1301.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_515_D_70_1680000_0_0_0.png" channelId="157" tvg-id="match-arena",Матч! Арена
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1303.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_517_D_70_1680000_0_0_0.png" channelId="158" tvg-id="match-igra",Матч! Игра
-http://213.226.137.140:81/tl/l304/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/0m1mLf4/cf249e65252b5b396c7abe91006ccd99.png" logo="https://i.ibb.co/xG2t1yH/718e7c96fd3d57b161daf4b3a5c238ae.png" channelId="447" tvg-id="match-planeta",Матч! Планета
-https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/sX0M4xVn/19da9ebdf96ba76d19ae778a4a672d56.png" logo="https://i.postimg.cc/kXS2W7Lc/37158dbd5d899e08ae91272747fcf852.png" channelId="277" tvg-id="match-premier",Матч! Премьер HD
-http://178.212.71.253:8000/play/57/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/PxqLDYkp/77155b5c5f4b402270087106968fc25f.png" logo="https://i.postimg.cc/d3bDgfZr/126f7ce579c74bee6788041e2005a67b.png" channelId="277" tvg-id="match-premier",Матч! Премьер
-http://195.18.23.20:8000/play/88/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/K5Yqp72/dd3b8ff3ff848c83006900eaa8f88297.png" logo="https://i.ibb.co/VVb1V3r/Match-Strana-160x96-tr.png" channelId="84" tvg-id="match-nash-sport",Матч! Страна
-http://flu.ttk.mx:90/Strana/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/14105.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_3719_E_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1 HD
-http://109.200.130.124:7005/play/a00h
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1402.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3 HD
-http://185.57.68.33/110/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч!
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/MATCH_HD/mpegts?token=Freestbott&token=1bd2f23aa05f0b734e4e1cefc2509614
-#EXTINF:-1 group-title="Спорт",Матч! Арена HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/MATCH_ARENA_HD/video.m3u8?token=Freestbott&token=a2cbbbc34c5003d1dd73d697e6f0eb7f
-#EXTINF:-1 group-title="Спорт",Матч! Игра HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/MATCH_IGRA_HD/video.m3u8?token=Freestbott&token=b6caa1e896268b8420a0fe7e83101fbc
-#EXTINF:-1 group-title="Спорт",Матч! Планета
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/Match_Planeta/video.m3u8?token=Freestbott&token=b1e70721bd48ac2eb063aa0b275417dc
-#EXTINF:-1 group-title="Спорт",Матч! Премьер HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/MATCH_PREMIER_HD/video.m3u8?token=Freestbott&token=d34d5d8f16e091cb01eb69b1e649a7dd
-#EXTINF:-1 group-title="Спорт",Матч! Страна HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/MATCH_STRANA_HD/mpegts?token=Freestbott&token=e5c0d9180f4931a577289d704be0cc12
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/MATCH_FUTBOL_1_HD/mpegts?token=Freestbott&token=4c0ab5e376c4d2d213238ed2cf167a5b
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/MATCH_FUTBOL_2_HD/mpegts?token=Freestbott&token=3a3e869c782fb2ea23bb1f019f41fa09
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/MATCH_FUTBOL_3_HD/mpegts?token=Freestbott&token=4cda9840c72580a44a0a55796f8bcb42
-#EXTINF:-1 group-title="Спорт",Матч!
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/MATCH_TV/video.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Игра
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/MATCH_IGRA/video.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Арена
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/MATCH_ARENA/video.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Боец
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/MATCH_BOEC/video.m3u8
-#EXTINF:-1 group-title="Watchtv",Матч! Футбол 1 HD
-http://ott.watch/stream/DZ66D3MHP4P/130.m3u8
-#EXTINF:-1 group-title="Watchtv",Матч! Футбол 2 HD
-http://ott.watch/stream/DZ66D3MHP4P/142.m3u8
-#EXTINF:-1 group-title="Watchtv",Матч! Футбол 3 HD
-http://ott.watch/stream/DZ66D3MHP4P/185.m3u8
-#EXTINF:-1 group-title="Watchtv",Матч! Игра HD
-http://ott.watch/stream/DZ66D3MHP4P/188.m3u8
-#EXTINF:-1 group-title="Watchtv",Матч! Страна HD
-http://ott.watch/stream/DZ66D3MHP4P/143.m3u8
-#EXTINF:-1 group-title="Watchtv",Матч! Арена HD
-http://ott.watch/stream/DZ66D3MHP4P/163.m3u8
-#EXTINF:-1 group-title="Watchtv",Матч! ТВ HD
-http://ott.watch/stream/DZ66D3MHP4P/169.m3u8
-#EXTINF:-1 group-title="Watchtv",Матч! Боец HD
-http://ott.watch/stream/DZ66D3MHP4P/112.m3u8
-#EXTINF:-1 group-title="Watchtv",Матч! Премьер HD
-http://ott.watch/stream/DZ66D3MHP4P/193.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч!
-http://195.158.222.113:8000/play/3/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! HD
-http://195.158.222.113:8000/play/156/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! Арена
-http://195.158.222.113:8000/play/83/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! Арена HD
-http://195.158.222.113:8000/play/182/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! БОЕЦ
-http://195.158.222.113:8000/play/84/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! БОЕЦ HD
-http://195.158.222.113:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! ИГРА
-http://195.158.222.113:8000/play/85/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! ИГРА HD
-http://195.158.222.113:8000/play/154/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! Премьер HD
+#EXTM3U
+#EXTINF:-1, ХОЧЕШЬ ОБНОВЛЕНИЯ? ПОМОГАЙ =)
+https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
+
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Первый Канал HD (+4)
+http://212.20.41.116:4022/udp/225.54.225.161:5000
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Россия 1 (+4) HD
+http://212.20.41.116:4022/udp/225.54.225.152:5000
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", НТВ
+https://cdn.ntv.ru/ntv2_sd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", ТНТ
+http://212.20.41.116:4022/udp/225.54.205.167:5000
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Пятница +4
+http://212.20.41.116:4022/udp/225.54.203.16:5000
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Пятница! УФА
+http://topc.ottc.pro:80/NOOKROYGJC/H9E8GZBCN7/1130829
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Че (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", 2х2 HD
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", СТС
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/506/index.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Рен ТВ
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2024/index.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Пятый канал
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/112/index.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Звезда Плюс HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/19230/index.m3u8
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", 12 канал ОМСК HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/16033/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Премьер
 http://195.158.222.113:8000/play/162/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! Страна
-http://195.158.222.113:8000/play/86/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! Страна HD
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Боец
+http://192.168.0.101:9090/PEERS/132
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! СТРАНА HD
 http://195.158.222.113:8000/play/153/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! Футбол 1
-http://195.158.222.113:8000/play/80/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! Футбол 1 HD
-http://195.158.222.113:8000/play/157/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! Футбол 2
-http://195.158.222.113:8000/play/81/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! Футбол 2 HD
-http://195.158.222.113:8000/play/158/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! Футбол 3
-http://195.158.222.113:8000/play/82/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! Футбол 3 HD
-http://195.158.222.113:8000/play/159/index.m3u8
-#EXTINF:-1 group-title="VPN_Ru",Матч! Премьер
-http://195.158.222.113:8000/play/87/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/Yyn5GTh/tvico-n562.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",МАТЧ HD
-http://tv.ttk.mx:9094
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/Yyn5GTh/tvico-n562.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! HD
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/Yyn5GTh/tvico-n562.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! HD
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/Yyn5GTh/tvico-n562.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! HD
-https://tv.movielab.pro/397/video.m3u8?token=cf7c34c351f90ae5d5ae92f17d349484db886ab7-ff278db981a2e74ee8906280d829736b-1743836182-1743749782
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/12104.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_2F48_C_70_1680000_0_0_0.png" channelId="85" tvg-id="match-arena",Матч! Арена HD
-http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjUgNzowMToyMSBBTSZoYXNoX3ZhbHVlPTJlUTJoNzZLczlFSHZPTTJMTHovNmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/12104.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_2F48_C_70_1680000_0_0_0.png" channelId="85" tvg-id="match-arena",Матч! Арена HD
-https://tv.movielab.pro/146/video.m3u8?token=c2a8daa261561dc2988082e1c757df83c26b3884-1c817bcc1d3ff1a3e31c631a304abe38-1743836182-1743749782
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1301.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_515_D_70_1680000_0_0_0.png" channelId="157" tvg-id="match-arena",Матч! Арена
-http://178.212.71.253:8000/play/54/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1301.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_515_D_70_1680000_0_0_0.png" channelId="157" tvg-id="match-arena",Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1301.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_515_D_70_1680000_0_0_0.png" channelId="157" tvg-id="match-arena",Матч! Арена
-http://45.11.139.43:8555/matcharena/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1301.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_515_D_70_1680000_0_0_0.png" channelId="157" tvg-id="match-arena",Матч! Арена
-http://tv.ttk.mx:9153
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1301.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_515_D_70_1680000_0_0_0.png" channelId="157" tvg-id="match-arena",Матч! Арена
-https://mhd128.iptv2022.com/p/DL8hI7sTA1_GcT-UCMpn1w,1743800413/streaming/match_arena/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/PWXxnCK/0c3262b5533961ef860c3952e709f0ad.png" logo="https://i.ibb.co/y4cVPKw/61e8630fd2649b2032cce8670868258e.png" channelId="81" tvg-id="match-boets",Матч! БОЕЦ
-http://tv.ttk.mx:9107
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/PWXxnCK/0c3262b5533961ef860c3952e709f0ad.png" logo="https://i.ibb.co/y4cVPKw/61e8630fd2649b2032cce8670868258e.png" channelId="81" tvg-id="match-boets",Матч! Боец
-http://95.181.17.14/4nvenc/boets/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjUgNzowMToyMSBBTSZoYXNoX3ZhbHVlPTJlUTJoNzZLczlFSHZPTTJMTHovNmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/PWXxnCK/0c3262b5533961ef860c3952e709f0ad.png" logo="https://i.ibb.co/y4cVPKw/61e8630fd2649b2032cce8670868258e.png" channelId="81" tvg-id="match-boets",Матч! Боец
-http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM4MzY0ODAsImlhdCI6MTc0Mzc1MDA4MCwiY2lkIjo2LCJ1aWQiOjkwNjYzOTg4MCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.Oan5in1xGwNlGFGc897UA1bfyhsgXdLWUE5Z3sP_lZQ&offset=10
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/PWXxnCK/0c3262b5533961ef860c3952e709f0ad.png" logo="https://i.ibb.co/y4cVPKw/61e8630fd2649b2032cce8670868258e.png" channelId="81" tvg-id="match-boets",Матч! Боец
-https://mhd128.iptv2022.com/p/cZzBXPrgoS275XW5PI6oCw,1743800413/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/0215.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_2F46_C_70_1680000_0_0_0.png" channelId="569" tvg-id="match-igra",Матч! Игра HD
-http://95.181.17.14/7nvenc/sport2HD/71/fhd/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjUgNzowMToyMSBBTSZoYXNoX3ZhbHVlPTJlUTJoNzZLczlFSHZPTTJMTHovNmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/0215.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_2F46_C_70_1680000_0_0_0.png" channelId="569" tvg-id="match-igra",Матч! Игра HD
-https://tv.movielab.pro/268/video.m3u8?token=d580ee6b6d71cdd7eeba921c636e0d3f05d1ed5a-3be399fc47e7cd67ed83f9737f159b80-1743836182-1743749782
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1303.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_517_D_70_1680000_0_0_0.png" channelId="158" tvg-id="match-igra",Матч! Игра
-http://178.212.71.253:8000/play/56/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1303.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_517_D_70_1680000_0_0_0.png" channelId="158" tvg-id="match-igra",Матч! Игра
-http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM4MzY0ODAsImlhdCI6MTc0Mzc1MDA4MCwiY2lkIjo2LCJ1aWQiOjkwNjYzOTg4MCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.Oan5in1xGwNlGFGc897UA1bfyhsgXdLWUE5Z3sP_lZQ&offset=10
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1303.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_517_D_70_1680000_0_0_0.png" channelId="158" tvg-id="match-igra",Матч! Игра
-http://tv.ttk.mx:9152
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1303.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_517_D_70_1680000_0_0_0.png" channelId="158" tvg-id="match-igra",Матч! Игра
-https://mhd128.iptv2022.com/p/1eeRGqDyFKt_y85RRGjwYQ,1743800413/streaming/match_igra/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/sX0M4xVn/19da9ebdf96ba76d19ae778a4a672d56.png" logo="https://i.postimg.cc/kXS2W7Lc/37158dbd5d899e08ae91272747fcf852.png" channelId="277" tvg-id="match-premier",Матч! Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjUgNzowMToyMSBBTSZoYXNoX3ZhbHVlPTJlUTJoNzZLczlFSHZPTTJMTHovNmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/sX0M4xVn/19da9ebdf96ba76d19ae778a4a672d56.png" logo="https://i.postimg.cc/kXS2W7Lc/37158dbd5d899e08ae91272747fcf852.png" channelId="277" tvg-id="match-premier",Матч! Премьер HD
-https://mhd128.iptv2022.com/p/gXY72ir2nVykiN5tdqjN-A,1743800413/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/sX0M4xVn/19da9ebdf96ba76d19ae778a4a672d56.png" logo="https://i.postimg.cc/kXS2W7Lc/37158dbd5d899e08ae91272747fcf852.png" channelId="277" tvg-id="match-premier",Матч! Премьер HD
-https://tv.movielab.pro/250/video.m3u8?token=dd0aebc524d2739c02634d0191a01158e8049b06-9a1140f9838f2a51b3e763bbffbd86c1-1743836182-1743749782
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/PxqLDYkp/77155b5c5f4b402270087106968fc25f.png" logo="https://i.postimg.cc/d3bDgfZr/126f7ce579c74bee6788041e2005a67b.png" channelId="277" tvg-id="match-premier",Матч! Премьер
-http://178.212.71.253:8000/play/57/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/PxqLDYkp/77155b5c5f4b402270087106968fc25f.png" logo="https://i.postimg.cc/d3bDgfZr/126f7ce579c74bee6788041e2005a67b.png" channelId="277" tvg-id="match-premier",Матч! Премьер
-http://195.18.23.20:8000/play/88/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/PxqLDYkp/77155b5c5f4b402270087106968fc25f.png" logo="https://i.postimg.cc/d3bDgfZr/126f7ce579c74bee6788041e2005a67b.png" channelId="277" tvg-id="match-premier",Матч! Премьер
-https://mhd128.iptv2022.com/p/ed8yni_b9ce9hEUo2DSJog,1743800413/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/9rDgq2y/842c7544fb005dad50c9225c8fe6e9bf.png" logo="https://i.ibb.co/Ryjcn2d/Match-Strana-HD-160x96-tr.png" channelId="84" tvg-id="match-nash-sport",Матч! Страна HD
-http://95.181.17.6/4nvenc/ntvsport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjUgNzowMToyMSBBTSZoYXNoX3ZhbHVlPTJlUTJoNzZLczlFSHZPTTJMTHovNmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/K5Yqp72/dd3b8ff3ff848c83006900eaa8f88297.png" logo="https://i.ibb.co/VVb1V3r/Match-Strana-160x96-tr.png" channelId="84" tvg-id="match-nash-sport",Матч! Страна
-http://178.212.71.253:8000/play/51/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/K5Yqp72/dd3b8ff3ff848c83006900eaa8f88297.png" logo="https://i.ibb.co/VVb1V3r/Match-Strana-160x96-tr.png" channelId="84" tvg-id="match-nash-sport",Матч! Страна
-http://tv.ttk.mx:9154
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/K5Yqp72/dd3b8ff3ff848c83006900eaa8f88297.png" logo="https://i.ibb.co/VVb1V3r/Match-Strana-160x96-tr.png" channelId="84" tvg-id="match-nash-sport",Матч! Страна
-https://mhd128.iptv2022.com/p/I7uLOKRbbZeJ7pD3JY0KMw,1743800413/streaming/nashsport/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/Yyn5GTh/tvico-n562.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ HD
-http://178.212.71.253:8000/play/34/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/Yyn5GTh/tvico-n562.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ HD
-http://92.53.64.197:5050/match_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/Yyn5GTh/tvico-n562.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ HD
-http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjUgNzowMToyMSBBTSZoYXNoX3ZhbHVlPTJlUTJoNzZLczlFSHZPTTJMTHovNmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/Yyn5GTh/tvico-n562.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ HD
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=QuvkAOYpp7BmQxNKzdGFGA&e=1743836409&scheme=https
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
-http://92.53.64.197:5050/match_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
-http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjUgNzowMToyMSBBTSZoYXNoX3ZhbHVlPTJlUTJoNzZLczlFSHZPTTJMTHovNmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
-http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=match
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
-http://tv.ttk.mx:9002
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/14105.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_3719_E_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1 HD
-http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjUgNzowMToyMSBBTSZoYXNoX3ZhbHVlPTJlUTJoNzZLczlFSHZPTTJMTHovNmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/14105.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_3719_E_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1 HD
-http://tv.ttk.mx:9114
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/14105.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_3719_E_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1 HD
-https://mhd128.iptv2022.com/p/IO1D4LLRMlL9qd2iYH7s6Q,1743800413/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/14105.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_3719_E_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1 HD
-https://tv.movielab.pro/260/video.m3u8?token=a14a78992d1a591da4a7d0416f576a5f5c8b6ed7-d62b20484c5aa39eb12e79ce75a315ef-1743836182-1743749782
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1305.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_519_D_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1
-http://178.212.71.253:8000/play/58/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1305.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_519_D_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1
-http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1401.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_579_E_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2 HD
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjUgNzowMToyMSBBTSZoYXNoX3ZhbHVlPTJlUTJoNzZLczlFSHZPTTJMTHovNmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1401.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_579_E_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2 HD
-http://tv.ttk.mx:9111
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1401.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_579_E_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2 HD
-https://mhd128.iptv2022.com/p/VKh-iya1nfcwdh03pv9zqQ,1743800413/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1401.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_579_E_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2 HD
-https://tv.movielab.pro/271/video.m3u8?token=5aed0650944339027831ebeb58980e29e7d07277-8f83d0244066e3a9d4bcd7778b3b7124-1743836182-1743749782
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1402.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3 HD
-http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjUgNzowMToyMSBBTSZoYXNoX3ZhbHVlPTJlUTJoNzZLczlFSHZPTTJMTHovNmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1402.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3 HD
-http://tv.ttk.mx:9116
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1402.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3 HD
-https://mhd128.iptv2022.com/p/lbnrFNYaupBsBXGFWLgmiQ,1743800413/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1402.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3 HD
-https://tv.movielab.pro/329/video.m3u8?token=c91192ebc2e339a8c84c3eeefd9ba64997fb7759-ba7fd7196c8a15f7662ecfded8de1e1b-1743836182-1743749782
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/pP7Sh7B/thumb-a90f62dc350615b3946789c0886a6698.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_51B_D_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3
-http://tv.ttk.mx:9112
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч!
-http://178.212.71.253:8000/play/3/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч!
-https://mhd128.iptv2022.com/p/Rnm62w-2lV45ocGpueQ93g,1743800413/streaming/matchott/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Без группы",МАТЧ ТВ
-http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Без группы",Матч! Борец
-http://178.212.71.253:8000/play/55/index.m3u8
-#EXTINF:-1 group-title="Без группы",Матч! страна
-http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM4MzY0ODAsImlhdCI6MTc0Mzc1MDA4MCwiY2lkIjo2LCJ1aWQiOjkwNjYzOTg4MCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.Oan5in1xGwNlGFGc897UA1bfyhsgXdLWUE5Z3sP_lZQ&offset=10
-#EXTINF:-1 group-title="Без группы",Матч! футбол 1
-http://tv.ttk.mx:9108
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/Yyn5GTh/tvico-n562.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! HD
-http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mzk5NDA1OSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzMzg5MjU5LCJzZXNzaW9uX2lkIjoiOTY1M2JkNzc3Njk4YzdmODRjNDc5OTU1NGRkNDc1NzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KGHLVTxp2-xOck8DUZg4A8YS053lPLNvKDX-g8l770U
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/12104.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_2F48_C_70_1680000_0_0_0.png" channelId="85" tvg-id="match-arena",Матч! Арена HD
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! АРЕНА HD
 http://195.158.222.113:8000/play/83/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1301.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_515_D_70_1680000_0_0_0.png" channelId="157" tvg-id="match-arena",Матч! Арена
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/PWXxnCK/0c3262b5533961ef860c3952e709f0ad.png" logo="https://i.ibb.co/y4cVPKw/61e8630fd2649b2032cce8670868258e.png" channelId="81" tvg-id="match-boets",Матч! Боец
-http://195.158.222.113:8000/play/84/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/PWXxnCK/0c3262b5533961ef860c3952e709f0ad.png" logo="https://i.ibb.co/y4cVPKw/61e8630fd2649b2032cce8670868258e.png" channelId="81" tvg-id="match-boets",Матч! Боец
-http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM4NDk5ODAsImlhdCI6MTc0Mzc2MzU4MCwiY2lkIjo2LCJ1aWQiOjkwNjY3OTY5NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.ACj33_Ezu6CtwtRXLhXxL4tp6sSkHrkfPKTDYc2lsfU&offset=3
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/0215.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_2F46_C_70_1680000_0_0_0.png" channelId="569" tvg-id="match-igra",Матч! Игра HD
-http://195.158.222.113:8000/play/154/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1303.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_517_D_70_1680000_0_0_0.png" channelId="158" tvg-id="match-igra",Матч! Игра
-http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM4NDk5ODAsImlhdCI6MTc0Mzc2MzU4MCwiY2lkIjo2LCJ1aWQiOjkwNjY3OTY5NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.ACj33_Ezu6CtwtRXLhXxL4tp6sSkHrkfPKTDYc2lsfU&offset=3
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/sX0M4xVn/19da9ebdf96ba76d19ae778a4a672d56.png" logo="https://i.postimg.cc/kXS2W7Lc/37158dbd5d899e08ae91272747fcf852.png" channelId="277" tvg-id="match-premier",Матч! Премьер HD
-http://195.158.222.113:8000/play/162/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/sX0M4xVn/19da9ebdf96ba76d19ae778a4a672d56.png" logo="https://i.postimg.cc/kXS2W7Lc/37158dbd5d899e08ae91272747fcf852.png" channelId="277" tvg-id="match-premier",Матч! Премьер HD
-https://tv.movielab.pro/250/video.m3u8?token=dd0aebc524d2739c02634d0191a01158e8049b06-9a1140f9838f2a51b3e763bbffbd86c1-1743836182-1743749782
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/PxqLDYkp/77155b5c5f4b402270087106968fc25f.png" logo="https://i.postimg.cc/d3bDgfZr/126f7ce579c74bee6788041e2005a67b.png" channelId="277" tvg-id="match-premier",Матч! Премьер
-http://195.158.222.113:8000/play/87/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/9rDgq2y/842c7544fb005dad50c9225c8fe6e9bf.png" logo="https://i.ibb.co/Ryjcn2d/Match-Strana-HD-160x96-tr.png" channelId="84" tvg-id="match-nash-sport",Матч! Страна HD
-http://195.158.222.113:8000/play/153/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/K5Yqp72/dd3b8ff3ff848c83006900eaa8f88297.png" logo="https://i.ibb.co/VVb1V3r/Match-Strana-160x96-tr.png" channelId="84" tvg-id="match-nash-sport",Матч! Страна
-http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM4NDk5ODAsImlhdCI6MTc0Mzc2MzU4MCwiY2lkIjo2LCJ1aWQiOjkwNjY3OTY5NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.ACj33_Ezu6CtwtRXLhXxL4tp6sSkHrkfPKTDYc2lsfU&offset=3
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/14105.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_3719_E_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1 HD
-http://195.158.222.113:8000/play/157/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/14105.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_3719_E_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1 HD
-https://tv.movielab.pro/260/video.m3u8?token=a14a78992d1a591da4a7d0416f576a5f5c8b6ed7-d62b20484c5aa39eb12e79ce75a315ef-1743836182-1743749782
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1305.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_519_D_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1
-http://195.158.222.113:8000/play/80/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1401.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_579_E_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2 HD
-http://195.158.222.113:8000/play/158/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/CKmDG9K/thumb-28c4dae033c31ff06551d9d6173b5f9c.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_51A_D_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2
-http://195.158.222.113:8000/play/81/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1402.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3 HD
-http://195.158.222.113:8000/play/159/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1402.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3 HD
-https://tv.movielab.pro/329/video.m3u8?token=c91192ebc2e339a8c84c3eeefd9ba64997fb7759-ba7fd7196c8a15f7662ecfded8de1e1b-1743836182-1743749782
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/pP7Sh7B/thumb-a90f62dc350615b3946789c0886a6698.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_51B_D_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3
-http://195.158.222.113:8000/play/82/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://domnet.me/images/picons/tvico_n562.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",МАТЧ
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/Yyn5GTh/tvico-n562.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч! HD
-https://tv.movielab.pro/397/video.m3u8?token=b893d67b37af2dd0fd12730f95e0e59010e6307f-6e9a19e095613bc9d9db3345c3a043bb-1742241380-1742154980
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/12104.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_2F48_C_70_1680000_0_0_0.png" channelId="85" tvg-id="match-arena",Матч! Арена HD
-https://tv.movielab.pro/146/video.m3u8?token=299b45c48c4cd62b353904a123cbf7ea0c114bd3-3703746dc10858b60e98e14547f8338c-1742241380-1742154980
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1301.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_515_D_70_1680000_0_0_0.png" channelId="157" tvg-id="match-arena",Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/0215.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_2F46_C_70_1680000_0_0_0.png" channelId="569" tvg-id="match-igra",Матч! Игра HD
-https://tv.movielab.pro/268/video.m3u8?token=166cc05ca80ca282253bf3232a533dadfa9f290b-e5e52efd3f82c7887d908fe6c42ba7e8-1742241380-1742154980
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/sX0M4xVn/19da9ebdf96ba76d19ae778a4a672d56.png" logo="https://i.postimg.cc/kXS2W7Lc/37158dbd5d899e08ae91272747fcf852.png" channelId="277" tvg-id="match-premier",Матч! Премьер HD
-https://tv.movielab.pro/250/video.m3u8?token=618ba89b39662963bcfbaf47d28b0e63b466cf67-62282c2fbb7c4e0f08edb18e3744df45-1742241380-1742154980
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/14105.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_3719_E_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1 HD
-https://tv.movielab.pro/260/video.m3u8?token=41571ba4fbf1cb8d181e6eccc4ea6f080a35aabf-5d19ca0e9c5e36a2ac296c6c40cfbaa4-1742241380-1742154980
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1401.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_579_E_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2 HD
-https://tv.movielab.pro/271/video.m3u8?token=5ba4f4d5ce2017ca0b40bd503022cdaeb129409e-95fd635a5fff9fa3ad222cc68078d905-1742241380-1742154980
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1402.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3 HD
-https://tv.movielab.pro/329/video.m3u8?token=8585a71ad0aec84c2897b21d3cc586631ed491ec-5f6245c967cc99ceb35cff4917cd79de-1742241380-1742154980
-#EXTINF:-1 group-title="Россия",Матч! Арена
-http://flussonic.izone.az:80/matcharena/index.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Боец
-http://flussonic.izone.az:80/boets/index.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Планета
-http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Страна
-http://flussonic.izone.az:80/machplaneta/index.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Страна
-http://flussonic.izone.az:80/nashsport/mono.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Футбол 1
-http://flussonic.izone.az/futbol1/index.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Футбол 2
-http://flussonic.izone.az/futbol2/index.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Футбол 3
-http://185.57.68.33/110/mpegts
-#EXTINF:-1 group-title="Россия",Матч! Футбол 3
-http://flussonic.izone.az/futbol3/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/Yyn5GTh/tvico-n562.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",МАТЧ HD
-https://tv.movielab.pro/397/video.m3u8?token=cf7c34c351f90ae5d5ae92f17d349484db886ab7-ff278db981a2e74ee8906280d829736b-1743836182-1743749782
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://domnet.me/images/picons/tvico_n562.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",МАТЧ
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/Yyn5GTh/tvico-n562.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",МАТЧ HD
-https://tv.movielab.pro/397/video.m3u8?token=cf7c34c351f90ae5d5ae92f17d349484db886ab7-ff278db981a2e74ee8906280d829736b-1743836182-1743749782
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://domnet.me/images/picons/tvico_n562.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_89C_16_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",МАТЧ
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/12104.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_2F48_C_70_1680000_0_0_0.png" channelId="85" tvg-id="match-arena",Матч! Арена HD
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/1301.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_515_D_70_1680000_0_0_0.png" channelId="157" tvg-id="match-arena",Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/PWXxnCK/0c3262b5533961ef860c3952e709f0ad.png" logo="https://i.ibb.co/y4cVPKw/61e8630fd2649b2032cce8670868258e.png" channelId="81" tvg-id="match-boets",Матч! Боец
-http://178.212.71.253:8000/play/55/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/0m1mLf4/cf249e65252b5b396c7abe91006ccd99.png" logo="https://i.ibb.co/xG2t1yH/718e7c96fd3d57b161daf4b3a5c238ae.png" channelId="447" tvg-id="match-planeta",Матч! Планета
-http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.postimg.cc/PxqLDYkp/77155b5c5f4b402270087106968fc25f.png" logo="https://i.postimg.cc/d3bDgfZr/126f7ce579c74bee6788041e2005a67b.png" channelId="277" tvg-id="match-premier",Матч! Премьер
-http://s1.merlive.am/matchpremier/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/K5Yqp72/dd3b8ff3ff848c83006900eaa8f88297.png" logo="https://i.ibb.co/VVb1V3r/Match-Strana-160x96-tr.png" channelId="84" tvg-id="match-nash-sport",Матч! Страна
-http://flu.ttk.mx:90/Strana/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="Матч! Футбол 1 HD" tvg-logo="https://lighticons.art/storage/images/channels/94de502ffcf196ab78801841206c642d.png?d=1709804063" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/94de502ffcf196ab78801841206c642d/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="Спорт",Матч! Футбол 1 HD 50
-http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/14105.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_3719_E_70_1680000_0_0_0.png" channelId="553" tvg-id="match-football1",Матч! Футбол 1 HD
-http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs06e
-#EXTINF:-1 tvg-id="Матч! Футбол 2 HD" tvg-logo="https://lighticons.art/storage/images/channels/82173d67718d9564d91739037224daee.png?d=1709804175" tvg-rec="1" catchup-type="auto" catchup_days="3" catchup_template="http://tv.lightiptv.cc/82173d67718d9564d91739037224daee/video-${start}-${duration}.m3u8?token=0umkabuvwg" group-title="Спорт" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_579_E_70_1680000_0_0_0.png" channelId="554",Матч! Футбол 2 HD
-http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="Матч! Футбол 3 HD" tvg-logo="https://lighticons.art/storage/images/channels/3ba8a8b28a85f4c30ba63ca4dd81f83d.png?d=1679724905" tvg-rec="0" group-title="Спорт" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_57A_E_70_1680000_0_0_0.png" channelId="2831",Матч! Футбол 3 HD
-http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/pP7Sh7B/thumb-a90f62dc350615b3946789c0886a6698.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_51B_D_70_1680000_0_0_0.png" channelId="2831" tvg-id="match-football3",Матч! Футбол 3
-http://185.57.68.33/110/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://i.ibb.co/7gYK7q7/tvico-n52.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч!
-http://89.23.113.132/matc/video.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спорт",Матч! (EDTV)
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="match-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спорт",Матч! (WVGA)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Спорт",МАТЧ
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! (EDTV)
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! (EDTV)
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! HD
-https://tv.movielab.pro/397/video.m3u8?token=137dba75abd8e0b7a667d49d14469272360c6a9f-71fe46fe0c1f684d4cb78125ee432c7a-1742802845-1742716445
-#EXTINF:-1 group-title="Спорт",Матч! TB orig hd
-https://s3.merlive.am/matchtvhd/index.m3u8?key=fas-tv.com
-#EXTINF:-1 group-title="Спорт",Матч! Арена HD
-https://tv.movielab.pro/146/video.m3u8?token=c9c8795198a5c951efd7137af91fc343b44169b2-2f0cb272ddbb842da6f0429a99c62d26-1742802845-1742716445
-#EXTINF:-1 group-title="Спорт",Матч! Арена
-http://193.35.224.154/8018/index.m3u8?token=fas-tv.com
-#EXTINF:-1 group-title="Спорт",Матч! Арена
-http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Спорт",Матч! Боец
-http://193.35.224.154/8027/index.m3u8?token=fas-tv.com
-#EXTINF:-1 group-title="Спорт",Матч! Игра HD
-https://tv.movielab.pro/268/video.m3u8?token=fd13b62d1185d597c4de630ad57fdc9381571115-4977329c22c63143d7953fd4b1722835-1742802845-1742716445
-#EXTINF:-1 group-title="Спорт",Матч! Игра
-http://193.35.224.154/8024/index.m3u8?token=fas-tv.com
-#EXTINF:-1 group-title="Спорт",Матч! Премьер HD
-https://tv.movielab.pro/250/video.m3u8?token=be11918dfbb1000be549d104c57f34a0e411ed01-cf922b19fdfa55dbf2c9ae60b1273d13-1742802845-1742716445
-#EXTINF:-1 group-title="Спорт",Матч! Премьер
-http://193.35.224.154/8023/index.m3u8?token=fas-tv.com
-#EXTINF:-1 group-title="Спорт",Матч! Страна
-http://193.35.224.154/8019/index.m3u8?token=fas-tv.com
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
-https://tv.movielab.pro/260/video.m3u8?token=4ba68505804d2d90ae2bba1711ae8d03f0d58527-8f05f0b3154bb59be0fa6b877291221e-1742802845-1742716445
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 1
-http://193.35.224.154/8021/index.m3u8?token=fas-tv.com
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
-https://tv.movielab.pro/271/video.m3u8?token=1a74af3770e9f1d1b1b2f35458adfd9ea6202e0a-9e5cd5292a6b1490b8598bda10bde050-1742802845-1742716445
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 2
-http://193.35.224.154/8022/index.m3u8?token=fas-tv.com
-#EXTINF:-1 group-title="Спорт",Матч! Футбол 3
-http://193.35.224.154/8029/index.m3u8?token=fas-tv.com
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 1 FHD
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/17252
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", EUROSPORT 2 FHD
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/17250
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", KHL Prime HD 
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9003/index.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", BOX Be On Edge HD
+http://rhsbjv7k.tvclub.xyz/iptv/B594A737QXNFS4/19424/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", MTV Live HD
+http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/9009/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", MTV Classic
+http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", THT MUSIC HD
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/360649
+
+----------------------------------
+
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Авто 24
+http://178.124.152.238:8088/auto24
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Авто Плюс
+http://arbiter.bolshoe.tv/?path=abr1/auto_plus/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjUgNzowMToyMSBBTSZoYXNoX3ZhbHVlPTJlUTJoNzZLczlFSHZPTTJMTHovNmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Авто Плюс
+http://192.168.0.101:9090/PEERS/46
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Дикая рыбалка HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2005/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Диалоги о рыбалке HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2394/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", В мире животных HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2089/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Русский Экстрим UHD 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/5003/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Глазами Туриста 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/15191/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Наша Сибирь 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4003/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Дикая охота HD 
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9081/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", MyZen TV 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/5002/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Viasat History
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/12019/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="ФИЛЬМЫ", Ужас TV 
+https://bl.rutube.ru/livestream/696bffe7b7be44aa1c64fda33c2cff5c/index.m3u8?s=u4ncdb1exIVK1Jv6O4pNOQ&e=1743455024&scheme=https
+#EXTINF:-1 group-title="ФИЛЬМЫ", КиноКульт
+https://stream-msk-20.ott.tricolor.tv/dtv/id1032_MSKSG-PVR-1--Kinokult_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mzk5NDA1OSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzMzg5MjU5LCJzZXNzaW9uX2lkIjoiOTY1M2JkNzc3Njk4YzdmODRjNDc5OTU1NGRkNDc1NzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KGHLVTxp2-xOck8DUZg4A8YS053lPLNvKDX-g8l770U
+#EXTINF:-1 group-title="ФИЛЬМЫ", Cinema
+http://192.168.0.101:9090/PEERS/146
+#EXTINF:-1 group-title="ФИЛЬМЫ", МужскоеКино
+http://212.20.41.116:4022/udp/225.54.225.176:5000
+#EXTINF:-1 group-title="ФИЛЬМЫ", Ultra HD Cinema 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4000/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", VHS-ка HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/5006/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", CineMan Ментовские войны
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/16063/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", TOP Cinema HD
+http://ott.watch/stream/DZ66D3MHP4P/62.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", TOP Cinema HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13004/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", TOP Cinema HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13004/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", TOP Cinema HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13004/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", Кинопоказ
+http://ott.watch/stream/DZ66D3MHP4P/64.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="Viju", Viju TV1000
+http://130.193.73.10:8937/play/a02s
+#EXTINF:-1 group-title="Viju", Viju Action
+http://130.193.73.10:8937/play/a02t
+#EXTINF:-1 group-title="Viju", Viju Русское
+http://130.193.73.10:8937/play/a02u
+#EXTINF:-1 group-title="Viju", Viju Nature
+http://130.193.73.10:8937/play/a01k
+#EXTINF:-1 group-title="Viju", Viju History
+http://188.190.222.53/Viasat_History/index.m3u8
+#EXTINF:-1 group-title="Viju", Viju Explore
+http://cdntv.online/high/5px3ac89zsm2/317.m3u8
+#EXTINF:-1 group-title="Viju", Viju Sport
+http://31.173.165.29:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Viju", viju romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Aae2ZXyY0C-jexMsUPkBnw&e=1744398095&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Viju", viju+ Premiere
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/159839
+#EXTINF:-1 group-title="Viju", viju+ Serial
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/782152
+#EXTINF:-1 group-title="Viju", viju+ Comedy
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/159838
+#EXTINF:-1 group-title="Viju", Viju TV1000 Action HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9057/index.m3u8
+#EXTINF:-1 group-title="Viju", Viju History HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9060/index.m3u8
+#EXTINF:-1 group-title="Viju", Viju History 
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/9060/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="YOSSO", Yosso TV Adrenaline
+http://95.216.32.41:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="YOSSO", YOSSO TV Adventure
+http://95.216.32.41:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="YOSSO", YOSSO TV BEST
+http://95.216.32.41:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="YOSSO", YOSSO TV Grand
+http://95.216.32.41:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Yosso", YOSSO TV Ковбойское
+http://95.216.32.41:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Yosso", YOSSO TV Мелодрама
+http://95.216.32.41:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Yosso", YOSSO TV Netflix
+http://95.216.32.41:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Yosso", YOSSO TV New Кино
+http://95.216.32.41:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Yosso", YOSSO TV Трагичное
+http://95.216.32.41:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Yosso", YOSSO TV Thriller
+http://95.216.32.41:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Yosso", YOSSO TV Забавное
+http://95.216.32.41:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Yosso", Yosso-4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/16153/index.m3u8
+#EXTINF:-1 group-title="Yosso", Yosso TV Best 60fps
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/20165/index.m3u8
+#EXTINF:-1 group-title="Yosso", Yosso TV Союзмульт
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/14178/index.m3u8
+#EXTINF:-1 group-title="Yosso", Yosso TV Best 60fps
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/14236/index.m3u8
+#EXTINF:-1 group-title="Yosso", Yosso TV Союзмульт
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/14178/index.m3u8
+#EXTINF:-1 group-title="Yosso", Yosso TV Best 60fps
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/20165/index.m3u8
+#EXTINF:-1 group-title="Yosso", Yosso TV Союзмульт
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/14178/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="MM", MM Боевик Classic HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13027/index.m3u8
+#EXTINF:-1 group-title="MM", MM История HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13033/index.m3u8
+#EXTINF:-1 group-title="MM", MM Фантастика HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13062/index.m3u8
+#EXTINF:-1 group-title="MM", MM Боевик Classic HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13027/index.m3u8
+#EXTINF:-1 group-title="MM", MM История HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13033/index.m3u8
+#EXTINF:-1 group-title="MM", MM Фантастика HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13062/index.m3u8
+#EXTINF:-1 group-title="MM", MM Боевик Classic HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13027/index.m3u8
+#EXTINF:-1 group-title="MM", MM История HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13033/index.m3u8
+#EXTINF:-1 group-title="MM", MM Фантастика HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13062/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="КИНО", Кинокомедия
+http://192.168.0.101:9090/PEERS/164
+#EXTINF:-1 group-title="КИНО", Киномикс
+http://192.168.0.101:9090/PEERS/165
+#EXTINF:-1 group-title="КИНО", Кинопремьера HD
+http://192.168.0.101:9090/PEERS/167
+#EXTINF:-1 group-title="КИНО", Киносвидание
+http://192.168.0.101:9090/PEERS/168
+#EXTINF:-1 group-title="КИНО", Киносемья
+http://192.168.0.101:9090/PEERS/169
+#EXTINF:-1 group-title="КИНО", Киноужас
+http://192.168.0.101:9090/PEERS/170
+#EXTINF:-1 group-title="КИНО", Кинохит
+http://192.168.0.101:9090/PEERS/171
+#EXTINF:-1 group-title="КИНО", Киносерия HD
+http://195.158.222.113:8000/play/43/index.m3u8
+#EXTINF:-1 group-title="КИНО", Кинокомедия HD
+http://ott.watch/stream/DZ66D3MHP4P/265.m3u8
+#EXTINF:-1 group-title="КИНО", Киноужас
+http://ott.watch/stream/DZ66D3MHP4P/278.m3u8
+#EXTINF:-1 group-title="КИНО", Киносвидание HD
+http://ott.watch/stream/DZ66D3MHP4P/171.m3u8
+#EXTINF:-1 group-title="КИНО", Киносемья HD
+http://ott.watch/stream/DZ66D3MHP4P/170.m3u8
+#EXTINF:-1 group-title="КИНО", Киномикс
+http://ott.watch/stream/DZ66D3MHP4P/133.m3u8
+#EXTINF:-1 group-title="КИНО", Кинопремьера HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9020/index.m3u8
+#EXTINF:-1 group-title="КИНО", Киноужас HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9033/index.m3u8
+#EXTINF:-1 group-title="КИНО", Кинокомедия HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7248/index.m3u8
+#EXTINF:-1 group-title="КИНО", Кинохит HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7250/index.m3u8
+#EXTINF:-1 group-title="КИНО", Киносемья HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7244/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="Fresh ", Fresh Adventure
+http://ott.watch/stream/DZ66D3MHP4P/432.m3u8
+#EXTINF:-1 group-title="Fresh ", Fresh Cinema
+http://ott.watch/stream/DZ66D3MHP4P/423.m3u8
+#EXTINF:-1 group-title="Fresh ", Fresh Comedy
+http://ott.watch/stream/DZ66D3MHP4P/426.m3u8
+#EXTINF:-1 group-title="Fresh ", Fresh Family
+http://ott.watch/stream/DZ66D3MHP4P/427.m3u8
+#EXTINF:-1 group-title="Fresh ", Fresh Fantastic
+http://ott.watch/stream/DZ66D3MHP4P/429.m3u8
+#EXTINF:-1 group-title="Fresh ", Fresh Horror
+http://ott.watch/stream/DZ66D3MHP4P/431.m3u8
+#EXTINF:-1 group-title="Fresh ", Fresh Kids
+http://ott.watch/stream/DZ66D3MHP4P/425.m3u8
+#EXTINF:-1 group-title="Fresh ", Fresh Premiere
+http://ott.watch/stream/DZ66D3MHP4P/424.m3u8
+#EXTINF:-1 group-title="Fresh ", Fresh Rating
+http://ott.watch/stream/DZ66D3MHP4P/422.m3u8
+#EXTINF:-1 group-title="Fresh ", Fresh Romantic
+http://ott.watch/stream/DZ66D3MHP4P/433.m3u8
+#EXTINF:-1 group-title="Fresh ", Fresh Series
+http://ott.watch/stream/DZ66D3MHP4P/430.m3u8
+#EXTINF:-1 group-title="Fresh ", Fresh Thriller
+http://ott.watch/stream/DZ66D3MHP4P/434.m3u8
+#EXTINF:-1 group-title="Fresh ", Fresh VHS
+http://ott.watch/stream/DZ66D3MHP4P/428.m3u8
+#EXTINF:-1 group-title="Fresh ", Fresh TV
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+
+----------------------------------
+
+#EXTINF:-1 group-title="Magic", Magic VHS HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/18062/index.m3u8
+#EXTINF:-1 group-title="Magic", Magic VHS HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/18062/index.m3u8
+#EXTINF:-1 group-title="Magic", Magic VHS HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/18062/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="VF", VF Сериал 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/11115/index.m3u8
+#EXTINF:-1 group-title="VF", VF Мультфильмы СССР
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/10086/index.m3u8
+#EXTINF:-1 group-title="VF", VF Фильмы СССР
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/10085/index.m3u8
+#EXTINF:-1 group-title="VF", VF Мультфильмы СССР
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/10086/index.m3u8
+#EXTINF:-1 group-title="VF", VF Фильмы СССР
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/10085/index.m3u8
+#EXTINF:-1 group-title="VF", VF Мультфильмы СССР
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/10086/index.m3u8
+#EXTINF:-1 group-title="VF", VF Фильмы СССР
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/10085/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="Liberty", Liberty Боевики FHD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15096/index.m3u8
+#EXTINF:-1 group-title="Liberty", Liberty Мульт 4K
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/18051/index.m3u8
+#EXTINF:-1 group-title="Liberty", Liberty Мульт 4K
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/18051/index.m3u8
+#EXTINF:-1 group-title="Liberty", Liberty Мульт 4K
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/18051/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="BCU", BCU Kids 4K
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/17023/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU VHS HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/11042/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU Marvel HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/11038/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU Kids 4K
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/11035/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU VHS HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/11042/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU Marvel HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/11038/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU Kids 4K
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/17023/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU VHS HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/11042/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU Marvel HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15025/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="ДОНАТ ПОДДЕРЖКА", ХОЧЕШЬ ОБНОВЛЕНИЯ? ПОМОГАЙ =)
+https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
