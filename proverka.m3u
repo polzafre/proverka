@@ -1,45 +1,31 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/epg/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",Авто Плюс-2025-4-5-00-04 http://iptvin.ru
-http://overlay.iptvin.fun/iptvin.ru.mp4
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 #EXTINF:-1 group-title="Caspel",Авто плюс
 http://mfe02.cliptv.az/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
-#EXTINF:-1 10070" catchup="default" group-title="Lime",Авто плюс
-https://mhd128.iptv2022.com/p/-63U0PaVTA-CASS7hfXr3A,1743541210/streaming/avtoplus/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers",Авто плюс
-http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM1NzcxNjYsImlhdCI6MTc0MzQ5MDc2NiwiY2lkIjo2LCJ1aWQiOjkwNTk3NDY0OSwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.qQmOCsIrW7g1F1uhqHhj4IzR2vps995tUVKzyjuzxfE&offset=10
-#EXTINF:-1 group-title="Большое ТВ",Авто плюс
-http://arbiter.bolshoe.tv/?path=abr1/auto_plus/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNjo1OToyOCBBTSZoYXNoX3ZhbHVlPWJSQ2oxSE9DVkpwclNId3BrdHlTeEE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="avto-plus" group-title="Познавательные",Авто Плюс
-http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM2MDUxODAsImlhdCI6MTc0MzUxODc4MCwiY2lkIjo2LCJ1aWQiOjkwNjA0NzI0NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hS6ev19w1cXWXF8CRLqwdAkCRK5CSF6pvoPTYTY0ZhM&offset=3
 #EXTINF:-1 group-title="Ялта",Авто плюс
 http://178.212.71.253:8000/play/69/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто Плюс
-http://213.226.137.140:81/tl/l105/index.m3u8
-#EXTINF:-1 group-title="Watchtv" tvg-logo="https://i.ibb.co/FqjK8s0/Avto-Plus-HD-135x135.png" logo="http://j-p-g.net/if/2018/04/19/0881705001524154148.png" channelId="55" tvg-id="avto-plus",Авто Плюс HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FqjK8s0/Avto-Plus-HD-135x135.png" group-title="Watchtv",Авто Плюс HD
 http://ott.watch/stream/DZ66D3MHP4P/186.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто плюс
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/102.png" group-title="Познавательные",Авто плюс
 http://178.212.71.253:8000/play/69/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто плюс
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/102.png" group-title="Познавательные",Авто плюс
 http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM4MzY0ODAsImlhdCI6MTc0Mzc1MDA4MCwiY2lkIjo2LCJ1aWQiOjkwNjYzOTg4MCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.Oan5in1xGwNlGFGc897UA1bfyhsgXdLWUE5Z3sP_lZQ&offset=10
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто плюс
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/102.png" group-title="Познавательные",Авто плюс
 http://arbiter.bolshoe.tv/?path=abr1/auto_plus/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjUgNzowMToyMSBBTSZoYXNoX3ZhbHVlPTJlUTJoNzZLczlFSHZPTTJMTHovNmc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто плюс
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/102.png" group-title="Познавательные",Авто плюс
 http://mfe02.cliptv.az/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто плюс
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/102.png" group-title="Познавательные",Авто плюс
 https://mhd128.iptv2022.com/p/P5zlfjputYJm1uO3HgxTtw,1743800410/streaming/avtoplus/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто Плюс
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/102.png" group-title="Познавательные",Авто Плюс
 http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM4NDk5ODAsImlhdCI6MTc0Mzc2MzU4MCwiY2lkIjo2LCJ1aWQiOjkwNjY3OTY5NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.ACj33_Ezu6CtwtRXLhXxL4tp6sSkHrkfPKTDYc2lsfU&offset=3
 #EXTINF:-1 group-title="Без группы",АВТО ПЛЮС
 http://cdntv.online/high/5px3ac89zsm2/266.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/FqjK8s0/Avto-Plus-HD-135x135.png" logo="http://j-p-g.net/if/2018/04/19/0881705001524154148.png" channelId="55" tvg-id="avto-plus",Авто плюс HD
-http://vipyxyzapi.xyz:8080/VIP01257172513273596/a2bfd138ee88/4184
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто Плюс
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/102.png" group-title="Познавательные",Авто Плюс
 http://130.193.73.10:8937/play/a027
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто Плюс
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/102.png" group-title="Познавательные",Авто Плюс
 http://31.148.48.15:80/Avto_Plus/index.m3u8?token=test
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто Плюс
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/102.png" group-title="Познавательные",Авто Плюс
 http://31.173.165.29:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто плюс
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/102.png" group-title="Познавательные",Авто плюс
 http://178.212.71.253:8000/play/69/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто плюс
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/102.png" group-title="Познавательные",Авто плюс
 http://87.76.32.36:9105/udp/238.1.0.19:2000
