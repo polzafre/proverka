@@ -28,6 +28,7 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/19230/index.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", 12 канал ОМСК HD
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/16033/index.m3u8
 
+----------------------------------
 
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", Матч! Премьер FHD
 http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/2414/index.m3u8
@@ -37,7 +38,73 @@ http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/17252
 http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/17250
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", KHL Prime HD 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9003/index.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ", BOX Be On Edge HD
+http://rhsbjv7k.tvclub.xyz/iptv/B594A737QXNFS4/19424/index.m3u8
 
+----------------------------------
+
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", MTV Live HD
+http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/9009/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", MTV Classic
+http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", THT MUSIC HD
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/360649
+
+----------------------------------
+
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Авто 24
+http://178.124.152.238:8088/auto24
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Авто Плюс
+http://31.148.48.15:80/Avto_Plus/index.m3u8?token=test
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Дикая рыбалка HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2005/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Диалоги о рыбалке HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2394/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", В мире животных HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/2089/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Русский Экстрим UHD 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/5003/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Глазами Туриста 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/15191/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Наша Сибирь 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4003/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Дикая охота HD 
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9081/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", MyZen TV 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/5002/index.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Viasat History
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/12019/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="ФИЛЬМЫ", Ужас TV 
+https://bl.rutube.ru/livestream/696bffe7b7be44aa1c64fda33c2cff5c/index.m3u8?s=u4ncdb1exIVK1Jv6O4pNOQ&e=1743455024&scheme=https
+#EXTINF:-1 group-title="ФИЛЬМЫ", КиноКульт
+https://stream-msk-20.ott.tricolor.tv/dtv/id1032_MSKSG-PVR-1--Kinokult_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mzk5NDA1OSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzMzg5MjU5LCJzZXNzaW9uX2lkIjoiOTY1M2JkNzc3Njk4YzdmODRjNDc5OTU1NGRkNDc1NzYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KGHLVTxp2-xOck8DUZg4A8YS053lPLNvKDX-g8l770U
+#EXTINF:-1 group-title="ФИЛЬМЫ", Cinema
+http://212.20.41.116:4022/udp/225.54.225.10:5000
+#EXTINF:-1 group-title="ФИЛЬМЫ", МужскоеКино
+http://212.20.41.116:4022/udp/225.54.225.176:5000
+#EXTINF:-1 group-title="ФИЛЬМЫ", Ultra HD Cinema 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/4000/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", VHS-ка HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/5006/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", CineMan Ментовские войны
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/16063/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", Fresh Romantic
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/19298/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", TOP Cinema HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13004/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", Fresh Romantic
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/19298/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", TOP Cinema HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13004/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", Fresh Romantic
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/19298/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ", TOP Cinema HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13004/index.m3u8
+
+----------------------------------
 
 #EXTINF:-1 group-title="Viju", Viju TV1000
 http://130.193.73.10:8937/play/a02s
@@ -55,14 +122,157 @@ http://cdntv.online/high/5px3ac89zsm2/317.m3u8
 http://31.173.165.29:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="Viju", viju romantica
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Aae2ZXyY0C-jexMsUPkBnw&e=1744398095&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Viju", viju+ Premiere
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/159839
+#EXTINF:-1 group-title="Viju", viju+ Serial
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/782152
+#EXTINF:-1 group-title="Viju", viju+ Comedy
+http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/159838
+#EXTINF:-1 group-title="Viju", Viju TV1000 Action HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9057/index.m3u8
+#EXTINF:-1 group-title="Viju", Viju History HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9060/index.m3u8
+#EXTINF:-1 group-title="Viju", Viju History 
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/9060/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="BCU", BCU Kids 4K
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/17023/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU VHS HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/11042/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU Marvel HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/11038/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU Kids 4K
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/11035/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU VHS HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/11042/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU Marvel HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/11038/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU Kids 4K
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/17023/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU VHS HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/11042/index.m3u8
+#EXTINF:-1 group-title="BCU", BCU Marvel HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15025/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="Magic", Magic VHS HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/18062/index.m3u8
+#EXTINF:-1 group-title="Magic", Magic VHS HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/18062/index.m3u8
+#EXTINF:-1 group-title="Magic", Magic VHS HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/18062/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="Yosso", Yosso-4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/16153/index.m3u8
+#EXTINF:-1 group-title="Yosso", Yosso TV Best 60fps
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/20165/index.m3u8
+#EXTINF:-1 group-title="Yosso", Yosso TV Союзмульт
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/14178/index.m3u8
+#EXTINF:-1 group-title="Yosso", Yosso TV Best 60fps
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/14236/index.m3u8
+#EXTINF:-1 group-title="Yosso", Yosso TV Союзмульт
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/14178/index.m3u8
+#EXTINF:-1 group-title="Yosso", Yosso TV Best 60fps
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/20165/index.m3u8
+#EXTINF:-1 group-title="Yosso", Yosso TV Союзмульт
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/14178/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="MM", MM Боевик Classic HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13027/index.m3u8
+#EXTINF:-1 group-title="MM", MM История HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13033/index.m3u8
+#EXTINF:-1 group-title="MM", MM Фантастика HD
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/13062/index.m3u8
+#EXTINF:-1 group-title="MM", MM Боевик Classic HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13027/index.m3u8
+#EXTINF:-1 group-title="MM", MM История HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13033/index.m3u8
+#EXTINF:-1 group-title="MM", MM Фантастика HD
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/13062/index.m3u8
+#EXTINF:-1 group-title="MM", MM Боевик Classic HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13027/index.m3u8
+#EXTINF:-1 group-title="MM", MM История HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13033/index.m3u8
+#EXTINF:-1 group-title="MM", MM Фантастика HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13062/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="VF", VF Сериал 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/11115/index.m3u8
+#EXTINF:-1 group-title="VF", VF Мультфильмы СССР
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/10086/index.m3u8
+#EXTINF:-1 group-title="VF", VF Фильмы СССР
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/10085/index.m3u8
+#EXTINF:-1 group-title="VF", VF Мультфильмы СССР
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/10086/index.m3u8
+#EXTINF:-1 group-title="VF", VF Фильмы СССР
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/10085/index.m3u8
+#EXTINF:-1 group-title="VF", VF Мультфильмы СССР
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/10086/index.m3u8
+#EXTINF:-1 group-title="VF", VF Фильмы СССР
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/10085/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="КИНО", Кинопремьера HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9020/index.m3u8
+#EXTINF:-1 group-title="КИНО", Киноужас HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/9033/index.m3u8
+#EXTINF:-1 group-title="КИНО", Кинокомедия HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7248/index.m3u8
+#EXTINF:-1 group-title="КИНО", Кинохит HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7250/index.m3u8
+#EXTINF:-1 group-title="КИНО", Киносемья HD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/7244/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="Liberty", Liberty Боевики FHD
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/15096/index.m3u8
+#EXTINF:-1 group-title="Liberty", Liberty Мульт 4K
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/18051/index.m3u8
+#EXTINF:-1 group-title="Liberty", Liberty Мульт 4K
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/18051/index.m3u8
+#EXTINF:-1 group-title="Liberty", Liberty Мульт 4K
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/18051/index.m3u8
 
 
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", MTV Live HD
-http://7f0a45b4.amazzin.pw/iptv/6BE7AU3YFKN3U5/9009/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", MTV Classic
-http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", THT MUSIC HD
-http://sqemtdq.mant2021.xyz:80/9503368143/5030100149/360649
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
