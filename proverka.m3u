@@ -1,101 +1,95 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/epg/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
-#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",Yosso-2025-4-5-00-04 http://iptvin.ru
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",Fresh-2025-4-5-01-04 http://iptvin.ru
 http://overlay.iptvin.fun/iptvin.ru.mp4
-#EXTINF:-1 group-title="Детские",Yosso TV Disney HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSO-Disney/video.m3u8?token=Freestbott&token=7c3af16ff994ecc5f4aae9110497898e
-#EXTINF:-1 group-title="Детские",Yosso TV Kids HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSO-TV-KIDS/video.m3u8?token=Freestbott&token=50b26f7a30eb42914c8b022b72e9a11d
-#EXTINF:-1 group-title="Детские" tvg-logo="https://i.ibb.co/m8Sg3ZN/Yosso-Kids-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20KIDS.png" channelId="-1" tvg-id="yossokids-yosso" shift="3",Yosso TV Kids
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/Yossokids/video.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="https://i.ibb.co/m8Sg3ZN/Yosso-Kids-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20KIDS.png" channelId="-1" tvg-id="yossokids-yosso" shift="3",Yosso TV Kids
-http://ua.online24.pm/play/8777/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="https://i.ibb.co/rpdYp6D/Yosso-Sojuzmult-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%A1%D0%BE%D1%8E%D0%B7%D0%BC%D1%83%D0%BB%D1%8C%D1%82.png" channelId="-1" tvg-id="yossosovmult-yosso" shift="3",Yosso TV Союзмульт
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSO-MULT/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Yosso New Кино
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSO-NEW-KINO/video.m3u8?token=Freestbott&token=b0b884661b223ca377ba83aec0ed4934
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/BK8pbdS/Yosso-Adrenaline-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20ADRENALINE.png" channelId="-1" tvg-id="yossoadrenaline-yosso" shift="3",Yosso TV Adrenaline
-http://ua.online24.pm/play/8783/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/YjdqDwK/Yosso-Adventure-120x120.png" logo="http://epg.one/img2/5984.png" channelId="-1" tvg-id="yossoadv-yosso" shift="3",Yosso TV Adventure
-http://ua.online24.pm/play/8769/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Yosso TV Best
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSO-BEST/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Yosso TV Best
-http://ua.online24.pm/play/8781/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/xHcmHyf/Yosso-Grand-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20GRAND.png" channelId="-1" tvg-id="grand-yosso" shift="3",Yosso TV Grand
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSO-GRAND/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Yosso TV New Кино
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSO-NEW/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Yosso TV New Кино
-http://ua.online24.pm/play/8773/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/dcNTB42/Yosso-Oblivion-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20OBLIVION.png" channelId="-1" tvg-id="yossooblivion-yosso" shift="3",Yosso TV Oblivion
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/Yosso-OBLIVION/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/dcNTB42/Yosso-Oblivion-120x120.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20OBLIVION.png" channelId="-1" tvg-id="yossooblivion-yosso" shift="3",Yosso TV Oblivion
-http://ua.online24.pm/play/8784/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/51JMdc9/Yosso-Thriller-120x120.png" logo="http://epg.one/img2/5631.png" channelId="-1" tvg-id="yossothriller-yosso" shift="3",Yosso TV Thriller
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSOTHRILLER/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/51JMdc9/Yosso-Thriller-120x120.png" logo="http://epg.one/img2/5631.png" channelId="-1" tvg-id="yossothriller-yosso" shift="3",Yosso TV Thriller
-http://ua.online24.pm/play/8785/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Yosso TV Vhs
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSOVHS/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Yosso TV Vhs
-http://ua.online24.pm/play/8778/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/cXSSH18/Yosso-Zabavnoe-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossozabavnoe-yosso" shift="3",Yosso TV Забавное
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSO-ZABAVNOE/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/cXSSH18/Yosso-Zabavnoe-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossozabavnoe-yosso" shift="3",Yosso TV Забавное
-http://ua.online24.pm/play/8780/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/vLsPvBk/Yosso-Kovbojskoe-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%9A%D0%BE%D0%B2%D0%B1%D0%BE%D0%B9%D1%81%D0%BA%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossokowboy-yosso" shift="3",Yosso TV Ковбойское
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSO-KOWBOYSKOE/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/vLsPvBk/Yosso-Kovbojskoe-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%9A%D0%BE%D0%B2%D0%B1%D0%BE%D0%B9%D1%81%D0%BA%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossokowboy-yosso" shift="3",Yosso TV Ковбойское
-http://ua.online24.pm/play/8782/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Yosso TV Наше Детское HD
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSO-TV-Nashe-Detskoe/video.m3u8?token=Freestbott&token=bebe066f97b1364a415e9593bd406ccf
-#EXTINF:-1 group-title="Кино и сериалы",Yosso TV Русские Фильмы
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/Yossorus/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Yosso TV Русские Фильмы
-http://ua.online24.pm/play/8776/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Yosso TV Советские Фильмы
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSO-SSSR/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Yosso TV Советские Фильмы
-http://ua.online24.pm/play/8775/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/C5DCdWt/Yosso-Tragik-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%A2%D1%80%D0%B0%D0%B3%D0%B8%D1%87%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossotragic-yosso" shift="3",Yosso TV Трагичное
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSO-TRAGIK/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/C5DCdWt/Yosso-Tragik-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20%D0%A2%D1%80%D0%B0%D0%B3%D0%B8%D1%87%D0%BD%D0%BE%D0%B5.png" channelId="-1" tvg-id="yossotragic-yosso" shift="3",Yosso TV Трагичное
-http://ua.online24.pm/play/8770/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Yosso-4K
-http://ua.online24.pm/play/8766/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Yosso-C-Comedy
-http://ua.online24.pm/play/8768/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Yosso-C-Inquest
-http://ua.online24.pm/play/8767/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.ibb.co/J5JRvYM/Yosso-Music-Hits-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20Music%20Hits.png" channelId="-1" tvg-id="yossomusichits-yosso" shift="3",Yosso TV Music Hits
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSO-MUSIC-HITS/video.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.ibb.co/J5JRvYM/Yosso-Music-Hits-200x200.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%20TV%20Music%20Hits.png" channelId="-1" tvg-id="yossomusichits-yosso" shift="3",Yosso TV Music Hits
-http://ua.online24.pm/play/8771/161839CCAE1B639/video.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="https://i.ibb.co/ZgH4C31/Yosso-4-K-144x144.png" logo="http://overlay.iptvin.online/epg/PIC/YOSSO%204K.png" channelId="-1" tvg-id="yosso4k-yosso" shift="3",Yosso TV 4K
-http://tinyurl.com/%74%76%7A%61%74%61%6B19/YOSSO-UHD/video.m3u8?token=Freestbott&token=80cfcb55217243a50b44d4b0b309f414
-#EXTINF:-1 group-title="Без группы",Yosso_Adrenaline
-http://95.216.32.41:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Без группы",Yosso_Adventure
-http://95.216.32.41:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="Без группы",Yosso_Best
-http://95.216.32.41:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="Без группы",Yosso_Grand
-http://95.216.32.41:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="Без группы",Yosso_Kovboyskoye
-http://95.216.32.41:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-title="Без группы",Yosso_Melodramma
-http://95.216.32.41:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="Без группы",Yosso_Netflix
-http://95.216.32.41:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="Без группы",Yosso_New_Kino
-http://95.216.32.41:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Без группы",Yosso_Oblivion
-http://95.216.32.41:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Без группы",Yosso_Tragichnoye
-http://95.216.32.41:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Без группы",Yosso_Tragichnoye
-http://95.216.32.41:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="Без группы",Yosso_Triller
-http://95.216.32.41:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Без группы",Yosso_Zabavnoye
-http://95.216.32.41:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img/5606.png",Fresh HD AM
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 tvg-name="Radio Fresh (Австралия)" group-title="Радио",Radio Fresh (Австралия)
+http://live.fresh927.com.au/freshmp3
+#EXTINF:-1 tvg-name="Radio Fresh FM (BG)" group-title="Радио",Radio Fresh FM (BG)
+http://193.108.24.21:8000/fresh
+#EXTINF:-1 tvg-name="Radio Kiss (UK) - Fresh" group-title="Радио",Radio Kiss (UK) - Fresh
+http://91.193.245.198/kissfresh.mp3
+#EXTINF:-1 tvg-name="Radio Kronehit Fresh" group-title="Радио",Radio Kronehit Fresh
+https://secureonair.krone.at/kronehit22.mp3
+#EXTINF:-1 tvg-name="Radio Novosti Fresh" group-title="Радио",Radio Novosti Fresh
+https://novosti.radiostreaming.rs/novosti8
+#EXTINF:-1 tvg-name="АМГ Радио- Fresh" group-title="Радио",АМГ Радио- Fresh
+http://fresh.amgradio.ru/Fresh
+#EXTINF:-1 tvg-name="Новое радио (BY) - Fresh" group-title="Радио",Новое радио (BY) - Fresh
+https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio
+#EXTINF:-1 tvg-name="Радио Fresh FM (Кингисепп)" group-title="Радио",РадиоFresh FM (Кингисепп)
+http://free.radioheart.ru:8000/COMEDY_KING_96.5
+#EXTINF:-1 tvg-name="Радио Fresh FM (Сосновый бор)" group-title="Радио",РадиоFresh FM (Сосновый бор)
+http://a2.radioheart.ru:8007/live
+#EXTINF:-1 tvg-name="Радио Fresh FM" group-title="Радио",РадиоFresh FM
+http://icecast-ext.dimfm.ru:8000/fresh-320
+#EXTINF:-1 group-title="Watchtv",Fresh Adventure HD
+http://ott.watch/stream/DZ66D3MHP4P/432.m3u8
+#EXTINF:-1 group-title="Watchtv",Fresh Cinema HD
+http://ott.watch/stream/DZ66D3MHP4P/423.m3u8
+#EXTINF:-1 group-title="Watchtv",Fresh Comedy HD
+http://ott.watch/stream/DZ66D3MHP4P/426.m3u8
+#EXTINF:-1 group-title="Watchtv",Fresh Family HD
+http://ott.watch/stream/DZ66D3MHP4P/427.m3u8
+#EXTINF:-1 group-title="Watchtv",Fresh Fantastic HD
+http://ott.watch/stream/DZ66D3MHP4P/429.m3u8
+#EXTINF:-1 group-title="Watchtv",Fresh Horror HD
+http://ott.watch/stream/DZ66D3MHP4P/431.m3u8
+#EXTINF:-1 group-title="Watchtv",Fresh Kids HD
+http://ott.watch/stream/DZ66D3MHP4P/425.m3u8
+#EXTINF:-1 group-title="Watchtv",Fresh Premiere HD
+http://ott.watch/stream/DZ66D3MHP4P/424.m3u8
+#EXTINF:-1 group-title="Watchtv",Fresh Rating HD
+http://ott.watch/stream/DZ66D3MHP4P/422.m3u8
+#EXTINF:-1 group-title="Watchtv",Fresh Romantic HD
+http://ott.watch/stream/DZ66D3MHP4P/433.m3u8
+#EXTINF:-1 group-title="Watchtv",Fresh Series HD
+http://ott.watch/stream/DZ66D3MHP4P/430.m3u8
+#EXTINF:-1 group-title="Watchtv",Fresh Thriller HD
+http://ott.watch/stream/DZ66D3MHP4P/434.m3u8
+#EXTINF:-1 group-title="Watchtv",Fresh VHS HD
+http://ott.watch/stream/DZ66D3MHP4P/428.m3u8
+#EXTINF:-1 group-title="Детские",CPS FreshUA
+http://tinyurl.com/%74%76%7A%61%74%61%6B19/CPS_Fresh_UA/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",CPS Fresh
+http://tinyurl.com/%74%76%7A%61%74%61%6B19/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Adventure
+http://ua.online24.pm/play/1647/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Cinema
+http://ua.online24.pm/play/1645/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Comedy
+http://tinyurl.com/%74%76%7A%61%74%61%6B19/Fresh_Comedy/video.m3u8?token=Freestbott&token=72a1e0e9f0182ffd2340246d177b0006
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Comedy
+http://ua.online24.pm/play/1688/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Family
+http://ua.online24.pm/play/1642/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Fantastic
+http://ua.online24.pm/play/1639/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Horror
+http://ua.online24.pm/play/1646/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Kids
+http://ua.online24.pm/play/1644/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Premiere
+http://ua.online24.pm/play/1643/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Rating
+http://ua.online24.pm/play/1641/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Romantic
+http://ua.online24.pm/play/1648/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Russian
+http://ua.online24.pm/play/1649/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Series
+http://ua.online24.pm/play/1638/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Soviet
+http://ua.online24.pm/play/1637/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh TV Armenia
+http://ua.online24.pm/play/1636/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh Thriller
+http://ua.online24.pm/play/1687/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Fresh VHS
+http://ua.online24.pm/play/1640/161839CCAE1B639/video.m3u8
+#EXTINF:-1 group-title="Без группы",Fresh HD AM
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 group-title="Армения" tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png" logo="https://i.postimg.cc/8CDqMy8Z/2c43f3a39088b5417833eec8a005c13b.png" channelId="-1" tvg-id="freshtv",Fresh TV
+https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
+#EXTINF:-1 group-title="Армения",Fresh TV
+https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
