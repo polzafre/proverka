@@ -282,23 +282,6 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/18062/index.m3u8
 
 ----------------------------------
 
-#EXTINF:-1 group-title="VF", VF Сериал 4K
-http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/11115/index.m3u8
-#EXTINF:-1 group-title="VF", VF Мультфильмы СССР
-http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/10086/index.m3u8
-#EXTINF:-1 group-title="VF", VF Фильмы СССР
-http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/10085/index.m3u8
-#EXTINF:-1 group-title="VF", VF Мультфильмы СССР
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/10086/index.m3u8
-#EXTINF:-1 group-title="VF", VF Фильмы СССР
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/10085/index.m3u8
-#EXTINF:-1 group-title="VF", VF Мультфильмы СССР
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/10086/index.m3u8
-#EXTINF:-1 group-title="VF", VF Фильмы СССР
-http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/10085/index.m3u8
-
-----------------------------------
-
 #EXTINF:-1 group-title="Liberty", Liberty Нетфликс
 http://wps5c7yt.rostelekom.xyz/iptv/TQTGTV6WW58X62U7LLRM5DM4/19402/index.m3u8
 #EXTINF:-1 group-title="Liberty", Liberty Боевики FHD
@@ -450,6 +433,20 @@ http://kylzrs6v.megogo.xyz/iptv/7B38VC2MRGFSKX/19286/index.m3u
 http://kylzrs6v.megogo.xyz/iptv/7B38VC2MRGFSKX/19427/index.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VF HBO" tvg-logo="" group-title="VF",VF HBO
 http://kylzrs6v.megogo.xyz/iptv/7B38VC2MRGFSKX/19428/index.m3u
+#EXTINF:-1 group-title="VF", VF Сериал 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/11115/index.m3u8
+#EXTINF:-1 group-title="VF", VF Мультфильмы СССР
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/10086/index.m3u8
+#EXTINF:-1 group-title="VF", VF Фильмы СССР
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/10085/index.m3u8
+#EXTINF:-1 group-title="VF", VF Мультфильмы СССР
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/10086/index.m3u8
+#EXTINF:-1 group-title="VF", VF Фильмы СССР
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/10085/index.m3u8
+#EXTINF:-1 group-title="VF", VF Мультфильмы СССР
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/10086/index.m3u8
+#EXTINF:-1 group-title="VF", VF Фильмы СССР
+http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/10085/index.m3u8
 
 
 ----------------------------------
