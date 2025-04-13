@@ -44,6 +44,8 @@ http://45.11.139.43:8555/rbk/index.m3u8
 http://178.212.71.253:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", ТВ-3
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Москва Доверие
+http://de.online24.pm/play/321/F1B8D744B3A2467/video.m3u8
 
 ----------------------------------
 
@@ -125,6 +127,12 @@ http://78.130.250.2:8023/play/a02c/index.m3u8
 http://tv4.skaz.tv:34002/67/tracks-v1a1/mono.m3u8?token=eyJpc3MiOiJza2F6dHYiLCJhdWQiOiI5NC40MS4yNDAuODcifQ.eyJpc3MiOiJza2F6dHYiLCJhdWQiOiI5NC40MS4yNDAuODciLCJleHAiOjE3NDQ1NzU3MTV9.fgdvncH0anqDJHE07840zvmByutIiN3EZD3
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Discovery Channel
 https://tv.movielab.pro/147/video.m3u8?token=cacf94549acc9c214847e0c10c52f05f374ffaa8-72b7a94b07ec1e5e155f7f08e393b7fd-1744614668-1744528268
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Т24
+http://de.online24.pm/play/101/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", Мосфильм. Золотая коллекция
+http://de.online24.pm/play/4985/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ", VeleS
+http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/31637/index.m3u8
 
 ----------------------------------
 
@@ -184,12 +192,14 @@ http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJ
 
 ----------------------------------
 
+#EXTINF:-1 group-title="YOSSO", YOSSO 4K
+http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/16153/index.m3u8
 #EXTINF:-1 group-title="YOSSO", Yosso TV Adrenaline
 http://95.216.32.41:8000/play/a01b/index.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Adventure
 http://95.216.32.41:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV BEST
-http://95.216.32.41:8000/play/a01a/index.m3u8
+http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/20165/index.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Grand
 http://95.216.32.41:8000/play/a019/index.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Ковбойское
@@ -206,8 +216,6 @@ http://95.216.32.41:8000/play/a00f/index.m3u8
 http://95.216.32.41:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Забавное
 http://95.216.32.41:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="YOSSO", YOSSO 4K
-http://aeurop4n.akciatv.ru/iptv/W82B6MN5X9KLUG/16153/index.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Best
 http://4f15113b.edemist.com/iptv/F2T389R4UY8QVL/20165/index.m3u8
 #EXTINF:-1 group-title="YOSSO", YOSSO TV Союзмульт
@@ -261,33 +269,54 @@ http://178.212.71.253:8000/play/123/index.m3u8
 ----------------------------------
 
 #EXTINF:-1 group-title="Fresh", Fresh Adventure
-http://ott.watch/stream/DZ66D3MHP4P/432.m3u8
+http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19297/index.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Cinema
-http://ott.watch/stream/DZ66D3MHP4P/423.m3u8
+http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19287/index.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Comedy
-http://ott.watch/stream/DZ66D3MHP4P/426.m3u8
+http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19289/index.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Family
-http://ott.watch/stream/DZ66D3MHP4P/427.m3u8
+http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19291/index.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Fantastic
-http://ott.watch/stream/DZ66D3MHP4P/429.m3u8
+http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19294/index.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Horror
-http://ott.watch/stream/DZ66D3MHP4P/431.m3u8
+http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19296/index.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Kids
-http://ott.watch/stream/DZ66D3MHP4P/425.m3u8
+http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19288/index.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Premiere
-http://ott.watch/stream/DZ66D3MHP4P/424.m3u8
+http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19290/index.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Rating
-http://ott.watch/stream/DZ66D3MHP4P/422.m3u8
+http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19292/index.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Romantic
-http://ott.watch/stream/DZ66D3MHP4P/433.m3u8
+http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19298/index.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Series
-http://ott.watch/stream/DZ66D3MHP4P/430.m3u8
+http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19295/index.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh Thriller
-http://ott.watch/stream/DZ66D3MHP4P/434.m3u8
+http://5dec590e.edemist.com/iptv/HVDS4X3AWRWDUV/19300/index.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh VHS
-http://ott.watch/stream/DZ66D3MHP4P/428.m3u8
+http://de.online24.pm/play/1640/F1B8D744B3A2467/video.m3u8
 #EXTINF:-1 group-title="Fresh", Fresh TV
 https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
+
+----------------------------------
+
+#EXTINF:-1 group-title="Magic", CineMan Action
+http://de.online24.pm/play/13002/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 group-title="Magic", CineMan Marvel
+http://de.online24.pm/play/13006/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 group-title="Magic", CineMan Melodrama
+http://de.online24.pm/play/13007/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 group-title="Magic", CineMan VHS
+http://de.online24.pm/play/13019/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 group-title="Magic", CineMan Симпсоны
+http://de.online24.pm/play/13013/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 group-title="Magic", CineMan Ужасы
+http://de.online24.pm/play/13018/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 group-title="Magic", CineMan Глухарь + Карпов
+http://de.online24.pm/play/13029/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 group-title="Magic", CineMan Top
+http://de.online24.pm/play/13017/F1B8D744B3A2467/video.m3u8
+#EXTINF:-1 group-title="Magic", CineMan Сваты
+http://de.online24.pm/play/13015/F1B8D744B3A2467/video.m3u8
 
 ----------------------------------
 
@@ -384,3 +413,34 @@ http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13027/index.m3u8
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13033/index.m3u8
 #EXTINF:-1 group-title="MM", MM Фантастика 
 http://68f06382.otttv.pw/iptv/4ZVY6T785C9Z5S/13062/index.m3u8
+
+----------------------------------
+
+#EXTINF:-1 group-title="KinoPolzaFre", Блэйд (1998)
+https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSZHUSxcbgtKH9/ZX
+#EXTINF:-1 group-title="KinoPolzaFre", Матрица (1999)
+https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXeF1D-Mz3ft_e/ZX
+#EXTINF:-1 group-title="KinoPolzaFre", Маска (1994)
+https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKSRJdaPntQOUSX/ZX
+#EXTINF:-1 group-title="KinoPolzaFre", Вердикт суд над макмартинами (1995)
+https://vk.com/video-12216392_456241920
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
