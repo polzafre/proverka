@@ -23,7 +23,7 @@ http://212.20.41.116:4022/udp/225.54.203.16:5000
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Пятница! УФА
 http://topc.ottc.pro:80/NOOKROYGJC/H9E8GZBCN7/1130829
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Че!
-http://195.26.83.96:7009/play/89/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", 2х2 
 https://river-5-547.rutube.ru/stream/genetta-323.m9.rutube.ru/eEiMMLGFKrFC59JwXIVWog/1745161422/e2316b43b1803d6c29a542345bbd714e/1080p_stream.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", СТС
@@ -45,7 +45,7 @@ http://178.212.71.253:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", ТВ-3
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Москва Доверие
-http://de.online24.pm/play/321/F1B8D744B3A2467/video.m3u8
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
 ----------------------------------
 
@@ -88,6 +88,8 @@ http://ott.server-iptv.live/457/video.m3u8?token=S53B863B2A
 http://37.143.109.28:4022/udp/239.72.6.224:1234
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", VF Rock
 http://b3eb5b01.megatv.fun/iptv/2VLF3G39GK7LBH/15517/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Mezzo
+http://stream-msk-12.ott.tricolor.tv/dtv/id365_MSKSG-PVR-1--Mezzo/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NDU5OTM5NywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQzOTk0NTk3LCJzZXNzaW9uX2lkIjoiZWViZWQ3MDQ1OTIyOTkwNDY3MDFiY2NlM2RjMzU4OTkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.i9JYdZIKm9PNQ2OmKId2YP3ns0O0HVcecbjVInjDvDg
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Mezzo
 http://31.173.165.29:8000/play/a01p/index.m3u8
 
@@ -430,28 +432,6 @@ http://rso.uspeh.sbs/paF9Ib29kXzE5NzMubXBnP3Rva2VuPVtzdGJfdG9rZW5dIiwidWZ0IjoiIi
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKSxSCoyd24EBIC/ZX
 #EXTINF:-1 group-title="KinoPolzaFre", Капитан Рон (1992)
 https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/2imGC3YxOShblg
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
