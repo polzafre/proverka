@@ -299,23 +299,23 @@ https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
 
 ----------------------------------
 
-#EXTINF:-1 group-title="Magic", CineMan Action
+#EXTINF:-1 group-title="CineMan", CineMan Action
 http://de.online24.pm/play/13002/F1B8D744B3A2467/video.m3u8
-#EXTINF:-1 group-title="Magic", CineMan Marvel
+#EXTINF:-1 group-title="CineMan", CineMan Marvel
 http://de.online24.pm/play/13006/F1B8D744B3A2467/video.m3u8
-#EXTINF:-1 group-title="Magic", CineMan Melodrama
+#EXTINF:-1 group-title="CineMan", CineMan Melodrama
 http://de.online24.pm/play/13007/F1B8D744B3A2467/video.m3u8
-#EXTINF:-1 group-title="Magic", CineMan VHS
+#EXTINF:-1 group-title="CineMan", CineMan VHS
 http://de.online24.pm/play/13019/F1B8D744B3A2467/video.m3u8
-#EXTINF:-1 group-title="Magic", CineMan Симпсоны
+#EXTINF:-1 group-title="CineMan", CineMan Симпсоны
 http://de.online24.pm/play/13013/F1B8D744B3A2467/video.m3u8
-#EXTINF:-1 group-title="Magic", CineMan Ужасы
+#EXTINF:-1 group-title="CineMan", CineMan Ужасы
 http://de.online24.pm/play/13018/F1B8D744B3A2467/video.m3u8
-#EXTINF:-1 group-title="Magic", CineMan Глухарь + Карпов
+#EXTINF:-1 group-title="CineMan", CineMan Глухарь + Карпов
 http://de.online24.pm/play/13029/F1B8D744B3A2467/video.m3u8
-#EXTINF:-1 group-title="Magic", CineMan Top
+#EXTINF:-1 group-title="CineMan", CineMan Top
 http://de.online24.pm/play/13017/F1B8D744B3A2467/video.m3u8
-#EXTINF:-1 group-title="Magic", CineMan Сваты
+#EXTINF:-1 group-title="CineMan", CineMan Сваты
 http://de.online24.pm/play/13015/F1B8D744B3A2467/video.m3u8
 
 ----------------------------------
