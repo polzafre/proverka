@@ -44,7 +44,9 @@ http://45.11.139.43:8555/rbk/index.m3u8
 http://178.212.71.253:8000/play/10/index.m3u8
 #EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", ТВ-3
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tv3_hd
-#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Москва Доверие
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Москва. Доверие
+http://178.163.45.211:81/udp/234.0.0.99:2000
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ", Москва. Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
 ----------------------------------
