@@ -47,7 +47,8 @@ https://radiorecord.hostingradio.ru/sd9096.aacp?933126ed
 #EXTINF:-1 group-title="РЕТРО", РЕТРО ХИТ
 https://retro.amgradio.ru/Retro?f2e7
 #EXTINF:-1 group-title="РЕТРО", Диско-Радио SOVA
-https://evcast.mediacp.eu:1965/stream
+https://stream06.pcradio.ru/rad_dli-med
+
 
 ---------------------
 
@@ -88,8 +89,13 @@ https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 https://icecast-radonezh.cdnvideo.ru/rad128
 #EXTINF:-1 group-title="РАЗНОЕ", Воскресение
 https://inra3.pravradio.ru/stream.mp3
+#EXTINF:-1 group-title="РАЗНОЕ", ЗВУКИ ПРИРОДЫ
+http://zvuki.amgradio.ru/Zvuki
 
 ---------------------
 
+#EXTINF:-1 group-title="ДЕТСКОЕ", СКАЗКА FM
+http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="ДЕТСКОЕ", KIDS
 https://strm112.1.fm/kidsfm_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
+
