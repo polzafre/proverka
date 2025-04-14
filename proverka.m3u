@@ -48,10 +48,6 @@ https://radiorecord.hostingradio.ru/sd9096.aacp?933126ed
 https://retro.amgradio.ru/Retro?f2e7
 #EXTINF:-1 group-title="РЕТРО", Диско-Радио SOVA
 https://stream06.pcradio.ru/rad_dli-med
-#EXTINF:-1 group-title="РЕТРО", Диско-Радио SOVA
-https://stream06.pcradio.ru/rad_dli-med
-
-
 
 ---------------------
 
@@ -75,6 +71,8 @@ https://pub0302.101.ru:8000/stream/air/mp3/256/200
 http://play.radio13.ru/96
 #EXTINF:-1 group-title="РОК-МУЗЫКА", Metallica - Радио Maximum
 https://metallica.hostingradio.ru/metallica96.aacp
+#EXTINF:-1 group-title="РОК-МУЗЫКА", Biker FM
+https://listen4.myradio24.com/69846
 
 ---------------------
 
