@@ -1,117 +1,189 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" cache=500 deinterlace=1 aspect-ratio=16:9 audio-track=ru m3uautoload=1
-#EXTINF:-1 tvg-logo="https://s8.hostingkartinok.com/uploads/images/2020/11/a12a3349fc93227b927054ef232c9a38.png",-Vintera http://iptvin.ru/
+#EXTINF:-1 tvg-logo="https://s8.hostingkartinok.com/uploads/images/2020/11/a12a3349fc93227b927054ef232c9a38.png",-TVplus http://iptvin.ru/
 http://dl.dropbox.com/s/7wj41uz2yxsmo6z/iptv.mp4
-#EXTINF:-1 group-title="Армения",Public TV of Armenia
-http://192.168.0.101:9090/VINTERA/1
-#EXTINF:-1 group-title="Беларусь",Беларусь 24
-http://192.168.0.101:9090/VINTERA/2
-#EXTINF:-1 group-title="Детские",Anime Kids
-http://192.168.0.101:9090/VINTERA/3
-#EXTINF:-1 group-title="Детские",Детский мир
-http://192.168.0.101:9090/VINTERA/4
-#EXTINF:-1 group-title="Детские",Детское кино
-http://192.168.0.101:9090/VINTERA/5
-#EXTINF:-1 group-title="Детские",Карусель
-http://192.168.0.101:9090/VINTERA/6
-#EXTINF:-1 group-title="Детские",Мультиландия
-http://192.168.0.101:9090/VINTERA/7
-#EXTINF:-1 group-title="Детские",МультСезон
-http://192.168.0.101:9090/VINTERA/8
-#EXTINF:-1 group-title="Детские",Рыжий
-http://192.168.0.101:9090/VINTERA/9
-#EXTINF:-1 group-title="Детские",Сказки Зайки
-http://192.168.0.101:9090/VINTERA/10
-#EXTINF:-1 group-title="Детские",Советские мультфильмы
-http://192.168.0.101:9090/VINTERA/11
-#EXTINF:-1 group-title="Зарубежные",CNC World
-http://192.168.0.101:9090/VINTERA/12
-#EXTINF:-1 group-title="Казахстан",Хабар 24
-http://192.168.0.101:9090/VINTERA/13
-#EXTINF:-1 group-title="Музыка",Europa Plus TV
-http://192.168.0.101:9090/VINTERA/14
-#EXTINF:-1 group-title="Музыка",Live Music Channel
-http://192.168.0.101:9090/VINTERA/15
-#EXTINF:-1 group-title="Музыка",Russian MusicBox
-http://192.168.0.101:9090/VINTERA/16
-#EXTINF:-1 group-title="Музыка",Муз ТВ
-http://192.168.0.101:9090/VINTERA/17
-#EXTINF:-1 group-title="Музыка",ТНТ Music
-http://192.168.0.101:9090/VINTERA/18
-#EXTINF:-1 group-title="Новости",CGTN
-http://192.168.0.101:9090/VINTERA/19
-#EXTINF:-1 group-title="Новости",АРБ24
-http://192.168.0.101:9090/VINTERA/20
-#EXTINF:-1 group-title="Новости",Российский национальный канал
-http://192.168.0.101:9090/VINTERA/21
-#EXTINF:-1 group-title="Новости",ТВ БРИКС
-http://192.168.0.101:9090/VINTERA/22
-#EXTINF:-1 group-title="Познавательные",HD Media
-http://192.168.0.101:9090/VINTERA/23
+#EXTINF:-1 group-title="Детские" tvg-logo="https://www.goldmir.net/uploads/tv/channel/57/logo_big.jpg" logo="http://infoua.biz/image/tv/stream/disneyru.png" channelId="19" tvg-id="disney",Disney
+http://192.168.0.101:9090/TVplus/1
+#EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/822.png" logo="https://img12.lostpic.net/2018/05/19/565a5e152bb28cc5f587d4d3cc8b946c.png" channelId="20" tvg-id="karusel",Карусель
+http://192.168.0.101:9090/TVplus/2
+#EXTINF:-1 group-title="Детские" tvg-logo="https://fastpic.co/images/Skazki-Zayki.jpg" channelId="-1" tvg-id="skazki-zayki",Сказки Зайки
+http://192.168.0.101:9090/TVplus/3
+#EXTINF:-1 group-title="Детские" tvg-logo="https://assets.limehd.tv/uploads/channel/10289/thumb_03729a9758f4972009151d89da8f9a56.png" logo="https://ic.wampi.ru/2021/04/14/3463ce8da3d5d68439a49f4501070f31.png" channelId="-1" tvg-id="sovmultf",Советские мультфильмы
+http://192.168.0.101:9090/TVplus/4
+#EXTINF:-1 group-title="Детские",Шаян
+http://192.168.0.101:9090/TVplus/5
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/2118.png" logo="https://avk-wellcom.ru/assets/24h-img/ecf6fbbd152b3d959b570e6921b53ad8.png" channelId="1816" tvg-id="bridge-tv-classic",Bridge TV Classic
+http://192.168.0.101:9090/TVplus/6
+#EXTINF:-1 group-title="Музыка",Bridge TV HD
+http://192.168.0.101:9090/TVplus/7
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/1818.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_71A_12_70_1680000_0_0_0.png" channelId="536" tvg-id="bridge-tv-dance",Bridge TV Hits
+http://192.168.0.101:9090/TVplus/8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/2119.png" logo="https://img12.lostpic.net/2018/05/13/8329fd5d3eac9c39a4437f65307873d1.png" channelId="484" tvg-id="bridge-tv-ruxit",Bridge TV Русский Хит
+http://192.168.0.101:9090/TVplus/9
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://shgs.ru/images/tv/192.png" logo="https://img12.lostpic.net/2018/05/13/9d496ea43d12c92ed802419d0f5c79e4.png" channelId="25" tvg-id="bridge-tv",Bridge TV
+http://192.168.0.101:9090/TVplus/10
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://tv.nalench.com/uploads/screenshots/Europa_Plus_TV.jpg" logo="https://upload.wikimedia.org/wikipedia/ru/thumb/8/8f/EuropaPlus.png/640px-EuropaPlus.png" channelId="42" tvg-id="europa-plus-tv",Europa Plus TV
+http://192.168.0.101:9090/TVplus/11
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://ic.wampi.ru/2021/04/14/e49977a27c80632b8a9c1ca5712a34e4.png" channelId="28" tvg-id="russian-musicbox",Russian MusicBox HD
+http://192.168.0.101:9090/TVplus/12
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://online-red.com/images/tv/Music-Box-ru.png" channelId="28" tvg-id="russian-musicbox",Russian MusicBox
+http://192.168.0.101:9090/TVplus/13
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://tv.nalench.com/uploads/screenshots/muz_tv.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png" channelId="136" tvg-id="muztv",Муз ТВ
+http://192.168.0.101:9090/TVplus/14
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://ru.live-tv-channels.org/pt-data/uploads/logo/ru-tnt-music-5304-300x225.jpg" logo="http://tv.kubtel.ru/tv_icon/tnt-music.png" channelId="24" tvg-id="tnt-music",ТНТ Music
+http://192.168.0.101:9090/TVplus/15
+#EXTINF:-1 group-title="Новости" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1441699164458.png" channelId="143" tvg-id="russia-today",Russia Today
+http://192.168.0.101:9090/TVplus/16
+#EXTINF:-1 group-title="Новости" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniD6le1fCn_m3b3p6RwQDjGg6t2Dyu-t8ZdPOCSkg=s220-c-k-c0x00ffffff-no-rj?.png" logo="https://gtrk.tv/sites/default/files/icons/%D0%9124-41.jpg" channelId="3979" tvg-id="bashkortostan24",Башкортостан 24
+http://192.168.0.101:9090/TVplus/17
+#EXTINF:-1 group-title="Новости" tvg-logo="https://toplogos.ru/images/logo-iz.png" channelId="1104" tvg-id="izvestia",Известия
+http://192.168.0.101:9090/TVplus/18
+#EXTINF:-1 group-title="Новости" tvg-logo="http://only4.tv/ch/0295.png" logo="https://www.m24.ru/img/logos/logo11.png" channelId="153" tvg-id="moskva-24",Москва-24
+http://192.168.0.101:9090/TVplus/19
+#EXTINF:-1 group-title="Новости" tvg-logo="https://tv-kanali.online/wp-content/uploads/2020/01/asd.jpg" logo="https://www.probusinesstv.ru/bitrix/templates/probusiness_new/img/logo.png" channelId="1743" tvg-id="pro-business",Про бизнес
+http://192.168.0.101:9090/TVplus/20
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/2422.png" logo="https://hdmedia.ru/upload/medialibrary/f5f/f5fb435e9235d0b22206215f9c03d9eb.png" channelId="231" tvg-id="hd-media",HD Media
+http://192.168.0.101:9090/TVplus/21
 #EXTINF:-1 group-title="Познавательные",Joy cook
-http://192.168.0.101:9090/VINTERA/24
-#EXTINF:-1 group-title="Познавательные",АРТ ТВ
-http://192.168.0.101:9090/VINTERA/25
-#EXTINF:-1 group-title="Познавательные",Россия К
-http://192.168.0.101:9090/VINTERA/26
-#EXTINF:-1 group-title="Познавательные",Рыболов
-http://192.168.0.101:9090/VINTERA/27
-#EXTINF:-1 group-title="Развлекательные",Перпетуум Мобиле
-http://192.168.0.101:9090/VINTERA/28
-#EXTINF:-1 group-title="Развлекательные",Полет ТВ
-http://192.168.0.101:9090/VINTERA/29
-#EXTINF:-1 group-title="Развлекательные",Русский Экстрим
-http://192.168.0.101:9090/VINTERA/30
-#EXTINF:-1 group-title="Развлекательные",СТС Love
-http://192.168.0.101:9090/VINTERA/31
-#EXTINF:-1 group-title="Развлекательные",СТС
-http://192.168.0.101:9090/VINTERA/32
-#EXTINF:-1 group-title="Развлекательные",Терра Инкогнита
-http://192.168.0.101:9090/VINTERA/33
-#EXTINF:-1 group-title="Развлекательные",Че
-http://192.168.0.101:9090/VINTERA/34
-#EXTINF:-1 group-title="Россия (Региональные)",Sochi Live
-http://192.168.0.101:9090/VINTERA/35
-#EXTINF:-1 group-title="Россия (Региональные)",Ветта 24
-http://192.168.0.101:9090/VINTERA/36
-#EXTINF:-1 group-title="Россия (Региональные)",Новое телевидение (Kaz)
-http://192.168.0.101:9090/VINTERA/37
-#EXTINF:-1 group-title="Россия" channelId="946000863426",Домашний
-http://192.168.0.101:9090/VINTERA/38
-#EXTINF:-1 group-title="Россия",Пятый канал
-http://192.168.0.101:9090/VINTERA/39
-#EXTINF:-1 group-title="Россия",Пятый канал
-http://192.168.0.101:9090/VINTERA/40
-#EXTINF:-1 group-title="Россия",ТВ Центр
-http://192.168.0.101:9090/VINTERA/41
-#EXTINF:-1 group-title="Спорт",Матч!
-http://192.168.0.101:9090/VINTERA/42
-#EXTINF:-1 group-title="Спорт",Футбол
-http://192.168.0.101:9090/VINTERA/43
-#EXTINF:-1 group-title="Спорт",Футбольный
-http://192.168.0.101:9090/VINTERA/44
-#EXTINF:-1 group-title="Спорт",Хоккейный
-http://192.168.0.101:9090/VINTERA/45
-#EXTINF:-1 group-title="Фильмы",Anime TV
-http://192.168.0.101:9090/VINTERA/46
-#EXTINF:-1 group-title="Фильмы",Horror
-http://192.168.0.101:9090/VINTERA/47
-#EXTINF:-1 group-title="Фильмы",КиноМеню HD
-http://192.168.0.101:9090/VINTERA/48
-#EXTINF:-1 group-title="Фильмы",Кинопоказ
-http://192.168.0.101:9090/VINTERA/49
-#EXTINF:-1 group-title="Фильмы",КиноСезон
-http://192.168.0.101:9090/VINTERA/50
-#EXTINF:-1 group-title="Фильмы",Классика Кино
-http://192.168.0.101:9090/VINTERA/51
-#EXTINF:-1 group-title="Фильмы",Любимое кино
-http://192.168.0.101:9090/VINTERA/52
-#EXTINF:-1 group-title="Фильмы",Мир сериала
-http://192.168.0.101:9090/VINTERA/53
-#EXTINF:-1 group-title="Фильмы",Новелла ТВ
-http://192.168.0.101:9090/VINTERA/54
-#EXTINF:-1 group-title="Фильмы",Советское кино
-http://192.168.0.101:9090/VINTERA/55
-#EXTINF:-1 group-title="Фильмы",Тайна
-http://192.168.0.101:9090/VINTERA/56
-#EXTINF:-1 group-title="Фильмы",Хит
-http://192.168.0.101:9090/VINTERA/57
+http://192.168.0.101:9090/TVplus/22
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://www.cktv.ru/img/tv/rtd.jpg" logo="https://antifriz.tv/storage/images/channel_logos/russia-today-doc-hd.png" channelId="3978" tvg-id="rtd-hd",RTД HD
+http://192.168.0.101:9090/TVplus/23
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.cableman.ru/sites/default/files/neizplanet.jpg" logo="http://big-tv.org/uploads/posts/2017-11/thumbs/1510774051_neizvestnaya-planeta.png" channelId="-1" tvg-id="neizvestnaya-planeta",Неизвестная планета
+http://192.168.0.101:9090/TVplus/24
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://robornet.ru/media/img/TV/chanel/pointtv.png" logo="http://img12.lostpic.net/2018/06/07/c02d93cfbf3b2bb417c3bae955986cb3.png" channelId="1730" tvg-id="tochka-tv",Точка ТВ
+http://192.168.0.101:9090/TVplus/25
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/1826.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" tvg-id="2na2",2х2
+http://192.168.0.101:9090/TVplus/26
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" logo="http://televizor.org/img/logopit/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" channelId="26" tvg-id="piatnica",Пятница
+http://192.168.0.101:9090/TVplus/27
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/sts2_love.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_452_B_70_1680000_0_0_0.png" channelId="1571" tvg-id="sts-love",СТС Love
+http://192.168.0.101:9090/TVplus/28
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts",СТС
+http://192.168.0.101:9090/TVplus/29
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/super_s.jpg" logo="http://infoua.biz/image/tv/stream/super_ru.png" channelId="3876" tvg-id="super",Супер
+http://192.168.0.101:9090/TVplus/30
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://kovrovinter.net/wp-content/uploads/2017/04/tv_3.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" tvg-id="tv3-ru",ТВ3
+http://192.168.0.101:9090/TVplus/31
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://ic.wampi.ru/2021/04/14/d584e282d48b38a149ee31ccbd4de7ec.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_89F_16_70_1680000_0_0_0.png" channelId="3630" tvg-id="tnt",ТНТ HD
+http://192.168.0.101:9090/TVplus/32
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
+http://192.168.0.101:9090/TVplus/33
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/tht4.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" tvg-id="tnt4",ТНТ4
+http://192.168.0.101:9090/TVplus/34
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://img.s-tv.ru/logos/terrainkog.jpg" logo="https://img16.lostpic.net/2020/01/30/5ace75e41944a5dd44c90a70bd06e55b.png" channelId="-1" tvg-id="terra-inkognita",Терра Инкогнита
+http://192.168.0.101:9090/TVplus/35
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/che_s.jpg" logo="http://televizor.org/img/logopit/%D0%A7%D0%B5.png" channelId="22" tvg-id="che",Че
+http://192.168.0.101:9090/TVplus/36
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/027_u.jpg" logo="http://televizor.org/img/logopit/%D0%AE.png" channelId="23" tvg-id="yu",Ю
+http://192.168.0.101:9090/TVplus/37
+#EXTINF:-1 group-title="Религия" tvg-logo="https://teleon.tv/images/logos/radost_moya.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2CC_7_70_1680000_0_0_0.png" channelId="184" tvg-id="radost-moya",Радость моя
+http://192.168.0.101:9090/TVplus/38
+#EXTINF:-1 group-title="Религия" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EF_A_70_1680000_0_0_0.png" channelId="244" tvg-id="spas",Спас
+http://192.168.0.101:9090/TVplus/39
+#EXTINF:-1 group-title="Россия (Региoнальные)",КУРАЙ-ТВ
+http://192.168.0.101:9090/TVplus/40
+#EXTINF:-1 group-title="Россия (Региoнальные)" tvg-logo="https://maidan.tv/images/1maidan/logo-new.png" channelId="398" tvg-id="maydan",Майдан (Татарстан)
+http://192.168.0.101:9090/TVplus/41
+#EXTINF:-1 group-title="Россия (Региoнальные)" tvg-logo="https://tvbesedka.com/Upload/2020/11/26/16/39/31/3c4a1b7e-06d9-4389-ab4c-9d11db767e96.jpg" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxVjTYfU5KkMwg2QBouVIcZ85zHBNi_QIk2g&usqp=CAU?.png" channelId="718" tvg-id="nash-dom",Наш дом (Пенза)
+http://192.168.0.101:9090/TVplus/42
+#EXTINF:-1 group-title="Россия (Региoнальные)" tvg-logo="https://s3.spbtv.com/rosing-production/73a8180ff25dfab77242.png" channelId="-1" tvg-id="otv24",ОТВ 24 (Екатеринбург)
+http://192.168.0.101:9090/TVplus/43
+#EXTINF:-1 group-title="Россия (Региoнальные)" tvg-logo="https://ic.wampi.ru/2021/04/14/20d56b23f13e4d434eeb854df5b8f228.png" logo="http://radiopriboy.ru/wp-content/themes/radiotv/img/prtv.png" channelId="-1" name="Прибой ТВ",Прибой ТВ (Дагестан)
+http://192.168.0.101:9090/TVplus/44
+#EXTINF:-1 group-title="Россия (Региoнальные)" tvg-logo="https://www.cableman.ru/sites/default/files/salyam_0.png?1574669478" logo="https://tvtvtv.ru/icons/salyam.png" channelId="-1",Салям (Уфа)
+http://192.168.0.101:9090/TVplus/45
+#EXTINF:-1 group-title="Россия (Региoнальные)" tvg-logo="https://chastnik-m.ru/images/company_new/569/logo_200.jpg" logo="https://tmkvant.ru/wp-content/uploads/2017/10/cropped-logo2-1.png" channelId="678",ТМ-КВАНТ
+http://192.168.0.101:9090/TVplus/46
+#EXTINF:-1 group-title="Россия (Региoнальные)" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngcFg7erpo0FSugSPnUXCne2YaHNFBcsgbekNmpgw=s220-c-k-c0x00ffffff-no-rj?.png" logo="https://runigma.com.ua/EPG/picons/%D0%A2%D0%B0%D0%BC%D1%8B%D1%80%20(2).png" channelId="-1" tvg-id="tamyr",Тамыр (Уфа)
+http://192.168.0.101:9090/TVplus/47
+#EXTINF:-1 group-title="Россия +2" tvg-logo="http://only4.tv/ch/822.png" logo="https://img12.lostpic.net/2018/05/19/565a5e152bb28cc5f587d4d3cc8b946c.png" channelId="20" tvg-id="karusel" tvg-shift="-2" shift="+2",Карусель (+2)
+http://192.168.0.101:9090/TVplus/48
+#EXTINF:-1 group-title="Россия +2" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" tvg-id="ntv" tvg-shift="-2" shift="+2",НТВ (+2)
+http://192.168.0.101:9090/TVplus/49
+#EXTINF:-1 group-title="Россия +2" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-id="pervy" tvg-shift="-2" shift="+2",Первый канал (+2)
+http://192.168.0.101:9090/TVplus/50
+#EXTINF:-1 group-title="Россия +2" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" logo="http://televizor.org/img/logopit/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" channelId="26" tvg-id="piatnica" tvg-shift="-2" shift="+2",Пятница (+2)
+http://192.168.0.101:9090/TVplus/51
+#EXTINF:-1 group-title="Россия +2" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/885px-REN_TV_logo_2017.svg.png" channelId="11" tvg-id="rentv" tvg-shift="-2" shift="+2",РЕН ТВ (+2)
+http://192.168.0.101:9090/TVplus/52
+#EXTINF:-1 group-title="Россия +2" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1" tvg-shift="-2" shift="+2",Россия 1 (+2)
+http://192.168.0.101:9090/TVplus/53
+#EXTINF:-1 group-title="Россия +2" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts" tvg-shift="-2" shift="+2",СТС (+2)
+http://192.168.0.101:9090/TVplus/54
+#EXTINF:-1 group-title="Россия +2" tvg-logo="https://kovrovinter.net/wp-content/uploads/2017/04/tv_3.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" tvg-id="tv3-ru" tvg-shift="-2" shift="+2",ТВ3 (+2)
+http://192.168.0.101:9090/TVplus/55
+#EXTINF:-1 group-title="Россия +2" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt" tvg-shift="-2" shift="+2",ТНТ (+2)
+http://192.168.0.101:9090/TVplus/56
+#EXTINF:-1 group-title="Россия +4" tvg-logo="http://only4.tv/ch/822.png" logo="https://img12.lostpic.net/2018/05/19/565a5e152bb28cc5f587d4d3cc8b946c.png" channelId="20" tvg-id="karusel" tvg-shift="-4" shift="+4",Карусель (+4)
+http://192.168.0.101:9090/TVplus/57
+#EXTINF:-1 group-title="Россия +4" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" tvg-id="ntv" tvg-shift="-4" shift="+4",НТВ (+4)
+http://192.168.0.101:9090/TVplus/58
+#EXTINF:-1 group-title="Россия +4" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-id="pervy" tvg-shift="-4" shift="+4",Первый канал (+4)
+http://192.168.0.101:9090/TVplus/59
+#EXTINF:-1 group-title="Россия +4" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" logo="http://televizor.org/img/logopit/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" channelId="26" tvg-id="piatnica" tvg-shift="-4" shift="+4",Пятница (+4)
+http://192.168.0.101:9090/TVplus/60
+#EXTINF:-1 group-title="Россия +4" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/885px-REN_TV_logo_2017.svg.png" channelId="11" tvg-id="rentv" tvg-shift="-4" shift="+4",РЕН ТВ (+4)
+http://192.168.0.101:9090/TVplus/61
+#EXTINF:-1 group-title="Россия +4" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1" tvg-shift="-4" shift="+4",Россия 1 (+4)
+http://192.168.0.101:9090/TVplus/62
+#EXTINF:-1 group-title="Россия +4" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts" tvg-shift="-4" shift="+4",СТС (+4)
+http://192.168.0.101:9090/TVplus/63
+#EXTINF:-1 group-title="Россия +4" tvg-logo="https://kovrovinter.net/wp-content/uploads/2017/04/tv_3.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" tvg-id="tv3-ru" tvg-shift="-4" shift="+4",ТВ3 (+4)
+http://192.168.0.101:9090/TVplus/64
+#EXTINF:-1 group-title="Россия +4" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt" tvg-shift="-4" shift="+4",ТНТ (+4)
+http://192.168.0.101:9090/TVplus/65
+#EXTINF:-1 group-title="Россия +6" tvg-logo="http://only4.tv/ch/822.png" logo="https://img12.lostpic.net/2018/05/19/565a5e152bb28cc5f587d4d3cc8b946c.png" channelId="20" tvg-id="karusel" tvg-shift="-6" shift="+6",Карусель (+6)
+http://192.168.0.101:9090/TVplus/66
+#EXTINF:-1 group-title="Россия +6" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" tvg-id="ntv" tvg-shift="-6" shift="+6",НТВ (+6)
+http://192.168.0.101:9090/TVplus/67
+#EXTINF:-1 group-title="Россия +6" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-id="pervy" tvg-shift="-6" shift="+6",Первый канал (+6)
+http://192.168.0.101:9090/TVplus/68
+#EXTINF:-1 group-title="Россия +6" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" logo="http://televizor.org/img/logopit/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" channelId="26" tvg-id="piatnica" tvg-shift="-6" shift="+6",Пятница (+6)
+http://192.168.0.101:9090/TVplus/69
+#EXTINF:-1 group-title="Россия +6" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/885px-REN_TV_logo_2017.svg.png" channelId="11" tvg-id="rentv" tvg-shift="-6" shift="+6",РЕН ТВ (+6)
+http://192.168.0.101:9090/TVplus/70
+#EXTINF:-1 group-title="Россия +6" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1" tvg-shift="-6" shift="+6",Россия 1 (+6)
+http://192.168.0.101:9090/TVplus/71
+#EXTINF:-1 group-title="Россия +6" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts" tvg-shift="-6" shift="+6",СТС (+6)
+http://192.168.0.101:9090/TVplus/72
+#EXTINF:-1 group-title="Россия +6" tvg-logo="https://kovrovinter.net/wp-content/uploads/2017/04/tv_3.png" logo="https://chas.tv/img/channel/tv3.png" channelId="8" tvg-id="tv3-ru" tvg-shift="-6" shift="+6",ТВ3 (+6)
+http://192.168.0.101:9090/TVplus/73
+#EXTINF:-1 group-title="Россия +6" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt" tvg-shift="-6" shift="+6",ТНТ (+6)
+http://192.168.0.101:9090/TVplus/74
+#EXTINF:-1 group-title="Россия" tvg-logo="http://www.oreol.tv/img/014_domashniy_1.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" tvg-id="domashny" channelId="946000863426",Домашний
+http://192.168.0.101:9090/TVplus/75
+#EXTINF:-1 group-title="Россия" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51F_D_70_1680000_0_0_0.png" channelId="17" tvg-id="zvezda",Звезда
+http://192.168.0.101:9090/TVplus/76
+#EXTINF:-1 group-title="Россия" tvg-logo="http://www.oreol.tv/img/mirpremium1.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_57F_E_70_1680000_0_0_0.png" channelId="1727" tvg-id="mir-premium",Мир Premium HD
+http://192.168.0.101:9090/TVplus/77
+#EXTINF:-1 group-title="Россия" tvg-logo="http://mega-mir.net/wp-content/uploads/2018/05/mir.jpg" logo="http://img12.lostpic.net/2018/05/19/75b199484a538abc1dbb107840431bda.png" channelId="138" tvg-id="mir",Мир
+http://192.168.0.101:9090/TVplus/78
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" tvg-id="ntv",НТВ
+http://192.168.0.101:9090/TVplus/79
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" tvg-id="ntv",НТВ HD
+http://192.168.0.101:9090/TVplus/80
+#EXTINF:-1 group-title="Россия" tvg-logo="http://www.oreol.tv/img/OTR_logo.jpg" logo="https://img12.lostpic.net/2018/05/12/737788d7672555a714164fe9d1b67e99.png" channelId="784" tvg-id="otr",ОТР
+http://192.168.0.101:9090/TVplus/81
+#EXTINF:-1 group-title="Россия" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/12/82a354c357cde76a13e246bd2c031834.jpg" logo="https://toplogos.ru/images/logo-perviy-kanal-hd.png" channelId="125" tvg-id="pervy",Первый канал HD
+http://192.168.0.101:9090/TVplus/82
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" channelId="1" tvg-id="pervy",Первый канал
+http://192.168.0.101:9090/TVplus/83
+#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7" tvg-id="5kanal-ru",Пятый канал
+http://192.168.0.101:9090/TVplus/84
+#EXTINF:-1 group-title="Россия" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/885px-REN_TV_logo_2017.svg.png" channelId="11" tvg-id="rentv",Рен ТВ
+http://192.168.0.101:9090/TVplus/85
+#EXTINF:-1 group-title="Россия" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1_hd.png" logo="https://ic.wampi.ru/2021/04/14/67b14dec7f9449a2a2b3e5f42229119a.png" channelId="203" tvg-id="rossia1",Россия 1 HD
+http://192.168.0.101:9090/TVplus/86
+#EXTINF:-1 group-title="Россия" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1",Россия 1
+http://192.168.0.101:9090/TVplus/87
+#EXTINF:-1 group-title="Россия" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10" tvg-id="rossia-24",Россия 24
+http://192.168.0.101:9090/TVplus/88
+#EXTINF:-1 group-title="Россия" tvg-logo="https://nv.tvstroka.com/images/tvc.png" logo="https://runigma.com.ua/EPG/picons/TVCENTR.png" channelId="13" tvg-id="tvcentr",ТВ Центр
+http://192.168.0.101:9090/TVplus/89
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EA_A_70_1680000_0_0_0.png" channelId="4" tvg-id="match-tv",Матч!
+http://192.168.0.101:9090/TVplus/90
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://lime-tv.ru/uploads/posts/2018-03/thumbs/1521739456_kinomenu.jpg" logo="https://static.wikia.nocookie.net/tvpedia/images/7/71/%D0%9A%D0%B8%D0%BD%D0%BE%D0%9C%D0%B5%D0%BD%D1%8E_HD.png/revision/latest?cb=20150122035102&path-prefix=ru" channelId="-1",КиноМеню HD
+http://192.168.0.101:9090/TVplus/91
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://ic.wampi.ru/2021/04/14/d8519bbfa86d95d0e7e4140c7925db16.jpg" logo="https://ic.wampi.ru/2021/04/14/f935ea769f952a128a85930d16fced05.png" channelId="-1" tvg-id="klassika-kino",Классика Кино
+http://192.168.0.101:9090/TVplus/92
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://assets.limehd.tv/uploads/channel/10290/thumb_b856ce216bce677cebbb660e5d847bcc.png" logo="https://img15.lostpic.net/2020/01/06/40375783926e654eccc2a38541f17075.png" channelId="-1" tvg-id="sovkino",Советское кино
+http://192.168.0.101:9090/TVplus/93
