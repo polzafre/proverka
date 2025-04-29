@@ -1,433 +1,709 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
-#EXTINF:-1 tvg-logo="https://s8.hostingkartinok.com/uploads/images/2020/11/a12a3349fc93227b927054ef232c9a38.png",-telehub http://iptvin.ru channels 216 
+#EXTM3U url-tvg="https://iptvx.one/EPG" cache=500 deinterlace=1 aspect-ratio=16:9 audio-track=ru m3uautoload=1
+#EXTINF:-1 tvg-logo="https://s8.hostingkartinok.com/uploads/images/2020/11/a12a3349fc93227b927054ef232c9a38.png",-Lime-TV http://iptvin.ru/
 http://dl.dropbox.com/s/7wj41uz2yxsmo6z/iptv.mp4
-#EXTINF:-1 group-title="Детские" tvg-logo="http://mediasat.info/wp-content/uploads/2015/08/ani_logo_heart4.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_19B_4_70_1680000_0_0_0.png" channelId="2830" tvg-id="ani",Ani
-http://192.168.0.101:9090/telehub/1
-#EXTINF:-1 group-title="Детские" tvg-logo="https://www.goldmir.net/uploads/tv/channel/57/logo_big.jpg" logo="http://infoua.biz/image/tv/stream/disneyru.png" channelId="19" tvg-id="disney",Disney
-http://192.168.0.101:9090/telehub/2
-#EXTINF:-1 group-title="Детские" tvg-logo="https://s2.vcdn.biz/static/f/1558603541/image.jpg" logo="http://televizor.org/img/logopit/GullI%20Girls.png" channelId="183" tvg-id="gulli-girl",Gulli Girl
-http://192.168.0.101:9090/telehub/3
-#EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/708.png" logo="http://img12.lostpic.net/2018/05/21/92f8c59bb63aceefa5c010a4155d8300.png" channelId="191" tvg-id="jimjam",JimJam
-http://192.168.0.101:9090/telehub/4
-#EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/0189.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/Lale.png" channelId="1114" tvg-id="lale",Lale
-http://192.168.0.101:9090/telehub/5
-#EXTINF:-1 group-title="Детские" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_32E_8_70_168AFFC_0_0_0.png" channelId="322" tvg-id="nick-jr",Nick Jr
-http://192.168.0.101:9090/telehub/6
-#EXTINF:-1 group-title="Детские" tvg-logo="https://pbs.twimg.com/profile_images/1213179665852108800/ElAdXUrf_400x400.jpg" logo="https://runigma.com.ua/EPG/picons/Nickelodeon.png" channelId="41" tvg-id="nickelodeon-ru",Nickelodeon
-http://192.168.0.101:9090/telehub/7
-#EXTINF:-1 group-title="Детские" tvg-logo="https://ic.wampi.ru/2021/04/14/2813918ab3847bbcc38deedbe7538f5d.png" logo="http://tricolor-38.ru/KANALY_4/logo_nicktoons-scandinavia-200x200.png" channelId="2711" tvg-id="nicktoons",Nicktoons
-http://192.168.0.101:9090/telehub/8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://img.prosto.tv/storage/channel/logo" channelId="182" tvg-id="tiji",Tiji
-http://192.168.0.101:9090/telehub/9
-#EXTINF:-1 group-title="Детские" tvg-logo="https://ic.wampi.ru/2021/04/14/3e01e49cab81a1c912e3d5200887e402.jpg" logo="https://ic.wampi.ru/2021/04/14/614e57636b5a2d96071c62c79ab71be2.png" channelId="-1",Детский канал
-http://192.168.0.101:9090/telehub/10
-#EXTINF:-1 group-title="Детские" tvg-logo="https://satcom28.ru/images/channel_icon/186.png" logo="https://img16.lostpic.net/2019/06/22/709fec6ef4b1f5c8ac7a4048ce2e57ff.png" channelId="39" tvg-id="detsky-mir",Детский мир
-http://192.168.0.101:9090/telehub/11
-#EXTINF:-1 group-title="Детские" tvg-logo="http://only4.tv/ch/822.png" logo="https://img12.lostpic.net/2018/05/19/565a5e152bb28cc5f587d4d3cc8b946c.png" channelId="20" tvg-id="karusel",Карусель
-http://192.168.0.101:9090/telehub/12
-#EXTINF:-1 group-title="Детские" tvg-logo="http://www.oreol.tv/img/malysh_1.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_7A_1_70_1680000_0_0_0.png" channelId="3170" tvg-id="malysh",Малыш
-http://192.168.0.101:9090/telehub/13
-#EXTINF:-1 group-title="Детские",Малятко
-http://192.168.0.101:9090/telehub/14
-#EXTINF:-1 group-title="Детские" tvg-logo="https://telesputnik.ru/upload/iblock/4e4/Mama_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_4AB0_13_70_1680000_0_0_0.png" channelId="245" tvg-id="mama",Мама
-http://192.168.0.101:9090/telehub/15
-#EXTINF:-1 group-title="Детские" tvg-logo="http://www.oreol.tv/img/mult_small.jpg" logo="https://img12.lostpic.net/2018/05/19/ddb503f59b0871d804ef8532e643d7d5.png" channelId="1722" tvg-id="mult",Мульт
-http://192.168.0.101:9090/telehub/16
-#EXTINF:-1 group-title="Детские" tvg-logo="https://ic.wampi.ru/2021/04/14/cf239e79d0d8650b4c5b6e8efb50f5d2.jpg" logo="https://ic.wampi.ru/2021/04/14/a584244bb01e0ff2b637cb88ec45b0d7.png" channelId="-1" tvg-id="multimania-lv",Мультимания
-http://192.168.0.101:9090/telehub/17
-#EXTINF:-1 group-title="Детские" tvg-logo="http://www.oreol.tv/img/multmus.jpg" logo="http://televizor.org/img/logopit/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0.png" channelId="3704" tvg-id="multimuzyka",Мультимузыка
-http://192.168.0.101:9090/telehub/18
-#EXTINF:-1 group-title="Детские" tvg-logo="https://api.hmara.tv/images/saved/Piksel.png" logo="http://infoua.biz/image/tv/stream/piksel.png" channelId="433" tvg-id="pixel",Пиксель
-http://192.168.0.101:9090/telehub/19
-#EXTINF:-1 group-title="Детские" tvg-logo="http://img.prosto.tv/storage/channel/logo/plusplus.png" logo="https://trinity-tv.net/storage/channels/dark_theme_103.png" channelId="456" tvg-id="plusplus",ПлюсПлюс
-http://192.168.0.101:9090/telehub/20
-#EXTINF:-1 group-title="Детские" tvg-logo="https://ic.wampi.ru/2021/04/14/5b2cfe86de6ca8068c39f225c642989c.png" logo="https://img11.lostpic.net/2018/08/08/b8f6377ecd474f91d5516ef1fb97e033.png" channelId="2798" tvg-id="ryzhy",Рыжий
-http://192.168.0.101:9090/telehub/21
-#EXTINF:-1 group-title="Детские" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BC%D1%83%D0%BB%D1%8C%D1%82%20%D1%85%D0%B4" channelId="-1" tvg-id="mult",Тлум HD
-http://192.168.0.101:9090/telehub/22
-#EXTINF:-1 group-title="Детские",Улыбка ребенка
-http://192.168.0.101:9090/telehub/23
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/0256.png" logo="https://runigma.com.ua/EPG/picons/1HD%20Music.png" channelId="1476" tvg-id="1hd",1HD Music Television
-http://192.168.0.101:9090/telehub/24
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://shgs.ru/images/tv/192.png" logo="https://img12.lostpic.net/2018/05/13/9d496ea43d12c92ed802419d0f5c79e4.png" channelId="25" tvg-id="bridge-tv",Bridge TV
-http://192.168.0.101:9090/telehub/25
-#EXTINF:-1 group-title="Музыка",Dange TV
-http://192.168.0.101:9090/telehub/26
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://tv.nalench.com/uploads/screenshots/Europa_Plus_TV.jpg" logo="https://upload.wikimedia.org/wikipedia/ru/thumb/8/8f/EuropaPlus.png/640px-EuropaPlus.png" channelId="42" tvg-id="europa-plus-tv",Europa Plus TV
-http://192.168.0.101:9090/telehub/27
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://s.glaz.tv/images/logos/tv/big/mtv-russia.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_329_8_70_168AFFC_0_0_0.png" channelId="1105" tvg-id="mtv-russia",MTV Russia
-http://192.168.0.101:9090/telehub/28
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://img.rnx.ru/logotvchannel/128-250.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_42D2_11_70_1680000_0_0_0.png" channelId="282" tvg-id="mezzo-live-hd",Mezzo Live HD
-http://192.168.0.101:9090/telehub/29
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://telesputnik.ru/upload/iblock/0e7/Mezzo_s.jpg" logo="http://teledays.net/images/mezzo.png" channelId="43" tvg-id="mezzo",Mezzo
-http://192.168.0.101:9090/telehub/30
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://ru.live-tv-channels.org/pt-data/uploads/logo/ru-ru-tv-2478-300x225.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_714_12_70_1680000_0_0_0.png" channelId="45" tvg-id="ru-tv",RU.TV
-http://192.168.0.101:9090/telehub/31
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://online-red.com/images/tv/Music-Box-ru.png" channelId="28" tvg-id="russian-musicbox",Russian MusicBox
-http://192.168.0.101:9090/telehub/32
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/817.png" logo="http://teledays.net/images/vh1.png" channelId="46" tvg-id="vh1-european",VH1 Europe
-http://192.168.0.101:9090/telehub/33
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/123.png" channelId="285" tvg-id="zhara",Жара ТВ
-http://192.168.0.101:9090/telehub/34
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://www.oreol.tv/img/084_lya-minor-tv.jpg" logo="https://img15.lostpic.net/2020/04/02/63162b65a0f7d70c4e86c99e365a8979.png" channelId="150" tvg-id="la-minor",Ля-минор
-http://192.168.0.101:9090/telehub/35
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/0175.png" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/New_logo_M1.png/200px-New_logo_M1.png" channelId="429" tvg-id="m1-ua",М1
-http://192.168.0.101:9090/telehub/36
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/0176.png" logo="https://trinity-tv.net/storage/channels/dark_theme_67.png" channelId="465" tvg-id="m2-ua",М2
-http://192.168.0.101:9090/telehub/37
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://tv.nalench.com/uploads/screenshots/muz_tv.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png" channelId="136" tvg-id="muztv",Муз ТВ
-http://192.168.0.101:9090/telehub/38
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/823.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_337_8_70_168AFFC_0_0_0.png" channelId="148" tvg-id="muzyka-pervogo",Музыка Первого
-http://192.168.0.101:9090/telehub/39
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://ru.live-tv-channels.org/pt-data/uploads/logo/ru-tnt-music-5304-300x225.jpg" logo="http://tv.kubtel.ru/tv_icon/tnt-music.png" channelId="24" tvg-id="tnt-music",ТНТ Music
-http://192.168.0.101:9090/telehub/40
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://only4.tv/ch/724.png" channelId="47" tvg-id="shanson-tv",Шансон-ТВ
-http://192.168.0.101:9090/telehub/41
-#EXTINF:-1 group-title="Новости" tvg-logo="https://www.lyngsat.com/logo/tv/num/360-degree-novosti-ru.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/360-%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8.png" channelId="3976" tvg-id="360-news",360° Новости
-http://192.168.0.101:9090/telehub/42
-#EXTINF:-1 group-title="Новости" tvg-logo="https://pbs.twimg.com/profile_images/472774886335594497/7c-2Fd-S_400x400.png" logo="http://standart.tv/storage/channels/1341/default/EcuPbboQe2guNMt1vCyN.png" channelId="393" tvg-id="9kanal-israel",9 канал Израиль
-http://192.168.0.101:9090/telehub/43
-#EXTINF:-1 group-title="Новости" tvg-logo="https://s1.vcdn.biz/static/f/672118741/image.jpg" channelId="118" tvg-id="bbc",BBC News
-http://192.168.0.101:9090/telehub/44
-#EXTINF:-1 group-title="Новости",Bloomberg
-http://192.168.0.101:9090/telehub/45
-#EXTINF:-1 group-title="Новости" tvg-logo="http://www.interntv.ru/ai/channel/14/logo120x120/logo120x120.gif" logo="http://tivix.co/uploads/posts/2013-10/1382092713_cnn.png" channelId="2883" tvg-id="cnn",CNN
-http://192.168.0.101:9090/telehub/46
-#EXTINF:-1 group-title="Новости" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1441699164458.png" channelId="143" tvg-id="russia-today",Russia Today
-http://192.168.0.101:9090/telehub/47
-#EXTINF:-1 group-title="Новости" tvg-logo="https://mts-internet-krasnodar.ru/img/tv/50.png" channelId="217" tvg-id="euronews",Евроновости
-http://192.168.0.101:9090/telehub/48
-#EXTINF:-1 group-title="Новости" tvg-logo="https://pbs.twimg.com/profile_images/1216985450268831750/dCXzaaJ6_200x200.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_71F_12_70_1680000_0_0_0.png" channelId="589" tvg-id="mir-24",Мир 24
-http://192.168.0.101:9090/telehub/49
-#EXTINF:-1 group-title="Новости" tvg-logo="http://only4.tv/ch/0295.png" logo="https://www.m24.ru/img/logos/logo11.png" channelId="153" tvg-id="moskva-24",Москва-24
-http://192.168.0.101:9090/telehub/50
-#EXTINF:-1 group-title="Новости" tvg-logo="https://hsto.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_525_D_70_1680000_0_0_0.png" channelId="9" tvg-id="rbk",РБК
-http://192.168.0.101:9090/telehub/51
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://zala.by/sites/default/files/imagecache/film_poster/tv_channels/logos/tehno24.png" channelId="162" tvg-id="texno-24",24 Техно
-http://192.168.0.101:9090/telehub/52
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptv.live/images/logo/channel/crops/f2fb30f35bf2d80bbda7874c99c594e5.png" channelId="52" tvg-id="365-dnej",365 Дней
-http://192.168.0.101:9090/telehub/53
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png" channelId="280" tvg-id="fashion-tv",Fashion TV
-http://192.168.0.101:9090/telehub/54
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/404.png" channelId="1099" tvg-id="fine-living",Fine Living
-http://192.168.0.101:9090/telehub/55
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj2gd-PyJniMs0cTSz93Mst2dgCtZE0yrnfGGWT=s200-c-k-c0x00ffffff-no-rj?.png" logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1555312225169.png" channelId="391" tvg-id="galaxy-tv",Galaxy TV
-http://192.168.0.101:9090/telehub/56
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.oreol.tv/img/hdlife.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_19_2F47_C_70_1680000_0_0_0.png" channelId="234" tvg-id="hd-life",HDL
-http://192.168.0.101:9090/telehub/57
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://tv.nalench.com/uploads/screenshots/History.jpg" logo="http://tv-fresh.org/uploads/posts/2020-04/1587901967_history.png" channelId="1455" tvg-id="history-ru",History
-http://192.168.0.101:9090/telehub/58
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/19116.png" logo="https://trinity-tv.net/storage/channels/dark_theme_134.png" channelId="164" tvg-id="nat-geo-wild",Nat Geo Wild
-http://192.168.0.101:9090/telehub/59
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/813.png" logo="https://trinity-tv.net/storage/channels/dark_theme_190.png" channelId="56" tvg-id="national-geographic",National Geographic
-http://192.168.0.101:9090/telehub/60
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1456473955463.png" logo="https://img12.lostpic.net/2018/05/13/fc074ba8f9b9c077e3cb70b1ee4fc4ad.png" channelId="301" tvg-id="rtg-tv",RTG
-http://192.168.0.101:9090/telehub/61
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/1813.png" logo="https://i0.wp.com/mindyonthemove.com/wp-content/uploads/2020/05/Travel_Channel_-_Logo.svg_.png" channelId="54" tvg-id="travel-channel",Travel Channel
-http://192.168.0.101:9090/telehub/62
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://cdnua03.hls.tv/cdn/logo/519fcfddebac5098d1edde8e9d918a92_high.png" channelId="596" tvg-id="travel-adventure",Travel+Adventure
-http://192.168.0.101:9090/telehub/63
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/viasat-explorer.png" logo="http://img12.lostpic.net/2018/05/21/7d6ff6f1b0d613fe5dae61617e125bdf.png" channelId="165" tvg-id="viasat-explore",Viasat Explore
-http://192.168.0.101:9090/telehub/64
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/viasat-history.png" logo="http://img12.lostpic.net/2018/05/21/0dd3e8019c48369a1b0a1c281d452671.png" channelId="166" tvg-id="viasat-history",Viasat History
-http://192.168.0.101:9090/telehub/65
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/viasat-nature.png" logo="http://nktv.mk.ua/assets/components/nktv/channels/naturelogo.png" channelId="172" tvg-id="viasat-nature",Viasat Nature
-http://192.168.0.101:9090/telehub/66
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/09/WF_logo_BLACK_2017.jpg" channelId="258" tvg-id="world-fashion-channel",World Fashion
-http://192.168.0.101:9090/telehub/67
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/702.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2BE_7_70_1680000_0_0_0.png" channelId="1282" tvg-id="avto24",Авто 24
-http://192.168.0.101:9090/telehub/68
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/102.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_66_1_70_1680000_0_0_0.png" channelId="55" tvg-id="avto-plus",Авто плюс
-http://192.168.0.101:9090/telehub/69
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://www.oreol.tv/img/bober_1.jpg" logo="http://tivix.co/uploads/posts/2017-06/1497001337_bober.png" channelId="646" tvg-id="bobior",Бобер ТВ
-http://192.168.0.101:9090/telehub/70
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://tv.nalench.com/uploads/screenshots/eda_tv.jpg" logo="http://tv-fresh.org/uploads/posts/2020-04/1587929405_edatv.png" channelId="598" tvg-id="eda",Еда
-http://192.168.0.101:9090/telehub/71
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://crimeastar.net/iptv-logos/79.png" channelId="325" tvg-id="zagorodnaya-zhizn",Загородная жизнь
-http://192.168.0.101:9090/telehub/72
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tricolor-38.ru/TRICOLOR_KANALY/post-61433-0-98709300-1527708336_thumb.jpg" logo="https://www.cableman.ru/sites/default/files/zoo_tv.png" channelId="299" tvg-id="zootv",Зоо ТВ
-http://192.168.0.101:9090/telehub/73
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://tv.nalench.com/uploads/screenshots/istorya_tv.jpg" logo="http://tvhistory.rfn.ru/i/logo_print.png" channelId="887" tvg-id="istoria",История
-http://192.168.0.101:9090/telehub/74
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://s3.spbtv.com/rosing-production/09e2cc35c375f04af259_250x250c.jpg" logo="https://s55424.cdn.ngenix.net/static/i/logo.png" channelId="1779" tvg-id="krasnaya-linia",Красная линия
-http://192.168.0.101:9090/telehub/75
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://glaz-ok.online/wp-content/uploads/2018/05/kuhnya-tv.jpg" logo="https://img11.lostpic.net/2018/08/12/7f8e540b0da32524233fc76c804a6809.png" channelId="75" tvg-id="kuxnia-tv",Кухня ТВ
-http://192.168.0.101:9090/telehub/76
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://getsiptv.ru/img/ch_icons/morskoy.png" channelId="869" tvg-id="morskoy",Морской канал
-http://192.168.0.101:9090/telehub/77
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://s.glaz.tv/images/logos/tv/big/moya-planeta.jpg" logo="http://tv-fresh.org/uploads/posts/2020-04/1587902035_moyaplaneta.png" channelId="53" tvg-id="moya-planeta",Моя Планета
-http://192.168.0.101:9090/telehub/78
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/6233.png" logo="https://assets.limehd.tv/uploads/channel/10093/thumb_4f6a32fcd30c46d9d3563b222a2906e1.png" channelId="260" tvg-id="nano-tv",Нано
-http://192.168.0.101:9090/telehub/79
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://domnet.me/images/picons/tvico_n167.png" logo="http://tivix.co/uploads/posts/2014-02/1391857124_84679705-150x150.png" channelId="173" tvg-id="nauka-20",Наука 2.0
-http://192.168.0.101:9090/telehub/80
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/117.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_75_1_70_1680000_0_0_0.png" channelId="160" tvg-id="nostalgia",Ностальгия
-http://192.168.0.101:9090/telehub/81
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.goldmir.net/uploads/tv/channel/203/logo_big.jpg" logo="https://www.rustv.it/data/files/original/144/orujie.png" channelId="223" tvg-id="oruzhie",Оружие
-http://192.168.0.101:9090/telehub/82
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://rzdtv.ru/wp-content/themes/default/img/logo.png" channelId="33" tvg-id="rzhd-tv",РЖД
-http://192.168.0.101:9090/telehub/83
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" logo="http://www.tamby.info/tv_online/images/120/15.jpg" channelId="5" tvg-id="kultura",Россия К
-http://192.168.0.101:9090/telehub/84
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.goldmir.net/uploads/tv/channel/238/logo_big.jpg" logo="http://teledays.net/images/sovershenno-sekretno.png" channelId="175" tvg-id="sovsek",Совершенно секретно
-http://192.168.0.101:9090/telehub/85
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://tv.nalench.com/uploads/screenshots/doktor.jpg" channelId="3647" tvg-id="doktor",Телеканал Доктор
-http://192.168.0.101:9090/telehub/86
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://robornet.ru/media/img/TV/chanel/pointtv.png" logo="http://img12.lostpic.net/2018/06/07/c02d93cfbf3b2bb417c3bae955986cb3.png" channelId="1730" tvg-id="tochka-tv",Точка ТВ
-http://192.168.0.101:9090/telehub/87
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://www.oreol.tv/img/usadba1.jpg" logo="http://infoua.biz/image/tv/stream/usadba.png" channelId="222" tvg-id="usadba",Усадьба
-http://192.168.0.101:9090/telehub/88
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/1826.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_722_12_70_1680000_0_0_0.png" channelId="14" tvg-id="2na2",2х2
-http://192.168.0.101:9090/telehub/89
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/1811.png" logo="https://runigma.com.ua/EPG/picons/Outdoor%20channel.png" channelId="353" tvg-id="outdoor-channel",Outdoor Channel
-http://192.168.0.101:9090/telehub/90
-#EXTINF:-1 group-title="Развлекательные",Дамский клуб
-http://192.168.0.101:9090/telehub/91
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/6224.png" logo="https://epidemicworld.com/upload/iblock/270/270c4ac06a2227de48540d33b19e7f11.png" channelId="76" tvg-id="zhivi",Живи!
-http://192.168.0.101:9090/telehub/92
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://telesputnik.ru/upload/iblock/1c4/logotip_telekanal_muzhskoy_1.jpg" logo="http://keo.my1.ru/_ld/7/708.png" channelId="323" tvg-id="muzhskoy",Мужской
-http://192.168.0.101:9090/telehub/93
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1580471573130.png" channelId="221" tvg-id="oxota-i-rybalka",Охота и Рыбалка
-http://192.168.0.101:9090/telehub/94
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhNfZqxBOThnrH-oT7DveM3-DGneEPpMmQNZUYu4A=s200-c-k-c0x00ffffff-no-rj?.png" logo="http://tv-fresh.org/uploads/posts/2020-04/1587927518_ohotnikirybolov.png" channelId="335" tvg-id="oxotnik-i-rybolov-hd",Охотник и рыболов
-http://192.168.0.101:9090/telehub/95
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://olympic-history.ru/800/600/http/www.extremtv.ru/files/re-retro.png" channelId="154" tvg-id="russky-ekstrim",Русский Экстрим
-http://192.168.0.101:9090/telehub/96
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/sts2_love.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_452_B_70_1680000_0_0_0.png" channelId="1571" tvg-id="sts-love",СТС Love
-http://192.168.0.101:9090/telehub/97
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts",СТС
-http://192.168.0.101:9090/telehub/98
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://www.goldmir.net/uploads/tv/channel/237/logo_big.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_1A3_4_70_1680000_0_0_0.png" channelId="141" tvg-id="sarafan",Сарафан
-http://192.168.0.101:9090/telehub/99
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/super_s.jpg" logo="http://galamtv.org/uploads/posts/2020-05/1589747603_1587902869_superkanal.png" channelId="3876" tvg-id="super",Супер канал
-http://192.168.0.101:9090/telehub/100
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
-http://192.168.0.101:9090/telehub/101
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/tht4.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" tvg-id="tnt4",ТНТ4
-http://192.168.0.101:9090/telehub/102
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://peers.tv/data/illustrations/ills/2020/05/28/205795/205795716.png" logo="https://ic.wampi.ru/2021/04/14/3df69192e76922a00c84cfd868787ed5.png" channelId="-1" tvg-id="tonus-tv",Тонус
-http://192.168.0.101:9090/telehub/103
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/6181.png" logo="https://runigma.com.ua/EPG/picons/%D0%A2%D1%80%D0%BE%D1%84%D0%B5%D0%B9.png" channelId="1718" tvg-id="trofey",Трофей
-http://192.168.0.101:9090/telehub/104
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/che_s.jpg" logo="http://televizor.org/img/logopit/%D0%A7%D0%B5.png" channelId="22" tvg-id="che",Че
-http://192.168.0.101:9090/telehub/105
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://www.oreol.tv/img/027_u.jpg" logo="http://televizor.org/img/logopit/%D0%AE.png" channelId="23" tvg-id="yu",Ю
-http://192.168.0.101:9090/telehub/106
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://only4.tv/ch/5524.png" channelId="3871" tvg-id="anekdottv",Юмор ТВ
-http://192.168.0.101:9090/telehub/107
-#EXTINF:-1 group-title="Религия" tvg-logo="https://teleon.tv/images/logos/radost_moya.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2CC_7_70_1680000_0_0_0.png" channelId="184" tvg-id="radost-moya",Радость моя
-http://192.168.0.101:9090/telehub/108
-#EXTINF:-1 group-title="Россия (Региoнальные)" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1183.jpg" channelId="36" tvg-id="8kanal-ru",8 канал
-http://192.168.0.101:9090/telehub/109
-#EXTINF:-1 group-title="Россия (Региoнальные)" tvg-logo="http://domnet.me/images/picons/tvico_n701.png" channelId="3036" tvg-id="krym24",Крым 24
-http://192.168.0.101:9090/telehub/110
-#EXTINF:-1 group-title="Россия (Региoнальные)" tvg-logo="http://only4.tv/ch/6222.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_44F_B_70_1680000_0_0_0.png" channelId="1778" tvg-id="kuban-24-orbita",Кубань 24 Орбита
-http://192.168.0.101:9090/telehub/111
-#EXTINF:-1 group-title="Россия (Региoнальные)" tvg-logo="http://only4.tv/ch/5561.png" channelId="565" tvg-id="pervy-krymsky",Первый Крымский
-http://192.168.0.101:9090/telehub/112
-#EXTINF:-1 group-title="Россия (Региoнальные)" tvg-logo="https://telesputnik.ru/upload/iblock/d21/ekho.png" logo="http://infoua.biz/image/tv/stream/eho.png?0" channelId="95" tvg-id="echotv",Эхо-ТВ
-http://192.168.0.101:9090/telehub/113
-#EXTINF:-1 group-title="Россия" tvg-logo="http://www.oreol.tv/img/014_domashniy_1.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_44E_B_70_1680000_0_0_0.png" tvg-id="domashny" channelId="946000863426",Домашний
-http://192.168.0.101:9090/telehub/114
-#EXTINF:-1 group-title="Россия" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_51F_D_70_1680000_0_0_0.png" channelId="17" tvg-id="zvezda",Звезда
-http://192.168.0.101:9090/telehub/115
-#EXTINF:-1 group-title="Россия" tvg-logo="http://mega-mir.net/wp-content/uploads/2018/05/mir.jpg" logo="http://img12.lostpic.net/2018/05/19/75b199484a538abc1dbb107840431bda.png" channelId="138" tvg-id="mir",Мир
-http://192.168.0.101:9090/telehub/116
-#EXTINF:-1 group-title="Россия",НТВ Мир
-http://192.168.0.101:9090/telehub/117
-#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" channelId="6" tvg-id="ntv",НТВ
-http://192.168.0.101:9090/telehub/118
-#EXTINF:-1 group-title="Россия" tvg-logo="http://www.oreol.tv/img/OTR_logo.jpg" logo="https://img12.lostpic.net/2018/05/12/737788d7672555a714164fe9d1b67e99.png" channelId="784" tvg-id="otr",ОТР
-http://192.168.0.101:9090/telehub/119
-#EXTINF:-1 group-title="Россия" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_3EB_A_70_1680000_0_0_0.png" channelId="7" tvg-id="5kanal-ru",Пятый канал
-http://192.168.0.101:9090/telehub/120
-#EXTINF:-1 group-title="Россия" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/996.jpg" logo="http://www.tamby.info/tv_online/images/120/11.jpg" channelId="264" tvg-id="rtr-planeta-eu",РТР Планета
-http://192.168.0.101:9090/telehub/121
-#EXTINF:-1 group-title="Россия" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/885px-REN_TV_logo_2017.svg.png" channelId="11" tvg-id="rentv",Рен ТВ
-http://192.168.0.101:9090/telehub/122
-#EXTINF:-1 group-title="Россия" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" logo="http://www.tamby.info/tv_online/images/120/10.jpg" channelId="2" tvg-id="rossia1",Россия 1
-http://192.168.0.101:9090/telehub/123
-#EXTINF:-1 group-title="Россия" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" logo="http://www.tamby.info/tv_online/images/120/24.jpg" channelId="10" tvg-id="rossia-24",Россия 24
-http://192.168.0.101:9090/telehub/124
-#EXTINF:-1 group-title="Россия" tvg-logo="https://nv.tvstroka.com/images/tvc.png" logo="https://runigma.com.ua/EPG/picons/TVCENTR.png" channelId="13" tvg-id="tvcentr",ТВ Центр
-http://192.168.0.101:9090/telehub/125
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/19109.png" logo="http://teledays.net/images/extreme-sports.png" channelId="156" tvg-id="extreme-sports",Extreme Sports
-http://192.168.0.101:9090/telehub/126
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5510.png" channelId="4849" name="Setanta Sports 2" tvg-id="setanta-sports-plus",Setanta Sports Plus
-http://192.168.0.101:9090/telehub/127
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5583.png" logo="https://www.setanta.com.ua/assets/components/mor/General/img/setantasportsukraine.png" channelId="665" tvg-id="setanta-ua",Setanta Sports Ukraine
-http://192.168.0.101:9090/telehub/128
-#EXTINF:-1 group-title="Спорт",Sport 1 UA
-http://192.168.0.101:9090/telehub/129
-#EXTINF:-1 group-title="Спорт",Sport 2 UA
-http://192.168.0.101:9090/telehub/130
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/6301.png" logo="https://img12.lostpic.net/2020/05/03/c60dc2f6ca9c672c5c482ec20b89dcdd.png" channelId="1536" tvg-id="supertennis",Super Tennis HD
-http://192.168.0.101:9090/telehub/131
-#EXTINF:-1 group-title="Спорт",XSport
-http://192.168.0.101:9090/telehub/132
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/422.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_1A6_4_70_1680000_0_0_0.png" channelId="1827" tvg-id="box-tv",Бокс ТВ
-http://192.168.0.101:9090/telehub/133
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://only4.tv/ch/5563.png" logo="https://img16.lostpic.net/2019/10/08/625e541c4c53c6705afecb08eea61802.png" channelId="220" tvg-id="drive",Драйв
-http://192.168.0.101:9090/telehub/134
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://c0.klipartz.com/pngpicture/327/493/gratis-png-logotipo-del-canal-de-television-eurosport-1-eurosport-2-thumbnail.png" channelId="83" tvg-id="eurosport2",Евроспорт 2
-http://192.168.0.101:9090/telehub/135
-#EXTINF:-1 group-title="Спорт",КАЗспорт
-http://192.168.0.101:9090/telehub/136
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOaCuIN5WTkQ2BQsUqZCjDtuDDs2u6AgKXA&usqp=CAU?.png",Конный Мир
-http://192.168.0.101:9090/telehub/137
-#EXTINF:-1 group-title="Спорт",СИЛА ТВ
-http://192.168.0.101:9090/telehub/138
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://static.tildacdn.com/tild6262-3465-4632-b330-653339383363/199407587.png" channelId="919" tvg-id="football-ru",Футбол
-http://192.168.0.101:9090/telehub/139
-#EXTINF:-1 group-title="Украина" tvg-logo="https://television-live.com/uploads/posts/c5234543xf34d3.png" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/1_plus_1_logo.svg/1200px-1_plus_1_logo.svg.png" channelId="424" tvg-id="1plus1",1+1
-http://192.168.0.101:9090/telehub/140
-#EXTINF:-1 group-title="Украина" tvg-logo="http://only4.tv/ch/0161.png" logo="http://xn--80afdc3bime3i.xn--j1amh/img/38.png" channelId="1488" tvg-id="112-ua",112 канал
-http://192.168.0.101:9090/telehub/141
-#EXTINF:-1 group-title="Украина" tvg-logo="http://only4.tv/ch/0152.png" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1200px-2%2B2_logo_2017.svg.png" channelId="435" tvg-id="2plus2",2+2
-http://192.168.0.101:9090/telehub/142
-#EXTINF:-1 group-title="Украина" tvg-logo="http://only4.tv/ch/2913.png" logo="http://img12.lostpic.net/2018/05/21/be1a759e8cc0b07768478a1d20c87540.png" channelId="493" tvg-id="ukraina24",24 Украина
-http://192.168.0.101:9090/telehub/143
-#EXTINF:-1 group-title="Украина" tvg-logo="https://television-live.com/uploads/posts/cr4wrwerwefwefx.png" logo="http://tivix.co/uploads/posts/2014-02/1392750393_20140218meqda4vzpi73arnx_izimi_large.png" channelId="7" tvg-id="5kanal-ua",5 канал Украина
-http://192.168.0.101:9090/telehub/144
-#EXTINF:-1 group-title="Украина" tvg-logo="http://only4.tv/ch/0159.png" logo="https://img16.lostpic.net/2019/08/26/ab75adde83007c77dba333e49b49344d.png" channelId="449" tvg-id="ictv-ua",ICTV
-http://192.168.0.101:9090/telehub/145
-#EXTINF:-1 group-title="Украина" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2020/11/d6ebb39bd89728ad658993de8f4f735c.png" channelId="573" tvg-id="kultura-ua",UA Культура
-http://192.168.0.101:9090/telehub/146
-#EXTINF:-1 group-title="Украина" tvg-logo="http://only4.tv/ch/0196.png" channelId="439" tvg-id="ua-pershy",UA Первый
-http://192.168.0.101:9090/telehub/147
-#EXTINF:-1 group-title="Украина" tvg-logo="http://only4.tv/ch/0198.png" logo="https://img16.lostpic.net/2019/10/08/6f56ca462bb2d9df7a84c62db36b58d0.png" channelId="504" tvg-id="zik-ua",ZIK
-http://192.168.0.101:9090/telehub/148
-#EXTINF:-1 group-title="Украина" tvg-logo="http://crazy.net.ua/templates/tv/icons/rozv/ZOOM.jpg" logo="http://tv.ontivi.net/img/zoom.png" channelId="921" tvg-id="zoom-ua",Zoom
-http://192.168.0.101:9090/telehub/149
-#EXTINF:-1 group-title="Украина" tvg-logo="http://only4.tv/ch/6145.png" logo="https://cdnua03.hls.tv/cdn/logo/33b7605a050f292df542b1e2f30aba06_high.png" channelId="1515" tvg-id="bigudi",Бигуди
-http://192.168.0.101:9090/telehub/150
-#EXTINF:-1 group-title="Украина" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1037.jpg" logo="https://tv-server.trinity-tv.net/icons/channels/501.png" channelId="1831" tvg-id="hromadske",Громадське ТВ
-http://192.168.0.101:9090/telehub/151
-#EXTINF:-1 group-title="Украина" tvg-logo="http://only4.tv/ch/0154.png" channelId="1833" tvg-id="espreso-tv",Еспресо ТВ
-http://192.168.0.101:9090/telehub/152
-#EXTINF:-1 group-title="Украина" tvg-logo="https://s5.vcdn.biz/static/f/333969341/image.jpg" logo="https://trinity-tv.net/storage/channels/dark_theme_7.png" channelId="421" tvg-id="inter-ua",Интер
-http://192.168.0.101:9090/telehub/153
-#EXTINF:-1 group-title="Украина" tvg-logo="http://www.alfaplus.com.ua/wp-content/uploads/2018/10/K1_62014.jpg" logo="http://big-tv.org/uploads/posts/2018-01/thumbs/1515187996_telekanal-k1.png" channelId="427" tvg-id="k1-ua",К1
-http://192.168.0.101:9090/telehub/154
-#EXTINF:-1 group-title="Украина" tvg-logo="http://crazy.net.ua/templates/tv/icons/rozv/K2.jpg" logo="https://cdnua03.hls.tv/cdn/logo/28c7b3f19404ee7b0c3b40fe16cf1a4d_high.png" channelId="428" tvg-id="k2-ua",К2
-http://192.168.0.101:9090/telehub/155
-#EXTINF:-1 group-title="Украина" tvg-logo="https://s3.vcdn.biz/static/f/372438471/image.jpg" logo="https://upload.wikimedia.org/wikipedia/uk/7/77/Logo_Mega.png" channelId="430" tvg-id="mega-ua",Мега
-http://192.168.0.101:9090/telehub/156
-#EXTINF:-1 group-title="Украина" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/216.jpg" logo="https://n.divan.tv/img/global_img/media_api/channels/97c4c343/931803c6_med.png" channelId="485" tvg-id="nlo-tv-ua",НЛО ТВ
-http://192.168.0.101:9090/telehub/157
-#EXTINF:-1 group-title="Украина" tvg-logo="http://only4.tv/ch/0157.png" logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logotipe_ntn_tv.png" channelId="426" tvg-id="ntn-ua",НТН
-http://192.168.0.101:9090/telehub/158
-#EXTINF:-1 group-title="Украина" tvg-logo="https://file.liga.net/images/general/2019/07/02/thumbnail-20190702182059-9195.jpg" logo="https://detector.media/doc/images/news/archive/2016/169861/ArticleImage_169861.png" channelId="423" tvg-id="novy-kanal-ua",Новый канал
-http://192.168.0.101:9090/telehub/159
-#EXTINF:-1 group-title="Украина" tvg-logo="http://only4.tv/ch/5538.png" channelId="455" tvg-id="otse",ОЦЕ
-http://192.168.0.101:9090/telehub/160
-#EXTINF:-1 group-title="Украина" tvg-logo="https://api.hmara.tv/images/saved/Perviy-avtomobilniy.png" logo="https://liveam.tv/assets/images/chnl/pervii-avtomobilnii.png" channelId="442" name="Перший автомобільний" tvg-id="1auto",Первый автомобильный
-http://192.168.0.101:9090/telehub/161
-#EXTINF:-1 group-title="Украина" tvg-logo="https://epg.iptvx.one/icn/pervy-delovoy.png" channelId="468" tvg-id="pervy-delovoy",Первый деловой
-http://192.168.0.101:9090/telehub/162
-#EXTINF:-1 group-title="Украина" tvg-logo="http://only4.tv/ch/0160.png" logo="https://sweet.tv/storage/channels/15.png" channelId="422" tvg-id="stb-ua",СТБ
-http://192.168.0.101:9090/telehub/163
-#EXTINF:-1 group-title="Украина" tvg-logo="https://www.goldmir.net/uploads/tv/channel/406/logo_big.jpg" channelId="699" tvg-id="sonce-ua",Сонце ТВ
-http://192.168.0.101:9090/telehub/164
-#EXTINF:-1 group-title="Украина" tvg-logo="http://only4.tv/ch/0164.png" logo="http://infoua.biz/image/tv/stream/tet.png" channelId="434" tvg-id="tet-ua",ТЕТ
-http://192.168.0.101:9090/telehub/165
-#EXTINF:-1 group-title="Украина" tvg-logo="http://cdn.images.viaway.com/14442598_180.png" logo="https://img12.lostpic.net/2020/04/29/7e42a4c650e71b627bca7d4df88ca65e.png" channelId="438" tvg-id="ukraina",ТРК Украина
-http://192.168.0.101:9090/telehub/166
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://tv.nalench.com/uploads/screenshots/a1.jpg" logo="http://televizor.org/img/logopit/Amedia%201.png" channelId="913" tvg-id="amedia1",A1
-http://192.168.0.101:9090/telehub/167
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://tv.nalench.com/uploads/screenshots/a2.jpg" logo="http://televizor.org/img/logopit/Amedia%202.png" channelId="914" tvg-id="amedia2",A2
-http://192.168.0.101:9090/telehub/168
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only4.tv/ch/2103.png" logo="https://antifriz.tv/storage/images/channel_logos/amedia-hit.png" channelId="1932" tvg-id="amedia-hit",Amedia Hit
-http://192.168.0.101:9090/telehub/169
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only4.tv/ch/2104.png" logo="https://antifriz.tv/storage/images/channel_logos/amedia-premium-hd.png" channelId="915" tvg-id="amedia-premium",Amedia Premium HD
-http://192.168.0.101:9090/telehub/170
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only4.tv/ch/0251.png" logo="http://img11.lostpic.net/2018/08/08/499601c33d3a221f1d1f25970006e71b.png" channelId="2802" tvg-id="bollywood-hd",Bollywood
-http://192.168.0.101:9090/telehub/171
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://telesputnik.ru/upload/iblock/494/Cinema_b.jpg" logo="https://antifriz.tv/storage/images/pack_logos/199f12272161f01943e3972bdbb88db4.png" channelId="181" tvg-id="cinema-ru",Cinema
-http://192.168.0.101:9090/telehub/172
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only4.tv/ch/5558.png" logo="http://teledays.net/images/filmbox.png" channelId="2959" tvg-id="filmbox-ru",FilmBox
-http://192.168.0.101:9090/telehub/173
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://www.goldmir.net/uploads/tv/channel/84/logo_big.jpg" logo="https://antifriz.tv/storage/images/channel_logos/fox-life.png" channelId="178" tvg-id="foxlife",Fox life
-http://192.168.0.101:9090/telehub/174
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://img.prosto.tv/storage/channel/logo" channelId="177" tvg-id="fox",Fox
-http://192.168.0.101:9090/telehub/175
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only4.tv/ch/17108.png" logo="https://ic.wampi.ru/2021/04/14/0ba59c77f212a9d6e101fd24ba1299f0.png" channelId="3920" tvg-id="hollywood-hd",Hollywood HD
-http://192.168.0.101:9090/telehub/176
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://www.goldmir.net/uploads/tv/channel/340/logo_big.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_4AAE_13_70_1680000_0_0_0.png" channelId="1699" tvg-id="paramount-comedy",Paramount Comedy
-http://192.168.0.101:9090/telehub/177
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://img1.freepng.ru/20180526/ssz/kisspng-paramount-pictures-paramount-channel-television-ch-5b0911313c7998.5096317415273208812477.jpg" logo="http://89.tv-internet.pro/wp-content/uploads/2019/12/160-Paramount-Channel-HD.png" channelId="1719" tvg-id="paramount-channel",Paramount channel
-http://192.168.0.101:9090/telehub/178
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://ic.wampi.ru/2021/04/18/6394c513ae7234a7297715d48223a4dcfmtpng-alphawid162.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2C7_7_70_1680000_0_0_0.png" channelId="69" tvg-id="sony-scifi",Sony Sci-Fi
-http://192.168.0.101:9090/telehub/179
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://ic.wampi.ru/2021/04/18/1094748f76e520c33134da001c59f674fmtpng-alphawid160.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2C8_7_70_1680000_0_0_0.png" channelId="319" tvg-id="sony-turbo",Sony Turbo
-http://192.168.0.101:9090/telehub/180
-#EXTINF:-1 group-title="Фильмы",Sony ТВ
-http://192.168.0.101:9090/telehub/181
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://www.skylink.rt.lc/wp-content/uploads/2020/02/160-TV-XXI-%D0%92%D0%B5%D0%BA.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2D9_7_70_1680000_0_0_0.png" channelId="193" tvg-id="tvxxi",TV XXI
-http://192.168.0.101:9090/telehub/182
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://tv.nalench.com/uploads/screenshots/dom_kino_premium.jpg" logo="http://tivix.co/uploads/posts/2017-01/1484820740_dom_kino_premium.png" tvg-id="domkino-premium" channelId="949001295139",Дом кино Премиум
-http://192.168.0.101:9090/telehub/183
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://tv.kubtel.ru/tv_icon/domkino.png" logo="http://teledays.net/images/dom_kino.png" tvg-id="domkino" channelId="949001295139",Дом кино
-http://192.168.0.101:9090/telehub/184
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://bscom.ru/images/cms/thumbs/2adbdeb372d9f126618d0e0be09013f344f616e7/dorama_300_auto_jpg_5_80.jpg" logo="http://img12.lostpic.net/2018/05/21/35f597344cf22774ed80231d7286cb4b.png" channelId="147" tvg-id="dorama",Дорама
-http://192.168.0.101:9090/telehub/185
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only4.tv/ch/0275.png" logo="https://antifriz.tv/storage/images/channel_logos/evrokino-hd.png" channelId="79" tvg-id="evrokino",Еврокино
-http://192.168.0.101:9090/telehub/186
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://www.goldmir.net/uploads/tv/channel/106/logo_big.jpg" logo="http://infoua.biz/image/tv/stream/ilplus.png" channelId="190" tvg-id="illuzion-plus",Иллюзион+
-http://192.168.0.101:9090/telehub/187
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://getsiptv.ru/img/ch_icons/indiyskoe_kino.png" channelId="168" tvg-id="indiyskoe-kino",Индийское кино
-http://192.168.0.101:9090/telehub/188
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BA%D0%B8%D0%BD%D0%BE%20%D1%82%D0%B2.png" logo="https://teleprogramma.tv/images/kino_tv.png" channelId="342" tvg-id="kino-tv",Кино ТВ
-http://192.168.0.101:9090/telehub/189
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://tv.kubtel.ru/tv_icon/kinosat.jpg" logo="http://tv.ontivi.net/img/kinosat.png" channelId="4643" tvg-id="kinosat",КиноСат
-http://192.168.0.101:9090/telehub/190
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinokomediya.png" channelId="194" tvg-id="kinokomedia",Кинокомедия
-http://192.168.0.101:9090/telehub/191
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinomiks.png" channelId="270" tvg-id="kinomiks",Киномикс
-http://192.168.0.101:9090/telehub/192
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://ic.wampi.ru/2021/04/14/c9c6feb88adb52d305f886c6af1cf201.png" logo="https://antifriz.tv/storage/images/pack_logos/a4589792317696060765519a4d2256b8.png" channelId="599" tvg-id="kinopokaz" shift="-4",Кинопоказ
-http://192.168.0.101:9090/telehub/193
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinopremera_hd.png" channelId="410" tvg-id="kinopremiera-hd",Кинопремьера
-http://192.168.0.101:9090/telehub/194
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinoseriya.png" channelId="195" tvg-id="kinoseria",Киносерия
-http://192.168.0.101:9090/telehub/195
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-kinouzhas.png" logo="https://img16.lostpic.net/2019/11/18/4cc7a8eb3b23bee7a920f0b3e6e74cc5.png" channelId="1859" tvg-id="kinouzhas",Киноужас
-http://192.168.0.101:9090/telehub/196
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://getsiptv.ru/img/ch_icons/kinohit.png" channelId="409" tvg-id="kinoxit",Кинохит
-http://192.168.0.101:9090/telehub/197
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://kis.lt/wp-content/uploads/2020/12/09d3683d4142756343249e4479f72889.jpg" logo="https://img12.lostpic.net/2018/05/21/f9791c4f421fc6ffc0b19ea678fc27d6.png" channelId="314" tvg-id="lubimoe-kino",Любимое кино
-http://192.168.0.101:9090/telehub/198
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://tv.nalench.com/uploads/screenshots/mir_seriala.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_2CF_7_70_1680000_0_0_0.png" channelId="312" tvg-id="mir-seriala",Мир сериала
-http://192.168.0.101:9090/telehub/199
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://standart.tv/storage/channels/19/default/NIIKxygOqxiqMdtWJyNx.png" logo="https://antifriz.tv/storage/images/channel_logos/hct.png" channelId="272" tvg-id="nst",НСТ
-http://192.168.0.101:9090/telehub/200
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-ntv-hit.png" logo="https://orshatv.by/files/posts/%D0%9D%D0%A2%D0%92_%D0%A5%D0%B8%D1%82_2017.png" channelId="3865" tvg-id="ntv-xit",НТВ Хит
-http://192.168.0.101:9090/telehub/201
-#EXTINF:-1 group-title="Фильмы",НТВ сериал
-http://192.168.0.101:9090/telehub/202
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://tv.nalench.com/uploads/screenshots/nash_kinoroman.jpg" logo="http://galamtv.org/uploads/posts/2020-05/1589713931_1587932739_nashkinoroman.png" channelId="1636" tvg-id="nash-kinoroman",Наш Кинороман
-http://192.168.0.101:9090/telehub/203
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only4.tv/ch/0123.png" channelId="1635" tvg-id="nash-detektiv",Наше Крутое
-http://192.168.0.101:9090/telehub/204
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://ic.wampi.ru/2021/04/14/0a7313b3457b83f9f8cb43dfcabd3a14.jpg" logo="https://img15.lostpic.net/2019/09/02/169db0247523ef7ebea9aa7d3c4f9455.png" channelId="1633" tvg-id="ostrosiuzhetnoe-hd",Остросюжетное HD
-http://192.168.0.101:9090/telehub/205
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only4.tv/ch/0121.png" logo="https://antifriz.tv/storage/images/channel_logos/kino-premium-hd.png" channelId="1637" tvg-id="kinopremium-hd",Премиальное HD
-http://192.168.0.101:9090/telehub/206
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1554.jpg" logo="http://img12.lostpic.net/2018/05/21/c50e8694680059ba61ecf70e05884dca.png" channelId="246" tvg-id="retro-tv",Ретро ТВ
-http://192.168.0.101:9090/telehub/207
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only4.tv/ch/5537.png" logo="http://teledays.net/images/romantichnoe-hd.png" channelId="4165" tvg-id="romantichnoe",Романтичное HD
-http://192.168.0.101:9090/telehub/208
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1472470827028.png" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_45B_B_70_1680000_0_0_0.png" channelId="71" tvg-id="russkaya-komedia",Русская комедия
-http://192.168.0.101:9090/telehub/209
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://img.rnx.ru/logotvchannel/193.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_1A5_4_70_1680000_0_0_0.png" channelId="303" tvg-id="russky-bestseller",Русский бестселлер
-http://192.168.0.101:9090/telehub/210
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/rus_dekt.jpg" logo="https://runigma.com.ua/EPG/picons/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2.png" channelId="1628" tvg-id="russky-detektiv",Русский детектив
-http://192.168.0.101:9090/telehub/211
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/a3de1b5d3c106404afcd.png" logo="http://img16.lostpic.net/2019/07/24/1bc3843f04efd34f4e34c98e70179f2c.png" channelId="189" tvg-id="russky-illuzion",Русский иллюзион
-http://192.168.0.101:9090/telehub/212
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/rus_roman.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_1A8_4_70_1680000_0_0_0.png" channelId="198" tvg-id="russky-roman",Русский роман
-http://192.168.0.101:9090/telehub/213
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only4.tv/ch/0218.png" logo="https://antifriz.tv/storage/images/channel_logos/strashnoe-hd.png" channelId="1746" tvg-id="strashnoe-hd",Страшное HD
-http://192.168.0.101:9090/telehub/214
-#EXTINF:-1 group-title="Фильмы" tvg-logo="http://only4.tv/ch/0119.png" logo="http://teledays.net/images/shokiruyushchee.png" channelId="229" tvg-id="kinopokaz-hd1",Шокирующее HD
-http://192.168.0.101:9090/telehub/215
+#EXTINF:-1 group-title="Беларусь",Беларусь 24
+http://192.168.0.101:9090/LIMETV/1
+#EXTINF:-1 group-title="Беларусь",БелРос
+http://192.168.0.101:9090/LIMETV/2
+#EXTINF:-1 group-title="Беларусь",Светлое ТВ
+http://192.168.0.101:9090/LIMETV/3
+#EXTINF:-1 group-title="Детские",Anime KIDS
+http://192.168.0.101:9090/LIMETV/4
+#EXTINF:-1 group-title="Детские",Baby Time
+http://192.168.0.101:9090/LIMETV/5
+#EXTINF:-1 group-title="Детские",Детский мир
+http://192.168.0.101:9090/LIMETV/6
+#EXTINF:-1 group-title="Детские",Детское кино
+http://192.168.0.101:9090/LIMETV/7
+#EXTINF:-1 group-title="Детские",Карусель
+http://192.168.0.101:9090/LIMETV/8
+#EXTINF:-1 group-title="Детские",МультСезон
+http://192.168.0.101:9090/LIMETV/9
+#EXTINF:-1 group-title="Детские",Сказки Зайки
+http://192.168.0.101:9090/LIMETV/10
+#EXTINF:-1 group-title="Детские",Советские мультфильмы
+http://192.168.0.101:9090/LIMETV/11
+#EXTINF:-1 group-title="Детские",Солнце
+http://192.168.0.101:9090/LIMETV/12
+#EXTINF:-1 group-title="Детские",Шаян
+http://192.168.0.101:9090/LIMETV/13
+#EXTINF:-1 group-title="Музыка",1HD Music Television
+http://192.168.0.101:9090/LIMETV/14
+#EXTINF:-1 group-title="Музыка",AIVA
+http://192.168.0.101:9090/LIMETV/15
+#EXTINF:-1 group-title="Музыка",BRIDGE ROCK
+http://192.168.0.101:9090/LIMETV/16
+#EXTINF:-1 group-title="Музыка",Bridge TV Classic
+http://192.168.0.101:9090/LIMETV/17
+#EXTINF:-1 group-title="Музыка",Bridge TV Deluxe
+http://192.168.0.101:9090/LIMETV/18
+#EXTINF:-1 group-title="Музыка",Bridge TV Hits
+http://192.168.0.101:9090/LIMETV/19
+#EXTINF:-1 group-title="Музыка",Bridge TV Русский Хит
+http://192.168.0.101:9090/LIMETV/20
+#EXTINF:-1 group-title="Музыка",Bridge TV Шлягер
+http://192.168.0.101:9090/LIMETV/21
+#EXTINF:-1 group-title="Музыка",Bridge TV
+http://192.168.0.101:9090/LIMETV/22
+#EXTINF:-1 group-title="Музыка",Bridge Фрэш
+http://192.168.0.101:9090/LIMETV/23
+#EXTINF:-1 group-title="Музыка",Clubbing TV HD
+http://192.168.0.101:9090/LIMETV/24
+#EXTINF:-1 group-title="Музыка",Europa Plus TV
+http://192.168.0.101:9090/LIMETV/25
+#EXTINF:-1 group-title="Музыка",Live Music Channel
+http://192.168.0.101:9090/LIMETV/26
+#EXTINF:-1 group-title="Музыка",MIXM
+http://192.168.0.101:9090/LIMETV/27
+#EXTINF:-1 group-title="Музыка",RU.TV
+http://192.168.0.101:9090/LIMETV/28
+#EXTINF:-1 group-title="Музыка",Russian MusicBox
+http://192.168.0.101:9090/LIMETV/29
+#EXTINF:-1 group-title="Музыка",Song TV Армения
+http://192.168.0.101:9090/LIMETV/30
+#EXTINF:-1 group-title="Музыка",Song TV Россия
+http://192.168.0.101:9090/LIMETV/31
+#EXTINF:-1 group-title="Музыка",Жар Птица
+http://192.168.0.101:9090/LIMETV/32
+#EXTINF:-1 group-title="Музыка",Жара ТВ
+http://192.168.0.101:9090/LIMETV/33
+#EXTINF:-1 group-title="Музыка",Матур ТВ
+http://192.168.0.101:9090/LIMETV/34
+#EXTINF:-1 group-title="Музыка",Муз ТВ
+http://192.168.0.101:9090/LIMETV/35
+#EXTINF:-1 group-title="Музыка",Музсоюз
+http://192.168.0.101:9090/LIMETV/36
+#EXTINF:-1 group-title="Музыка",Музыка Мода ТВ
+http://192.168.0.101:9090/LIMETV/37
+#EXTINF:-1 group-title="Музыка",О2ТВ
+http://192.168.0.101:9090/LIMETV/38
+#EXTINF:-1 group-title="Музыка",Страна FM
+http://192.168.0.101:9090/LIMETV/39
+#EXTINF:-1 group-title="Музыка",Телеканал народной музыки
+http://192.168.0.101:9090/LIMETV/40
+#EXTINF:-1 group-title="Музыка",ТНТ Music
+http://192.168.0.101:9090/LIMETV/41
+#EXTINF:-1 group-title="Музыка",Шансон-ТВ
+http://192.168.0.101:9090/LIMETV/42
+#EXTINF:-1 group-title="Новости",360 Новости
+http://192.168.0.101:9090/LIMETV/43
+#EXTINF:-1 group-title="Новости",360
+http://192.168.0.101:9090/LIMETV/44
+#EXTINF:-1 group-title="Новости",Arirang TV
+http://192.168.0.101:9090/LIMETV/45
+#EXTINF:-1 group-title="Новости",CGTN Русский
+http://192.168.0.101:9090/LIMETV/46
+#EXTINF:-1 group-title="Новости",CGTN
+http://192.168.0.101:9090/LIMETV/47
+#EXTINF:-1 group-title="Новости",Russia Today
+http://192.168.0.101:9090/LIMETV/48
+#EXTINF:-1 group-title="Новости",Башкортостан 24
+http://192.168.0.101:9090/LIMETV/49
+#EXTINF:-1 group-title="Новости",Вместе-РФ
+http://192.168.0.101:9090/LIMETV/50
+#EXTINF:-1 group-title="Новости",Известия
+http://192.168.0.101:9090/LIMETV/51
+#EXTINF:-1 group-title="Новости",ЛДПР ТВ
+http://192.168.0.101:9090/LIMETV/52
+#EXTINF:-1 group-title="Новости",Мир 24
+http://192.168.0.101:9090/LIMETV/53
+#EXTINF:-1 group-title="Новости",Москва-24
+http://192.168.0.101:9090/LIMETV/54
+#EXTINF:-1 group-title="Новости",Про бизнес
+http://192.168.0.101:9090/LIMETV/55
+#EXTINF:-1 group-title="Новости",РБК
+http://192.168.0.101:9090/LIMETV/56
+#EXTINF:-1 group-title="Новости",Россия 24
+http://192.168.0.101:9090/LIMETV/57
+#EXTINF:-1 group-title="Новости",ТВ БРИКС
+http://192.168.0.101:9090/LIMETV/58
+#EXTINF:-1 group-title="Познавательные",7ТВ
+http://192.168.0.101:9090/LIMETV/59
+#EXTINF:-1 group-title="Познавательные",Fashion TV
+http://192.168.0.101:9090/LIMETV/60
+#EXTINF:-1 group-title="Познавательные",HD Media
+http://192.168.0.101:9090/LIMETV/61
+#EXTINF:-1 group-title="Познавательные",Joy cook
+http://192.168.0.101:9090/LIMETV/62
+#EXTINF:-1 group-title="Познавательные",RTД HD
+http://192.168.0.101:9090/LIMETV/63
+#EXTINF:-1 group-title="Познавательные",The Explorers
+http://192.168.0.101:9090/LIMETV/64
+#EXTINF:-1 group-title="Познавательные",Travelxp HD
+http://192.168.0.101:9090/LIMETV/65
+#EXTINF:-1 group-title="Познавательные",UNIVER TV
+http://192.168.0.101:9090/LIMETV/66
+#EXTINF:-1 group-title="Познавательные",World Fashion Channel HD
+http://192.168.0.101:9090/LIMETV/67
+#EXTINF:-1 group-title="Познавательные",Аква ТВ
+http://192.168.0.101:9090/LIMETV/68
+#EXTINF:-1 group-title="Познавательные",АРТ ТВ
+http://192.168.0.101:9090/LIMETV/69
+#EXTINF:-1 group-title="Познавательные",Большая Азия
+http://192.168.0.101:9090/LIMETV/70
+#EXTINF:-1 group-title="Познавательные",Глазами туриста
+http://192.168.0.101:9090/LIMETV/71
+#EXTINF:-1 group-title="Познавательные",Дума ТВ
+http://192.168.0.101:9090/LIMETV/72
+#EXTINF:-1 group-title="Познавательные",ЕГЭ
+http://192.168.0.101:9090/LIMETV/73
+#EXTINF:-1 group-title="Познавательные",Живая природа
+http://192.168.0.101:9090/LIMETV/74
+#EXTINF:-1 group-title="Познавательные",Живи Активно
+http://192.168.0.101:9090/LIMETV/75
+#EXTINF:-1 group-title="Познавательные",Загородная Жизнь
+http://192.168.0.101:9090/LIMETV/76
+#EXTINF:-1 group-title="Познавательные",Здоровье
+http://192.168.0.101:9090/LIMETV/77
+#EXTINF:-1 group-title="Познавательные",Красная линия
+http://192.168.0.101:9090/LIMETV/78
+#EXTINF:-1 group-title="Познавательные",Министерство Идей
+http://192.168.0.101:9090/LIMETV/79
+#EXTINF:-1 group-title="Познавательные",Нано
+http://192.168.0.101:9090/LIMETV/80
+#EXTINF:-1 group-title="Познавательные",Неизвестная планета
+http://192.168.0.101:9090/LIMETV/81
+#EXTINF:-1 group-title="Познавательные",Неизвестная Россия
+http://192.168.0.101:9090/LIMETV/82
+#EXTINF:-1 group-title="Познавательные",Открытый Мир
+http://192.168.0.101:9090/LIMETV/83
+#EXTINF:-1 group-title="Познавательные",Первый вегетарианский
+http://192.168.0.101:9090/LIMETV/84
+#EXTINF:-1 group-title="Познавательные",Пес и Ко
+http://192.168.0.101:9090/LIMETV/85
+#EXTINF:-1 group-title="Познавательные",Ратник
+http://192.168.0.101:9090/LIMETV/86
+#EXTINF:-1 group-title="Познавательные",РЖД
+http://192.168.0.101:9090/LIMETV/87
+#EXTINF:-1 group-title="Познавательные",Россия К
+http://192.168.0.101:9090/LIMETV/88
+#EXTINF:-1 group-title="Познавательные",Тайны Галактики
+http://192.168.0.101:9090/LIMETV/89
+#EXTINF:-1 group-title="Познавательные",Точка ТВ
+http://192.168.0.101:9090/LIMETV/90
+#EXTINF:-1 group-title="Познавательные",Успех
+http://192.168.0.101:9090/LIMETV/91
+#EXTINF:-1 group-title="Познавательные",Центральное телевидение
+http://192.168.0.101:9090/LIMETV/92
+#EXTINF:-1 group-title="Развлекательные",2х2
+http://192.168.0.101:9090/LIMETV/93
+#EXTINF:-1 group-title="Развлекательные",Диалоги о рыбалке
+http://192.168.0.101:9090/LIMETV/94
+#EXTINF:-1 group-title="Развлекательные",Перпетуум Мобиле
+http://192.168.0.101:9090/LIMETV/95
+#EXTINF:-1 group-title="Развлекательные",Полет ТВ
+http://192.168.0.101:9090/LIMETV/96
+#EXTINF:-1 group-title="Развлекательные",Продвижение
+http://192.168.0.101:9090/LIMETV/97
+#EXTINF:-1 group-title="Развлекательные",Пятница
+http://192.168.0.101:9090/LIMETV/98
+#EXTINF:-1 group-title="Развлекательные",СТС love
+http://192.168.0.101:9090/LIMETV/99
+#EXTINF:-1 group-title="Развлекательные",СТС
+http://192.168.0.101:9090/LIMETV/100
+#EXTINF:-1 group-title="Развлекательные",Суббота
+http://192.168.0.101:9090/LIMETV/101
+#EXTINF:-1 group-title="Развлекательные",ТВ3
+http://192.168.0.101:9090/LIMETV/102
+#EXTINF:-1 group-title="Развлекательные",Терра Инкогнита
+http://192.168.0.101:9090/LIMETV/103
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://192.168.0.101:9090/LIMETV/104
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://192.168.0.101:9090/LIMETV/105
+#EXTINF:-1 group-title="Развлекательные",Че
+http://192.168.0.101:9090/LIMETV/106
+#EXTINF:-1 group-title="Развлекательные",Ю
+http://192.168.0.101:9090/LIMETV/107
+#EXTINF:-1 group-title="Релакс",Quadro
+http://192.168.0.101:9090/LIMETV/108
+#EXTINF:-1 group-title="Религия",Надежда
+http://192.168.0.101:9090/LIMETV/109
+#EXTINF:-1 group-title="Религия",Радость моя
+http://192.168.0.101:9090/LIMETV/110
+#EXTINF:-1 group-title="Религия",Союз
+http://192.168.0.101:9090/LIMETV/111
+#EXTINF:-1 group-title="Религия",Спас
+http://192.168.0.101:9090/LIMETV/112
+#EXTINF:-1 group-title="Религия",Три Ангела
+http://192.168.0.101:9090/LIMETV/113
+#EXTINF:-1 group-title="Россия (Региональные)",#Ё (Самара)
+http://192.168.0.101:9090/LIMETV/114
+#EXTINF:-1 group-title="Россия (Региональные)",12 канал (Омск)
+http://192.168.0.101:9090/LIMETV/115
+#EXTINF:-1 group-title="Россия (Региональные)",27 канал Прокопьевск
+http://192.168.0.101:9090/LIMETV/116
+#EXTINF:-1 group-title="Россия (Региональные)",4 канал (Екатеринбург)
+http://192.168.0.101:9090/LIMETV/117
+#EXTINF:-1 group-title="Россия (Региональные)",41 регион (Петропавловск-Камчатский)
+http://192.168.0.101:9090/LIMETV/118
+#EXTINF:-1 group-title="Россия (Региональные)",43 канал (Туапсе)
+http://192.168.0.101:9090/LIMETV/119
+#EXTINF:-1 group-title="Россия (Региональные)",78 канал (Санкт-Петербург)
+http://192.168.0.101:9090/LIMETV/120
+#EXTINF:-1 group-title="Россия (Региональные)",8 канал Красноярский край
+http://192.168.0.101:9090/LIMETV/121
+#EXTINF:-1 group-title="Россия (Региональные)",8 канал Новосибирск
+http://192.168.0.101:9090/LIMETV/122
+#EXTINF:-1 group-title="Россия (Региональные)",8 канал
+http://192.168.0.101:9090/LIMETV/123
+#EXTINF:-1 group-title="Россия (Региональные)",NEXT-TV (Башкортостан г.Нефтекамск)
+http://192.168.0.101:9090/LIMETV/124
+#EXTINF:-1 group-title="Россия (Региональные)",Sochi Live
+http://192.168.0.101:9090/LIMETV/125
+#EXTINF:-1 group-title="Россия (Региональные)",TMTV (Казань)
+http://192.168.0.101:9090/LIMETV/126
+#EXTINF:-1 group-title="Россия (Региональные)",TV Губерния (Воронеж)
+http://192.168.0.101:9090/LIMETV/127
+#EXTINF:-1 group-title="Россия (Региональные)",URAL1 (Челябинск)
+http://192.168.0.101:9090/LIMETV/128
+#EXTINF:-1 group-title="Россия (Региональные)",Vostok
+http://192.168.0.101:9090/LIMETV/129
+#EXTINF:-1 group-title="Россия (Региональные)",Абакан 24
+http://192.168.0.101:9090/LIMETV/130
+#EXTINF:-1 group-title="Россия (Региональные)",Аист
+http://192.168.0.101:9090/LIMETV/131
+#EXTINF:-1 group-title="Россия (Региональные)",Алмазный край (Якутия)
+http://192.168.0.101:9090/LIMETV/132
+#EXTINF:-1 group-title="Россия (Региональные)",Арис 24 (Башкортостан)
+http://192.168.0.101:9090/LIMETV/133
+#EXTINF:-1 group-title="Россия (Региональные)",Архыз 24 (Черкесск)
+http://192.168.0.101:9090/LIMETV/134
+#EXTINF:-1 group-title="Россия (Региональные)",АСТВ (Сахалин)
+http://192.168.0.101:9090/LIMETV/135
+#EXTINF:-1 group-title="Россия (Региональные)",Астрахань 24
+http://192.168.0.101:9090/LIMETV/136
+#EXTINF:-1 group-title="Россия (Региональные)",Афонтово (Красноярск)
+http://192.168.0.101:9090/LIMETV/137
+#EXTINF:-1 group-title="Россия (Региональные)",Барс (Иваново)
+http://192.168.0.101:9090/LIMETV/138
+#EXTINF:-1 group-title="Россия (Региональные)",Белгород 24
+http://192.168.0.101:9090/LIMETV/139
+#EXTINF:-1 group-title="Россия (Региональные)",Бийское ТВ (Алтайский край г. Бийск)
+http://192.168.0.101:9090/LIMETV/140
+#EXTINF:-1 group-title="Россия (Региональные)",Брянск 24
+http://192.168.0.101:9090/LIMETV/141
+#EXTINF:-1 group-title="Россия (Региональные)",Брянская Губерния
+http://192.168.0.101:9090/LIMETV/142
+#EXTINF:-1 group-title="Россия (Региональные)",БСТ
+http://192.168.0.101:9090/LIMETV/143
+#EXTINF:-1 group-title="Россия (Региональные)",БСТ24 (Иркутская область г. Братск)
+http://192.168.0.101:9090/LIMETV/144
+#EXTINF:-1 group-title="Россия (Региональные)",Буряад ТВ
+http://192.168.0.101:9090/LIMETV/145
+#EXTINF:-1 group-title="Россия (Региональные)",Вариант (Владимир)
+http://192.168.0.101:9090/LIMETV/146
+#EXTINF:-1 group-title="Россия (Региональные)",Вестник Надыма (ЯНАО)
+http://192.168.0.101:9090/LIMETV/147
+#EXTINF:-1 group-title="Россия (Региональные)",Ветта 24
+http://192.168.0.101:9090/LIMETV/148
+#EXTINF:-1 group-title="Россия (Региональные)",Волга (Нижний Новгород)
+http://192.168.0.101:9090/LIMETV/149
+#EXTINF:-1 group-title="Россия (Региональные)",Волга24 (Нижний Новгород)
+http://192.168.0.101:9090/LIMETV/150
+#EXTINF:-1 group-title="Россия (Региональные)",Волгоград 24
+http://192.168.0.101:9090/LIMETV/151
+#EXTINF:-1 group-title="Россия (Региональные)",Восток 24
+http://192.168.0.101:9090/LIMETV/152
+#EXTINF:-1 group-title="Россия (Региональные)",Вся Уфа
+http://192.168.0.101:9090/LIMETV/153
+#EXTINF:-1 group-title="Россия (Региональные)",Город (Оренбург)
+http://192.168.0.101:9090/LIMETV/154
+#EXTINF:-1 group-title="Россия (Региональные)",Грозный
+http://192.168.0.101:9090/LIMETV/155
+#EXTINF:-1 group-title="Россия (Региональные)",ГТРК «Кабардино-Балкария»
+http://192.168.0.101:9090/LIMETV/156
+#EXTINF:-1 group-title="Россия (Региональные)",Губерния 33 (Владимир)
+http://192.168.0.101:9090/LIMETV/157
+#EXTINF:-1 group-title="Россия (Региональные)",Губерния Самарская
+http://192.168.0.101:9090/LIMETV/158
+#EXTINF:-1 group-title="Россия (Региональные)",Губерния ТВ (Хабаровск)
+http://192.168.0.101:9090/LIMETV/159
+#EXTINF:-1 group-title="Россия (Региональные)",Дагестан
+http://192.168.0.101:9090/LIMETV/160
+#EXTINF:-1 group-title="Россия (Региональные)",Девятка ТВ (Киров)
+http://192.168.0.101:9090/LIMETV/161
+#EXTINF:-1 group-title="Россия (Региональные)",Десятка (Кемеровская область г.Новокузнецк)
+http://192.168.0.101:9090/LIMETV/162
+#EXTINF:-1 group-title="Россия (Региональные)",Дзержинск ТВ (Нижегородская обл.)
+http://192.168.0.101:9090/LIMETV/163
+#EXTINF:-1 group-title="Россия (Региональные)",Дон 24
+http://192.168.0.101:9090/LIMETV/164
+#EXTINF:-1 group-title="Россия (Региональные)",Евпатория 24 (Республика Крым)
+http://192.168.0.101:9090/LIMETV/165
+#EXTINF:-1 group-title="Россия (Региональные)",Евразия (Оренбургская область г. Орск)
+http://192.168.0.101:9090/LIMETV/166
+#EXTINF:-1 group-title="Россия (Региональные)",Енисей регион
+http://192.168.0.101:9090/LIMETV/167
+#EXTINF:-1 group-title="Россия (Региональные)",Известия Саратов
+http://192.168.0.101:9090/LIMETV/168
+#EXTINF:-1 group-title="Россия (Региональные)",Импульс (Новый Уренгой)
+http://192.168.0.101:9090/LIMETV/169
+#EXTINF:-1 group-title="Россия (Региональные)",Инфо 24 (Курганская область г.Шадринск)
+http://192.168.0.101:9090/LIMETV/170
+#EXTINF:-1 group-title="Россия (Региональные)",Истоки (Орел)
+http://192.168.0.101:9090/LIMETV/171
+#EXTINF:-1 group-title="Россия (Региональные)",Канал 12 (Череповец)
+http://192.168.0.101:9090/LIMETV/172
+#EXTINF:-1 group-title="Россия (Региональные)",Канал 16 (Саров)
+http://192.168.0.101:9090/LIMETV/173
+#EXTINF:-1 group-title="Россия (Региональные)",Канал 86 (Сургут)
+http://192.168.0.101:9090/LIMETV/174
+#EXTINF:-1 group-title="Россия (Региональные)",Каскад-24
+http://192.168.0.101:9090/LIMETV/175
+#EXTINF:-1 group-title="Россия (Региональные)",Катунь 24
+http://192.168.0.101:9090/LIMETV/176
+#EXTINF:-1 group-title="Россия (Региональные)",Керчь 24 (Республика Крым)
+http://192.168.0.101:9090/LIMETV/177
+#EXTINF:-1 group-title="Россия (Региональные)",Колыма Плюс
+http://192.168.0.101:9090/LIMETV/178
+#EXTINF:-1 group-title="Россия (Региональные)",Краснодар он-лайн
+http://192.168.0.101:9090/LIMETV/179
+#EXTINF:-1 group-title="Россия (Региональные)",Крик-ТВ
+http://192.168.0.101:9090/LIMETV/180
+#EXTINF:-1 group-title="Россия (Региональные)",Крым 24
+http://192.168.0.101:9090/LIMETV/181
+#EXTINF:-1 group-title="Россия (Региональные)",Кузбасс 1 (Кемерово)
+http://192.168.0.101:9090/LIMETV/182
+#EXTINF:-1 group-title="Россия (Региональные)",Кунгур ТВ (Пермский край)
+http://192.168.0.101:9090/LIMETV/183
+#EXTINF:-1 group-title="Россия (Региональные)",Кунел ТВ (Татарстан)
+http://192.168.0.101:9090/LIMETV/184
+#EXTINF:-1 group-title="Россия (Региональные)",КУРАЙ-ТВ
+http://192.168.0.101:9090/LIMETV/185
+#EXTINF:-1 group-title="Россия (Региональные)",Легендарный 24 (Республика Крым г.Севастополь)
+http://192.168.0.101:9090/LIMETV/186
+#EXTINF:-1 group-title="Россия (Региональные)",Лен ТВ 24
+http://192.168.0.101:9090/LIMETV/187
+#EXTINF:-1 group-title="Россия (Региональные)",Липецкое время
+http://192.168.0.101:9090/LIMETV/188
+#EXTINF:-1 group-title="Россия (Региональные)",Луч
+http://192.168.0.101:9090/LIMETV/189
+#EXTINF:-1 group-title="Россия (Региональные)",Майдан (Татарстан)
+http://192.168.0.101:9090/LIMETV/190
+#EXTINF:-1 group-title="Россия (Региональные)",Мегаполис Югра
+http://192.168.0.101:9090/LIMETV/191
+#EXTINF:-1 group-title="Россия (Региональные)",Миллет
+http://192.168.0.101:9090/LIMETV/192
+#EXTINF:-1 group-title="Россия (Региональные)",Мир Белогорья
+http://192.168.0.101:9090/LIMETV/193
+#EXTINF:-1 group-title="Россия (Региональные)",Мордовия 24
+http://192.168.0.101:9090/LIMETV/194
+#EXTINF:-1 group-title="Россия (Региональные)",МТВ (Волгоград)
+http://192.168.0.101:9090/LIMETV/195
+#EXTINF:-1 group-title="Россия (Региональные)",МТВ Столица (Дагестан)
+http://192.168.0.101:9090/LIMETV/196
+#EXTINF:-1 group-title="Россия (Региональные)",Национальный жилищный канал
+http://192.168.0.101:9090/LIMETV/197
+#EXTINF:-1 group-title="Россия (Региональные)",Наш дом (Пенза)
+http://192.168.0.101:9090/LIMETV/198
+#EXTINF:-1 group-title="Россия (Региональные)",НВК Саха
+http://192.168.0.101:9090/LIMETV/199
+#EXTINF:-1 group-title="Россия (Региональные)",Нижний Новгород 24
+http://192.168.0.101:9090/LIMETV/200
+#EXTINF:-1 group-title="Россия (Региональные)",Ника ТВ (Калуга)
+http://192.168.0.101:9090/LIMETV/201
+#EXTINF:-1 group-title="Россия (Региональные)",ННТВ (Нижний Новгород)
+http://192.168.0.101:9090/LIMETV/202
+#EXTINF:-1 group-title="Россия (Региональные)",Новый век (Тамбов)
+http://192.168.0.101:9090/LIMETV/203
+#EXTINF:-1 group-title="Россия (Региональные)",НСК 49 (Новосибирск)
+http://192.168.0.101:9090/LIMETV/204
+#EXTINF:-1 group-title="Россия (Региональные)",НТС (Иркутск)
+http://192.168.0.101:9090/LIMETV/205
+#EXTINF:-1 group-title="Россия (Региональные)",НТС (Севастополь)
+http://192.168.0.101:9090/LIMETV/206
+#EXTINF:-1 group-title="Россия (Региональные)",Общественное телевидение Приморья (Владивосток)
+http://192.168.0.101:9090/LIMETV/207
+#EXTINF:-1 group-title="Россия (Региональные)",ОРТ-Планета (Оренбург)
+http://192.168.0.101:9090/LIMETV/208
+#EXTINF:-1 group-title="Россия (Региональные)",Осетия-Ирыстон
+http://192.168.0.101:9090/LIMETV/209
+#EXTINF:-1 group-title="Россия (Региональные)",ОСН ТВ
+http://192.168.0.101:9090/LIMETV/210
+#EXTINF:-1 group-title="Россия (Региональные)",ОТВ (Екатеринбург)
+http://192.168.0.101:9090/LIMETV/211
+#EXTINF:-1 group-title="Россия (Региональные)",ОТС-ТВ (Новосибирск)
+http://192.168.0.101:9090/LIMETV/212
+#EXTINF:-1 group-title="Россия (Региональные)",ПАНОРАМА ТВ (Тверь)
+http://192.168.0.101:9090/LIMETV/213
+#EXTINF:-1 group-title="Россия (Региональные)",Первоуральск ТВ (Свердловская обл.)
+http://192.168.0.101:9090/LIMETV/214
+#EXTINF:-1 group-title="Россия (Региональные)",Первый Крымский
+http://192.168.0.101:9090/LIMETV/215
+#EXTINF:-1 group-title="Россия (Региональные)",Первый Псковский
+http://192.168.0.101:9090/LIMETV/216
+#EXTINF:-1 group-title="Россия (Региональные)",Первый Севастопольский
+http://192.168.0.101:9090/LIMETV/217
+#EXTINF:-1 group-title="Россия (Региональные)",Первый Тульский
+http://192.168.0.101:9090/LIMETV/218
+#EXTINF:-1 group-title="Россия (Региональные)",ПРИМ24 (Владивосток)
+http://192.168.0.101:9090/LIMETV/219
+#EXTINF:-1 group-title="Россия (Региональные)",ПРИМА (Красноярск)
+http://192.168.0.101:9090/LIMETV/220
+#EXTINF:-1 group-title="Россия (Региональные)",ПроДвижение - Ленинск (Кемеровская обл.)
+http://192.168.0.101:9090/LIMETV/221
+#EXTINF:-1 group-title="Россия (Региональные)",Рифей-ТВ (Пермь)
+http://192.168.0.101:9090/LIMETV/222
+#EXTINF:-1 group-title="Россия (Региональные)",Русский север (Вологда)
+http://192.168.0.101:9090/LIMETV/223
+#EXTINF:-1 group-title="Россия (Региональные)",Русь (Кострома)
+http://192.168.0.101:9090/LIMETV/224
+#EXTINF:-1 group-title="Россия (Региональные)",Рыбинск-40
+http://192.168.0.101:9090/LIMETV/225
+#EXTINF:-1 group-title="Россия (Региональные)",С1 Сургут
+http://192.168.0.101:9090/LIMETV/226
+#EXTINF:-1 group-title="Россия (Региональные)",Салям (Уфа)
+http://192.168.0.101:9090/LIMETV/227
+#EXTINF:-1 group-title="Россия (Региональные)",Самара 24
+http://192.168.0.101:9090/LIMETV/228
+#EXTINF:-1 group-title="Россия (Региональные)",Самотлор (Нижневартовск)
+http://192.168.0.101:9090/LIMETV/229
+#EXTINF:-1 group-title="Россия (Региональные)",Санкт-Петербург
+http://192.168.0.101:9090/LIMETV/230
+#EXTINF:-1 group-title="Россия (Региональные)",Саратов 24
+http://192.168.0.101:9090/LIMETV/231
+#EXTINF:-1 group-title="Россия (Региональные)",Саров 24
+http://192.168.0.101:9090/LIMETV/232
+#EXTINF:-1 group-title="Россия (Региональные)",Своё ТВ (Пермский край г. Березники)
+http://192.168.0.101:9090/LIMETV/233
+#EXTINF:-1 group-title="Россия (Региональные)",СВОЁТВ (Ставрополь)
+http://192.168.0.101:9090/LIMETV/234
+#EXTINF:-1 group-title="Россия (Региональные)",Север (Нарьян-Мар)
+http://192.168.0.101:9090/LIMETV/235
+#EXTINF:-1 group-title="Россия (Региональные)",Северный Крым 24
+http://192.168.0.101:9090/LIMETV/236
+#EXTINF:-1 group-title="Россия (Региональные)",Сейм (Курск)
+http://192.168.0.101:9090/LIMETV/237
+#EXTINF:-1 group-title="Россия (Региональные)",Сибирь 24
+http://192.168.0.101:9090/LIMETV/238
+#EXTINF:-1 group-title="Россия (Региональные)",Симферополь 24 (Республика Крым)
+http://192.168.0.101:9090/LIMETV/239
+#EXTINF:-1 group-title="Россия (Региональные)",Смотри Радио (Оренбург)
+http://192.168.0.101:9090/LIMETV/240
+#EXTINF:-1 group-title="Россия (Региональные)",СОЛОВЬЁВLIVE
+http://192.168.0.101:9090/LIMETV/241
+#EXTINF:-1 group-title="Россия (Региональные)",Соль ТВ (Пермский край г. Соликамск)
+http://192.168.0.101:9090/LIMETV/242
+#EXTINF:-1 group-title="Россия (Региональные)",Сочи 24
+http://192.168.0.101:9090/LIMETV/243
+#EXTINF:-1 group-title="Россия (Региональные)",Среда (Дагестан)
+http://192.168.0.101:9090/LIMETV/244
+#EXTINF:-1 group-title="Россия (Региональные)",СТРК (Сочи)
+http://192.168.0.101:9090/LIMETV/245
+#EXTINF:-1 group-title="Россия (Региональные)",Сургут 24
+http://192.168.0.101:9090/LIMETV/246
+#EXTINF:-1 group-title="Россия (Региональные)",Такт 24 (Курск)
+http://192.168.0.101:9090/LIMETV/247
+#EXTINF:-1 group-title="Россия (Региональные)",Тамыр (Уфа)
+http://192.168.0.101:9090/LIMETV/248
+#EXTINF:-1 group-title="Россия (Региональные)",Татарстан 24
+http://192.168.0.101:9090/LIMETV/249
+#EXTINF:-1 group-title="Россия (Региональные)",ТВ ПРНК
+http://192.168.0.101:9090/LIMETV/250
+#EXTINF:-1 group-title="Россия (Региональные)",ТВ21+ (Мурманск)
+http://192.168.0.101:9090/LIMETV/251
+#EXTINF:-1 group-title="Россия (Региональные)",ТВ-ИН (Магнитогорск)
+http://192.168.0.101:9090/LIMETV/252
+#EXTINF:-1 group-title="Россия (Региональные)",ТВК6 Красноярск
+http://192.168.0.101:9090/LIMETV/253
+#EXTINF:-1 group-title="Россия (Региональные)",ТЕО ТВ (Москва)
+http://192.168.0.101:9090/LIMETV/254
+#EXTINF:-1 group-title="Россия (Региональные)",Тивиком (Улан-Удэ)
+http://192.168.0.101:9090/LIMETV/255
+#EXTINF:-1 group-title="Россия (Региональные)",ТИВИСИ (Иркутск)
+http://192.168.0.101:9090/LIMETV/256
+#EXTINF:-1 group-title="Россия (Региональные)",ТКР (Рязань)
+http://192.168.0.101:9090/LIMETV/257
+#EXTINF:-1 group-title="Россия (Региональные)",ТМ-КВАНТ
+http://192.168.0.101:9090/LIMETV/258
+#EXTINF:-1 group-title="Россия (Региональные)",ТНВ Татарстан
+http://192.168.0.101:9090/LIMETV/259
+#EXTINF:-1 group-title="Россия (Региональные)",ТНВ-Планета (Татарстан)
+http://192.168.0.101:9090/LIMETV/260
+#EXTINF:-1 group-title="Россия (Региональные)",ТОЛК (Барнаул)
+http://192.168.0.101:9090/LIMETV/261
+#EXTINF:-1 group-title="Россия (Региональные)",ТОЛЬЯТТИ 24
+http://192.168.0.101:9090/LIMETV/262
+#EXTINF:-1 group-title="Россия (Региональные)",Томское время
+http://192.168.0.101:9090/LIMETV/263
+#EXTINF:-1 group-title="Россия (Региональные)",ТРК Братск
+http://192.168.0.101:9090/LIMETV/264
+#EXTINF:-1 group-title="Россия (Региональные)",ТРК Экспресс (Пенза)
+http://192.168.0.101:9090/LIMETV/265
+#EXTINF:-1 group-title="Россия (Региональные)",Туапсе 24
+http://192.168.0.101:9090/LIMETV/266
+#EXTINF:-1 group-title="Россия (Региональные)",Тюменское время
+http://192.168.0.101:9090/LIMETV/267
+#EXTINF:-1 group-title="Россия (Региональные)",Хузур ТВ (Татарстан)
+http://192.168.0.101:9090/LIMETV/268
+#EXTINF:-1 group-title="Россия (Региональные)",Центр Красноярск
+http://192.168.0.101:9090/LIMETV/269
+#EXTINF:-1 group-title="Россия (Региональные)",Чaваш Ен (Чувашия)
+http://192.168.0.101:9090/LIMETV/270
+#EXTINF:-1 group-title="Россия (Региональные)",Щёлковское ТВ (Моск. обл.)
+http://192.168.0.101:9090/LIMETV/271
+#EXTINF:-1 group-title="Россия (Региональные)",Эфир (Казань)
+http://192.168.0.101:9090/LIMETV/272
+#EXTINF:-1 group-title="Россия (Региональные)",Эхо 24 (Новоуральск)
+http://192.168.0.101:9090/LIMETV/273
+#EXTINF:-1 group-title="Россия (Региональные)",Юрган (Сыктывкар)
+http://192.168.0.101:9090/LIMETV/274
+#EXTINF:-1 group-title="Россия (Региональные)",ЮТВ Чебоксары
+http://192.168.0.101:9090/LIMETV/275
+#EXTINF:-1 group-title="Россия (Региональные)",ЮУрГУ-ТВ (Челябинск)
+http://192.168.0.101:9090/LIMETV/276
+#EXTINF:-1 group-title="Россия (Региональные)",Якутия 24
+http://192.168.0.101:9090/LIMETV/277
+#EXTINF:-1 group-title="Россия (Региональные)",Ялта 24 (Республика Крым)
+http://192.168.0.101:9090/LIMETV/278
+#EXTINF:-1 group-title="Россия (Региональные)",Ямал-Регион (Салехард)
+http://192.168.0.101:9090/LIMETV/279
+#EXTINF:-1 group-title="Россия",Звезда
+http://192.168.0.101:9090/LIMETV/280
+#EXTINF:-1 group-title="Россия",Мир
+http://192.168.0.101:9090/LIMETV/281
+#EXTINF:-1 group-title="Россия",НТВ
+http://192.168.0.101:9090/LIMETV/282
+#EXTINF:-1 group-title="Россия",ОТР
+http://192.168.0.101:9090/LIMETV/283
+#EXTINF:-1 group-title="Россия",Первый канал
+http://192.168.0.101:9090/LIMETV/284
+#EXTINF:-1 group-title="Россия",Пятый канал
+http://192.168.0.101:9090/LIMETV/285
+#EXTINF:-1 group-title="Россия",Рен ТВ
+http://192.168.0.101:9090/LIMETV/286
+#EXTINF:-1 group-title="Россия",Россия 1
+http://192.168.0.101:9090/LIMETV/287
+#EXTINF:-1 group-title="Россия",ТВ Центр
+http://192.168.0.101:9090/LIMETV/288
+#EXTINF:-1 group-title="Спорт",Матч!
+http://192.168.0.101:9090/LIMETV/289
+#EXTINF:-1 group-title="Спорт",Старт Триумф
+http://192.168.0.101:9090/LIMETV/290
+#EXTINF:-1 group-title="Спорт",Старт
+http://192.168.0.101:9090/LIMETV/291
+#EXTINF:-1 group-title="Телемагазины",Luxury
+http://192.168.0.101:9090/LIMETV/292
+#EXTINF:-1 group-title="Фильмы",Anime TV
+http://192.168.0.101:9090/LIMETV/293
+#EXTINF:-1 group-title="Фильмы",Horror TV
+http://192.168.0.101:9090/LIMETV/294
+#EXTINF:-1 group-title="Фильмы",Kinoliving
+http://192.168.0.101:9090/LIMETV/295
+#EXTINF:-1 group-title="Фильмы",Novella TV
+http://192.168.0.101:9090/LIMETV/296
+#EXTINF:-1 group-title="Фильмы",Калейдоскоп ТВ
+http://192.168.0.101:9090/LIMETV/297
+#EXTINF:-1 group-title="Фильмы",КиноМеню HD
+http://192.168.0.101:9090/LIMETV/298
+#EXTINF:-1 group-title="Фильмы",КиноСезон
+http://192.168.0.101:9090/LIMETV/299
+#EXTINF:-1 group-title="Фильмы",Классика кино
+http://192.168.0.101:9090/LIMETV/300
+#EXTINF:-1 group-title="Фильмы",Мир сериала
+http://192.168.0.101:9090/LIMETV/301
+#EXTINF:-1 group-title="Фильмы",Советское кино
+http://192.168.0.101:9090/LIMETV/302
+#EXTINF:-1 group-title="Фильмы",Феникс+ Кино
+http://192.168.0.101:9090/LIMETV/303
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",10 канал (Мордовия)
+http://192.168.0.101:9090/LIMETV/304
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",25 регион (Владивосток)
+http://192.168.0.101:9090/LIMETV/305
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",41 канал ВТК АРГУС (Воронеж)
+http://192.168.0.101:9090/LIMETV/306
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",7 канал Красноярск
+http://192.168.0.101:9090/LIMETV/307
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",BRIDGE ЭТНО
+http://192.168.0.101:9090/LIMETV/308
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",LEOMAX24
+http://192.168.0.101:9090/LIMETV/309
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",LIVETVAZ
+http://192.168.0.101:9090/LIMETV/310
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",News Front TV
+http://192.168.0.101:9090/LIMETV/311
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",RT Arabic
+http://192.168.0.101:9090/LIMETV/312
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",RT Deutsch
+http://192.168.0.101:9090/LIMETV/313
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",RT DOC Eng
+http://192.168.0.101:9090/LIMETV/314
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",RT Eng
+http://192.168.0.101:9090/LIMETV/315
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",RT Español
+http://192.168.0.101:9090/LIMETV/316
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",RT France
+http://192.168.0.101:9090/LIMETV/317
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",SILK WAY CINEMA
+http://192.168.0.101:9090/LIMETV/318
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Silk Way
+http://192.168.0.101:9090/LIMETV/319
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Too Much Business
+http://192.168.0.101:9090/LIMETV/320
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Аппетитный
+http://192.168.0.101:9090/LIMETV/321
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Благая весть
+http://192.168.0.101:9090/LIMETV/322
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",ВКУС
+http://192.168.0.101:9090/LIMETV/323
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Волейбол
+http://192.168.0.101:9090/LIMETV/324
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Восточный Крым 24
+http://192.168.0.101:9090/LIMETV/325
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Город (Рязань)
+http://192.168.0.101:9090/LIMETV/326
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Госфильмофонд. Машина времени
+http://192.168.0.101:9090/LIMETV/327
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Домашний
+http://192.168.0.101:9090/LIMETV/328
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Кино и Жизнь
+http://192.168.0.101:9090/LIMETV/329
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Конгресс ТВ
+http://192.168.0.101:9090/LIMETV/330
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Кубань 24 (Краснодар)
+http://192.168.0.101:9090/LIMETV/331
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Липецк 24
+http://192.168.0.101:9090/LIMETV/332
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Мы
+http://192.168.0.101:9090/LIMETV/333
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",МЭТР (Йошкар-Ола)
+http://192.168.0.101:9090/LIMETV/334
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Наше старое кино
+http://192.168.0.101:9090/LIMETV/335
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",НТМ (Мордовия)
+http://192.168.0.101:9090/LIMETV/336
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",НТРК Магас (Ингушетия)
+http://192.168.0.101:9090/LIMETV/337
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Область 45 (Курган)
+http://192.168.0.101:9090/LIMETV/338
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Овертайм (Ставрополь)
+http://192.168.0.101:9090/LIMETV/339
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",ОК
+http://192.168.0.101:9090/LIMETV/340
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Океан HD
+http://192.168.0.101:9090/LIMETV/341
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",ОмскТВ
+http://192.168.0.101:9090/LIMETV/342
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",ПЛЮС/МИНУС 18
+http://192.168.0.101:9090/LIMETV/343
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Резонанс
+http://192.168.0.101:9090/LIMETV/344
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",РТК Забайкалье (Чита)
+http://192.168.0.101:9090/LIMETV/345
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Смайл ТВ
+http://192.168.0.101:9090/LIMETV/346
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Таврия (Херсон)
+http://192.168.0.101:9090/LIMETV/347
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Татарстан 24 Набережные Челны
+http://192.168.0.101:9090/LIMETV/348
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",ТВ-21
+http://192.168.0.101:9090/LIMETV/349
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Тверской проспект - регион ( Тверь )
+http://192.168.0.101:9090/LIMETV/350
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Телекомпания Геленджик
+http://192.168.0.101:9090/LIMETV/351
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",ЭХ!
+http://192.168.0.101:9090/LIMETV/352
+#EXTINF:-1 group-title="!!!_НОВЫЕ_!!!",Ямал 1
+http://192.168.0.101:9090/LIMETV/353
