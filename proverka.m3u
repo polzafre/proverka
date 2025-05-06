@@ -94,8 +94,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://river-1.rutube.ru/hls-vod/vV3I0AHJgHpj9ghGOCB7iA/1746887144/1816/0x5000c500c897aa45/8baceb688d3548c0a29a40f3980bceea.mp4.m3u8?i=3840x2160_24688
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K Video ULTRA HD 60 FPS" tvg-logo="https://pic.rutube.ru/video/2024-11-11/93/1c/931c2e26c7cf0c9cd46994dd45f5fdd0.jpg" group-title="КИНО",4K Video ULTRA HD 60 FPS
 https://river-1.rutube.ru/hls-vod/oPCBYnhd9CvkWhpGWFrQDw/1746887141/2446/0x5000c500e883c25e/02951eadad024ba5bacf776269f05cf6.mp4.m3u8?i=3840x2160_22670
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5 HD" group-title="türk" tvg-logo="" group-title="КИНО",5 HD" group-title="türk
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/2318/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="6 КАДРОВ" tvg-logo="http://i124.fastpic.org/big/2025/0318/3e/27b3b295cc58ad8d53bb483e26564d3e.png" group-title="КИНО",6 КАДРОВ
 https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NzAyODkzNCwiaHdpZCI6IjNmNmNlNzQ5YzdiZTg3NWI2Y2JjMDdmMTBiODI4ZjY4NzNlY2UzNzczMGM0ZmYzNjVkZDU4YWUzOGY4MWU4ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzQ2NDI0MTM0LCJzZXNzaW9uX2lkIjoiZmM2MTVjZTFlMDFhN2FmNTJhZmQ2NTEwNTU4OGRlYjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YpNDF_r2TzPTe4wvUI9A9d-VIdEM20Q_aBVv1H9RTck
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Аист ТВ" tvg-logo="" group-title="КИНО",Аист ТВ
@@ -240,18 +238,6 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1008_MSKSG-PVR-1--kinozal_22_sd/04/
 https://tv.movielab.pro/32/video.m3u8?token=6a4e61e667679b6a993f43a52565cd4c3103dfc8-dcf1bae02b06e595001a4c50fbd9bcbc-1746600837-1746514437
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Детское кино" tvg-logo="https://i.ibb.co/7rqJy8x/image-74.png" group-title="КИНО",Детское кино
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дианэт)" group-title="другие" tvg-logo="" group-title="КИНО",Дианэт)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15290/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дианэт)" group-title="другие" tvg-logo="" group-title="КИНО",Дианэт)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15293/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дианэт)" group-title="другие" tvg-logo="" group-title="КИНО",Дианэт)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15294/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дианэт)" group-title="другие" tvg-logo="" group-title="КИНО",Дианэт)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15295/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дианэт)" group-title="другие" tvg-logo="" group-title="КИНО",Дианэт)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15296/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дианэт)" group-title="другие" tvg-logo="" group-title="КИНО",Дианэт)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15298/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дианэт)" group-title="спорт" tvg-logo="" group-title="КИНО",Дианэт)" group-title="спорт
 http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15289/index.m3u8
 #EXTINF:-1 tvg-id="107.plus4" tvg-name="Дианэт)" tvg-id="107.plus4" group-title="другие" tvg-logo="" group-title="КИНО",Дианэт)" tvg-id="107.plus4" group-title="другие
