@@ -1050,12 +1050,6 @@ https://fl1001.bozztv.com/ushba95/tracks-v1a1/mono.m3u8
 http://95.142.88.250/ocean_tv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Океан В 4К Релакс" tvg-logo="https://pic.rutube.ru/video/ce/01/ce01d4f2b1984d8dc9468e192f5816e9.jpg" group-title="КИНО",Океан В 4К Релакс
 https://river-1.rutube.ru/hls-vod/65vhnYJCwfigfcj47b44YA/1746887209/1788/0x5000c500c939412d/954d4f0b6c9640eea3b9d0daff375899.mp4.m3u8?i=3840x2160_12765
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Орион)" group-title="другие" tvg-logo="" group-title="КИНО",Орион)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15355/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Орион)" group-title="другие" tvg-logo="" group-title="КИНО",Орион)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15356/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Орион)" group-title="другие" tvg-logo="" group-title="КИНО",Орион)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15357/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Осетия Иристон" tvg-logo="" group-title="КИНО",Осетия Иристон
 http://185.46.48.18:80/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОСН" tvg-logo="" group-title="КИНО",ОСН
