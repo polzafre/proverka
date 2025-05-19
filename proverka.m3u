@@ -615,10 +615,6 @@ http://91.190.177.237:81/udp/239.195.1.216:1234
 http://91.190.177.237:81/udp/239.195.1.153:1234
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://tricolor-centr.ru/images/novosti/hit.jpg" logo="https://antifriz.tv/storage/images/pack_logos/39614c6364ef51682293f4250c5d26f0.png" channelId="4768" tvg-id="khit",Хит
 http://91.190.177.237:81/udp/239.195.1.152:1234
-#EXTINF:-1 group-title="Крым" tvg-logo="http://epg.one/img/2472.png" logo="https://i.ibb.co/rMZ6MrR/0ef27a65338d7b87ba38c2437af7b4f1.png" channelId="565" tvg-id="pervy-krymsky",Крым 1
-http://91.190.177.237:81/udp/239.195.1.204:1234
-#EXTINF:-1 group-title="Крым" tvg-logo="https://i.ibb.co/ZgZyVnF/Krym-24-256x256.png" channelId="3036" tvg-id="krym24",Крым 24
-http://91.190.177.237:81/udp/239.195.1.205:1234
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="http://only4.tv/ch/0256.png" logo="http://overlay.iptvin.online/epg/PIC/1HD0Music.png" channelId="1476" tvg-id="1hd",1HD Music Television
 http://91.190.177.237:81/udp/239.195.1.222:1234
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="http://only4.tv/ch/2118.png" logo="https://i.ibb.co/cLVGrxg/Bridge-TV-Classic-1240x700-tr.png" channelId="1816" tvg-id="bridge-tv-classic",Bridge Classic
@@ -763,14 +759,6 @@ http://91.190.177.237:81/udp/239.195.1.88:1234
 http://91.190.177.237:81/udp/239.195.1.104:1234
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="http://tricolor-38.ru/KANALY_4/Cenraljnoe_TV.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/A6B5BD8280B0BB8CBDBEB5-A292.png" channelId="3955" tvg-id="centralnoye-tv",Центральное ТВ
 http://91.190.177.237:81/udp/239.195.1.128:1234
-#EXTINF:-1 group-title="Радио" tvg-logo="https://i.ibb.co/f1Rjtdt/Radio-Vesti-FM-200x194.png" channelId="-1" tvg-id="vesti-fm",Радио Вести FM
-http://91.190.177.237:81/udp/239.195.1.233:1234
-#EXTINF:-1 group-title="Радио" tvg-logo="https://i.ibb.co/j5PrmHq/Radio-Mayak-120x120.jpg" logo="http://overlay.iptvin.online/epg/PIC/1_0_2_2E6_7_70_1680000_0_0_0.png" channelId="-1",Радио Маяк
-http://91.190.177.237:81/udp/239.195.1.235:1234
-#EXTINF:-1 group-title="Радио" tvg-logo="https://www.radiobells.com/stations/radiomir.jpg" logo="https://img12.lostpic.net/2018/05/19/4c96bbb4b8343b0486471158e3deedbf.png" channelId="-1" tvg-id="radio-mir",Радио Мир
-http://91.190.177.237:81/udp/239.195.1.232:1234
-#EXTINF:-1 group-title="Радио" tvg-logo="https://i.ibb.co/TwH21cn/Radio-Rossii-150x150.jpg" logo="http://overlay.iptvin.online/epg/PIC/1_0_2_2E7_7_70_1680000_0_0_0.png" channelId="-1" tvg-id="radio-rossii",Радио России
-http://91.190.177.237:81/udp/239.195.1.234:1234
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://i.ibb.co/S3fJTns/024614b06bdfdc2444ef5229fab8773c.png" logo="https://i.ibb.co/9YYnQ40/22654940aeed4b5e8654e5c870d2915a.png" channelId="14" tvg-id="2na2",2х2
 http://91.190.177.237:81/udp/239.195.1.26:1234
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/1183.jpg" channelId="36" tvg-id="8kanal-ru",8 канал
@@ -835,12 +823,6 @@ http://91.190.177.237:81/udp/239.195.3.24:1234
 http://91.190.177.237:81/udp/239.195.1.23:1234
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://i.ibb.co/C5gWgHw/027-u.jpg" logo="https://i.ibb.co/HFQRwfT/YU-220x132-tr.png" channelId="23" tvg-id="yu",Ю
 http://91.190.177.237:81/udp/239.195.3.23:1234
-#EXTINF:-1 group-title="Религиозные" tvg-logo="https://i.ibb.co/7rwCB0n/Soyuz-180x180.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/A1BE8EB7.png" channelId="35" tvg-id="soyuz",Союз
-http://91.190.177.237:81/udp/239.195.1.81:1234
-#EXTINF:-1 group-title="Религиозные" tvg-logo="https://i.ibb.co/7rwCB0n/Soyuz-180x180.png" logo="https://receiver.in.ua/wp-content/uploads/2020/08/A1BE8EB7.png" channelId="35" tvg-id="soyuz",Союз
-http://91.190.177.237:81/udp/239.195.3.81:1234
-#EXTINF:-1 group-title="Религиозные" tvg-logo="https://www.telenettv.ru/img/channel-list/logo/mult2/2.jpg" logo="http://overlay.iptvin.online/epg/PIC/1_0_16_3EF_A_70_1680000_0_0_0.png" channelId="244" tvg-id="spas",Спас
-http://91.190.177.237:81/udp/239.195.1.12:1234
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="https://teleon.tv/images/logos/krik_tv_ru.png" channelId="1742" tvg-id="krik-tv",Крик ТВ
 http://91.190.177.237:81/udp/239.195.1.203:1234
 #EXTINF:-1 group-title="ТЕСТ" tvg-logo="http://fe-sth.svc.iptv.rt.ru/images/broadcastChannel1480323433988.png" channelId="3966" tvg-id="svoyo-tv-stavropol",Своё ТВ
