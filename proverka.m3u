@@ -530,4 +530,6 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="ТЕСТ",Русский иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="ТЕСТ",777
+https://s2.catcast.tv/content/48738/index.m3u8?token=7462e1df2186eedbb4af900e334ba108
 
