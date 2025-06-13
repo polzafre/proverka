@@ -3701,8 +3701,6 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlis
 http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="43 канал HD" tvg-logo="" group-title="РАЗНОЕ",43 канал HD
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5 HD" group-title="türk" tvg-logo="" group-title="РАЗНОЕ",5 HD" group-title="türk
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/2318/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="555 Hunt & Fishing TV" tvg-logo="" group-title="РАЗНОЕ",555 Hunt & Fishing TV
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="555 Hunt & Fishing TV HD" tvg-logo="" group-title="РАЗНОЕ",555 Hunt & Fishing TV HD
@@ -3983,20 +3981,6 @@ https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v1a1/mono.m3u8
 http://92.242.110.52:9835/udp/238.1.7.14:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Диалоги о Рыбалке" tvg-logo="" group-title="РАЗНОЕ",Диалоги о Рыбалке
 https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дианэт)" group-title="другие" tvg-logo="" group-title="РАЗНОЕ",Дианэт)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15293/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дианэт)" group-title="другие" tvg-logo="" group-title="РАЗНОЕ",Дианэт)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15294/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дианэт)" group-title="другие" tvg-logo="" group-title="РАЗНОЕ",Дианэт)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15295/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дианэт)" group-title="другие" tvg-logo="" group-title="РАЗНОЕ",Дианэт)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15296/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дианэт)" group-title="другие" tvg-logo="" group-title="РАЗНОЕ",Дианэт)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15298/index.m3u8
-#EXTINF:-1 tvg-id="107.plus4" tvg-name="Дианэт)" tvg-id="107.plus4" group-title="другие" tvg-logo="" group-title="РАЗНОЕ",Дианэт)" tvg-id="107.plus4" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15297/index.m3u8
-#EXTINF:-1 tvg-id="2643.plus4" tvg-name="Дианэт)" tvg-id="2643.plus4" group-title="другие" tvg-logo="" group-title="РАЗНОЕ",Дианэт)" tvg-id="2643.plus4" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15291/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикий" tvg-logo="" group-title="РАЗНОЕ",Дикий
 http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикий" tvg-logo="" group-title="РАЗНОЕ",Дикий
@@ -4821,12 +4805,6 @@ http://92.242.110.52:9835/udp/238.1.12.11:1234
 http://92.53.64.197:5050/oplot_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Оплот 2" tvg-logo="" group-title="РАЗНОЕ",Оплот 2
 http://92.242.110.52:9835/udp/238.1.12.12:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Орион)" group-title="другие" tvg-logo="" group-title="РАЗНОЕ",Орион)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15355/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Орион)" group-title="другие" tvg-logo="" group-title="РАЗНОЕ",Орион)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15356/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Орион)" group-title="другие" tvg-logo="" group-title="РАЗНОЕ",Орион)" group-title="другие
-http://iyh5mlxw.klaipedalt.org/iptv/GND3B9YB2KUEYX/15357/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Оружие" tvg-logo="" group-title="РАЗНОЕ",Оружие
 http://195.245.99.242:80/Oruzhie/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Осетия-Ирыстон" tvg-logo="" group-title="РАЗНОЕ",Осетия-Ирыстон
