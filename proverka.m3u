@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T.ME/POLZAFRE" tvg-logo="" group-title="ДОНАТ ПОДДЕРЖКА",T.ME/POLZAFRE
+#EXTINF:-1 group-title="ДОНАТ ПОДДЕРЖКА", T.ME/POLZAFRE
 https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
+#EXTINF:-1 group-title="ДОНАТ ПОДДЕРЖКА", ХОЧЕШЬ ОБНОВЛЕНИЯ? ПОМОГАЙ =)
+https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".black" tvg-logo="" group-title="КИНО",.black
 http://5.134.87.11:4600/Black/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".black" tvg-logo="http://epg.one/img2/935.png" group-title="КИНО",.black
