@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="ДОНАТ ПОДДЕРЖКА", T.ME/POLZAFRE
-https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
-#EXTINF:-1 group-title="ДОНАТ ПОДДЕРЖКА", ХОЧЕШЬ ОБНОВЛЕНИЯ? ПОМОГАЙ =)
-https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
-#EXTINF:-1 group-title="ДОНАТ ПОДДЕРЖКА", ДАТА ОБНОВЫ: 01.08.25
-https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
-#EXTINF:-1 group-title="ДОНАТ ПОДДЕРЖКА", ДАТА ОБНОВЫ: 01.08.25
+#EXTINF:-1 group-title="ПЛЕЙЛИСТ ТОРМОЗИТ?", T.ME/REVOLYO
 https://www.dropbox.com/scl/fi/hn212l0x8k6uakaz17s4n/Revolyo.mp4?rlkey=my7bgcl55or79iod9fzksqh18&st=p5b9r93a&dl=1
+#EXTINF:-1 group-title="ДАТА ОБНОВЫ 17.09.25", T.ME/POLZAFRE
+https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".Black" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14498/logo_256_1660800255.png" group-title="КИНО",.Black
@@ -13009,6 +13005,7 @@ http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/2359/index.m3u8
 http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/7193/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ערוץ הקבלה" tvg-logo="" group-title="СТРАНЫ",ערוץ הקבלה
 http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/7194/index.m3u8
+
 
 
 
