@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="ПЛЕЙЛИСТ ТОРМОЗИТ?", T.ME/REVOLYO
 https://www.dropbox.com/scl/fi/hn212l0x8k6uakaz17s4n/Revolyo.mp4?rlkey=my7bgcl55or79iod9fzksqh18&st=p5b9r93a&dl=1
 #EXTINF:-1 group-title="ДАТА ОБНОВЫ 17.09.25", T.ME/POLZAFRE
@@ -13005,7 +13005,5 @@ http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/2359/index.m3u8
 http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/7193/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ערוץ הקבלה" tvg-logo="" group-title="СТРАНЫ",ערוץ הקבלה
 http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/7194/index.m3u8
-
-
 
 
