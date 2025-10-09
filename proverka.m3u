@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="REVOLYO" tvg-logo="https://i.ibb.co/mrBfHb29/image.png",Revolyo Mnemo
-https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/xdJ3QPK5fYU3Wg
+https://132544.edgevideo.ru/streams/132544_990782/1325441080/index.m3u8
 #EXTINF:-1 group-title="ПЛЕЙЛИСТ ТОРМОЗИТ?", T.ME/REVOLYO
 https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/xdJ3QPK5fYU3Wg
 #EXTINF:-1 group-title="ДАТА ОБНОВЫ 02.10.25", T.ME/POLZAFRE
@@ -17322,7 +17322,8 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", История
 https://vod.splay.uz/live_splay/original/History/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ДЛЯ ПОДПИСЧИКОВ", История
-http://95.66.188.74/Istoria/mono.m3u8
+https://132544.edgevideo.ru/streams/132544_990782/1325441080/index.m3u8
+
 
 
 
