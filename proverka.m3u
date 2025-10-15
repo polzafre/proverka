@@ -4,8 +4,7 @@ http://46.17.250.175/revolyo/index.m3u8
 #EXTINF:-1 group-title="проверочка", платформа
 https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
 #EXTINF:-1 group-title="проверочка", dlive.tv
-https://livestreams.prdv3.dlivecdn.com/revolyo/1760538010/src/live.m3u8?Expires=1760538322&Signature=qm3mDYd7NG8LUFpHMXEZRvZo83Cz9hkx~p9xQ-t1pSBuXwjkw5awFOCE3eomMfsGDBNKNg-oXwFfkROa6RQHzMr~XvBxXlkjkWHQgeLRr0j5Viox0wgy9XJFR~Zftf24NpcwM~juFSYtjBHx7KyC0N1UIx-UaEboIhKdX6E1tRU3O~bRCAzuk5mDS3OA0iVFbkkNRbiB0fDbUKQmCnpAeasoMJ3r3-cYmKRJ7e97hcKxYP9QcpcSaMmen4ef1XUOa7WOkmjwX7NbBaQAWpLElO6vKbPl9hNuyuoni3q7D2AXvAWZvKAW9Yt-Ksra5CNEoqVV9sEJCo2m-wTG6T47ng__&Key-Pair-Id=K2WZHW3KN5FGBZ
-
+https://livestreams.prdv3.dlivecdn.com/revolyo/1760538010/src/live.m3u8?Expires=1760538596&Signature=NFKcHtlg0-FVDS0zJOj22nDtIsQiDS-Xgkze~iWYTJ1TqnHaSs2kIHTuQeifInCgGkQ03RZkvHzgFA4ps3TQwHBq~1MZGtSmgq169PAxq8ZcutvufAgKBqQ5fm~4VDxluMeMTq1YIVh63YpeL3W5GR5JblMWsRlx6kJkpu6xcVrgEw4wfJTuKgn5jrR5TAMt7UV96xR179zVf~Pwprg3xzr65N75XBHpP~pEzUGdNOSiVBF8GKrmG-O1kC4X6JnRZrYVV36tP2-QB0MTTHekQ-alnmdhS0NTFrJJAuLKRRVWhNi4l-tK-LVBg~rj~vtEPrqM-9wUvfRzZBUJETsgVw__&Key-Pair-Id=K2WZHW3KN5FGBZ
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="312 Кино" tvg-logo="" group-title="КИНО",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
@@ -8523,6 +8522,7 @@ http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
 http://91.194.191.241:8081/chid428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Serial" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",VIP Serial
 http://91.194.191.241:8081/chid40/tracks-v1a1/mono.m3u8
+
 
 
 
