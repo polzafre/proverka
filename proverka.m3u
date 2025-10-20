@@ -27,7 +27,8 @@ http://84.39.243.39:81/udp/226.0.6.13:3000
 #EXTINF:-1 group-title="Стандарт" tvg-id="pervy" channelId="1",Первый канал
 http://84.39.243.39:81/udp/226.11.11.25:1234
 #EXTINF:-1 group-title="Стандарт" tvg-id="pervy" channelId="1",Первый канал
-http://84.39.243.39:81/udp/228.0.0.1:1234#EXTINF:-1 group-title="Стандарт" tvg-id="pervy" channelId="1",Первый канал
+http://84.39.243.39:81/udp/228.0.0.1:1234
+#EXTINF:-1 group-title="Стандарт" tvg-id="pervy" channelId="1",Первый канал
 http://84.39.243.39:81/udp/228.30.0.12:1234
 #EXTINF:-1 group-title="Стандарт" tvg-id="pervy" channelId="1",Первый канал
 http://84.39.243.39:81/udp/228.30.30.8:1234
@@ -39,4 +40,5 @@ http://84.39.243.39:81/udp/233.170.170.98:58631
 http://84.39.243.39:81/udp/238.70.70.6:6410
 #EXTINF:-1 group-title="Стандарт" tvg-id="pervy" channelId="1",Первый канал
 http://84.39.243.39:81/udp/239.72.4.30:1234
+
 
