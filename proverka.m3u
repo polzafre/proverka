@@ -5,7 +5,6 @@ https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/xdJ3QPK5fYU3Wg
 https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
 
 
-#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",1 канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" group-title="Общественные",360° HD
@@ -19195,3 +19194,4 @@ http://sc.id-tv.kz/A2.m3u8
 http://188.237.47.212:6007
 #EXTINF:-1 tvg-logo="http://epg.one/img/6258.png",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
+
