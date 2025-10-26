@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="ПЛЕЙЛИСТ ТОРМОЗИТ?", T.ME/REVOLYO
 https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/xdJ3QPK5fYU3Wg
-#EXTINF:-1 group-title="ДАТА ОБНОВЫ 22.10.25", T.ME/POLZAFRE
+#EXTINF:-1 group-title="ДАТА ОБНОВЫ 26.10.25", T.ME/POLZAFRE
 https://www.dropbox.com/scl/fi/kd3qkgb6iry3z9067awqn/PolzaFre.mp4?rlkey=m3ek0try1sm3od9w53qvchl2a&st=1f9dykuz&dl=1
 
 
@@ -15125,5 +15125,6 @@ http://87.246.54.249:8085/TV1000/index.m3u8
 http://87.246.54.249:8085/ViasatNature/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Video Arsenal" tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png" group-title="ФЕДЕРАЛЬНЫЕ",Video Arsenal
 https://132544.edgevideo.ru/streams/132544_931730/1325441080/index.m3u8
+
 
 
