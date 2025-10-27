@@ -1,100 +1,29 @@
 #EXTM3U
-#EXTINF:0,Brodilo TV
-https://brodilo.tv/channel.php
-#EXTINF:-1,Motor TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1,ВigАsia
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1,Наша тема
-http://194.190.78.91:80/nashatema1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Animal planet
-http://88.212.7.11/live/test_animal_planet_hd_hevc/playlist.m3u8
-#EXTINF:-1,D
-http://195.191.208.18:8095/udp/238.2.173.1:1234
-#EXTINF:-1,fashion _ 1
-https://ipv4.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
-#EXTINF:-1,fashion _ 2
-https://ipv4.bozztv.com/dvrfl07/ushba-m6/tracks-v1a1/mono.m3u8
-#EXTINF:-1,fashion _ 3
-https://ipv4.bozztv.com/dvrfl07/ushba-m7/tracks-v1a1/mono.m3u8
-#EXTINF:-1,fashion _ 4
-https://ipv4.bozztv.com/dvrfl07/ushba-m8/tracks-v1a1/mono.m3u8
-#EXTINF:-1,fashion _ 5
-https://ipv4.bozztv.com/dvrfl07/ushba-m9/tracks-v1a1/mono.m3u8
-#EXTINF:-1,НЕИЗВЕСТНАЯ РОССИЯ
-http://cdn.ntv.ru/unknown_russia/index.m3u8
-#EXTINF:-1,ТВ-Мост|Продвижение
-http://185.87.49.94:9981/stream/channelid/536565527
-#EXTINF:-1,Xplore TV
-http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
-#EXTINF:-1,AnimalPlanet_HD
-http://45.88.92.3:80/tr3_AnimalPlanet_HD/tracks-a2v1/index.m3u8?token=test
-#EXTINF:-1,Brodilo TV
-https://brodilo.tv/brodilotv.m3u
-#EXTINF:-1,Рodsekai-TV
-http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
-#EXTINF:-1,Prokop TV Кулинар
-http://93.189.224.24/Prokop_Tv_Kulinar/index.m3u8
-#EXTINF:0,Большая Азия  HD 
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CGTN русский
-http://liveru.cgtn.com/200r/prog_index.m3u8
-#EXTINF:0,Brodilo TV
-https://brodilo.tv/channel.php
-#EXTINF:0,Загородный                      
-https://stream01.vnet.am/DTX/index.m3u8
-#EXTINF:0,Hunt Channel
-http://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:0,Загородный
-https://stream1.cinerama.uz/1044/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fashion TV
-http://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Shopping STAR
-http://livestar.siliconweb.com/starvod/star_int/star_intsd.m3u8
-#EXTINF:-1,Большая Азия
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AnimalPlanet_HD
-http://45.88.92.3:80/tr3_AnimalPlanet_HD/tracks-a2v1/index.m3u8?token=test
-#EXTINF:-1,Travel TV
-https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:-1 ,Shopping Live
-http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:-1,Animal Planet
-http://77.239.125.42:8070/discovry_animalplanet/index.m3u8
-#EXTINF:-1,Discovery
-http://77.239.125.42:8070/discovry_discoverychannel/index.m3u8
-#EXTINF:-1,BBC EARTH
-http://77.239.125.42:8070/discovry_discoveryscience/index.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://77.239.125.42:8070/discovry_natgeo/index.m3u8
-#EXTINF:-1,TLC HD
-http://77.239.125.42:8070/discovry_tlc/index.m3u8
-#EXTINF:-1,Вbrodilo-tv
-https://brodilo.tv/brodilotv.m3u
-#EXTINF:0,Живая планета
-http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
-#EXTINF:-1,NatGeoWild
-http://185.164.82.18:9010//ykMHqK_NatGeoWild
-#EXTINF:0,555 Hunt & Fishing TV  HD
-http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
-#EXTINF:0,555 Hunt & Fishing TV  HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="555 Hunt & Fishing TV  HD" tvg-logo="" group-title="РАЗВИВАЮЩИЙ",555 Hunt & Fishing TV  HD
 http://193.169.178.29:8081/podsekaiTV/chanelHD720/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Большая Азия  HD" tvg-logo="" group-title="РАЗВИВАЮЩИЙ",Большая Азия  HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ВigАsia" tvg-logo="" group-title="РАЗВИВАЮЩИЙ",ВigАsia
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Живая планета" tvg-logo="" group-title="РАЗВИВАЮЩИЙ",Живая планета
+http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НЕИЗВЕСТНАЯ РОССИЯ" tvg-logo="" group-title="РАЗВИВАЮЩИЙ",НЕИЗВЕСТНАЯ РОССИЯ
+http://cdn.ntv.ru/unknown_russia/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рodsekai-TV" tvg-logo="" group-title="РАЗВИВАЮЩИЙ",Рodsekai-TV
+http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AnimalPlanet_HD" tvg-logo="" group-title="РАЗВИВАЮЩИЙ",AnimalPlanet_HD
+http://45.88.92.3:80/tr3_AnimalPlanet_HD/tracks-a2v1/index.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brodilo TV" tvg-logo="" group-title="РАЗВИВАЮЩИЙ",Brodilo TV
+https://brodilo.tv/channel.php
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brodilo TV" tvg-logo="" group-title="РАЗВИВАЮЩИЙ",Brodilo TV
+https://brodilo.tv/brodilotv.m3u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Motor TV" tvg-logo="" group-title="РАЗВИВАЮЩИЙ",Motor TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NatGeoWild" tvg-logo="" group-title="РАЗВИВАЮЩИЙ",NatGeoWild
+http://185.164.82.18:9010//ykMHqK_NatGeoWild
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shopping Live" tvg-logo="" group-title="РАЗВИВАЮЩИЙ",Shopping Live
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shopping STAR" tvg-logo="" group-title="РАЗВИВАЮЩИЙ",Shopping STAR
+http://livestar.siliconweb.com/starvod/star_int/star_intsd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel TV" tvg-logo="" group-title="РАЗВИВАЮЩИЙ",Travel TV
+https://streamer103.neterra.tv/travel/live.m3u8
