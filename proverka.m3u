@@ -1,204 +1,344 @@
 #EXTM3U
-#EXTINF:-1,TВ 1000 (СЕРБИЯ)
-http://178.253.194.97:1935/viasattv1000/index.m3u8
-#EXTINF:-1,TV 1000
-http://178.253.194.97:1935/viasattv1000/index.m3u8
-#EXTINF:-1,Твоё ТВ
-http://tvoetv.space:8080/tvoetv/mpegts?token=MkP9_m4vd1
-#EXTINF:-1,Твоё ТВ HD Юмор
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1,Amedia-1
-http://31.148.48.15:80/A1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV 1000
-http://178.253.194.97:1935/viasattv1000/index.m3u8
-#EXTINF:-1,Кино-1 Int
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1,Твоё ТВ HD
-http://84.38.180.145:8080/tvoetv/index.m3u8
-#EXTINF:-1,Среда ТВ
-http://iptv46.mcx-ix.ru:8077/sreda/index.m3u8
-#EXTINF:-1,Great! Movies
-http://185.19.191.2:8094/GreatMovies/mpegts
-#EXTINF:-1,Great! Movies Action
-http://185.19.191.2:8094/GreatAction/mpegts
-#EXTINF:-1,Great! Movies Classic
-http://185.19.191.2:8094/GreatClassic/mpegts
-#EXTINF:-1,Kino-24
-http://sirius.greenhosting.ru/Kino24Ru/index.m3u8
-#EXTINF:-1,Kino24Ru
-http://85.192.10.173:80/Kino24Ru/index.m3u8
-#EXTINF:-1,Твоё ТВ  HD
-http://tvoetv.space:8080/tvoetv/tracks-v1a1/mpegts
-#EXTINF:-1,MegaCine TV
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
-#EXTINF:-1,Кинозалы 1
-https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 2
-https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 3
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 5
-https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 6
-https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 7
-https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 8
-https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 9
-https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 10
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 11
-https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 12
-https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 13
-https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF:-1,Кинозалы 14
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 15
-https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 16
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 17
-https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 18
-https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 19
-https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 20
-https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 21
-https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF:-1,Кинозалы 22
-https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF:-1,Кинозалы 23
-https://fl1001.bozztv.com/ushba-films-w/index.m3u8
-#EXTINF:-1,Кинозалы 24
-https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 25
-https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 26
-https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1,Кинозалы 27
-https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 28
-https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 29
-https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 30
-https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 31
-https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 33
-https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 34
-https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 35
-https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 36
-https://fl1001.bozztv.com/ushba64/index.m3u8
-#EXTINF:-1,Cine-Monde
-http://177.54.153.252:80/cinemonde/cinemonde/playlist.m3u8
-#EXTINF:-1,Кинозалы 1
-https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 2
-https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 3
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 5
-https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 6
-https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 7
-https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 8
-https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 9
-https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 10
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 11
-https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 12
-https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 13
-https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF:-1,Кинозалы 14
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 15
-https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 16
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 17
-https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 18
-https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 19
-https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 20
-https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 21
-https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF:-1,Кинозалы 22
-https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF:-1,Кинозалы 23
-https://fl1001.bozztv.com/ushba-films-w/index.m3u8
-#EXTINF:-1,Кинозалы 24
-https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 25
-https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 26
-https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1,Кинозалы 27
-https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 28
-https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 29
-https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 30
-https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 31
-https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 33
-https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 34
-https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 35
-https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинозалы 36
-https://fl1001.bozztv.com/ushba64/index.m3u8
-#EXTINF:-1,Кинозалы 37
-https://fl1001.bozztv.com/ushba65/index.m3u8
-#EXTINF:-1,Pro100
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1,cinema
-http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1,Globus TV
-https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1,LentaKino
-https://fl1001.bozztv.com/ushba-films-w/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KinoMag
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KinoFilm
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Kino24Ru
-http://85.192.10.173:80/Kino24Ru/mpegts
-#EXTINF:-1http://198.16.88.51:30104
-#EXTINF:-1,Own channel-2
-http://198.16.88.51:30107
-#EXTINF:-1,Own channel-3 HD
-http://198.16.88.51:30108
-#EXTINF:-1,Own channel-4 HD
-http://198.16.88.51:30109
-#EXTINF:-1,Own channel-5 HD
-http://198.16.88.51:30110
-#EXTINF:-1,Sony Comedias (MX)
-https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1,Sony Novelas (MX)
-https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bridge TV
+https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
+#EXTINF:-1,Bridge TV Classic
+https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
+#EXTINF:-1,Bridge TV Deluxe
+https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
+#EXTINF:-1,Bridge TV Hits
+https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
+#EXTINF:-1,Bridge TV Русский хит
+https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
+#EXTINF:-1,Bridge TV Шлягер
+https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
+#EXTINF:0,Caltex Music
+http://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:0,Q Music
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:0,Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:0,Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:0,Óčko Star
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1,Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,ТНТ Music
+http://195.26.83.96:7029/play/9
+#EXTINF:-1,Первый музыкальный
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:0,Музыка-2 International
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1,Canal Ocho TV
+https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
+#EXTINF:-1,VIVO TV
+https://stream.vivotv.uy/hls/stream.m3u8
+#EXTINF:-1,7X
+http://stream.e2is.in/hls/7xMusic.m3u8
+#EXTINF:-1,AFN
+http://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:0,Djing TV
+https://www.djing.com/tv/28638-04.m3u8
+#EXTINF:-1,Now 70's HD
+http://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bblack! Africa
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+#EXTINF:-1,Bblack! Caribbean
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+#EXTINF:-1,Bblack! Classik
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+#EXTINF:-1,Afrobeats HD
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Magic TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:0,Play TV
+http://62.210.101.110:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:0,Bridge TV Deluxe  HD 
+http://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1,Company TV
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
+#EXTINF:-1,Song TV Armenia  HD 
+https://songtv.hls.iptvdc.com/web-armenia/tracks-v1a1/index.m3u8
+#EXTINF:-1,VIVA TV
+http://195.9.195.3:8080/hls/180805.m3u8
+#EXTINF:-1,MN TV
+http://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1,MN Music
+http://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1,Kiss Kiss HD
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+#EXTINF:-1,Kiss Kiss Italia HD
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1,Kiss Kiss Napoli HD
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1,Baraza TV Hits
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Music Reload TV HD
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+#EXTINF:0,Radio-51
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:0,Hot Rock
+http://bozztv.com/gusa/gusa-hotrock/index.m3u8
+#EXTINF:0,Now 70's  HD
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,Now 80's  HD
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,Now 90's  HD
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,Dancehits 80s
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:0,DJ HD
+http://fs2.persik.by/DJ4/index.m3u8
+#EXTINF:0,AFN Music
+http://162.212.179.32:80/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:0,RU TV
+http://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1,TriMedio
+http://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:0,ARTI-TV ( Music )
+http://stream.logic-ks.net:6969/live/artitv/hd/24.m3u8
+#EXTINF:0,4FUN.TV
+https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
+#EXTINF:0,Power TV
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:0,Power Türk TV
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:0,Power Türk İyiler
+http://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
+#EXTINF:0,Power Türk Taptaze
+http://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:0,Power Türk Slow
+http://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:0,Power Türk Akustik
+http://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1,STAR PLUS MUSIC
+https://live.muzickatv.mk/live/StarMusic2.m3u8
+#EXTINF:-1,Zerouno Music TV
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:-1,Baraza Music TV
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Djing Hedonist HD
+https://www.djing.com/tv/s-28634-05-hedonist.m3u8
+#EXTINF:0,Djing Hits
+https://www.djing.com/tv/i-28634-04.m3u8
+#EXTINF:0,Djing TV
+https://www.djing.com/tv/28638-04.m3u8
+#EXTINF:-1,R-Music
+https://otv.wotom.net/rmusic/stream.m3u8
+#EXTINF:-1,Muzzik Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1,Muzzik OKK
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1,Muzzik Vision HD
+http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1,Muzzik Jeka
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1,Muzzik Worldwide
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1,Muzzik TV
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1,Muzzik Sense
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1,Muzzik Flashback
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1,Muzzik Electro
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:-1,Muzzik HipHop
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1,Muzzik Mediteraneo
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1,Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:0,Шансон
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:0,Folk Klub
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:0,INTV Australia
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+#EXTINF:-1,Songtv Россия
+http://songtv.hls.iptvdc.com/web-russia/tracks-v1a1/index.m3u8
+#EXTINF:-1,7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+#EXTINF:-1,Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,VİVO TV
+https://stream.vivotv.uy/hls/stream.m3u8
+#EXTINF:-1,Kiss Kiss TV HD
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+#EXTINF:-1,mCm
+http://tv.streams.baikal-telecom.net/MCM/index.m3u8
+#EXTINF:-1,KAVKAZ MUSIC HD
+http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1,1HD
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1,ZZ TV
+http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1,Now Rock
+http://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80's
+http://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,Clubbing TV
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,AMOL
+https://t1.tvmak.com/tv/AMOL.m3u8
+#EXTINF:-1,NRG-91 MUSIC
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
+#EXTINF:-1,RUTV
+http://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1,MUZZIK R&R
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1,MUZZIK RESTART
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1,MUZZIK ZZTV
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1,MUZZIK JEKA
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1,MUZZIK WWM
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1,MUZZIK TIK TAK
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1,MUZZIK
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1,musicboxru
+http://45.143.108.110:4200/musicboxru
+#EXTINF:0,DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:0,DELUXE MUSIC ROCK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+#EXTINF:0,DELUXE MUSIC FLASHBACK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:0,DELUXE MUSIC DANCE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:0,DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:0,Muzzik Rock&Roll
+http://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:0,Muzzik Restart
+http://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:0,Muzzik Popstar
+http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:0,Muzzik Jeka
+http://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:0,Muzzik Worldwide
+http://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:0,Muzzik TV
+http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:0,Muzzik Sense
+http://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:0,Muzzik Flashback
+http://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:0,Muzzik Electro
+http://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:0,Muzzik Sonydozz
+http://muzzik-live.morescreens.com/mts-11/playlist.m3u8
+#EXTINF:0,Muzzik X-muzzik
+http://muzzik-live.morescreens.com/mts-13/playlist.m3u8
+#EXTINF:0,Muzzik Riviera
+http://muzzik-live.morescreens.com/mts-14/playlist.m3u8
+#EXTINF:0,Muzzik Muzzik-Mix
+http://muzzik-live.morescreens.com/mts-15/playlist.m3u8
+#EXTINF:0,Muzzik ZZ TV
+http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:0,Muzzik Tik-Tak
+http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:0,Muzzik Muzzik-Mix
+http://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
+#EXTINF:-1,70s 80s
+https://jmp2.uk/sam-ESBD230000289.m3u8
+#EXTINF:-1,70s
+https://jmp2.uk/sam-USBD300011KQ.m3u8
+#EXTINF:-1,80s
+https://jmp2.uk/sam-USBD300012YC.m3u8
+#EXTINF:-1,90s
+https://jmp2.uk/sam-USBD3000133M.m3u8
+#EXTINF:-1,90s 00s
+https://jmp2.uk/sam-GBBC2100002HP.m3u8
+#EXTINF:-1,2010s
+https://jmp2.uk/sam-USBD120002431.m3u8
+#EXTINF:-1,2K
+https://jmp2.uk/sam-USBB4400015F5.m3u8
+#EXTINF:-1,Country
+https://jmp2.uk/sam-USBC3600001RQ.m3u8
+#EXTINF:-1,Features
+https://jmp2.uk/sam-USBD1200008GL.m3u8
+#EXTINF:-1,Hip-Hop
+https://jmp2.uk/sam-USBC3600002EK.m3u8
+#EXTINF:-1,Latino
+https://jmp2.uk/sam-ESBC2100002LV.m3u8
+#EXTINF:-1,Latino 2
+https://jmp2.uk/sam-USBC3600015GF.m3u8
+#EXTINF:-1,Pop
+https://jmp2.uk/sam-ESBC2100001IU.m3u8
+#EXTINF:-1,Pop  2
+https://jmp2.uk/sam-USBC3600008WY.m3u8
+#EXTINF:-1,R&B
+https://jmp2.uk/sam-USBC3900009K5.m3u8
+#EXTINF:-1,Retro Rock
+https://jmp2.uk/sam-USBD3000145P.m3u8
+#EXTINF:0,Now Rock  HD 
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:0,Now 80`s  HD   
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,BRIDGE Deluxe
+http://31.148.48.15/Bridge_TV_HD/index.m3u8
+#EXTINF:-1,BRIDGE Hits
+http://31.148.48.15/Bridge_TV_Dance/index.m3u8
+#EXTINF:-1,BRIDGE Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1,MTV 00s
+http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/132726
+#EXTINF:-1,MTV 80s
+http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/360620
+#EXTINF:-1,MTV 90s
+http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/230486
+#EXTINF:-1,MTV Hits HD
+http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/227566
+#EXTINF:-1,Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,Baraza Relax Music
+rtmp://rtmp.streams.ovh/barazarelax/barazarelax
+#EXTINF:-1 ,4Turk Pop HD
+https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
+#EXTINF:0,Ретро-Волна кассета 01
+http://srvru.play-x.ru/channel/687d86f4/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+#EXTINF:0,Ретро-Волна кассета 02
+http://srvru.play-x.ru/channel/687d86f5/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+#EXTINF:0,Ретро-Волна кассета 03
+http://srvru.play-x.ru/channel/687d86f6/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+#EXTINF:0,Ретро-Волна кассета 04
+http://srvru.play-x.ru/channel/687d86f7/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+#EXTINF:0,Ретро-Волна кассета 05
+http://srvru.play-x.ru/channel/687d86f8/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+#EXTINF:-1,Музыка 1
+https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Музыка 2
+https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Музыка 3
+https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Музыка 4
+https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Музыка 5
+https://fl1001.bozztv.com/ushba63/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Музыка 6
+https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Музыка 7
+https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RUTV HD
+http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1,Hind Hits
+http://thksmom.shop/bbso1vod24/7/index.m3u8
+#EXTINF:-1,Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+
+
