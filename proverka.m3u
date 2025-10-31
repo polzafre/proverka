@@ -1,833 +1,792 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".Red HD" tvg-logo="" group-title="КИНО",.Red HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",.Red HD
 http://tvip.btk.teleos.ru:8081/chid85/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="312 Кино" tvg-logo="" group-title="КИНО",312 Кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="312 ТВ" tvg-logo="" group-title="КИНО",312 ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",312 ТВ
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бровари Кіно TV" tvg-logo="" group-title="КИНО",Бровари Кіно TV
-https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Время" tvg-logo="" group-title="КИНО",Время
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Время
 http://37.209.231.99:4022/udp/238.1.1.34:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Время" tvg-logo="" group-title="КИНО",Время
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Время
 http://5.2.52.199:7781/udp/239.254.2.36:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Время" tvg-logo="" group-title="КИНО",Время
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Время
 http://95.215.125.138:5000/udp/225.1.2.124:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Время" tvg-logo="" group-title="КИНО",Время
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Время
 http://178.163.0.63:4022/udp/234.0.0.225:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Всё ТВ Трейлеры" tvg-logo="" group-title="КИНО",Всё ТВ Трейлеры
-http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Детское кино International" tvg-logo="" group-title="КИНО",Детское кино International
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино" tvg-logo="" group-title="КИНО",Дом кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дом кино
 http://176.222.242.167:39001/udp/239.254.2.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино" tvg-logo="" group-title="КИНО",Дом кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дом кино
 http://37.193.123.112:81/udp/239.1.4.8:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино" tvg-logo="" group-title="КИНО",Дом кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дом кино
 http://37.193.60.159:801/udp/239.1.4.8:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино" tvg-logo="" group-title="КИНО",Дом кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дом кино
 http://37.194.238.106:16030/udp/239.1.4.8:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино" tvg-logo="" group-title="КИНО",Дом кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дом кино
 http://37.194.238.106:41800/udp/239.1.4.8:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино" tvg-logo="" group-title="КИНО",Дом кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дом кино
 http://46.160.128.240:4022/udp/239.254.2.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино" tvg-logo="" group-title="КИНО",Дом кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дом кино
 http://5.129.144.130:801/udp/239.1.4.8:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино" tvg-logo="" group-title="КИНО",Дом кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дом кино
 http://5.2.52.199:7781/udp/239.254.2.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом кино" tvg-logo="" group-title="КИНО",Дом кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дом кино
 http://178.163.0.63:4022/udp/234.0.0.219:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дорама" tvg-logo="" group-title="КИНО",Дорама
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дорама
 https://vod.splay.uz/live_splay/original/Dorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дорама HD" tvg-logo="" group-title="КИНО",Дорама HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дорама HD
 http://95.85.109.219:7000/play/a05v
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ДОРАМА HD" tvg-logo="" group-title="КИНО",ДОРАМА HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",ДОРАМА HD
 http://31.130.21.204:4022/udp/239.1.10.38:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дорама HD" tvg-logo="" group-title="КИНО",Дорама HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дорама HD
 http://37.193.123.112:81/udp/239.1.1.50:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дорама HD" tvg-logo="" group-title="КИНО",Дорама HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дорама HD
 http://37.193.60.159:801/udp/239.1.1.50:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дорама HD" tvg-logo="" group-title="КИНО",Дорама HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дорама HD
 http://37.194.238.106:16030/udp/239.1.1.50:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дорама HD" tvg-logo="" group-title="КИНО",Дорама HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дорама HD
 http://37.194.238.106:41800/udp/239.1.1.50:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дорама HD" tvg-logo="" group-title="КИНО",Дорама HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Дорама HD
 http://5.129.144.130:801/udp/239.1.1.50:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Еврокино" tvg-logo="" group-title="КИНО",Еврокино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Еврокино
 http://5.2.52.199:7781/udp/239.254.2.113:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Еврокино HD" tvg-logo="" group-title="КИНО",Еврокино HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Еврокино HD
 http://46.8.46.14/eurokino/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Золотая коллекция" tvg-logo="" group-title="КИНО",Золотая коллекция
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Золотая коллекция
 http://178.212.71.253:8000/play/124/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Иллюзион +" tvg-logo="" group-title="КИНО",Иллюзион +
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Иллюзион +
 http://217.21.34.160:38003/illuzionplus/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Иллюзион плюс" tvg-logo="" group-title="КИНО",Иллюзион плюс
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Иллюзион плюс
 http://5.2.52.199:7781/udp/239.254.2.91:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Иллюзион+" tvg-logo="" group-title="КИНО",Иллюзион+
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Иллюзион+
 http://tv.ttk.mx:9028
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Иллюзион+" tvg-logo="" group-title="КИНО",Иллюзион+
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Иллюзион+
 http://178.163.0.63:4022/udp/234.0.0.175:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Индийское Кино" tvg-logo="" group-title="КИНО",Индийское Кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Индийское Кино
 http://188.113.190.12/329/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Индийское Кино" tvg-logo="" group-title="КИНО",Индийское Кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Индийское Кино
 https://vod.splay.uz/live_splay/original/Indiyskoe_Kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Индийское ТВ" tvg-logo="" group-title="КИНО",Индийское ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Индийское ТВ
 http://37.193.123.112:81/udp/239.1.3.15:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Индийское ТВ" tvg-logo="" group-title="КИНО",Индийское ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Индийское ТВ
 http://37.193.60.159:801/udp/239.1.3.15:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Индийское ТВ" tvg-logo="" group-title="КИНО",Индийское ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Индийское ТВ
 http://37.194.238.106:16030/udp/239.1.3.15:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Индийское ТВ" tvg-logo="" group-title="КИНО",Индийское ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Индийское ТВ
 http://37.194.238.106:41800/udp/239.1.3.15:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Индийское ТВ" tvg-logo="" group-title="КИНО",Индийское ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Индийское ТВ
 http://5.129.144.130:801/udp/239.1.3.15:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Камеди" tvg-logo="" group-title="КИНО",Камеди
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Камеди
 http://185.184.232.217:5000/udp/225.1.2.70:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Капитан Фантастика" tvg-logo="" group-title="КИНО",Капитан Фантастика
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Капитан Фантастика
 http://5.2.52.199:7781/udp/239.254.2.74:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинеко" tvg-logo="" group-title="КИНО",Кинеко
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинеко
 http://194.143.148.28:8080/KINEKO/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинеко" tvg-logo="" group-title="КИНО",Кинеко
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинеко
 http://31.148.48.15/Kineko/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинеко HD" tvg-logo="" group-title="КИНО",Кинеко HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинеко HD
 http://93.170.95.240:4022/udp/239.195.65.45:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино" tvg-logo="" group-title="КИНО",Кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кино
 http://5.2.52.199:7781/udp/239.254.2.230:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино 1 International" tvg-logo="" group-title="КИНО",Кино 1 International
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино 1 International" tvg-logo="" group-title="КИНО",Кино 1 International
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кино 1 International
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино 1 International" tvg-logo="" group-title="КИНО",Кино 1 International
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино ТВ HD" tvg-logo="" group-title="КИНО",Кино ТВ HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кино ТВ HD
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино6" tvg-logo="" group-title="КИНО",Кино6
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кино6
 http://185.57.68.33:80/255/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 1" tvg-logo="" group-title="КИНО",Кинозалы 1
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинозалы 1
 https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 2" tvg-logo="" group-title="КИНО",Кинозалы 2
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинозалы 2
 https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 27" tvg-logo="" group-title="КИНО",Кинозалы 27
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинозалы 27
 https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 33" tvg-logo="" group-title="КИНО",Кинозалы 33
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинозалы 33
 https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинокомедия" tvg-logo="" group-title="КИНО",Кинокомедия
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинокомедия
 https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинокомедия" tvg-logo="" group-title="КИНО",Кинокомедия
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинокомедия
 http://178.163.106.186:4022/udp/234.0.0.118:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинокомедия" tvg-logo="" group-title="КИНО",Кинокомедия
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинокомедия
 http://178.163.0.63:4022/udp/234.0.0.118:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киномикс" tvg-logo="" group-title="КИНО",Киномикс
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Киномикс
 http://5.2.52.199:7781/udp/239.254.2.199:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киномикс" tvg-logo="" group-title="КИНО",Киномикс
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Киномикс
 http://93.170.95.240:4022/udp/239.195.65.27:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="КИНОМИКС" tvg-logo="" group-title="КИНО",КИНОМИКС
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",КИНОМИКС
 http://95.215.125.138:5000/udp/225.1.2.85:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киномикс" tvg-logo="" group-title="КИНО",Киномикс
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Киномикс
 http://178.163.12.210:4022/udp/234.0.0.222:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киномикс HD" tvg-logo="" group-title="КИНО",Киномикс HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Киномикс HD
 https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинопанорама" tvg-logo="" group-title="КИНО",Кинопанорама
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинопанорама
 https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинопоказ" tvg-logo="" group-title="КИНО",Кинопоказ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинопоказ
 http://91.198.104.6:8001/udp/237.0.10.11:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинопоказ" tvg-logo="" group-title="КИНО",Кинопоказ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинопоказ
 http://91.198.104.6:8001/udp/237.0.10.70:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинопоказ" tvg-logo="" group-title="КИНО",Кинопоказ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинопоказ
 http://178.163.0.63:4022/udp/234.0.0.209:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинопремьера" tvg-logo="" group-title="КИНО",Кинопремьера
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинопремьера
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинопремьера HD" tvg-logo="" group-title="КИНО",Кинопремьера HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинопремьера HD
 http://93.170.95.240:4022/udp/239.195.65.71:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносат HD / Pro100" tvg-logo="" group-title="КИНО",Киносат HD / Pro100
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Киносат HD / Pro100
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносвидание" tvg-logo="" group-title="КИНО",Киносвидание
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Киносвидание
 https://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносвидание" tvg-logo="" group-title="КИНО",Киносвидание
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Киносвидание
 http://93.170.95.240:4022/udp/239.195.65.68:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносвидание HD" tvg-logo="" group-title="КИНО",Киносвидание HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Киносвидание HD
 http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносемья" tvg-logo="" group-title="КИНО",Киносемья
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Киносемья
 https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносемья" tvg-logo="" group-title="КИНО",Киносемья
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Киносемья
 http://93.170.95.240:4022/udp/239.195.65.70:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносемья HD" tvg-logo="" group-title="КИНО",Киносемья HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Киносемья HD
 http://46.8.46.14/kinosemya/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносерия" tvg-logo="" group-title="КИНО",Киносерия
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Киносерия
 https://vod.splay.uz/live_splay/original/Kinoseriya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="КИНОУЖАС" tvg-logo="" group-title="КИНО",КИНОУЖАС
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",КИНОУЖАС
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киноужас HD" tvg-logo="" group-title="КИНО",Киноужас HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Киноужас HD
 http://95.85.109.219:7000/play/a00y
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинохит" tvg-logo="" group-title="КИНО",Кинохит
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинохит
 https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="КИНОХИТ" tvg-logo="" group-title="КИНО",КИНОХИТ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",КИНОХИТ
 http://46.8.46.14/kinohit/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинохит" tvg-logo="" group-title="КИНО",Кинохит
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Кинохит
 http://93.170.95.240:4022/udp/239.195.65.67:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Классика индийского кино" tvg-logo="" group-title="КИНО",Классика индийского кино
-https://autopilot.catcast.tv/content/41596/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Комедийное HD / Кинокомедия HD" tvg-logo="" group-title="КИНО",Комедийное HD / Кинокомедия HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Комедийное HD / Кинокомедия HD
 http://91.194.191.241:8081/chid406/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Комедия ТВ" tvg-logo="" group-title="КИНО",Комедия ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Комедия ТВ
 http://37.193.123.112:81/udp/239.1.4.3:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Комедия ТВ" tvg-logo="" group-title="КИНО",Комедия ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Комедия ТВ
 http://37.193.60.159:801/udp/239.1.4.3:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Комедия ТВ" tvg-logo="" group-title="КИНО",Комедия ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Комедия ТВ
 http://37.194.238.106:16030/udp/239.1.4.3:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Комедия ТВ" tvg-logo="" group-title="КИНО",Комедия ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Комедия ТВ
 http://37.194.238.106:41800/udp/239.1.4.3:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Комедия ТВ" tvg-logo="" group-title="КИНО",Комедия ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Комедия ТВ
 http://5.129.144.130:801/udp/239.1.4.3:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Крик" tvg-logo="" group-title="КИНО",Крик
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Крик
 http://5.2.52.199:7781/udp/239.254.2.208:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мир сериала" tvg-logo="" group-title="КИНО",Мир сериала
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Мир сериала
 http://5.2.52.199:7781/udp/239.254.2.224:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мосфильм" tvg-logo="" group-title="КИНО",Мосфильм
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Мосфильм
 http://178.163.0.63:4022/udp/234.0.0.95:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мосфильм" tvg-logo="" group-title="КИНО",Мосфильм
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Мосфильм
 http://178.163.12.210:4022/udp/234.0.0.95:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мосфильм HD" tvg-logo="" group-title="КИНО",Мосфильм HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Мосфильм HD
 http://178.49.166.164:9999/udp/239.1.1.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мосфильм HD" tvg-logo="" group-title="КИНО",Мосфильм HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Мосфильм HD
 http://37.193.123.112:81/udp/239.1.1.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мосфильм HD" tvg-logo="" group-title="КИНО",Мосфильм HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Мосфильм HD
 http://37.193.60.159:801/udp/239.1.1.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мосфильм HD" tvg-logo="" group-title="КИНО",Мосфильм HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Мосфильм HD
 http://37.194.238.106:16030/udp/239.1.1.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мосфильм HD" tvg-logo="" group-title="КИНО",Мосфильм HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Мосфильм HD
 http://37.194.238.106:41800/udp/239.1.1.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мосфильм HD" tvg-logo="" group-title="КИНО",Мосфильм HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Мосфильм HD
 http://5.128.3.247:81/udp/239.1.1.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мосфильм HD" tvg-logo="" group-title="КИНО",Мосфильм HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Мосфильм HD
 http://5.129.144.130:801/udp/239.1.1.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="" group-title="КИНО",Мосфильм. Золотая коллекция
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Мосфильм. Золотая коллекция
 http://188.190.222.53/Mosfilm/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мужское кино" tvg-logo="" group-title="КИНО",Мужское кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Мужское кино
 https://vod.splay.uz/live_splay/original/Mujskoe-KinoHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мужское кино" tvg-logo="" group-title="КИНО",Мужское кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Мужское кино
 http://93.170.95.240:4022/udp/239.195.65.69:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мужское Кино HD" tvg-logo="" group-title="КИНО",Мужское Кино HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Мужское Кино HD
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Музыка 1 International" tvg-logo="" group-title="КИНО",Музыка 1 International
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Музыка 1 International
 https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Музыка 2 International" tvg-logo="" group-title="КИНО",Музыка 2 International
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Музыка 2 International
 https://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Музыка Кино International" tvg-logo="" group-title="КИНО",Музыка Кино International
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МУЛЬТИКИ И СКАЗКИ" tvg-logo="" group-title="КИНО",МУЛЬТИКИ И СКАЗКИ
-https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наш кинопоказ HD / Мир Сериала" tvg-logo="" group-title="КИНО",Наш кинопоказ HD / Мир Сериала
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Наш кинопоказ HD / Мир Сериала
 http://31.148.48.15/Mir_Seriala/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наше новое кино" tvg-logo="" group-title="КИНО",Наше новое кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Наше новое кино
 https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НСТ" tvg-logo="" group-title="КИНО",НСТ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",НСТ
 http://31.130.21.204:4022/udp/239.1.11.37:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НСТ" tvg-logo="" group-title="КИНО",НСТ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",НСТ
 http://5.2.52.199:7781/udp/239.254.2.67:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ Сериал" tvg-logo="" group-title="КИНО",НТВ Сериал
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ СЕРИАЛ" tvg-logo="" group-title="КИНО",НТВ СЕРИАЛ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",НТВ СЕРИАЛ
 http://31.130.21.204:4022/udp/239.1.8.34:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ Хит" tvg-logo="" group-title="КИНО",НТВ Хит
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ Хит" tvg-logo="" group-title="КИНО",НТВ Хит
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",НТВ Хит
 http://91.198.104.6:8001/udp/237.0.12.8:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ-ХИТ" tvg-logo="" group-title="КИНО",НТВ-ХИТ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",НТВ-ХИТ
 http://31.130.21.204:4022/udp/239.1.8.35:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Остросюжетное / Cinema / Космос ТВ / Cinema HD" tvg-logo="" group-title="КИНО",Остросюжетное / Cinema / Космос ТВ / Cinema HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Остросюжетное / Cinema / Космос ТВ / Cinema HD
 http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Победа" tvg-logo="" group-title="КИНО",Победа
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Победа
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Победа" tvg-logo="" group-title="КИНО",Победа
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Победа
 http://95.85.109.219:7000/play/a08m
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Премьера HD" tvg-logo="" group-title="КИНО",Премьера HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Премьера HD
 http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Про100 ТВ" tvg-logo="" group-title="КИНО",Про100 ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Про100 ТВ
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ретро" tvg-logo="" group-title="КИНО",Ретро
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Ретро
 http://178.212.71.253:8000/play/90/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ретро" tvg-logo="" group-title="КИНО",Ретро
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Ретро
 https://vod.splay.uz/live_splay/original/Retro/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЕТРО" tvg-logo="" group-title="КИНО",РЕТРО
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",РЕТРО
 http://31.130.21.204:4022/udp/239.1.8.31:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ретро" tvg-logo="" group-title="КИНО",Ретро
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Ретро
 http://5.2.52.199:7781/udp/239.254.2.87:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ретро ТВ" tvg-logo="" group-title="КИНО",Ретро ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Ретро ТВ
 http://vod.splay.uz/live_splay/original/Retro/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Родное кино" tvg-logo="" group-title="КИНО",Родное кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Родное кино
 http://46.8.46.14/retro/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Родное Кино" tvg-logo="" group-title="КИНО",Родное Кино
-https://vod.splay.uz/live_splay/original/Rodnoe_Kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русская комедия / Black HD" tvg-logo="" group-title="КИНО",Русская комедия / Black HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русская комедия / Black HD
 http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский бестселлер" tvg-logo="" group-title="КИНО",Русский бестселлер
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский бестселлер
 https://vod.splay.uz/live_splay/original/RusskiyBesteler/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РУССКИЙ БЕСТСЕЛЛЕР" tvg-logo="" group-title="КИНО",РУССКИЙ БЕСТСЕЛЛЕР
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",РУССКИЙ БЕСТСЕЛЛЕР
 http://31.130.21.204:4022/udp/239.1.11.16:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский Бестселлер" tvg-logo="" group-title="КИНО",Русский Бестселлер
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский Бестселлер
 http://93.170.95.240:4022/udp/239.195.65.22:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский бестселлер / Русский детектив" tvg-logo="" group-title="КИНО",Русский бестселлер / Русский детектив
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский бестселлер / Русский детектив
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский бестцеллер" tvg-logo="" group-title="КИНО",Русский бестцеллер
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский бестцеллер
 http://5.2.52.199:7781/udp/239.254.2.229:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский детектив" tvg-logo="" group-title="КИНО",Русский детектив
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский детектив
 https://vod.splay.uz/live_splay/original/RusskiyDetektiv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский детектив" tvg-logo="" group-title="КИНО",Русский детектив
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский детектив
 http://37.193.123.112:81/udp/239.1.4.16:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский детектив" tvg-logo="" group-title="КИНО",Русский детектив
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский детектив
 http://37.193.60.159:801/udp/239.1.4.16:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский детектив" tvg-logo="" group-title="КИНО",Русский детектив
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский детектив
 http://37.194.238.106:16030/udp/239.1.4.16:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский детектив" tvg-logo="" group-title="КИНО",Русский детектив
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский детектив
 http://37.194.238.106:41800/udp/239.1.4.16:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский детектив" tvg-logo="" group-title="КИНО",Русский детектив
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский детектив
 http://5.129.144.130:801/udp/239.1.4.16:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский детектив" tvg-logo="" group-title="КИНО",Русский детектив
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский детектив
 http://5.2.52.199:7781/udp/239.254.2.112:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский Детектив" tvg-logo="" group-title="КИНО",Русский Детектив
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский Детектив
 http://93.170.95.240:4022/udp/239.195.65.24:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский Иллюзион" tvg-logo="" group-title="КИНО",Русский Иллюзион
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский Иллюзион
 http://91.194.191.241:8081/chid81/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский Иллюзион" tvg-logo="" group-title="КИНО",Русский Иллюзион
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский Иллюзион
 http://tv.ttk.mx:9027
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РУССКИЙ ИЛЛЮЗИОН" tvg-logo="" group-title="КИНО",РУССКИЙ ИЛЛЮЗИОН
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",РУССКИЙ ИЛЛЮЗИОН
 http://31.130.21.204:4022/udp/239.1.9.19:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский иллюзион" tvg-logo="" group-title="КИНО",Русский иллюзион
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский иллюзион
 http://5.2.52.199:7781/udp/239.254.2.85:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский Иллюзион" tvg-logo="" group-title="КИНО",Русский Иллюзион
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский Иллюзион
 http://178.163.0.63:4022/udp/234.0.0.178:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский роман" tvg-logo="" group-title="КИНО",Русский роман
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский роман
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РУССКИЙ РОМАН" tvg-logo="" group-title="КИНО",РУССКИЙ РОМАН
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",РУССКИЙ РОМАН
 http://31.130.21.204:4022/udp/239.1.11.14:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский роман" tvg-logo="" group-title="КИНО",Русский роман
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский роман
 http://37.193.123.112:81/udp/239.1.3.17:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский роман" tvg-logo="" group-title="КИНО",Русский роман
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский роман
 http://37.193.60.159:801/udp/239.1.3.17:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский роман" tvg-logo="" group-title="КИНО",Русский роман
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский роман
 http://37.194.238.106:16030/udp/239.1.3.17:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский роман" tvg-logo="" group-title="КИНО",Русский роман
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский роман
 http://37.194.238.106:41800/udp/239.1.3.17:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский роман" tvg-logo="" group-title="КИНО",Русский роман
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский роман
 http://5.129.144.130:801/udp/239.1.3.17:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский роман" tvg-logo="" group-title="КИНО",Русский роман
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский роман
 http://5.2.52.199:7781/udp/239.254.2.197:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский роман" tvg-logo="" group-title="КИНО",Русский роман
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский роман
 http://91.198.104.6:8001/udp/237.0.13.37:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский Роман" tvg-logo="" group-title="КИНО",Русский Роман
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский Роман
 http://93.170.95.240:4022/udp/239.195.65.23:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский роман" tvg-logo="" group-title="КИНО",Русский роман
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Русский роман
 http://178.163.2.151:4022/udp/234.0.0.224:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Смотрим Кино и сериалы" tvg-logo="" group-title="КИНО",Смотрим Кино и сериалы
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Советская киноклассика" tvg-logo="" group-title="КИНО",Советская киноклассика
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Советская киноклассика
 http://5.2.52.199:7781/udp/239.254.2.96:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Среда ТВ" tvg-logo="" group-title="КИНО",Среда ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Среда ТВ
 http://iptv46.mcx-ix.ru:8077/sreda/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Т24" tvg-logo="" group-title="КИНО",Т24
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Т24
 http://tv.ttk.mx:9056
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВ 1000HD" tvg-logo="" group-title="КИНО",ТВ 1000HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",ТВ 1000HD
 http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Твоё ТВ" tvg-logo="" group-title="КИНО",Твоё ТВ
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Твоё ТВ
 http://tvoetv.space:8080/tvoetv/mpegts?token=MkP9_m4vd1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Твоё ТВ  HD" tvg-logo="" group-title="КИНО",Твоё ТВ  HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Твоё ТВ  HD
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mpegts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Твоё ТВ HD" tvg-logo="" group-title="КИНО",Твоё ТВ HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Твоё ТВ HD
 http://84.38.180.145:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Твоё ТВ HD Юмор" tvg-logo="" group-title="КИНО",Твоё ТВ HD Юмор
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ / SCRIPACH TV" tvg-logo="" group-title="КИНО",УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ / SCRIPACH TV
-https://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Феникс" tvg-logo="" group-title="КИНО",Феникс
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Феникс
 http://5.2.52.199:7781/udp/239.254.2.46:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Феникс+Кино" tvg-logo="" group-title="КИНО",Феникс+Кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Феникс+Кино
 http://91.194.191.241:8081/chid70/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Феникс+Кино" tvg-logo="" group-title="КИНО",Феникс+Кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Феникс+Кино
 http://91.194.191.241:8081/chid70/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Хорошее Кино" tvg-logo="" group-title="КИНО",Хорошее Кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Хорошее Кино
 http://93.170.95.240:4022/udp/239.195.65.26:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A1" tvg-logo="" group-title="КИНО",A1
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",A1
 http://91.198.104.6:8001/udp/237.0.13.14:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A1" tvg-logo="" group-title="КИНО",A1
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",A1
 http://91.198.104.6:8001/udp/237.0.13.80:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A2" tvg-logo="" group-title="КИНО",A2
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",A2
 http://46.8.46.14/A2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A2" tvg-logo="" group-title="КИНО",A2
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",A2
 http://91.198.104.6:8001/udp/237.0.13.12:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A2" tvg-logo="" group-title="КИНО",A2
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",A2
 http://91.198.104.6:8001/udp/237.0.13.82:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alpha Cinema" tvg-logo="" group-title="КИНО",Alpha Cinema
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alpha Funny" tvg-logo="" group-title="КИНО",Alpha Funny
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alpha Moretime" tvg-logo="" group-title="КИНО",Alpha Moretime
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia 1" tvg-logo="" group-title="КИНО",Amedia 1
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Amedia 1
 http://iptv46.mcx-ix.ru:8077/amedia/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMEDIA 1" tvg-logo="" group-title="КИНО",AMEDIA 1
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",AMEDIA 1
 http://37.193.123.112:81/udp/239.1.4.4:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMEDIA 1" tvg-logo="" group-title="КИНО",AMEDIA 1
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",AMEDIA 1
 http://37.193.60.159:801/udp/239.1.4.4:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia 1" tvg-logo="" group-title="КИНО",Amedia 1
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Amedia 1
 http://37.194.238.106:16030/udp/239.1.4.4:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia 1" tvg-logo="" group-title="КИНО",Amedia 1
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Amedia 1
 http://37.194.238.106:41800/udp/239.1.4.4:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMEDIA 1" tvg-logo="" group-title="КИНО",AMEDIA 1
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",AMEDIA 1
 http://5.129.144.130:801/udp/239.1.4.4:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia 1 HD" tvg-logo="" group-title="КИНО",Amedia 1 HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Amedia 1 HD
 http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia 2" tvg-logo="" group-title="КИНО",Amedia 2
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Amedia 2
 http://158.160.149.81:8080/462/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia 2" tvg-logo="" group-title="КИНО",Amedia 2
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Amedia 2
 http://sc.id-tv.kz/A2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia 2" tvg-logo="" group-title="КИНО",Amedia 2
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Amedia 2
 http://93.170.95.240:4022/udp/239.195.65.4:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia 2 HD" tvg-logo="" group-title="КИНО",Amedia 2 HD
-http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMEDIA HIT" tvg-logo="" group-title="КИНО",AMEDIA HIT
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",AMEDIA HIT
 http://91.198.104.6:8001/udp/237.0.13.13:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMEDIA HIT" tvg-logo="" group-title="КИНО",AMEDIA HIT
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",AMEDIA HIT
 http://91.198.104.6:8001/udp/237.0.13.83:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia Hit HD" tvg-logo="" group-title="КИНО",Amedia Hit HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Amedia Hit HD
 http://37.209.231.99:4022/udp/238.1.1.246:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMEDIA HIT HD" tvg-logo="" group-title="КИНО",AMEDIA HIT HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",AMEDIA HIT HD
 http://93.170.95.240:4022/udp/239.195.67.33:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia Premium" tvg-logo="" group-title="КИНО",Amedia Premium
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Amedia Premium
 http://iptv46.mcx-ix.ru:8077/amedia_premium_hd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia-1" tvg-logo="" group-title="КИНО",Amedia-1
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Amedia-1
 http://31.148.48.15:80/A1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bolt HD" tvg-logo="" group-title="КИНО",Bolt HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Bolt HD
 http://84.245.224.71/BoltHD/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bolt HD" tvg-logo="" group-title="КИНО",Bolt HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Bolt HD
 http://37.193.123.112:81/udp/239.1.1.37:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bolt HD" tvg-logo="" group-title="КИНО",Bolt HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Bolt HD
 http://37.193.60.159:801/udp/239.1.1.37:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bolt HD" tvg-logo="" group-title="КИНО",Bolt HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Bolt HD
 http://37.194.238.106:16030/udp/239.1.1.37:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bolt HD" tvg-logo="" group-title="КИНО",Bolt HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Bolt HD
 http://37.194.238.106:41800/udp/239.1.1.37:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bolt HD" tvg-logo="" group-title="КИНО",Bolt HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Bolt HD
 http://5.129.144.130:801/udp/239.1.1.37:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine-Monde" tvg-logo="" group-title="КИНО",Cine-Monde
-http://177.54.153.252:80/cinemonde/cinemonde/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema" tvg-logo="" group-title="КИНО",Cinema
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema
 http://91.198.104.6:8001/udp/237.0.13.17:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema" tvg-logo="" group-title="КИНО",Cinema
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema
 http://91.198.104.6:8001/udp/237.0.13.72:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 1" tvg-logo="" group-title="КИНО",Cinema 1
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 1
 https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 10" tvg-logo="" group-title="КИНО",Cinema 10
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 10
 https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 11" tvg-logo="" group-title="КИНО",Cinema 11
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 11
 https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 12" tvg-logo="" group-title="КИНО",Cinema 12
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 12
 https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 13" tvg-logo="" group-title="КИНО",Cinema 13
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 13
 https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 14" tvg-logo="" group-title="КИНО",Cinema 14
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 14
 https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 15" tvg-logo="" group-title="КИНО",Cinema 15
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 15
 https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 16" tvg-logo="" group-title="КИНО",Cinema 16
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 16
 https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 17" tvg-logo="" group-title="КИНО",Cinema 17
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 17
 https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 18" tvg-logo="" group-title="КИНО",Cinema 18
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 18
 https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 19" tvg-logo="" group-title="КИНО",Cinema 19
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 19
 https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 2" tvg-logo="" group-title="КИНО",Cinema 2
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 2
 https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 20" tvg-logo="" group-title="КИНО",Cinema 20
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 20
 https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 21" tvg-logo="" group-title="КИНО",Cinema 21
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 21
 https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 22" tvg-logo="" group-title="КИНО",Cinema 22
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 22
 https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 23" tvg-logo="" group-title="КИНО",Cinema 23
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 23
 https://fl1001.bozztv.com/ushba-films-w/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 24" tvg-logo="" group-title="КИНО",Cinema 24
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 24
 https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 25" tvg-logo="" group-title="КИНО",Cinema 25
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 25
 https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 26" tvg-logo="" group-title="КИНО",Cinema 26
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 26
 https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 28" tvg-logo="" group-title="КИНО",Cinema 28
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 28
 https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 29" tvg-logo="" group-title="КИНО",Cinema 29
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 29
 https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 3" tvg-logo="" group-title="КИНО",Cinema 3
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 3
 https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 30" tvg-logo="" group-title="КИНО",Cinema 30
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 30
 https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 31" tvg-logo="" group-title="КИНО",Cinema 31
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 31
 https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 34" tvg-logo="" group-title="КИНО",Cinema 34
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 34
 https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 35" tvg-logo="" group-title="КИНО",Cinema 35
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 35
 https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 36" tvg-logo="" group-title="КИНО",Cinema 36
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 36
 https://fl1001.bozztv.com/ushba64/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 37" tvg-logo="" group-title="КИНО",Cinema 37
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 37
 https://fl1001.bozztv.com/ushba65/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 4" tvg-logo="" group-title="КИНО",Cinema 4
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 4
 https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 5" tvg-logo="" group-title="КИНО",Cinema 5
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 5
 https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 6" tvg-logo="" group-title="КИНО",Cinema 6
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 6
 https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 7" tvg-logo="" group-title="КИНО",Cinema 7
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 7
 https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 8" tvg-logo="" group-title="КИНО",Cinema 8
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 8
 https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema 9" tvg-logo="" group-title="КИНО",Cinema 9
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema 9
 https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema HD" tvg-logo="" group-title="КИНО",Cinema HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Cinema HD
 https://vod.splay.uz/live_splay/original/CinemaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA UHD" tvg-logo="" group-title="КИНО",CINEMA UHD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",CINEMA UHD
 http://31.130.21.204:4022/udp/239.1.12.8:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="" group-title="КИНО",Comedy Central
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Comedy Central
 http://46.8.46.14/paramountcomedy/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTC Love" tvg-logo="" group-title="КИНО",CTC Love
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",CTC Love
 http://93.170.95.240:4022/udp/239.195.65.17:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOM HD" tvg-logo="" group-title="КИНО",DOM HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",DOM HD
 http://217.25.238.167:85/udp/235.1.10.49:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dom kino" tvg-logo="" group-title="КИНО",Dom kino
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Dom kino
 http://178.163.6.29:4022/udp/234.0.0.219:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duo 6 [EE]" tvg-logo="" group-title="КИНО",Duo 6 [EE]
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Duo 6 [EE]
 http://94.232.127.28:8080/sony-turbo/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="eurokino" tvg-logo="" group-title="КИНО",eurokino
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",eurokino
 http://158.101.222.193:88/georgia_play.php?id=eurokino
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Evrokino" tvg-logo="" group-title="КИНО",Evrokino
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Evrokino
 http://91.198.104.6:8001/udp/237.0.10.29:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Evrokino" tvg-logo="" group-title="КИНО",Evrokino
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Evrokino
 http://91.198.104.6:8001/udp/237.0.10.81:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Evrokino SD" tvg-logo="" group-title="КИНО",Evrokino SD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Evrokino SD
 http://31.130.21.204:4022/udp/239.1.8.38:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FAN" tvg-logo="" group-title="КИНО",FAN
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",FAN
 http://31.148.48.15/Fan/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="fenikspluskino" tvg-logo="" group-title="КИНО",fenikspluskino
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",fenikspluskino
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmBox" tvg-logo="" group-title="КИНО",FilmBox
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",FilmBox
 http://188.190.222.53/FilmBOX/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FilmBox ArtHouse HD / Kinoliving HD" tvg-logo="" group-title="КИНО",FilmBox ArtHouse HD / Kinoliving HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",FilmBox ArtHouse HD / Kinoliving HD
 http://91.194.191.241:8081/chid413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FlixSnip / Kino24" tvg-logo="" group-title="КИНО",FlixSnip / Kino24
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",FlixSnip / Kino24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FMC" tvg-logo="" group-title="КИНО",FMC
-https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="" group-title="КИНО",FOX
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",FOX
 http://46.8.46.14/FOX/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox" tvg-logo="" group-title="КИНО",Fox
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Fox
 http://5.2.52.199:7781/udp/239.254.2.222:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox" tvg-logo="" group-title="КИНО",Fox
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Fox
 http://5.2.52.199:7781/udp/239.254.2.53:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Life" tvg-logo="" group-title="КИНО",Fox Life
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Fox Life
 http://94.232.127.28:8080/foxlife/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Life" tvg-logo="" group-title="КИНО",Fox Life
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Fox Life
 http://188.237.47.212:6008
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox life" tvg-logo="" group-title="КИНО",Fox life
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Fox life
 http://5.2.52.199:7781/udp/239.254.2.58:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go3 Films" tvg-logo="" group-title="КИНО",Go3 Films
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Go3 Films
 http://94.232.127.28:8080/tv1000premium/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Great! Movies" tvg-logo="" group-title="КИНО",Great! Movies
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Great! Movies
 http://185.19.191.2:8094/GreatMovies/mpegts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Great! Movies Action" tvg-logo="" group-title="КИНО",Great! Movies Action
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Great! Movies Action
 http://185.19.191.2:8094/GreatAction/mpegts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Great! Movies Classic" tvg-logo="" group-title="КИНО",Great! Movies Classic
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Great! Movies Classic
 http://185.19.191.2:8094/GreatClassic/mpegts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hollywood" tvg-logo="" group-title="КИНО",Hollywood
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Hollywood
 http://178.163.0.63:4022/udp/234.0.0.117:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HollywooD HD" tvg-logo="" group-title="КИНО",HollywooD HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",HollywooD HD
 http://194.32.242.245/hollywoodhd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="illuzionplus" tvg-logo="" group-title="КИНО",illuzionplus
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",illuzionplus
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indiyskoe kino" tvg-logo="" group-title="КИНО",Indiyskoe kino
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Indiyskoe kino
 http://5.2.52.199:7781/udp/239.254.2.167:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KINO TV" tvg-logo="" group-title="КИНО",KINO TV
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",KINO TV
 http://91.198.104.6:8001/udp/237.0.12.24:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kino-24" tvg-logo="" group-title="КИНО",Kino-24
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Kino-24
 http://sirius.greenhosting.ru/Kino24Ru/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kino24Ru" tvg-logo="" group-title="КИНО",Kino24Ru
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Kino24Ru
 http://85.192.10.173:80/Kino24Ru/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kino24Ru" tvg-logo="" group-title="КИНО",Kino24Ru
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Kino24Ru
 http://85.192.10.173:80/Kino24Ru/mpegts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="kinokomediya" tvg-logo="" group-title="КИНО",kinokomediya
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",kinokomediya
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KinoLiving" tvg-logo="" group-title="КИНО",KinoLiving
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",KinoLiving
 http://95.85.109.219:7000/play/a05x
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KinoMix" tvg-logo="" group-title="КИНО",KinoMix
-https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LAV-KINO" tvg-logo="" group-title="КИНО",LAV-KINO
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LentaKino" tvg-logo="" group-title="КИНО",LentaKino
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",LentaKino
 https://fl1001.bozztv.com/ushba-films-w/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lyubimoe Kino" tvg-logo="" group-title="КИНО",Lyubimoe Kino
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Lyubimoe Kino
 http://5.2.52.199:7781/udp/239.254.2.148:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MegaCine TV" tvg-logo="" group-title="КИНО",MegaCine TV
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",MegaCine TV
 https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MGM" tvg-logo="" group-title="КИНО",MGM
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",MGM
 https://autopilot.catcast.tv/content/44051/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MGM" tvg-logo="" group-title="КИНО",MGM
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",MGM
 https://v2.catcast.tv/content/44051/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mosfilm" tvg-logo="" group-title="КИНО",Mosfilm
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Mosfilm
 http://178.163.16.255:81/udp/234.0.0.95:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mosfilm" tvg-logo="" group-title="КИНО",Mosfilm
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Mosfilm
 http://178.163.28.57:4022/udp/234.0.0.95:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mosfilm" tvg-logo="" group-title="КИНО",Mosfilm
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Mosfilm
 http://178.163.4.37:4022/udp/234.0.0.95:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mosfilm" tvg-logo="" group-title="КИНО",Mosfilm
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Mosfilm
 http://178.163.46.114:81/udp/234.0.0.95:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mosfilm" tvg-logo="" group-title="КИНО",Mosfilm
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Mosfilm
 http://178.163.5.6:4022/udp/234.0.0.95:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mosfilm" tvg-logo="" group-title="КИНО",Mosfilm
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Mosfilm
 http://91.198.104.6:8001/udp/237.0.12.4:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mosfilm HD" tvg-logo="" group-title="КИНО",Mosfilm HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Mosfilm HD
 http://91.198.104.6:8001/udp/237.0.12.10:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Own channel-2" tvg-logo="" group-title="КИНО",Own channel-2
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Own channel-2
 http://198.16.88.51:30107
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Own channel-3 HD" tvg-logo="" group-title="КИНО",Own channel-3 HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Own channel-3 HD
 http://198.16.88.51:30108
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Own channel-4 HD" tvg-logo="" group-title="КИНО",Own channel-4 HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Own channel-4 HD
 http://198.16.88.51:30109
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Own channel-5 HD" tvg-logo="" group-title="КИНО",Own channel-5 HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Own channel-5 HD
 http://198.16.88.51:30110
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Plan B" tvg-logo="" group-title="КИНО",Plan B
-http://192.162.64.99:5100/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Plan B" tvg-logo="" group-title="КИНО",Plan B
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Plan B
 http://195.64.140.147:10082/82
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Plan B" tvg-logo="" group-title="КИНО",Plan B
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Plan B
 http://91.198.104.6:8001/udp/237.0.12.11:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pobeda" tvg-logo="" group-title="КИНО",Pobeda
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Pobeda
 http://185.184.232.217:5000/udp/225.1.2.72:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premium" tvg-logo="" group-title="КИНО",Premium
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Premium
 http://5.2.52.199:7781/udp/239.254.2.170:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RED THRILLER HD" tvg-logo="" group-title="КИНО",RED THRILLER HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",RED THRILLER HD
 http://95.85.109.219:7000/play/a06h
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO" tvg-logo="" group-title="КИНО",RETRO
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",RETRO
 http://91.198.104.6:8001/udp/237.0.10.27:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO" tvg-logo="" group-title="КИНО",RETRO
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",RETRO
 http://91.198.104.6:8001/udp/237.0.10.80:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rus roman" tvg-logo="" group-title="КИНО",Rus roman
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Rus roman
 http://178.163.45.211:81/udp/234.0.0.224:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Russkij illuzion" tvg-logo="" group-title="КИНО",Russkij illuzion
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Russkij illuzion
 http://91.198.104.6:8001/udp/237.0.10.25:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rysskiy roman" tvg-logo="" group-title="КИНО",Rysskiy roman
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Rysskiy roman
 http://91.198.104.6:8001/udp/237.0.13.73:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAGA HD" tvg-logo="" group-title="КИНО",SAGA HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",SAGA HD
 http://95.85.109.219:7000/play/a05w
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saga TV" tvg-logo="" group-title="КИНО",Saga TV
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Saga TV
 http://178.212.71.253:8001/play/144/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sci-fi" tvg-logo="" group-title="КИНО",sci-fi
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",sci-fi
 http://37.194.238.106:16030/udp/239.1.4.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sci-fi" tvg-logo="" group-title="КИНО",sci-fi
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",sci-fi
 http://37.194.238.106:41800/udp/239.1.4.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sci-Fi" tvg-logo="" group-title="КИНО",Sci-Fi
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Sci-Fi
 http://37.193.123.112:81/udp/239.1.4.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sci-Fi" tvg-logo="" group-title="КИНО",Sci-Fi
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Sci-Fi
 http://37.193.60.159:801/udp/239.1.4.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sci-Fi" tvg-logo="" group-title="КИНО",Sci-Fi
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Sci-Fi
 http://5.129.144.130:801/udp/239.1.4.7:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scream / Film Best TV" tvg-logo="" group-title="КИНО",Scream / Film Best TV
-http://132544.edgevideo.ru/streams/132544_975653/1325441080/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SeleCaoTV 1" tvg-logo="" group-title="КИНО",SeleCaoTV 1
-https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SeleCaoTV 2" tvg-logo="" group-title="КИНО",SeleCaoTV 2
-https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SeriesTV" tvg-logo="" group-title="КИНО",SeriesTV
-http://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET HD" tvg-logo="" group-title="КИНО",SET HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",SET HD
 http://93.170.95.240:4022/udp/239.195.65.25:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shot TV" tvg-logo="" group-title="КИНО",Shot TV
-http://192.162.64.99:5100/play/a02y/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHOT TV" tvg-logo="" group-title="КИНО",SHOT TV
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",SHOT TV
 http://91.198.104.6:8001/udp/237.0.12.23:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Comedias (MX)" tvg-logo="" group-title="КИНО",Sony Comedias (MX)
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Sony Comedias (MX)
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Novelas (MX)" tvg-logo="" group-title="КИНО",Sony Novelas (MX)
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Sony Novelas (MX)
 https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Turbo" tvg-logo="" group-title="КИНО",Sony Turbo
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Sony Turbo
 http://188.190.222.53/Sony_turbo/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spike" tvg-logo="" group-title="КИНО",Spike
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Spike
 http://93.170.95.240:4022/udp/239.195.65.11:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Cinema" tvg-logo="" group-title="КИНО",Star Cinema
-http://192.162.64.99:5100/play/a02v/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Cinema" tvg-logo="" group-title="КИНО",Star Cinema
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Cinema
 https://vod.splay.uz/live_splay/original/Star_Cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Cinema HD" tvg-logo="" group-title="КИНО",Star Cinema HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Cinema HD
 http://84.245.224.71/StarCinemaHD/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Cinema HD" tvg-logo="" group-title="КИНО",Star Cinema HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Cinema HD
 http://178.49.166.164:9999/udp/239.1.1.35:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Cinema HD" tvg-logo="" group-title="КИНО",Star Cinema HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Cinema HD
 http://37.193.123.112:81/udp/239.1.1.35:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Cinema HD" tvg-logo="" group-title="КИНО",Star Cinema HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Cinema HD
 http://37.193.60.159:801/udp/239.1.1.35:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Cinema HD" tvg-logo="" group-title="КИНО",Star Cinema HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Cinema HD
 http://37.194.238.106:16030/udp/239.1.1.35:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Cinema HD" tvg-logo="" group-title="КИНО",Star Cinema HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Cinema HD
 http://37.194.238.106:41800/udp/239.1.1.35:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Cinema HD" tvg-logo="" group-title="КИНО",Star Cinema HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Cinema HD
 http://5.129.144.130:801/udp/239.1.1.35:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Family" tvg-logo="" group-title="КИНО",Star Family
-http://192.162.64.99:5100/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Family HD" tvg-logo="" group-title="КИНО",Star Family HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Family HD
 http://84.245.224.71/StarFamilyHD/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Family HD" tvg-logo="" group-title="КИНО",Star Family HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Family HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Family HD" tvg-logo="" group-title="КИНО",Star Family HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Family HD
 http://178.49.166.164:9999/udp/239.1.1.36:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Family HD" tvg-logo="" group-title="КИНО",Star Family HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Family HD
 http://37.193.123.112:81/udp/239.1.1.36:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Family HD" tvg-logo="" group-title="КИНО",Star Family HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Family HD
 http://37.193.60.159:801/udp/239.1.1.36:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Family HD" tvg-logo="" group-title="КИНО",Star Family HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Family HD
 http://37.194.238.106:16030/udp/239.1.1.36:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Family HD" tvg-logo="" group-title="КИНО",Star Family HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Family HD
 http://37.194.238.106:41800/udp/239.1.1.36:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Family HD" tvg-logo="" group-title="КИНО",Star Family HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Family HD
 http://5.129.144.130:801/udp/239.1.1.36:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Media" tvg-logo="" group-title="КИНО",Star Media
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Star Media
 https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Start Air" tvg-logo="" group-title="КИНО",Start Air
-http://192.162.64.99:5200/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="START Air" tvg-logo="" group-title="КИНО",START Air
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",START Air
 http://91.198.104.6:8001/udp/237.0.12.21:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Start Air HD" tvg-logo="" group-title="КИНО",Start Air HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="START World" tvg-logo="" group-title="КИНО",START World
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",START World
 http://91.198.104.6:8001/udp/237.0.12.22:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StartAir" tvg-logo="" group-title="КИНО",StartAir
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",StartAir
 http://5.2.52.199:7781/udp/239.254.2.132:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StartWorld" tvg-logo="" group-title="КИНО",StartWorld
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",StartWorld
 http://5.2.52.199:7781/udp/239.254.2.141:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STS-LOVE +2" tvg-logo="" group-title="КИНО",STS-LOVE +2
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",STS-LOVE +2
 http://91.198.104.6:8001/udp/237.0.13.2:10000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Baltic HD" tvg-logo="" group-title="КИНО",Super Baltic HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Super Baltic HD
 http://84.245.224.71/SuperBaltic/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Plus HD" tvg-logo="" group-title="КИНО",Super Plus HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Super Plus HD
 http://84.245.224.71/SuperPlus/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suspense / Камеди / KION Хит / DetectiveJam / Патриот" tvg-logo="" group-title="КИНО",Suspense / Камеди / KION Хит / DetectiveJam / Патриот
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Suspense / Камеди / KION Хит / DetectiveJam / Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TВ 1000 (СЕРБИЯ)" tvg-logo="" group-title="КИНО",TВ 1000 (СЕРБИЯ)
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TВ 1000 (СЕРБИЯ)
 http://178.253.194.97:1935/viasattv1000/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Timeless Dizi Channel HD / Trash TV" tvg-logo="" group-title="КИНО",Timeless Dizi Channel HD / Trash TV
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Timeless Dizi Channel HD / Trash TV
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Trash HD
 http://178.163.13.102:4022/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Trash HD
 http://178.163.13.217:4022/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
-http://178.163.14.101:4022/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Trash HD
 http://178.163.16.255:81/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Trash HD
 http://178.163.17.34:4022/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Trash HD
 http://178.163.24.152:4022/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Trash HD
 http://178.163.28.160:34040/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Trash HD
 http://178.163.28.57:4022/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Trash HD
 http://178.163.28.77:4022/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Trash HD
 http://178.163.3.80:4022/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Trash HD
 http://178.163.38.55:34040/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Trash HD
 http://178.163.45.211:81/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Trash HD
 http://178.163.46.114:81/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Trash HD
 http://178.163.5.6:4022/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="КИНО",Trash HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Trash HD
 http://178.163.6.29:4022/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRASH HD" tvg-logo="" group-title="КИНО",TRASH HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TRASH HD
 http://178.163.12.210:4022/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRASH HD" tvg-logo="" group-title="КИНО",TRASH HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TRASH HD
 http://178.163.2.151:4022/udp/234.0.0.3:2000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1 KG FHD" tvg-logo="" group-title="КИНО",TV 1 KG FHD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV 1 KG FHD
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1000" tvg-logo="" group-title="КИНО",TV 1000
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV 1000
 http://5.2.52.199:7781/udp/239.254.2.47:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1000" tvg-logo="" group-title="КИНО",TV 1000
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV 1000
 http://93.170.95.240:4022/udp/239.195.67.20:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1000 русское" tvg-logo="" group-title="КИНО",TV 1000 русское
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV 1000 русское
 http://5.2.52.199:7781/udp/239.254.2.100:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1000 Русское кино" tvg-logo="" group-title="КИНО",TV 1000 Русское кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV 1000 Русское кино
 http://93.170.95.240:4022/udp/239.195.67.22:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1000 action" tvg-logo="" group-title="КИНО",TV 1000 action
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV 1000 action
 http://5.2.52.199:7781/udp/239.254.2.44:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 1000 Action" tvg-logo="" group-title="КИНО",TV 1000 Action
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV 1000 Action
 http://93.170.95.240:4022/udp/239.195.67.23:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV XXI" tvg-logo="" group-title="КИНО",TV XXI
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV XXI
 http://tv.ttk.mx:9067
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV XXI" tvg-logo="" group-title="КИНО",TV XXI
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV XXI
 http://31.130.21.204:4022/udp/239.1.9.28:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV XXI" tvg-logo="" group-title="КИНО",TV XXI
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV XXI
 http://37.193.123.112:81/udp/239.1.4.1:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV XXI" tvg-logo="" group-title="КИНО",TV XXI
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV XXI
 http://37.193.60.159:801/udp/239.1.4.1:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV XXI" tvg-logo="" group-title="КИНО",TV XXI
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV XXI
 http://5.129.144.130:801/udp/239.1.4.1:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000" tvg-logo="" group-title="КИНО",TV1000
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV1000
 http://46.8.46.14/tv1000/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Русское кино" tvg-logo="" group-title="КИНО",TV1000 Русское кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV1000 Русское кино
 http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV21" tvg-logo="" group-title="КИНО",TV21
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TV21
 http://46.8.46.14/TV21/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVXXI" tvg-logo="" group-title="КИНО",TVXXI
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TVXXI
 http://37.194.238.106:16030/udp/239.1.4.1:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVXXI" tvg-logo="" group-title="КИНО",TVXXI
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",TVXXI
 http://37.194.238.106:41800/udp/239.1.4.1:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VHS-ка HD" tvg-logo="" group-title="КИНО",VHS-ка HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",VHS-ка HD
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Kino" tvg-logo="" group-title="КИНО",Viasat Kino
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Viasat Kino
 http://94.232.127.28:8080/tv1000/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Kino Action" tvg-logo="" group-title="КИНО",Viasat Kino Action
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Viasat Kino Action
 http://94.232.127.28:8080/tv1000action/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Kino World" tvg-logo="" group-title="КИНО",Viasat Kino World
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Viasat Kino World
 http://94.232.127.28:8080/tv1000ru/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Kino World" tvg-logo="" group-title="КИНО",Viasat Kino World
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Viasat Kino World
 http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000" tvg-logo="" group-title="КИНО",viju TV1000
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",viju TV1000
 https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju TV1000 русское кино" tvg-logo="" group-title="КИНО",Viju TV1000 русское кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Viju TV1000 русское кино
 http://95.85.109.219:7000/play/a08x
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 Русское кино" tvg-logo="" group-title="КИНО",viju TV1000 Русское кино
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",viju TV1000 Русское кино
 https://vod.splay.uz/live_splay/original/TV1000rus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 Action" tvg-logo="" group-title="КИНО",viju TV1000 Action
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",viju TV1000 Action
 http://46.8.46.14/actiontv/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 Action" tvg-logo="" group-title="КИНО",viju TV1000 Action
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",viju TV1000 Action
 https://vod.splay.uz/live_splay/original/vijuTV1000action/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 HD" tvg-logo="" group-title="КИНО",viju TV1000 HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",viju TV1000 HD
 http://95.85.109.219:7000/play/a012
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju TV1000 Romantica" tvg-logo="" group-title="КИНО",Viju TV1000 Romantica
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Viju TV1000 Romantica
 http://93.170.95.240:4022/udp/239.195.65.55:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIJU+ COMEDY" tvg-logo="" group-title="КИНО",VIJU+ COMEDY
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",VIJU+ COMEDY
 http://194.32.242.245/vipcomedy/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Comedy HD" tvg-logo="" group-title="КИНО",Viju+ Comedy HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Viju+ Comedy HD
 http://87.246.54.249:8085/Viju_Comedy/mpegts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Comedy hd" tvg-logo="" group-title="КИНО",Viju+ Comedy hd
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Viju+ Comedy hd
 http://95.85.109.219:7000/play/a090
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIJU+ MEGAHIT" tvg-logo="" group-title="КИНО",VIJU+ MEGAHIT
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",VIJU+ MEGAHIT
 http://194.32.242.245/vipmegahit/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Megahit hd" tvg-logo="" group-title="КИНО",Viju+ Megahit hd
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Viju+ Megahit hd
 http://95.85.109.219:7000/play/a08z
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIJU+ PREMIERE" tvg-logo="" group-title="КИНО",VIJU+ PREMIERE
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",VIJU+ PREMIERE
 http://194.32.242.245/vippremiere/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Premiere hd" tvg-logo="" group-title="КИНО",Viju+ Premiere hd
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Viju+ Premiere hd
 http://95.85.109.219:7000/play/a08y
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Serial HD" tvg-logo="" group-title="КИНО",Viju+ Serial HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Viju+ Serial HD
 http://91.194.191.241:8081/chid40/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ViP Comedy HD" tvg-logo="" group-title="КИНО",ViP Comedy HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",ViP Comedy HD
 http://93.170.95.240:4022/udp/239.195.67.32:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ViP Megahit HD" tvg-logo="" group-title="КИНО",ViP Megahit HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",ViP Megahit HD
 http://93.170.95.240:4022/udp/239.195.67.31:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ViP Premiere HD" tvg-logo="" group-title="КИНО",ViP Premiere HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",ViP Premiere HD
 http://93.170.95.240:4022/udp/239.195.67.30:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vipmegahit HD" tvg-logo="" group-title="КИНО",Vipmegahit HD
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Vipmegahit HD
 http://46.8.46.14/vipmegahit/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee-TV" tvg-logo="" group-title="КИНО",Zee-TV
+#EXTINF:-1 tvg-logo="" group-title=" group-title="КИНО",Zee-TV
 http://158.101.222.193:88/georgia_play.php?id=zeetv
