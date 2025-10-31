@@ -1,3 +1,4 @@
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 #EXTINF:-1,Россия 24
 http://87.246.54.249:8085/Rossia24/index.m3u8
 #EXTINF:-1,Россия 1
@@ -228,10 +229,6 @@ http://195.26.83.96:7007/play/a00n/index.m3u8
 http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1,Загородная жизнь
 http://195.26.83.96:7007/play/10/index.m3u8
-#EXTINF:-1,КХЛ ТВ
-http://195.26.83.96:7007/play/4/index.m3u8
-#EXTINF:-1,Мужской
-http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:-1,Спутник ФМ
 http://195.26.83.96:7007/play/a00l/index.m3u8
 #EXTINF:-1,Тайны Галактики
@@ -240,8 +237,6 @@ http://195.26.83.96:7007/play/a00j/index.m3u8
 http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1,Русский Иллюзион
 http://195.26.83.96:7006/play/a00y/index.m3u8
-#EXTINF:-1,СТС Kids
-http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1,Россия К
 http://217.21.34.160:38007/kultura/index.m3u8
 #EXTINF:-1,Amedia Premium HD
@@ -374,8 +369,6 @@ https://streaming.thestream.cyou/live/44.m3u8
 https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1,Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1,RT News
-https://streaming.thestream.cyou/live/250.m3u8
 #EXTINF:-1,CTC
 https://streaming.thestream.cyou/live/296.m3u8
 #EXTINF:-1,RTД
@@ -400,8 +393,6 @@ http://178.68.205.203:81/play/a02i
 http://178.68.205.203:81/play/a00z
 #EXTINF:-1,BRIDGE TV
 http://178.68.205.203:81/play/a011
-#EXTINF:-1,BRIDGE TV Русский Хит
-http://178.68.205.203:81/play/a01n
 #EXTINF:-1,DISCOVERY WEB
 http://178.68.205.203:81/play/a03a
 #EXTINF:-1,DocuBox
@@ -478,8 +469,6 @@ http://178.68.205.203:81/play/a02y
 http://178.68.205.203:81/play/a00b
 #EXTINF:-1,КИНОСЕРИЯ
 http://178.68.205.203:81/play/a02z
-#EXTINF:-1,Ключ
-http://178.68.205.203:81/play/a014
 #EXTINF:-1,Кухня
 http://178.68.205.203:81/play/a02l
 #EXTINF:-1,Кухня ТВ 80гр
@@ -568,8 +557,6 @@ http://146.120.14.239:3001/play/a06h
 http://146.120.14.239:3001/play/a06i
 #EXTINF:-1,007_НТВ Беларусь
 http://146.120.14.239:3001/play/a06j
-#EXTINF:-1,008_Беларусь_3
-http://146.120.14.239:3001/play/a06k
 #EXTINF:-1,009_Беларусь_5
 http://146.120.14.239:3001/play/a06l
 #EXTINF:-1,010_Беларусь_2
@@ -646,8 +633,6 @@ http://146.120.14.239:3001/play/a07k
 http://146.120.14.239:3001/play/a07l
 #EXTINF:-1,046_Индийское Кино
 http://146.120.14.239:3001/play/a07p
-#EXTINF:-1,047_Кинокомедия
-http://146.120.14.239:3001/play/a07t
 #EXTINF:-1,048_Киномикс
 http://146.120.14.239:3001/play/a07q
 #EXTINF:-1,049_Киносвидание
@@ -678,8 +663,6 @@ http://146.120.14.239:3001/play/a086
 http://146.120.14.239:3001/play/a07u
 #EXTINF:-1,062_Кухня ТВ
 http://146.120.14.239:3001/play/a07v
-#EXTINF:-1,063_Музыка Live
-http://146.120.14.239:3001/play/a07w
 #EXTINF:-1,064_Уникум
 http://146.120.14.239:3001/play/a084
 #EXTINF:-1,065_Ностальгия
@@ -700,8 +683,6 @@ http://146.120.14.239:3001/play/a0bx
 http://146.120.14.239:3001/play/a0bz
 #EXTINF:-1,073_Моя Стихия
 http://146.120.14.239:3001/play/a089
-#EXTINF:-1,074_МузСоюз
-http://146.120.14.239:3001/play/a08g
 #EXTINF:-1,075_Cartoon Classic
 http://146.120.14.239:3001/play/a08h
 #EXTINF:-1,076_ТНТ International
@@ -728,8 +709,6 @@ http://146.120.14.239:3001/play/a0fc
 http://146.120.14.239:3001/play/a0gj
 #EXTINF:-1,088_Мультиландия
 http://146.120.14.239:3001/play/a08z
-#EXTINF:-1,089_Кинопремьера HD
-http://146.120.14.239:3001/play/a0ds
 #EXTINF:-1,090_Бобёр
 http://146.120.14.239:3001/play/a0du
 #EXTINF:-1,091_Союз
