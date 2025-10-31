@@ -1,4 +1,3 @@
-#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 #EXTINF:-1,Россия 24
 http://87.246.54.249:8085/Rossia24/index.m3u8
 #EXTINF:-1,Россия 1
@@ -361,14 +360,10 @@ http://91.142.158.106:8093/udp/235.193.68.128:2460
 http://91.142.158.106:8093/udp/235.193.68.129:2460
 #EXTINF:-1,Россия 24
 https://streaming.thestream.cyou/live/30.m3u8
-#EXTINF:-1,ТНТ
-https://streaming.thestream.cyou/live/38.m3u8
 #EXTINF:-1,Дом кино
 https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1,Победа
 https://streaming.thestream.cyou/live/43.m3u8
-#EXTINF:-1,Первый канал Европа
-https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1,CTC
 https://streaming.thestream.cyou/live/296.m3u8
 #EXTINF:-1,RTД
@@ -481,10 +476,6 @@ http://178.68.205.203:81/play/a036
 http://178.68.205.203:81/play/a007
 #EXTINF:-1,Мир Дубль 95канал
 http://178.68.205.203:81/play/a028
-#EXTINF:-1,Мир Увлечений КТО КУДА
-http://178.68.205.203:81/play/a01y
-#EXTINF:-1,Москва 24
-http://178.68.205.203:81/play/a00v
 #EXTINF:-1,Москва Доверие
 http://178.68.205.203:81/play/a02f
 #EXTINF:-1,Мужской
@@ -601,8 +592,6 @@ http://146.120.14.239:3001/play/a0be
 http://146.120.14.239:3001/play/a075
 #EXTINF:-1,030_Победа
 http://146.120.14.239:3001/play/a076
-#EXTINF:-1,031_НСТ
-http://146.120.14.239:3001/play/a077
 #EXTINF:-1,032_В Гостях У Сказки
 http://146.120.14.239:3001/play/a078
 #EXTINF:-1,033_НТВ Право
@@ -623,8 +612,6 @@ http://146.120.14.239:3001/play/a0gi
 http://146.120.14.239:3001/play/a07g
 #EXTINF:-1,041_Мужской
 http://146.120.14.239:3001/play/a0br
-#EXTINF:-1,042_Amedia 2
-http://146.120.14.239:3001/play/a07i
 #EXTINF:-1,043_Amedia HIT HD
 http://146.120.14.239:3001/play/a07j
 #EXTINF:-1,044_Дорама
@@ -641,8 +628,6 @@ http://146.120.14.239:3001/play/a07r
 http://146.120.14.239:3001/play/a082
 #EXTINF:-1,051_Киносерия
 http://146.120.14.239:3001/play/a07x
-#EXTINF:-1,052_Кинохит
-http://146.120.14.239:3001/play/a07s
 #EXTINF:-1,053_Мужское Кино
 http://146.120.14.239:3001/play/a07y
 #EXTINF:-1,054_НАШЕ НОВОЕ КИНО
@@ -655,8 +640,6 @@ http://146.120.14.239:3001/play/a07m
 http://146.120.14.239:3001/play/a07n
 #EXTINF:-1,058_Европа Плюс ТВ
 http://146.120.14.239:3001/play/a07o
-#EXTINF:-1,059_Слуцк ТВ 2
-http://146.120.14.239:3001/play/a085
 #EXTINF:-1,060_КВН ТВ
 http://146.120.14.239:3001/play/a086
 #EXTINF:-1,061_Кто есть кто
@@ -715,8 +698,6 @@ http://146.120.14.239:3001/play/a0du
 http://146.120.14.239:3001/play/a0bn
 #EXTINF:-1,092_KHL Prime
 http://146.120.14.239:3001/play/a0dv
-#EXTINF:-1,093_Любимое Кино
-http://146.120.14.239:3001/play/a095
 #EXTINF:-1,094_Мир сериала
 http://146.120.14.239:3001/play/a096
 #EXTINF:-1,095_Дом Кино Premium
