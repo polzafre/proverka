@@ -1,264 +1,984 @@
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",17 Звезда
-http://5.2.52.199:7781/udp/239.254.2.180:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",365 дней
-http://45.11.139.43:8555/365dney/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",555 Hunt & Fishing TV  HD
-http://193.169.178.29:8081/podsekaiTV/chanelHD720/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Авто Плюс
-http://46.8.46.14/avtoplus/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Большая Азия
-http://178.163.12.210:4022/udp/234.0.0.10:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Большая Азия
-http://178.163.2.151:4022/udp/234.0.0.10:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Большая Азия
-http://37.193.123.112:81/udp/239.1.3.9:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Большая Азия
-http://37.193.60.159:801/udp/239.1.3.9:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Большая Азия
-http://37.194.238.106:16030/udp/239.1.3.9:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Большая Азия
-http://37.194.238.106:41800/udp/239.1.3.9:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Большая Азия
-http://5.129.144.130:801/udp/239.1.3.9:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Большая Азия  HD
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",В мире животных HD
-http://178.163.0.63:4022/udp/234.0.0.97:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Ваш успех
-http://5.2.52.199:7781/udp/239.254.2.56:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Вкус
-http://tvip.btk.teleos.ru:8081/chid515/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",ВОПРОСЫ И ОТВЕТЫ
-http://31.130.21.204:4022/udp/239.1.8.12:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Вопросы Ответы
-http://46.160.128.240:4022/udp/239.254.2.20:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Вопросы Ответы
-http://5.2.52.199:7781/udp/239.254.2.20:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",ВigАsia
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Глазами туриста HD
-http://217.21.34.160:38007/glazami_turista/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",День победы
-http://5.2.52.199:7781/udp/239.254.2.65:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Дикая охота HD
-http://217.21.34.160:38007/dikayaohotahd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Дикая рыбалка HD
-http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Домашние животные
-http://91.194.191.241:8081/chid28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",ДОМАШНИЕ ЖИВОТНЫЕ
-http://31.130.21.204:4022/udp/239.1.8.13:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Живая планета
-http://31.148.48.15:80/Zhivaya_Planeta/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Животные
-http://5.2.52.199:7781/udp/239.254.2.253:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",ЗОО ТВ
-http://31.130.21.204:4022/udp/239.1.10.25:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Зоо ТВ
-http://91.198.104.6:8001/udp/237.0.10.16:10000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",ИСТОРИЯ
-http://31.130.21.204:4022/udp/239.1.8.17:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",История
-http://5.2.52.199:7781/udp/239.254.2.248:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Космический
-http://5.2.52.199:7781/udp/239.254.2.252:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Крик ТВ
-http://37.209.231.99:4022/udp/238.1.1.27:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Моя Планета
-http://178.163.0.63:4022/udp/234.0.0.228:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Моя Планета
-http://93.170.95.240:4022/udp/239.195.65.41:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Нано ТВ
-http://93.170.95.240:4022/udp/239.195.65.16:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",НАУКА
-http://31.130.21.204:4022/udp/239.1.10.28:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Наука
-http://5.2.52.199:7781/udp/239.254.2.146:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Наука 2.0
-http://178.163.2.151:4022/udp/234.0.0.226:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Наука-2.0
-http://91.198.104.6:8001/udp/237.0.13.22:10000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Наша тема HD
-http://178.49.166.164:9999/udp/239.1.1.23:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Наша Тема HD
-http://5.129.144.130:801/udp/239.1.1.23:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Наша тема HD
-http://5.128.3.247:81/udp/239.1.1.23:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",НЕИЗВЕСТНАЯ РОССИЯ
-http://cdn.ntv.ru/unknown_russia/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",НТВ ПРАВО
-http://31.130.21.204:4022/udp/239.1.8.33:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Оружие
-http://5.2.52.199:7781/udp/239.254.2.188:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Открытый Мир
-http://93.170.95.240:4022/udp/239.195.65.50:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Открытый HD
-http://93.170.95.240:4022/udp/239.195.66.3:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Патриот
-http://5.2.52.199:7781/udp/239.254.2.198:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",ПРОСВЕЩЕНИЕ
-http://31.130.21.204:4022/udp/239.1.8.26:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Психология
-http://37.193.123.112:81/udp/239.1.2.9:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Психология
-http://37.193.60.159:801/udp/239.1.2.9:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Психология
-http://37.194.238.106:16030/udp/239.1.2.9:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Психология
-http://37.194.238.106:41800/udp/239.1.2.9:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Психология
-http://5.129.144.130:801/udp/239.1.2.9:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",ПСИХОЛОГИЯ
-http://31.130.21.204:4022/udp/239.1.8.30:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Психология 21
-http://91.194.191.241:8081/chid162/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Раз ТВ
-http://93.170.95.240:4022/udp/239.195.65.14:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Раз ТВ
-http://93.170.95.240:4022/udp/239.195.65.55:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",РЖД ТВ
-http://37.209.231.99:4022/udp/238.1.1.32:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Рodsekai-TV
-http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",СовСекретно
-http://5.2.52.199:7781/udp/239.254.2.115:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Т24
-http://5.2.52.199:7781/udp/239.254.2.62:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",ТиВиСи HD
-http://91.194.191.241:8081/chid290/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Точка ТВ
-http://93.170.95.240:4022/udp/239.195.67.12:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Точка ТВ
-http://93.170.95.240:4022/udp/239.195.67.18:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Точка.РФ
-http://95.66.188.74/HD_Life/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Animal HD
-http://178.163.106.186:4022/udp/234.0.0.97:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Animal HD
-http://178.163.111.6:4022/udp/234.0.0.97:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Animal Planet HD
-http://93.170.95.240:4022/udp/239.195.65.30:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",AnimalPlanet_HD
-http://45.88.92.3:80/tr3_AnimalPlanet_HD/tracks-a2v1/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Big Asia
-http://178.163.106.186:4022/udp/234.0.0.10:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Big Asia
-http://178.163.111.6:4022/udp/234.0.0.10:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Big asia
-http://178.163.13.102:4022/udp/234.0.0.10:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Big Asia
-http://178.163.17.34:4022/udp/234.0.0.10:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Big asia
-http://178.163.28.160:34040/udp/234.0.0.10:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Big asia
-http://178.163.3.80:4022/udp/234.0.0.10:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Big asia
-http://178.163.38.55:34040/udp/234.0.0.10:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Big asia
-http://178.163.46.114:81/udp/234.0.0.10:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Big asia
-http://178.163.5.6:4022/udp/234.0.0.10:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Brodilo TV
-https://brodilo.tv/channel.php
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Brodilo TV
-https://brodilo.tv/brodilotv.m3u
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Da Vinchi Learning
-http://93.170.95.240:4022/udp/239.195.67.21:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",DaVinci
-http://5.2.52.199:7781/udp/239.254.2.173:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Discovery
-http://5.2.52.199:7781/udp/239.254.2.150:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Discovery Channel
-http://93.170.95.240:4022/udp/239.195.65.2:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Discovery Channel HD
-http://iptv46.mcx-ix.ru:8077/DiscoveryChannelHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Discovery HD
-http://94.232.127.28:8080/discovery-east/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Discovery Science
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="06 РОССИЯ-К" tvg-logo="" group-title="ДОСУГ",06 РОССИЯ-К
+http://185.184.232.217:5000/udp/225.1.2.4:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="06 РОССИЯ-К" tvg-logo="" group-title="ДОСУГ",06 РОССИЯ-К
+http://37.235.137.192:81/udp/225.50.66.87:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="06 РОССИЯ-К" tvg-logo="" group-title="ДОСУГ",06 РОССИЯ-К
+http://5.2.52.199:7781/udp/239.254.2.60:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="06 РОССИЯ-К" tvg-logo="" group-title="ДОСУГ",06 РОССИЯ-К
+http://5.2.52.199:7781/udp/239.254.2.71:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="06 РОССИЯ-К" tvg-logo="" group-title="ДОСУГ",06 РОССИЯ-К
+http://91.198.104.6:8001/udp/237.0.10.105:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="06 РОССИЯ-К" tvg-logo="" group-title="ДОСУГ",06 РОССИЯ-К
+http://95.215.125.167:5000/udp/225.1.2.4:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="08 КАРУСЕЛЬ" tvg-logo="" group-title="ДОСУГ",08 КАРУСЕЛЬ
+http://176.222.242.167:39001/udp/239.254.2.3:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="08 КАРУСЕЛЬ" tvg-logo="" group-title="ДОСУГ",08 КАРУСЕЛЬ
+http://185.184.232.217:5000/udp/225.1.2.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="08 КАРУСЕЛЬ" tvg-logo="" group-title="ДОСУГ",08 КАРУСЕЛЬ
+http://46.160.128.240:4022/udp/239.254.2.3:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="08 КАРУСЕЛЬ" tvg-logo="" group-title="ДОСУГ",08 КАРУСЕЛЬ
+http://5.2.52.199:7781/udp/239.254.2.3:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="08 КАРУСЕЛЬ" tvg-logo="" group-title="ДОСУГ",08 КАРУСЕЛЬ
+http://95.215.125.167:5000/udp/225.1.2.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="08 КАРУСЕЛЬ" tvg-logo="" group-title="ДОСУГ",08 КАРУСЕЛЬ
+http://37.235.137.192:81/udp/225.50.66.5:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="08 КАРУСЕЛЬ" tvg-logo="" group-title="ДОСУГ",08 КАРУСЕЛЬ
+http://91.198.104.6:8001/udp/237.0.10.146:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="11 РЕН ТВ" tvg-logo="" group-title="ДОСУГ",11 РЕН ТВ
+http://37.209.231.99:4022/udp/238.1.2.11:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="12 Спас" tvg-logo="" group-title="ДОСУГ",12 Спас
+http://185.184.232.217:5000/udp/225.1.2.13:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="12 Спас" tvg-logo="" group-title="ДОСУГ",12 Спас
+http://37.235.137.192:81/udp/225.50.66.52:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="12 Спас" tvg-logo="" group-title="ДОСУГ",12 Спас
+http://83.217.12.157:81/udp/239.1.1.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="12 Спас" tvg-logo="" group-title="ДОСУГ",12 Спас
+http://95.215.125.167:5000/udp/225.1.2.13:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 СТС" tvg-logo="" group-title="ДОСУГ",13 СТС
+http://185.184.232.217:5000/udp/225.1.2.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 СТС" tvg-logo="" group-title="ДОСУГ",13 СТС
+http://5.2.52.199:7781/udp/239.254.2.32:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 СТС" tvg-logo="" group-title="ДОСУГ",13 СТС
+http://83.217.12.157:81/udp/239.1.1.13:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 СТС" tvg-logo="" group-title="ДОСУГ",13 СТС
+http://95.215.125.167:5000/udp/225.1.2.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 СТС" tvg-logo="" group-title="ДОСУГ",13 СТС
+http://37.235.137.192:81/udp/225.50.66.53:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="13 СТС" tvg-logo="" group-title="ДОСУГ",13 СТС
+http://91.198.104.6:8001/udp/237.0.10.133:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14 Домашний" tvg-logo="" group-title="ДОСУГ",14 Домашний
+http://185.184.232.217:5000/udp/225.1.2.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14 Домашний" tvg-logo="" group-title="ДОСУГ",14 Домашний
+http://37.209.231.99:4022/udp/238.1.2.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14 Домашний" tvg-logo="" group-title="ДОСУГ",14 Домашний
+http://83.217.12.157:81/udp/239.1.1.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14 Домашний" tvg-logo="" group-title="ДОСУГ",14 Домашний
+http://95.215.125.167:5000/udp/225.1.2.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14 Домашний" tvg-logo="" group-title="ДОСУГ",14 Домашний
+http://37.235.137.192:81/udp/225.50.66.54:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14 Домашний" tvg-logo="" group-title="ДОСУГ",14 Домашний
+http://91.198.104.6:8001/udp/237.0.10.134:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15 ТВ3" tvg-logo="" group-title="ДОСУГ",15 ТВ3
+http://185.184.232.217:5000/udp/225.1.2.15:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15 ТВ3" tvg-logo="" group-title="ДОСУГ",15 ТВ3
+http://37.209.231.99:4022/udp/238.1.2.15:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15 ТВ3" tvg-logo="" group-title="ДОСУГ",15 ТВ3
+http://5.2.52.199:7781/udp/239.254.2.81:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15 ТВ3" tvg-logo="" group-title="ДОСУГ",15 ТВ3
+http://83.217.12.157:81/udp/239.1.1.15:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15 ТВ3" tvg-logo="" group-title="ДОСУГ",15 ТВ3
+http://95.215.125.167:5000/udp/225.1.2.15:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15 ТВ3" tvg-logo="" group-title="ДОСУГ",15 ТВ3
+http://37.235.137.192:81/udp/225.50.66.55:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="15 ТВ3" tvg-logo="" group-title="ДОСУГ",15 ТВ3
+http://91.198.104.6:8001/udp/237.0.10.145:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16 Пятница" tvg-logo="" group-title="ДОСУГ",16 Пятница
+http://185.184.232.217:5000/udp/225.1.2.18:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16 Пятница" tvg-logo="" group-title="ДОСУГ",16 Пятница
+http://46.160.128.240:4022/udp/239.254.2.16:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16 Пятница" tvg-logo="" group-title="ДОСУГ",16 Пятница
+http://5.2.52.199:7781/udp/239.254.2.16:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16 Пятница" tvg-logo="" group-title="ДОСУГ",16 Пятница
+http://83.217.12.157:81/udp/239.1.1.16:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16 Пятница" tvg-logo="" group-title="ДОСУГ",16 Пятница
+http://95.215.125.167:5000/udp/225.1.2.18:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="16 Пятница" tvg-logo="" group-title="ДОСУГ",16 Пятница
+http://37.235.137.192:81/udp/225.50.66.56:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19 ТНТ" tvg-logo="" group-title="ДОСУГ",19 ТНТ
+http://5.2.52.199:7781/udp/239.254.2.114:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19 ТНТ" tvg-logo="" group-title="ДОСУГ",19 ТНТ
+http://83.217.12.157:81/udp/239.1.1.19:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19 ТНТ" tvg-logo="" group-title="ДОСУГ",19 ТНТ
+http://37.235.137.192:81/udp/225.50.66.59:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="19 ТНТ" tvg-logo="" group-title="ДОСУГ",19 ТНТ
+http://91.198.104.6:8001/udp/237.0.10.150:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2" tvg-logo="" group-title="ДОСУГ",2x2
+http://93.170.95.240:4022/udp/239.195.65.52:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2" tvg-logo="" group-title="ДОСУГ",2x2
+http://37.193.123.112:81/udp/239.1.2.1:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2" tvg-logo="" group-title="ДОСУГ",2x2
+http://37.193.60.159:801/udp/239.1.2.1:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2" tvg-logo="" group-title="ДОСУГ",2x2
+http://37.194.238.106:16030/udp/239.1.2.1:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2" tvg-logo="" group-title="ДОСУГ",2x2
+http://37.194.238.106:41800/udp/239.1.2.1:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2" tvg-logo="" group-title="ДОСУГ",2x2
+http://5.129.144.130:801/udp/239.1.2.1:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2" tvg-logo="" group-title="ДОСУГ",2x2
+http://37.235.137.192:81/udp/225.50.66.4:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2" tvg-logo="" group-title="ДОСУГ",2x2
+http://93.170.95.240:4022/udp/239.195.66.9:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2X2" tvg-logo="" group-title="ДОСУГ",2X2
+http://91.198.104.6:8001/udp/237.0.11.11:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2 (+2)" tvg-logo="" group-title="ДОСУГ",2x2 (+2)
+http://46.160.128.240:4022/udp/239.254.2.4:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2 +2" tvg-logo="" group-title="ДОСУГ",2x2 +2
+http://5.2.52.199:7781/udp/239.254.2.4:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2 +2" tvg-logo="" group-title="ДОСУГ",2x2 +2
+http://176.222.242.167:39001/udp/239.254.2.4:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="3 Angels" tvg-logo="" group-title="ДОСУГ",3 Angels
+http://93.170.95.240:4022/udp/239.195.66.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="А4" tvg-logo="" group-title="ДОСУГ",А4
+http://5.2.52.199:7781/udp/239.254.2.125:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Авто 24" tvg-logo="" group-title="ДОСУГ",Авто 24
+http://178.163.0.63:4022/udp/234.0.0.227:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Авто плюс" tvg-logo="" group-title="ДОСУГ",Авто плюс
+http://185.58.205.1:4022/udp/224.0.90.2:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Авто Плюс" tvg-logo="" group-title="ДОСУГ",Авто Плюс
+http://37.193.123.112:81/udp/239.1.2.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Авто Плюс" tvg-logo="" group-title="ДОСУГ",Авто Плюс
+http://37.193.60.159:801/udp/239.1.2.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Авто Плюс" tvg-logo="" group-title="ДОСУГ",Авто Плюс
+http://37.194.238.106:16030/udp/239.1.2.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Авто Плюс" tvg-logo="" group-title="ДОСУГ",Авто Плюс
+http://37.194.238.106:41800/udp/239.1.2.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Авто Плюс" tvg-logo="" group-title="ДОСУГ",Авто Плюс
+http://5.129.144.130:801/udp/239.1.2.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Анекдот ТВ" tvg-logo="" group-title="ДОСУГ",Анекдот ТВ
+http://95.215.125.167:5000/udp/225.1.2.47:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бобёр" tvg-logo="" group-title="ДОСУГ",Бобёр
+http://178.163.0.63:4022/udp/234.0.0.103:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бобер" tvg-logo="" group-title="ДОСУГ",Бобер
+http://37.193.123.112:81/udp/239.1.2.19:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бобер" tvg-logo="" group-title="ДОСУГ",Бобер
+http://37.193.60.159:801/udp/239.1.2.19:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бобер" tvg-logo="" group-title="ДОСУГ",Бобер
+http://37.194.238.106:16030/udp/239.1.2.19:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бобер" tvg-logo="" group-title="ДОСУГ",Бобер
+http://37.194.238.106:41800/udp/239.1.2.19:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бобер" tvg-logo="" group-title="ДОСУГ",Бобер
+http://5.129.144.130:801/udp/239.1.2.19:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бобёр" tvg-logo="" group-title="ДОСУГ",Бобёр
+http://91.198.104.6:8001/udp/237.0.10.40:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="В ГОСТЯХ У СКАЗКИ" tvg-logo="" group-title="ДОСУГ",В ГОСТЯХ У СКАЗКИ
+http://31.130.21.204:4022/udp/239.1.9.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ВуС" tvg-logo="" group-title="ДОСУГ",ВуС
+http://5.2.52.199:7781/udp/239.254.2.92:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Глазами туриста HD" tvg-logo="" group-title="ДОСУГ",Глазами туриста HD
+http://178.49.166.164:9999/udp/239.1.1.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Глазами туриста HD" tvg-logo="" group-title="ДОСУГ",Глазами туриста HD
+http://37.193.123.112:81/udp/239.1.1.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Глазами туриста HD" tvg-logo="" group-title="ДОСУГ",Глазами туриста HD
+http://37.193.60.159:801/udp/239.1.1.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Глазами туриста HD" tvg-logo="" group-title="ДОСУГ",Глазами туриста HD
+http://37.194.238.106:16030/udp/239.1.1.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Глазами туриста HD" tvg-logo="" group-title="ДОСУГ",Глазами туриста HD
+http://37.194.238.106:41800/udp/239.1.1.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Глазами туриста HD" tvg-logo="" group-title="ДОСУГ",Глазами туриста HD
+http://5.128.3.247:81/udp/239.1.1.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Глазами туриста HD" tvg-logo="" group-title="ДОСУГ",Глазами туриста HD
+http://5.129.144.130:801/udp/239.1.1.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Детский" tvg-logo="" group-title="ДОСУГ",Детский
+http://93.170.95.240:4022/udp/239.195.65.8:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Детский мир" tvg-logo="" group-title="ДОСУГ",Детский мир
+http://5.2.52.199:7781/udp/239.254.2.121:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Детский Мир" tvg-logo="" group-title="ДОСУГ",Детский Мир
+http://93.170.95.240:4022/udp/239.195.65.37:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота" tvg-logo="" group-title="ДОСУГ",Дикая охота
+http://178.163.28.160:34040/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.13.102:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.13.217:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.14.101:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.16.255:81/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.17.34:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.24.152:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.28.57:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.28.77:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.3.80:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.38.55:34040/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.4.37:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.45.211:81/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.46.114:81/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.5.6:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.6.29:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.12.210:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дикая охота HD" tvg-logo="" group-title="ДОСУГ",Дикая охота HD
+http://178.163.2.151:4022/udp/234.0.0.11:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашние животные" tvg-logo="" group-title="ДОСУГ",Домашние животные
+http://5.2.52.199:7781/udp/239.254.2.94:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашний" tvg-logo="" group-title="ДОСУГ",Домашний
+http://178.163.0.63:4022/udp/234.0.0.191:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашний" tvg-logo="" group-title="ДОСУГ",Домашний
+http://217.25.238.167:85/udp/235.1.10.15:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашний" tvg-logo="" group-title="ДОСУГ",Домашний
+http://37.193.123.112:81/udp/239.1.10.5:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашний" tvg-logo="" group-title="ДОСУГ",Домашний
+http://37.193.60.159:801/udp/239.1.10.5:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашний" tvg-logo="" group-title="ДОСУГ",Домашний
+http://37.194.238.106:16030/udp/239.1.10.5:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашний" tvg-logo="" group-title="ДОСУГ",Домашний
+http://37.194.238.106:41800/udp/239.1.10.5:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашний" tvg-logo="" group-title="ДОСУГ",Домашний
+http://37.209.231.99:4022/udp/238.1.1.188:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашний" tvg-logo="" group-title="ДОСУГ",Домашний
+http://5.129.144.130:801/udp/239.1.10.5:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашний" tvg-logo="" group-title="ДОСУГ",Домашний
+http://93.170.95.240:4022/udp/239.195.64.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашний" tvg-logo="" group-title="ДОСУГ",Домашний
+http://91.198.104.6:8001/udp/237.0.11.35:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашний" tvg-logo="" group-title="ДОСУГ",Домашний
+http://91.198.104.6:8001/udp/237.0.13.5:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашний (+4)" tvg-logo="" group-title="ДОСУГ",Домашний (+4)
+http://91.198.104.6:8001/udp/237.0.10.33:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашний (RTRS)" tvg-logo="" group-title="ДОСУГ",Домашний (RTRS)
+http://37.209.231.99:4022/udp/238.1.1.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Драйв" tvg-logo="" group-title="ДОСУГ",Драйв
+http://5.2.52.199:7781/udp/239.254.2.82:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Живи" tvg-logo="" group-title="ДОСУГ",Живи
+http://37.193.123.112:81/udp/239.1.2.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Живи" tvg-logo="" group-title="ДОСУГ",Живи
+http://37.193.60.159:801/udp/239.1.2.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Живи" tvg-logo="" group-title="ДОСУГ",Живи
+http://37.194.238.106:16030/udp/239.1.2.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Живи" tvg-logo="" group-title="ДОСУГ",Живи
+http://37.194.238.106:41800/udp/239.1.2.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Живи" tvg-logo="" group-title="ДОСУГ",Живи
+http://5.129.144.130:801/udp/239.1.2.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Живи Активно HD" tvg-logo="" group-title="ДОСУГ",Живи Активно HD
+http://31.130.21.204:4022/udp/239.1.10.10:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Живи! Активно HD" tvg-logo="" group-title="ДОСУГ",Живи! Активно HD
+http://93.170.95.240:4022/udp/239.195.65.59:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Загородная Жизнь" tvg-logo="" group-title="ДОСУГ",Загородная Жизнь
+http://93.170.95.240:4022/udp/239.195.65.29:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Загородный" tvg-logo="" group-title="ДОСУГ",Загородный
+http://91.198.104.6:8001/udp/237.0.10.18:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Загородный" tvg-logo="" group-title="ДОСУГ",Загородный
+http://91.198.104.6:8001/udp/237.0.10.43:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ЗЖ" tvg-logo="" group-title="ДОСУГ",ЗЖ
+http://5.2.52.199:7781/udp/239.254.2.227:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Зоо" tvg-logo="" group-title="ДОСУГ",Зоо
+http://5.2.52.199:7781/udp/239.254.2.25:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Зоопарк" tvg-logo="" group-title="ДОСУГ",Зоопарк
+http://178.163.0.63:4022/udp/234.0.0.216:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ЗоопаркKids" tvg-logo="" group-title="ДОСУГ",ЗоопаркKids
+http://5.2.52.199:7781/udp/239.254.2.159:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.12.210:4022/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.2.151:4022/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.3.80:4022/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.0.63:4022/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.106.186:4022/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.111.6:4022/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.28.160:34040/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.38.55:34040/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.46.114:81/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.5.6:4022/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.28.57:4022/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.6.29:4022/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.28.77:4022/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.16.255:81/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.13.217:4022/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.24.152:4022/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп" tvg-logo="" group-title="ДОСУГ",Калейдоскоп
+http://178.163.45.211:81/udp/234.0.0.1:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Калейдоскоп ТВ" tvg-logo="" group-title="ДОСУГ",Калейдоскоп ТВ
+http://93.170.95.240:4022/udp/239.195.67.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="ДОСУГ",Карусель
+http://178.163.0.63:4022/udp/234.0.0.203:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="ДОСУГ",Карусель
+http://217.25.238.167:85/udp/235.1.10.12:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="ДОСУГ",Карусель
+http://37.193.123.112:81/udp/239.1.15.11:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="ДОСУГ",Карусель
+http://37.193.60.159:801/udp/239.1.15.11:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="ДОСУГ",Карусель
+http://37.194.238.106:16030/udp/239.1.15.11:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="ДОСУГ",Карусель
+http://37.194.238.106:41800/udp/239.1.15.11:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="ДОСУГ",Карусель
+http://37.209.231.99:4022/udp/238.1.2.8:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="ДОСУГ",Карусель
+http://5.129.144.130:801/udp/239.1.15.11:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="ДОСУГ",Карусель
+http://5.53.18.211:4022/udp/239.72.16.8:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="ДОСУГ",Карусель
+http://93.170.95.240:4022/udp/239.195.64.8:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="КАРУСЕЛЬ" tvg-logo="" group-title="ДОСУГ",КАРУСЕЛЬ
+http://31.130.21.204:4022/udp/239.1.8.3:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="КАРУСЕЛЬ" tvg-logo="" group-title="ДОСУГ",КАРУСЕЛЬ
+http://91.198.104.6:8001/udp/237.0.11.37:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель (RTRS)" tvg-logo="" group-title="ДОСУГ",Карусель (RTRS)
+http://37.209.231.99:4022/udp/238.1.1.9:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Конный мир" tvg-logo="" group-title="ДОСУГ",Конный мир
 http://93.170.95.240:4022/udp/239.195.65.1:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",DocuBox
-http://188.190.222.53/DocuBOX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Explore
-http://5.2.52.199:7781/udp/239.254.2.49:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",HAHO
-http://31.130.21.204:4022/udp/239.1.9.18:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Hayka 2.0
-http://178.163.45.211:81/udp/234.0.0.226:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",History
-http://5.2.52.199:7781/udp/239.254.2.52:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",History HD
-http://iptv46.mcx-ix.ru:8077/History-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",ISTORIA
-http://91.198.104.6:8001/udp/237.0.13.46:10000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",ISTORIA
-http://91.198.104.6:8001/udp/237.0.13.96:10000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Motor TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Nat Geo Wild
-http://tvip.btk.teleos.ru:8081/chid112/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Nat Geo Wild HD
-https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",NatGeo
-http://46.160.128.240:4022/udp/239.254.2.6:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",NatGeo
-http://5.2.52.199:7781/udp/239.254.2.136:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",NatGeo
-http://5.2.52.199:7781/udp/239.254.2.6:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",NatGeoWild
-http://185.164.82.18:9010//ykMHqK_NatGeoWild
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",NatGeoWild
-http://46.160.128.240:4022/udp/239.254.2.8:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",NatGeoWild
-http://5.2.52.199:7781/udp/239.254.2.137:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",NatGeoWild
-http://5.2.52.199:7781/udp/239.254.2.8:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RBK
-http://5.2.52.199:7781/udp/239.254.2.59:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RTД
-http://37.193.123.112:81/udp/239.1.1.34:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RTД
-http://37.193.60.159:801/udp/239.1.1.34:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RTД
-http://5.129.144.130:801/udp/239.1.1.34:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",RTG HD
-http://95.66.188.74/RTGHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",SCI
-http://5.2.52.199:7781/udp/239.254.2.131:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Shopping Live
-http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Shopping STAR
-http://livestar.siliconweb.com/starvod/star_int/star_intsd.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Synergy-TV
-http://93.170.95.240:4022/udp/239.195.66.5:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",TDC
-http://178.163.0.63:4022/udp/234.0.0.184:2000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Terra
-http://iptv46.mcx-ix.ru:8077/natgeo_hd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Terra HD
-https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",TLC
-http://185.58.205.1:4022/udp/224.0.90.5:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",TLC HD
-http://5.188.159.128:8070/TLC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Tochka TV
-http://91.198.104.6:8001/udp/237.0.10.45:10000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Travel TV
-https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Unikum
-http://91.198.104.6:8001/udp/237.0.10.24:10000
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Viasat Explore
-http://93.170.95.240:4022/udp/239.195.67.24:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Viasat History
-http://93.170.95.240:4022/udp/239.195.67.25:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Viasat History CEE
-http://94.232.127.28:8080/viasathistory/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Viasat Nature
-http://93.170.95.240:4022/udp/239.195.67.27:1234
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Viju Explore
-http://91.194.191.241:8081/chid106/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",Viju History
-http://91.194.191.241:8081/chid105/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",viju+ Planet HD
-http://195.64.140.147:10147/147
-#EXTINF:-1 tvg-logo="" group-title=" group-title="group-title=",ZooПарк
-http://46.8.46.14/zoo/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кухня ТВ" tvg-logo="" group-title="ДОСУГ",Кухня ТВ
+http://37.193.123.112:81/udp/239.1.2.15:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кухня ТВ" tvg-logo="" group-title="ДОСУГ",Кухня ТВ
+http://37.193.60.159:801/udp/239.1.2.15:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кухня ТВ" tvg-logo="" group-title="ДОСУГ",Кухня ТВ
+http://37.194.238.106:16030/udp/239.1.2.15:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кухня ТВ" tvg-logo="" group-title="ДОСУГ",Кухня ТВ
+http://37.194.238.106:41800/udp/239.1.2.15:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кухня ТВ" tvg-logo="" group-title="ДОСУГ",Кухня ТВ
+http://5.129.144.130:801/udp/239.1.2.15:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мама" tvg-logo="" group-title="ДОСУГ",Мама
+http://178.163.0.63:4022/udp/234.0.0.101:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мама" tvg-logo="" group-title="ДОСУГ",Мама
+http://37.193.123.112:81/udp/239.1.3.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мама" tvg-logo="" group-title="ДОСУГ",Мама
+http://37.193.60.159:801/udp/239.1.3.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мама" tvg-logo="" group-title="ДОСУГ",Мама
+http://37.194.238.106:16030/udp/239.1.3.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мама" tvg-logo="" group-title="ДОСУГ",Мама
+http://37.194.238.106:41800/udp/239.1.3.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мама" tvg-logo="" group-title="ДОСУГ",Мама
+http://37.209.231.99:4022/udp/238.1.1.175:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мама" tvg-logo="" group-title="ДОСУГ",Мама
+http://5.129.144.130:801/udp/239.1.3.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мама" tvg-logo="" group-title="ДОСУГ",Мама
+http://5.2.52.199:7781/udp/239.254.2.63:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МАМА" tvg-logo="" group-title="ДОСУГ",МАМА
+http://31.130.21.204:4022/udp/239.1.11.29:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МОЯ ПЛАНЕТА" tvg-logo="" group-title="ДОСУГ",МОЯ ПЛАНЕТА
+http://31.130.21.204:4022/udp/239.1.10.27:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Моя планета" tvg-logo="" group-title="ДОСУГ",Моя планета
+http://91.198.104.6:8001/udp/237.0.13.7:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Моя Планета" tvg-logo="" group-title="ДОСУГ",Моя Планета
+http://93.170.95.240:4022/udp/239.195.65.41:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мужской" tvg-logo="" group-title="ДОСУГ",Мужской
+http://5.2.52.199:7781/udp/239.254.2.75:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МУЛЬТ" tvg-logo="" group-title="ДОСУГ",МУЛЬТ
+http://37.193.123.112:81/udp/239.1.3.1:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МУЛЬТ" tvg-logo="" group-title="ДОСУГ",МУЛЬТ
+http://37.193.60.159:801/udp/239.1.3.1:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МУЛЬТ" tvg-logo="" group-title="ДОСУГ",МУЛЬТ
+http://37.194.238.106:16030/udp/239.1.3.1:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МУЛЬТ" tvg-logo="" group-title="ДОСУГ",МУЛЬТ
+http://37.194.238.106:41800/udp/239.1.3.1:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мульт" tvg-logo="" group-title="ДОСУГ",Мульт
+http://5.2.52.199:7781/udp/239.254.2.220:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мульт" tvg-logo="" group-title="ДОСУГ",Мульт
+http://93.170.95.240:4022/udp/239.195.65.66:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мульт" tvg-logo="" group-title="ДОСУГ",Мульт
+http://91.198.104.6:8001/udp/237.0.13.24:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мульт" tvg-logo="" group-title="ДОСУГ",Мульт
+http://91.198.104.6:8001/udp/237.0.13.71:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мульт музыка" tvg-logo="" group-title="ДОСУГ",Мульт музыка
+http://5.2.52.199:7781/udp/239.254.2.156:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мульт HD" tvg-logo="" group-title="ДОСУГ",Мульт HD
+http://178.163.17.34:4022/udp/234.0.0.15:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мульт HD" tvg-logo="" group-title="ДОСУГ",Мульт HD
+http://185.58.205.1:4022/udp/224.0.90.33:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мультимания" tvg-logo="" group-title="ДОСУГ",Мультимания
+http://93.170.95.240:4022/udp/239.195.65.36:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мультимузыка" tvg-logo="" group-title="ДОСУГ",Мультимузыка
+http://178.49.166.164:9999/udp/239.1.1.9:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мультимузыка" tvg-logo="" group-title="ДОСУГ",Мультимузыка
+http://37.194.238.106:16030/udp/239.1.1.9:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мультимузыка" tvg-logo="" group-title="ДОСУГ",Мультимузыка
+http://37.194.238.106:41800/udp/239.1.1.9:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мультимузыка" tvg-logo="" group-title="ДОСУГ",Мультимузыка
+http://5.129.144.130:801/udp/239.1.1.9:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мультимузыка" tvg-logo="" group-title="ДОСУГ",Мультимузыка
+http://5.128.3.247:81/udp/239.1.1.9:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МУЛЬТУникум" tvg-logo="" group-title="ДОСУГ",МУЛЬТУникум
+http://5.129.144.130:801/udp/239.1.3.5:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наша тема" tvg-logo="" group-title="ДОСУГ",Наша тема
+http://5.2.52.199:7781/udp/239.254.2.233:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наша Тема" tvg-logo="" group-title="ДОСУГ",Наша Тема
+http://93.170.95.240:4022/udp/239.195.66.2:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наше Мужское" tvg-logo="" group-title="ДОСУГ",Наше Мужское
+http://185.184.232.217:5000/udp/225.1.2.67:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наше Мужское" tvg-logo="" group-title="ДОСУГ",Наше Мужское
+http://93.170.95.240:4022/udp/239.195.65.28:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ СТИЛЬ" tvg-logo="" group-title="ДОСУГ",НТВ СТИЛЬ
+http://31.130.21.204:4022/udp/239.1.8.32:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Оружие" tvg-logo="" group-title="ДОСУГ",Оружие
+http://37.194.238.106:16030/udp/239.1.2.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Оружие" tvg-logo="" group-title="ДОСУГ",Оружие
+http://37.194.238.106:41800/udp/239.1.2.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Оружие" tvg-logo="" group-title="ДОСУГ",Оружие
+http://37.193.123.112:81/udp/239.1.2.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Оружие" tvg-logo="" group-title="ДОСУГ",Оружие
+http://37.193.60.159:801/udp/239.1.2.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Оружие" tvg-logo="" group-title="ДОСУГ",Оружие
+http://5.129.144.130:801/udp/239.1.2.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Охота" tvg-logo="" group-title="ДОСУГ",Охота
+http://5.2.52.199:7781/udp/239.254.2.237:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОХОТА И РЫБАЛКА" tvg-logo="" group-title="ДОСУГ",ОХОТА И РЫБАЛКА
+http://31.130.21.204:4022/udp/239.1.8.20:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Охота и рыбалка" tvg-logo="" group-title="ДОСУГ",Охота и рыбалка
+http://46.160.128.240:4022/udp/239.254.2.18:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Охота и рыбалка" tvg-logo="" group-title="ДОСУГ",Охота и рыбалка
+http://5.2.52.199:7781/udp/239.254.2.18:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Охота и рыбалка" tvg-logo="" group-title="ДОСУГ",Охота и рыбалка
+http://178.163.0.63:4022/udp/234.0.0.230:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Охотник HD" tvg-logo="" group-title="ДОСУГ",Охотник HD
+http://178.163.106.186:4022/udp/234.0.0.98:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Охотник HD" tvg-logo="" group-title="ДОСУГ",Охотник HD
+http://178.163.111.6:4022/udp/234.0.0.98:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пингвин" tvg-logo="" group-title="ДОСУГ",Пингвин
+http://95.215.125.167:5000/udp/225.1.2.50:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Планета" tvg-logo="" group-title="ДОСУГ",Планета
+http://5.2.52.199:7781/udp/239.254.2.61:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Поехали" tvg-logo="" group-title="ДОСУГ",Поехали
+http://178.49.166.164:9999/udp/239.1.1.29:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Поехали" tvg-logo="" group-title="ДОСУГ",Поехали
+http://37.193.123.112:81/udp/239.1.1.29:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Поехали" tvg-logo="" group-title="ДОСУГ",Поехали
+http://37.193.60.159:801/udp/239.1.1.29:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Поехали" tvg-logo="" group-title="ДОСУГ",Поехали
+http://5.129.144.130:801/udp/239.1.1.29:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Приключения" tvg-logo="" group-title="ДОСУГ",Приключения
+http://46.160.128.240:4022/udp/239.254.2.19:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Приключения" tvg-logo="" group-title="ДОСУГ",Приключения
+http://5.2.52.199:7781/udp/239.254.2.19:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Приключения HD" tvg-logo="" group-title="ДОСУГ",Приключения HD
+http://31.130.21.204:4022/udp/239.1.10.15:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Продвижение" tvg-logo="" group-title="ДОСУГ",Продвижение
+http://37.235.137.192:81/udp/225.50.66.15:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Продвижение (Москва)" tvg-logo="" group-title="ДОСУГ",Продвижение (Москва)
+http://37.209.231.99:4022/udp/238.1.1.30:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Продвижение (Москва)" tvg-logo="" group-title="ДОСУГ",Продвижение (Москва)
+http://93.170.95.240:4022/udp/239.195.65.64:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница" tvg-logo="" group-title="ДОСУГ",Пятница
+http://37.193.123.112:81/udp/239.1.15.17:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница" tvg-logo="" group-title="ДОСУГ",Пятница
+http://37.193.60.159:801/udp/239.1.15.17:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница" tvg-logo="" group-title="ДОСУГ",Пятница
+http://37.194.238.106:16030/udp/239.1.15.17:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница" tvg-logo="" group-title="ДОСУГ",Пятница
+http://37.194.238.106:41800/udp/239.1.15.17:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница" tvg-logo="" group-title="ДОСУГ",Пятница
+http://5.129.144.130:801/udp/239.1.15.17:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница" tvg-logo="" group-title="ДОСУГ",Пятница
+http://93.170.95.240:4022/udp/239.195.64.16:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница" tvg-logo="" group-title="ДОСУГ",Пятница
+http://91.198.104.6:8001/udp/237.0.10.147:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница" tvg-logo="" group-title="ДОСУГ",Пятница
+http://91.198.104.6:8001/udp/237.0.13.21:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница!" tvg-logo="" group-title="ДОСУГ",Пятница!
+http://185.58.205.1:4022/udp/224.0.90.22:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница!" tvg-logo="" group-title="ДОСУГ",Пятница!
+http://217.25.238.167:85/udp/235.1.10.90:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница! (RTRS)" tvg-logo="" group-title="ДОСУГ",Пятница! (RTRS)
+http://37.209.231.99:4022/udp/238.1.1.26:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЕН ТВ" tvg-logo="" group-title="ДОСУГ",РЕН ТВ
+http://93.170.95.240:4022/udp/239.195.64.11:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЕН ТВ (Сургут)" tvg-logo="" group-title="ДОСУГ",РЕН ТВ (Сургут)
+http://37.209.231.99:4022/udp/238.1.1.202:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЕН ТВ (Тюмень)" tvg-logo="" group-title="ДОСУГ",РЕН ТВ (Тюмень)
+http://37.209.231.99:4022/udp/238.1.1.216:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЕН ТВ (RTRS)" tvg-logo="" group-title="ДОСУГ",РЕН ТВ (RTRS)
+http://37.209.231.99:4022/udp/238.1.1.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЕН HD" tvg-logo="" group-title="ДОСУГ",РЕН HD
+http://178.49.166.164:9999/udp/239.1.1.25:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЕН HD" tvg-logo="" group-title="ДОСУГ",РЕН HD
+http://37.194.238.106:16030/udp/239.1.1.25:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЕН HD" tvg-logo="" group-title="ДОСУГ",РЕН HD
+http://37.194.238.106:41800/udp/239.1.1.25:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЕН-ТВ" tvg-logo="" group-title="ДОСУГ",РЕН-ТВ
+http://37.194.238.106:16030/udp/239.1.15.5:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЕН-ТВ" tvg-logo="" group-title="ДОСУГ",РЕН-ТВ
+http://37.194.238.106:41800/udp/239.1.15.5:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия - Культура (+2)" tvg-logo="" group-title="ДОСУГ",Россия - Культура (+2)
+http://91.198.104.6:8001/udp/237.0.10.38:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К" tvg-logo="" group-title="ДОСУГ",Россия К
+http://217.25.229.99:9998/udp/235.1.10.6:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К" tvg-logo="" group-title="ДОСУГ",Россия К
+http://217.25.238.167:85/udp/235.1.10.6:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РОССИЯ К" tvg-logo="" group-title="ДОСУГ",РОССИЯ К
+http://31.130.21.204:4022/udp/239.1.8.106:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К" tvg-logo="" group-title="ДОСУГ",Россия К
+http://37.193.123.112:81/udp/239.1.10.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К" tvg-logo="" group-title="ДОСУГ",Россия К
+http://37.193.60.159:801/udp/239.1.10.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К" tvg-logo="" group-title="ДОСУГ",Россия К
+http://37.194.238.106:16030/udp/239.1.10.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К" tvg-logo="" group-title="ДОСУГ",Россия К
+http://37.194.238.106:41800/udp/239.1.10.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К" tvg-logo="" group-title="ДОСУГ",Россия К
+http://5.129.144.130:801/udp/239.1.10.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К" tvg-logo="" group-title="ДОСУГ",Россия К
+http://5.53.18.211:4022/udp/239.72.16.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К (Сургут)" tvg-logo="" group-title="ДОСУГ",Россия К (Сургут)
+http://37.209.231.99:4022/udp/238.1.1.198:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К (Тюмень)" tvg-logo="" group-title="ДОСУГ",Россия К (Тюмень)
+http://37.209.231.99:4022/udp/238.1.1.213:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К (RTRS)" tvg-logo="" group-title="ДОСУГ",Россия К (RTRS)
+http://37.209.231.99:4022/udp/238.1.1.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РОССИЯ-К" tvg-logo="" group-title="ДОСУГ",РОССИЯ-К
+http://31.130.21.204:4022/udp/239.1.8.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РОССИЯ-К" tvg-logo="" group-title="ДОСУГ",РОССИЯ-К
+http://91.198.104.6:8001/udp/237.0.11.27:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия-К" tvg-logo="" group-title="ДОСУГ",Россия-К
+http://93.170.95.240:4022/udp/239.195.64.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рыболов" tvg-logo="" group-title="ДОСУГ",Рыболов
+http://91.198.104.6:8001/udp/237.0.10.8:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рыжий" tvg-logo="" group-title="ДОСУГ",Рыжий
+http://5.2.52.199:7781/udp/239.254.2.41:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рыжий" tvg-logo="" group-title="ДОСУГ",Рыжий
+http://91.198.104.6:8001/udp/237.0.10.20:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сарафан" tvg-logo="" group-title="ДОСУГ",Сарафан
+http://37.193.123.112:81/udp/239.1.2.11:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сарафан" tvg-logo="" group-title="ДОСУГ",Сарафан
+http://37.193.60.159:801/udp/239.1.2.11:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сарафан" tvg-logo="" group-title="ДОСУГ",Сарафан
+http://37.194.238.106:16030/udp/239.1.2.11:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сарафан" tvg-logo="" group-title="ДОСУГ",Сарафан
+http://37.194.238.106:41800/udp/239.1.2.11:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сарафан" tvg-logo="" group-title="ДОСУГ",Сарафан
+http://5.129.144.130:801/udp/239.1.2.11:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="САРАФАН" tvg-logo="" group-title="ДОСУГ",САРАФАН
+http://31.130.21.204:4022/udp/239.1.11.32:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Солнце" tvg-logo="" group-title="ДОСУГ",Солнце
+http://217.25.238.167:85/udp/235.1.10.60:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Солнце" tvg-logo="" group-title="ДОСУГ",Солнце
+http://37.193.123.112:81/udp/239.1.15.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Солнце" tvg-logo="" group-title="ДОСУГ",Солнце
+http://37.193.60.159:801/udp/239.1.15.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Солнце" tvg-logo="" group-title="ДОСУГ",Солнце
+http://37.194.238.106:16030/udp/239.1.15.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Солнце" tvg-logo="" group-title="ДОСУГ",Солнце
+http://37.194.238.106:41800/udp/239.1.15.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Солнце" tvg-logo="" group-title="ДОСУГ",Солнце
+http://5.129.144.130:801/udp/239.1.15.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Солнце" tvg-logo="" group-title="ДОСУГ",Солнце
+http://93.170.95.240:4022/udp/239.195.65.39:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СОЛНЦЕ" tvg-logo="" group-title="ДОСУГ",СОЛНЦЕ
+http://31.130.21.204:4022/udp/239.1.9.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Солнце" tvg-logo="" group-title="ДОСУГ",Солнце
+http://37.235.137.192:81/udp/225.50.66.2:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Солнце" tvg-logo="" group-title="ДОСУГ",Солнце
+http://91.198.104.6:8001/udp/237.0.13.51:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Союз" tvg-logo="" group-title="ДОСУГ",Союз
+http://185.184.232.217:5000/udp/225.1.2.65:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СОЮЗ" tvg-logo="" group-title="ДОСУГ",СОЮЗ
+http://31.130.21.204:4022/udp/239.1.9.16:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Союз" tvg-logo="" group-title="ДОСУГ",Союз
+http://37.193.123.112:81/udp/239.1.15.19:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Союз" tvg-logo="" group-title="ДОСУГ",Союз
+http://37.193.60.159:801/udp/239.1.15.19:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Союз" tvg-logo="" group-title="ДОСУГ",Союз
+http://37.194.238.106:16030/udp/239.1.15.19:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Союз" tvg-logo="" group-title="ДОСУГ",Союз
+http://37.194.238.106:41800/udp/239.1.15.19:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Союз" tvg-logo="" group-title="ДОСУГ",Союз
+http://5.129.144.130:801/udp/239.1.15.19:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Союз" tvg-logo="" group-title="ДОСУГ",Союз
+http://5.2.52.199:7781/udp/239.254.2.29:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Союз" tvg-logo="" group-title="ДОСУГ",Союз
+http://91.198.104.6:8001/udp/237.0.13.23:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Союз" tvg-logo="" group-title="ДОСУГ",Союз
+http://93.170.95.240:4022/udp/239.195.65.15:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СПАС" tvg-logo="" group-title="ДОСУГ",СПАС
+http://31.130.21.204:4022/udp/239.1.8.27:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Спас" tvg-logo="" group-title="ДОСУГ",Спас
+http://37.193.123.112:81/udp/239.1.15.22:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Спас" tvg-logo="" group-title="ДОСУГ",Спас
+http://37.193.60.159:801/udp/239.1.15.22:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Спас" tvg-logo="" group-title="ДОСУГ",Спас
+http://37.194.238.106:16030/udp/239.1.15.22:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Спас" tvg-logo="" group-title="ДОСУГ",Спас
+http://37.194.238.106:41800/udp/239.1.15.22:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Спас" tvg-logo="" group-title="ДОСУГ",Спас
+http://5.129.144.130:801/udp/239.1.15.22:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Спас" tvg-logo="" group-title="ДОСУГ",Спас
+http://91.198.104.6:8001/udp/237.0.10.104:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Спас" tvg-logo="" group-title="ДОСУГ",Спас
+http://91.198.104.6:8001/udp/237.0.10.44:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Спас" tvg-logo="" group-title="ДОСУГ",Спас
+http://93.170.95.240:4022/udp/239.195.64.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС" tvg-logo="" group-title="ДОСУГ",СТС
+http://178.163.12.210:4022/udp/234.0.0.239:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС" tvg-logo="" group-title="ДОСУГ",СТС
+http://185.58.205.1:4022/udp/224.0.90.25:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС" tvg-logo="" group-title="ДОСУГ",СТС
+http://217.25.238.167:85/udp/235.1.10.11:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС" tvg-logo="" group-title="ДОСУГ",СТС
+http://93.170.95.240:4022/udp/239.195.64.13:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС" tvg-logo="" group-title="ДОСУГ",СТС
+http://91.198.104.6:8001/udp/237.0.11.34:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС" tvg-logo="" group-title="ДОСУГ",СТС
+http://91.198.104.6:8001/udp/237.0.13.3:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС (+2)" tvg-logo="" group-title="ДОСУГ",СТС (+2)
+http://91.198.104.6:8001/udp/237.0.10.15:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС (+4)" tvg-logo="" group-title="ДОСУГ",СТС (+4)
+http://91.198.104.6:8001/udp/237.0.10.51:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС (Сургут)" tvg-logo="" group-title="ДОСУГ",СТС (Сургут)
+http://37.209.231.99:4022/udp/238.1.1.205:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС (Тюмень)" tvg-logo="" group-title="ДОСУГ",СТС (Тюмень)
+http://37.209.231.99:4022/udp/238.1.1.214:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС (RTRS)" tvg-logo="" group-title="ДОСУГ",СТС (RTRS)
+http://37.209.231.99:4022/udp/238.1.1.13:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС HD" tvg-logo="" group-title="ДОСУГ",СТС HD
+http://185.58.205.1:4022/udp/224.0.90.26:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС HD" tvg-logo="" group-title="ДОСУГ",СТС HD
+http://37.192.62.118:1234/udp/239.1.1.92:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС Love" tvg-logo="" group-title="ДОСУГ",СТС Love
+http://37.193.123.112:81/udp/239.1.3.8:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС Love" tvg-logo="" group-title="ДОСУГ",СТС Love
+http://37.193.60.159:801/udp/239.1.3.8:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС Love" tvg-logo="" group-title="ДОСУГ",СТС Love
+http://5.129.144.130:801/udp/239.1.3.8:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС Love" tvg-logo="" group-title="ДОСУГ",СТС Love
+http://93.170.95.240:4022/udp/239.195.65.17:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Суббота!" tvg-logo="" group-title="ДОСУГ",Суббота!
+http://217.25.238.167:85/udp/235.1.10.249:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Суббота!" tvg-logo="" group-title="ДОСУГ",Суббота!
+http://37.235.137.192:81/udp/225.50.66.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Суббота!" tvg-logo="" group-title="ДОСУГ",Суббота!
+http://91.198.104.6:8001/udp/237.0.11.12:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Супер" tvg-logo="" group-title="ДОСУГ",Супер
+http://178.163.106.186:4022/udp/234.0.0.100:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Супер" tvg-logo="" group-title="ДОСУГ",Супер
+http://178.163.111.6:4022/udp/234.0.0.100:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Супер +0" tvg-logo="" group-title="ДОСУГ",Супер +0
+http://93.170.95.240:4022/udp/239.195.66.1:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СуперГерои" tvg-logo="" group-title="ДОСУГ",СуперГерои
+http://37.209.231.99:4022/udp/238.1.1.176:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СуперГерои" tvg-logo="" group-title="ДОСУГ",СуперГерои
+http://93.170.95.240:4022/udp/239.195.65.38:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТБН" tvg-logo="" group-title="ДОСУГ",ТБН
+http://93.170.95.240:4022/udp/239.195.64.46:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВ-3" tvg-logo="" group-title="ДОСУГ",ТВ-3
+http://37.193.123.112:81/udp/239.1.10.4:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВ-3" tvg-logo="" group-title="ДОСУГ",ТВ-3
+http://37.193.60.159:801/udp/239.1.10.4:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВ-3" tvg-logo="" group-title="ДОСУГ",ТВ-3
+http://37.194.238.106:16030/udp/239.1.10.4:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВ-3" tvg-logo="" group-title="ДОСУГ",ТВ-3
+http://37.194.238.106:41800/udp/239.1.10.4:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВ-3" tvg-logo="" group-title="ДОСУГ",ТВ-3
+http://5.129.144.130:801/udp/239.1.10.4:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВ-3" tvg-logo="" group-title="ДОСУГ",ТВ-3
+http://93.170.95.240:4022/udp/239.195.64.15:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВ-3 (Сургут)" tvg-logo="" group-title="ДОСУГ",ТВ-3 (Сургут)
+http://37.209.231.99:4022/udp/238.1.1.203:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВ3" tvg-logo="" group-title="ДОСУГ",ТВ3
+http://91.198.104.6:8001/udp/237.0.13.6:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Твой Дом" tvg-logo="" group-title="ДОСУГ",Твой Дом
+http://178.163.106.186:4022/udp/234.0.0.106:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Твой Дом" tvg-logo="" group-title="ДОСУГ",Твой Дом
+http://93.170.95.240:4022/udp/239.195.65.48:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Театр" tvg-logo="" group-title="ДОСУГ",Театр
+http://31.130.21.204:4022/udp/239.1.11.6:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Театр" tvg-logo="" group-title="ДОСУГ",Театр
+http://95.215.125.167:5000/udp/225.1.2.60:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телекафе" tvg-logo="" group-title="ДОСУГ",Телекафе
+http://37.193.123.112:81/udp/239.1.2.18:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телекафе" tvg-logo="" group-title="ДОСУГ",Телекафе
+http://37.193.60.159:801/udp/239.1.2.18:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телекафе" tvg-logo="" group-title="ДОСУГ",Телекафе
+http://37.194.238.106:16030/udp/239.1.2.18:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телекафе" tvg-logo="" group-title="ДОСУГ",Телекафе
+http://37.194.238.106:41800/udp/239.1.2.18:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телекафе" tvg-logo="" group-title="ДОСУГ",Телекафе
+http://5.129.144.130:801/udp/239.1.2.18:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телекафе" tvg-logo="" group-title="ДОСУГ",Телекафе
+http://5.2.52.199:7781/udp/239.254.2.38:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТЕЛЕПУТЕШЕСТВИЯ" tvg-logo="" group-title="ДОСУГ",ТЕЛЕПУТЕШЕСТВИЯ
+http://31.130.21.204:4022/udp/239.1.10.26:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телепутешествия" tvg-logo="" group-title="ДОСУГ",Телепутешествия
+http://37.209.231.99:4022/udp/238.1.1.252:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телепутешествия" tvg-logo="" group-title="ДОСУГ",Телепутешествия
+http://91.198.104.6:8001/udp/237.0.10.7:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Телепутишествие" tvg-logo="" group-title="ДОСУГ",Телепутишествие
+http://5.2.52.199:7781/udp/239.254.2.45:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="ДОСУГ",ТНТ
+http://37.193.123.112:81/udp/239.1.15.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="ДОСУГ",ТНТ
+http://37.193.60.159:801/udp/239.1.15.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="ДОСУГ",ТНТ
+http://37.194.238.106:16030/udp/239.1.15.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="ДОСУГ",ТНТ
+http://37.194.238.106:41800/udp/239.1.15.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="ДОСУГ",ТНТ
+http://37.209.231.99:4022/udp/238.1.1.187:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="ДОСУГ",ТНТ
+http://5.129.144.130:801/udp/239.1.15.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="ДОСУГ",ТНТ
+http://93.170.95.240:4022/udp/239.195.64.19:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="ДОСУГ",ТНТ
+http://31.130.21.204:4022/udp/239.1.8.119:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="ДОСУГ",ТНТ
+http://91.198.104.6:8001/udp/237.0.13.20:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ (+2)" tvg-logo="" group-title="ДОСУГ",ТНТ (+2)
+http://91.198.104.6:8001/udp/237.0.11.24:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ (Тюмень)" tvg-logo="" group-title="ДОСУГ",ТНТ (Тюмень)
+http://37.209.231.99:4022/udp/238.1.1.215:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ (RTRS)" tvg-logo="" group-title="ДОСУГ",ТНТ (RTRS)
+http://37.209.231.99:4022/udp/238.1.1.20:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="ДОСУГ",ТНТ HD
+http://31.130.21.204:4022/udp/239.1.9.11:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4" tvg-logo="" group-title="ДОСУГ",ТНТ4
+http://178.163.6.29:4022/udp/234.0.0.181:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4" tvg-logo="" group-title="ДОСУГ",ТНТ4
+http://37.193.123.112:81/udp/239.1.2.16:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4" tvg-logo="" group-title="ДОСУГ",ТНТ4
+http://37.193.60.159:801/udp/239.1.2.16:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4" tvg-logo="" group-title="ДОСУГ",ТНТ4
+http://37.194.238.106:16030/udp/239.1.2.16:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4" tvg-logo="" group-title="ДОСУГ",ТНТ4
+http://37.194.238.106:41800/udp/239.1.2.16:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4" tvg-logo="" group-title="ДОСУГ",ТНТ4
+http://5.129.144.130:801/udp/239.1.2.16:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4" tvg-logo="" group-title="ДОСУГ",ТНТ4
+http://5.2.52.199:7781/udp/239.254.2.221:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4" tvg-logo="" group-title="ДОСУГ",ТНТ4
+http://93.170.95.240:4022/udp/239.195.65.50:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4" tvg-logo="" group-title="ДОСУГ",ТНТ4
+http://37.235.137.192:81/udp/225.50.66.7:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тонус" tvg-logo="" group-title="ДОСУГ",Тонус
+http://91.198.104.6:8001/udp/237.0.10.60:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тонус" tvg-logo="" group-title="ДОСУГ",Тонус
+http://5.2.52.199:7781/udp/239.254.2.31:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Три Ангела" tvg-logo="" group-title="ДОСУГ",Три Ангела
+http://93.170.95.240:4022/udp/239.195.64.44:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Уникум" tvg-logo="" group-title="ДОСУГ",Уникум
+http://37.193.123.112:81/udp/239.1.3.5:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Уникум" tvg-logo="" group-title="ДОСУГ",Уникум
+http://37.193.60.159:801/udp/239.1.3.5:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Уникум" tvg-logo="" group-title="ДОСУГ",Уникум
+http://37.194.238.106:16030/udp/239.1.3.5:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Уникум" tvg-logo="" group-title="ДОСУГ",Уникум
+http://37.194.238.106:41800/udp/239.1.3.5:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Усадьба" tvg-logo="" group-title="ДОСУГ",Усадьба
+http://178.163.12.210:4022/udp/234.0.0.220:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Усадьба" tvg-logo="" group-title="ДОСУГ",Усадьба
+http://37.193.123.112:81/udp/239.1.2.17:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Усадьба" tvg-logo="" group-title="ДОСУГ",Усадьба
+http://37.193.60.159:801/udp/239.1.2.17:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Усадьба" tvg-logo="" group-title="ДОСУГ",Усадьба
+http://37.194.238.106:16030/udp/239.1.2.17:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Усадьба" tvg-logo="" group-title="ДОСУГ",Усадьба
+http://37.194.238.106:41800/udp/239.1.2.17:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Усадьба" tvg-logo="" group-title="ДОСУГ",Усадьба
+http://5.129.144.130:801/udp/239.1.2.17:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Усадьба" tvg-logo="" group-title="ДОСУГ",Усадьба
+http://5.2.52.199:7781/udp/239.254.2.79:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Че" tvg-logo="" group-title="ДОСУГ",Че
+http://37.193.123.112:81/udp/239.1.15.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Че" tvg-logo="" group-title="ДОСУГ",Че
+http://37.193.60.159:801/udp/239.1.15.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Че" tvg-logo="" group-title="ДОСУГ",Че
+http://37.194.238.106:16030/udp/239.1.15.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Че" tvg-logo="" group-title="ДОСУГ",Че
+http://37.194.238.106:41800/udp/239.1.15.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Че" tvg-logo="" group-title="ДОСУГ",Че
+http://5.129.144.130:801/udp/239.1.15.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Че" tvg-logo="" group-title="ДОСУГ",Че
+http://93.170.95.240:4022/udp/239.195.65.51:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Че +2" tvg-logo="" group-title="ДОСУГ",Че +2
+http://37.209.231.99:4022/udp/238.1.1.25:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Че!" tvg-logo="" group-title="ДОСУГ",Че!
+http://5.2.52.199:7781/udp/239.254.2.33:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ю" tvg-logo="" group-title="ДОСУГ",Ю
+http://37.193.123.112:81/udp/239.1.15.18:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ю" tvg-logo="" group-title="ДОСУГ",Ю
+http://37.193.60.159:801/udp/239.1.15.18:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ю" tvg-logo="" group-title="ДОСУГ",Ю
+http://5.129.144.130:801/udp/239.1.15.18:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ю" tvg-logo="" group-title="ДОСУГ",Ю
+http://93.170.95.240:4022/udp/239.195.65.81:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ю" tvg-logo="" group-title="ДОСУГ",Ю
+http://37.235.137.192:81/udp/225.50.66.9:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ю" tvg-logo="" group-title="ДОСУГ",Ю
+http://93.170.95.240:4022/udp/239.195.67.3:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ю ТВ" tvg-logo="" group-title="ДОСУГ",Ю ТВ
+http://31.130.21.204:4022/udp/239.1.9.13:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ю ТВ" tvg-logo="" group-title="ДОСУГ",Ю ТВ
+http://91.198.104.6:8001/udp/237.0.13.18:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ю ТВ" tvg-logo="" group-title="ДОСУГ",Ю ТВ
+http://91.198.104.6:8001/udp/237.0.13.52:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Юмор ТВ" tvg-logo="" group-title="ДОСУГ",Юмор ТВ
+http://93.170.95.240:4022/udp/239.195.64.38:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ЮТВ" tvg-logo="" group-title="ДОСУГ",ЮТВ
+http://37.194.238.106:16030/udp/239.1.15.18:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ЮТВ" tvg-logo="" group-title="ДОСУГ",ЮТВ
+http://37.194.238.106:41800/udp/239.1.15.18:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Angel TV" tvg-logo="" group-title="ДОСУГ",Angel TV
+http://93.170.95.240:4022/udp/239.195.64.43:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Avto24" tvg-logo="" group-title="ДОСУГ",Avto24
+http://5.2.52.199:7781/udp/239.254.2.169:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVTO24" tvg-logo="" group-title="ДОСУГ",AVTO24
+http://91.198.104.6:8001/udp/237.0.10.32:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonito" tvg-logo="" group-title="ДОСУГ",Cartoonito
+http://5.2.52.199:7781/udp/239.254.2.144:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHE+0 SD" tvg-logo="" group-title="ДОСУГ",CHE+0 SD
+http://217.25.229.99:9998/udp/235.1.10.9:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHE+0 SD" tvg-logo="" group-title="ДОСУГ",CHE+0 SD
+http://217.25.238.167:85/udp/235.1.10.9:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN" tvg-logo="" group-title="ДОСУГ",CN
+http://46.160.128.240:4022/udp/239.254.2.9:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN" tvg-logo="" group-title="ДОСУГ",CN
+http://5.2.52.199:7781/udp/239.254.2.9:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTC LOVE" tvg-logo="" group-title="ДОСУГ",CTC LOVE
+http://37.194.238.106:16030/udp/239.1.3.8:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTC LOVE" tvg-logo="" group-title="ДОСУГ",CTC LOVE
+http://37.194.238.106:41800/udp/239.1.3.8:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTClove" tvg-logo="" group-title="ДОСУГ",CTClove
+http://5.2.52.199:7781/udp/239.254.2.210:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DRIVE" tvg-logo="" group-title="ДОСУГ",DRIVE
+http://91.198.104.6:8001/udp/237.0.10.34:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DTX" tvg-logo="" group-title="ДОСУГ",DTX
+http://93.170.95.240:4022/udp/239.195.65.3:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="" group-title="ДОСУГ",Fashion TV
+http://93.170.95.240:4022/udp/239.195.67.16:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food" tvg-logo="" group-title="ДОСУГ",Food
+http://5.2.52.199:7781/udp/239.254.2.86:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox live" tvg-logo="" group-title="ДОСУГ",Fox live
+http://5.2.52.199:7781/udp/239.254.2.223:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galaxy" tvg-logo="" group-title="ДОСУГ",Galaxy
+http://178.163.106.186:4022/udp/234.0.0.111:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Show" tvg-logo="" group-title="ДОСУГ",Game Show
+http://93.170.95.240:4022/udp/239.195.67.15:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gulli" tvg-logo="" group-title="ДОСУГ",Gulli
+http://178.163.0.63:4022/udp/234.0.0.153:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="gulli" tvg-logo="" group-title="ДОСУГ",gulli
+http://5.2.52.199:7781/udp/239.254.2.196:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gulli" tvg-logo="" group-title="ДОСУГ",Gulli
+http://93.170.95.240:4022/udp/239.195.65.62:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jim Jam" tvg-logo="" group-title="ДОСУГ",Jim Jam
+http://46.160.128.240:4022/udp/239.254.2.10:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jim Jam" tvg-logo="" group-title="ДОСУГ",Jim Jam
+http://5.2.52.199:7781/udp/239.254.2.10:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kaleidoskop TV" tvg-logo="" group-title="ДОСУГ",Kaleidoskop TV
+http://91.198.104.6:8001/udp/237.0.13.47:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luxury World" tvg-logo="" group-title="ДОСУГ",Luxury World
+http://93.170.95.240:4022/udp/239.195.65.5:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MagicDisney" tvg-logo="" group-title="ДОСУГ",MagicDisney
+http://46.160.128.240:4022/udp/239.254.2.1:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MagicDisney" tvg-logo="" group-title="ДОСУГ",MagicDisney
+http://5.2.52.199:7781/udp/239.254.2.1:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mama" tvg-logo="" group-title="ДОСУГ",Mama
+http://91.198.104.6:8001/udp/237.0.13.10:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mama" tvg-logo="" group-title="ДОСУГ",Mama
+http://91.198.104.6:8001/udp/237.0.13.41:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mult HD" tvg-logo="" group-title="ДОСУГ",Mult HD
+http://178.163.14.101:4022/udp/234.0.0.15:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mult HD" tvg-logo="" group-title="ДОСУГ",Mult HD
+http://178.163.4.37:4022/udp/234.0.0.15:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mult HD" tvg-logo="" group-title="ДОСУГ",Mult HD
+http://178.163.46.114:81/udp/234.0.0.15:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mult HD" tvg-logo="" group-title="ДОСУГ",Mult HD
+http://178.163.5.6:4022/udp/234.0.0.15:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mult HD" tvg-logo="" group-title="ДОСУГ",Mult HD
+http://178.163.6.29:4022/udp/234.0.0.15:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mult HD" tvg-logo="" group-title="ДОСУГ",Mult HD
+http://178.163.24.152:4022/udp/234.0.0.15:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mult HD" tvg-logo="" group-title="ДОСУГ",Mult HD
+http://178.163.28.57:4022/udp/234.0.0.15:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mult HD" tvg-logo="" group-title="ДОСУГ",Mult HD
+http://178.163.28.77:4022/udp/234.0.0.15:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multilandia" tvg-logo="" group-title="ДОСУГ",Multilandia
+http://178.163.24.152:4022/udp/234.0.0.210:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr." tvg-logo="" group-title="ДОСУГ",Nick Jr.
+http://5.2.52.199:7781/udp/239.254.2.218:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon HD" tvg-logo="" group-title="ДОСУГ",Nickelodeon HD
+http://46.160.128.240:4022/udp/239.254.2.17:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon HD" tvg-logo="" group-title="ДОСУГ",Nickelodeon HD
+http://5.2.52.199:7781/udp/239.254.2.17:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon HD" tvg-logo="" group-title="ДОСУГ",Nickelodeon HD
+http://5.2.52.199:7781/udp/239.254.2.202:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nicktoons" tvg-logo="" group-title="ДОСУГ",Nicktoons
+http://5.2.52.199:7781/udp/239.254.2.80:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O2TV" tvg-logo="" group-title="ДОСУГ",O2TV
+http://37.235.137.192:81/udp/225.50.66.151:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O2TV" tvg-logo="" group-title="ДОСУГ",O2TV
+http://91.198.104.6:8001/udp/237.0.11.8:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ocean" tvg-logo="" group-title="ДОСУГ",Ocean
+http://5.2.52.199:7781/udp/239.254.2.55:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="red" tvg-logo="" group-title="ДОСУГ",red
+http://5.2.52.199:7781/udp/239.254.2.48:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="red" tvg-logo="" group-title="ДОСУГ",red
+http://5.2.52.199:7781/udp/239.254.2.219:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RedLine" tvg-logo="" group-title="ДОСУГ",RedLine
+http://5.2.52.199:7781/udp/239.254.2.97:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTG" tvg-logo="" group-title="ДОСУГ",RTG
+http://5.2.52.199:7781/udp/239.254.2.84:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTG HD" tvg-logo="" group-title="ДОСУГ",RTG HD
+http://93.170.95.240:4022/udp/239.195.65.32:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTG Int" tvg-logo="" group-title="ДОСУГ",RTG Int
+http://93.170.95.240:4022/udp/239.195.64.32:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTG TV" tvg-logo="" group-title="ДОСУГ",RTG TV
+http://185.184.232.217:5000/udp/225.1.2.62:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTG TV" tvg-logo="" group-title="ДОСУГ",RTG TV
+http://91.198.104.6:8001/udp/237.0.10.46:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTG TV" tvg-logo="" group-title="ДОСУГ",RTG TV
+http://91.198.104.6:8001/udp/237.0.13.92:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTG TV" tvg-logo="" group-title="ДОСУГ",RTG TV
+http://93.170.95.240:4022/udp/239.195.64.41:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTG TV" tvg-logo="" group-title="ДОСУГ",RTG TV
+http://95.215.125.167:5000/udp/225.1.2.62:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sarafan" tvg-logo="" group-title="ДОСУГ",Sarafan
+http://185.184.232.217:5000/udp/225.1.2.64:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sarafan" tvg-logo="" group-title="ДОСУГ",Sarafan
+http://91.198.104.6:8001/udp/237.0.13.11:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sarafan" tvg-logo="" group-title="ДОСУГ",Sarafan
+http://91.198.104.6:8001/udp/237.0.13.42:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Silk Way HD" tvg-logo="" group-title="ДОСУГ",Silk Way HD
+http://91.198.104.6:8001/udp/237.0.13.64:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Soyz" tvg-logo="" group-title="ДОСУГ",Soyz
+http://178.163.24.152:4022/udp/234.0.0.196:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THT" tvg-logo="" group-title="ДОСУГ",THT
+http://185.58.205.1:4022/udp/224.0.90.21:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THT4" tvg-logo="" group-title="ДОСУГ",THT4
+http://91.198.104.6:8001/udp/237.0.11.10:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="THT4" tvg-logo="" group-title="ДОСУГ",THT4
+http://93.170.95.240:4022/udp/239.195.65.12:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tiji" tvg-logo="" group-title="ДОСУГ",Tiji
+http://5.2.52.199:7781/udp/239.254.2.195:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TiJi" tvg-logo="" group-title="ДОСУГ",TiJi
+http://93.170.95.240:4022/udp/239.195.65.35:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="ДОСУГ",TLC
+http://5.2.52.199:7781/udp/239.254.2.164:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="ДОСУГ",Trash HD
+http://178.163.4.37:4022/udp/234.0.0.3:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="ДОСУГ",Trash HD
+http://178.163.6.29:4022/udp/234.0.0.3:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trash HD" tvg-logo="" group-title="ДОСУГ",Trash HD
+http://5.2.52.199:7781/udp/239.254.2.214:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="travel+" tvg-logo="" group-title="ДОСУГ",travel+
+http://5.2.52.199:7781/udp/239.254.2.206:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="travel+" tvg-logo="" group-title="ДОСУГ",travel+
+http://5.2.52.199:7781/udp/239.254.2.209:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="" group-title="ДОСУГ",TV3
+http://217.25.238.167:85/udp/235.1.10.27:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="U" tvg-logo="" group-title="ДОСУГ",U
+http://5.2.52.199:7781/udp/239.254.2.155:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="U (0)" tvg-logo="" group-title="ДОСУГ",U (0)
+http://217.25.238.167:85/udp/235.1.10.22:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Usadba" tvg-logo="" group-title="ДОСУГ",Usadba
+http://31.130.21.204:4022/udp/239.1.8.37:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USADBA" tvg-logo="" group-title="ДОСУГ",USADBA
+http://91.198.104.6:8001/udp/237.0.10.23:10000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VGostyahUSkazki SD" tvg-logo="" group-title="ДОСУГ",VGostyahUSkazki SD
+http://178.163.6.29:4022/udp/234.0.0.248:2000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Fashion" tvg-logo="" group-title="ДОСУГ",World Fashion
+http://31.130.21.204:4022/udp/239.1.9.14:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Fashion Channel" tvg-logo="" group-title="ДОСУГ",World Fashion Channel
+http://93.170.95.240:4022/udp/239.195.64.33:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Fashion Channel" tvg-logo="" group-title="ДОСУГ",World Fashion Channel
+http://93.170.95.240:4022/udp/239.195.64.42:1234
