@@ -3,35 +3,35 @@
 http://58.65.205.171:8000/play/a05p
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",(X) FOX_News
 http://58.65.205.171:8000/play/a06p
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",(X) Food_Network
+#EXTINF:-1 group-title="США",(X) Food_Network
 http://58.65.205.171:8000/play/a05v
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",(X) HGTV
+#EXTINF:-1 group-title="США",(X) HGTV
 http://58.65.205.171:8000/play/a06r
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",(X) MotorVision
+#EXTINF:-1 group-title="ГЕРМАНИЯ",(X) MotorVision
 http://58.65.205.171:8000/play/a06u
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",(X) OSNtv_Comedy
 http://58.65.205.171:8000/play/a06k
-#EXTINF:-1 group-title="КОСТА-РИКА",(X) OSNtv_Crime
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",(X) OSNtv_Crime
 http://58.65.205.171:8000/play/a06h
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",(X) OSNtv_Hollywood
 http://58.65.205.171:8000/play/a06i
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",(X) OSNtv_Kids
 http://58.65.205.171:8000/play/a074
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",(X) OSNtv_Premiere
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",(X) OSNtv_Premiere
 http://58.65.205.171:8000/play/a06j
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",(X) OSNtv_Showcase
 http://58.65.205.171:8000/play/a073
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",(X) Sky_News
+#EXTINF:-1 group-title="ОАЭ",(X) Sky_News
 http://58.65.205.171:8000/play/a07f
-#EXTINF:-1 group-title="КОСТА-РИКА",(X) Sky_Sports_Cricket
+#EXTINF:-1 group-title="UK",(X) Sky_Sports_Cricket
 http://58.65.205.171:8000/play/a077
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",(X) Sky_Sports_F1
+#EXTINF:-1 group-title="UK",(X) Sky_Sports_F1
 http://58.65.205.171:8000/play/a05k
-#EXTINF:-1 group-title="США",(X) TNT_Sports_1
+#EXTINF:-1 group-title="UK",(X) TNT_Sports_1
 http://58.65.205.171:8000/play/a07b
-#EXTINF:-1 group-title="США",(X) TNT_Sports_2
+#EXTINF:-1 group-title="UK",(X) TNT_Sports_2
 http://58.65.205.171:8000/play/a072
-#EXTINF:-1 group-title="США",(X) TNT_Sports_3
+#EXTINF:-1 group-title="UK",(X) TNT_Sports_3
 http://58.65.205.171:8000/play/a075
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",(X) Travel
 http://58.65.205.171:8000/play/a05u
@@ -43,19 +43,19 @@ http://58.65.205.171:8000/play/a05m
 http://58.65.205.171:8000/play/a05n
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",PSH - AXN Spin HD
 http://58.65.205.171:8000/play/a04a
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",PSH - BBC Earth HD
+#EXTINF:-1 group-title="ВЕЛИКОБРИТАНИЯ",PSH - BBC Earth HD
 http://58.65.205.171:8000/play/a04d
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",PSH - BBC Lifestyle HD
+#EXTINF:-1 group-title="ВЕЛИКОБРИТАНИЯ",PSH - BBC Lifestyle HD
 http://58.65.205.171:8000/play/a05o
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",PSH - Baby TV HD
 http://58.65.205.171:8000/play/a04b
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",PSH - DTX
+#EXTINF:-1 group-title="SI",PSH - DTX
 http://58.65.205.171:8000/play/a04n
 #EXTINF:-1 group-title="США",PSH - FX HD
 http://58.65.205.171:8000/play/a04s
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",PSH - MTV 00s
 http://58.65.205.171:8000/play/a053
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",PSH - MTV Live HD
+#EXTINF:-1 group-title="ИТАЛИЯ",PSH - MTV Live HD
 http://58.65.205.171:8000/play/a042
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",PSH - Nat Geo People HD
 http://58.65.205.171:8000/play/a045
@@ -75,11 +75,11 @@ http://176.124.103.200:18000/kentron/index.m3u8
 http://176.124.103.200:18000/atv/index.m3u8
 #EXTINF:-1 group-title="АРМЕНИЯ",armenia HD
 http://176.124.103.200:18000/armenia/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",5tv HD
+#EXTINF:-1 group-title="LT",5tv HD
 http://176.124.103.200:18000/5tv/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",shoghakat HD
 http://176.124.103.200:18000/shoghakat/index.m3u8
-#EXTINF:-1 group-title="КОСТА-РИКА",11 - Repretel
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",11 - Repretel
 http://200.125.170.120:8000/play/a03s/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",13-Sinart
 http://200.125.170.120:8000/play/a0e6/index.m3u8
@@ -107,9 +107,9 @@ http://200.125.170.120:8000/play/a00b/index.m3u8
 http://200.125.170.120:8000/play/a0cv/index.m3u8
 #EXTINF:-1 group-title="МЕКСИКА",Azmundo
 http://200.125.170.120:8000/play/a09m/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",Azteca Deportes
+#EXTINF:-1 group-title="МЕКСИКА",Azteca Deportes
 http://200.125.170.120:8000/play/a0ek/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",BBC News
+#EXTINF:-1 group-title="ВЕЛИКОБРИТАНИЯ",BBC News
 http://200.125.170.120:8000/play/a0d8/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Baby First
 http://200.125.170.120:8000/play/a03v/index.m3u8
@@ -125,7 +125,7 @@ http://200.125.170.120:8000/play/a09j/index.m3u8
 http://200.125.170.120:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="США",CINECANAL HD
 http://200.125.170.120:8000/play/a0a3/index.m3u8
-#EXTINF:-1 group-title="США",CNBC
+#EXTINF:-1 group-title="ЯПОНИЯ",CNBC
 http://200.125.170.120:8000/play/a05o/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN Internacional
 http://200.125.170.120:8000/play/a00d/index.m3u8
@@ -135,7 +135,7 @@ http://200.125.170.120:8000/play/a0d7/index.m3u8
 http://200.125.170.120:8000/play/a0e3/index.m3u8
 #EXTINF:-1 group-title="ГОНДУРАС",Canal 11 - HON
 http://200.125.170.120:8000/play/a0ec/index.m3u8
-#EXTINF:-1 group-title="КОЛУМБИЯ",Canal 12 - NI
+#EXTINF:-1 group-title="НИКАРАГУА",Canal 12 - NI
 http://200.125.170.120:8000/play/a0ed/index.m3u8
 #EXTINF:-1 group-title="САЛЬВАДОР",Canal 4 HD ESA
 http://200.125.170.120:8000/play/a0e4/index.m3u8
@@ -143,7 +143,7 @@ http://200.125.170.120:8000/play/a0e4/index.m3u8
 http://200.125.170.120:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="ГОНДУРАС",Canal 8 TNH HN
 http://200.125.170.120:8000/play/a0e1/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",Canal del Congreso
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal del Congreso
 http://200.125.170.120:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",Caracol
 http://200.125.170.120:8000/play/a0er/index.m3u8
@@ -223,9 +223,9 @@ http://200.125.170.120:8000/play/a0et/index.m3u8
 http://200.125.170.120:8000/play/a0d9/index.m3u8
 #EXTINF:-1 group-title="МЕКСИКА",Golden
 http://200.125.170.120:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Golden Premiere 2 HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Golden Premiere 2 HD
 http://200.125.170.120:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Golden Premiere HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Golden Premiere HD
 http://200.125.170.120:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Golf Channel HD
 http://200.125.170.120:8000/play/a038/index.m3u8
@@ -257,13 +257,13 @@ http://200.125.170.120:8000/play/a04j/index.m3u8
 http://200.125.170.120:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",LIFE TIME
 http://200.125.170.120:8000/play/a0d0/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",La voz de Maria
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",La voz de Maria
 http://200.125.170.120:8000/play/a05d/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Latin America Sport
 http://200.125.170.120:8000/play/a046/index.m3u8
 #EXTINF:-1 group-title="ИТАЛИЯ",MTV HD
 http://200.125.170.120:8000/play/a0de/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",Mas Chic
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Mas Chic
 http://200.125.170.120:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Multicinema
 http://200.125.170.120:8000/play/a04c/index.m3u8
@@ -403,13 +403,13 @@ http://185.248.173.79:9999/play/a013/index.m3u8
 http://185.248.173.79:9999/play/a014/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",BIR TV
 http://185.248.173.79:9999/play/a574w/index.m3u8
-#EXTINF:-1 group-title="ПЕРУ",DobraTV Cinema
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",DobraTV Cinema
 http://185.248.173.79:9999/play/sed4/index.m3u8
-#EXTINF:-1 group-title="ПЕРУ",DobraTV Islam
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",DobraTV Islam
 http://185.248.173.79:9999/play/a008/index.m3u8
-#EXTINF:-1 group-title="ПЕРУ",DobraTV Shqiptare
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",DobraTV Shqiptare
 http://185.248.173.79:9999/play/ar32/index.m3u8
-#EXTINF:-1 group-title="ПЕРУ",DobraTV Svadba/Sevdah
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",DobraTV Svadba/Sevdah
 http://185.248.173.79:9999/play/svadbasev/index.m3u8
 #EXTINF:-1 group-title="НИДЕРЛАНДЫ",DocuBox HD
 http://185.248.173.79:9999/play/docubox/index.m3u8
@@ -421,7 +421,7 @@ http://185.248.173.79:9999/play/a00n/index.m3u8
 http://185.248.173.79:9999/play/a00m/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",FilmBox Extra-TRANS
 http://185.248.173.79:9999/play/a00s/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",FilmBox Plus
+#EXTINF:-1 group-title="НИДЕРЛАНДЫ",FilmBox Plus
 http://185.248.173.79:9999/play/a00p/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",K:CN1
 http://185.248.173.79:9999/play/kcn1/index.m3u8
@@ -429,11 +429,11 @@ http://185.248.173.79:9999/play/kcn1/index.m3u8
 http://185.248.173.79:9999/play/kcn2/index.m3u8
 #EXTINF:-1 group-title="СЕРБИЯ",K:CN3
 http://185.248.173.79:9999/play/kcn3/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",KANAL 5
+#EXTINF:-1 group-title="МАКЕДОНИЯ",KANAL 5
 http://185.248.173.79:9999/play/a00w/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",MTV Igman
 http://185.248.173.79:9999/play/a087a/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",N1 HR
+#EXTINF:-1 group-title="ХОРВАТИЯ",N1 HR
 http://185.248.173.79:9999/play/a00q/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",RTL HD.-HR
 http://185.248.173.79:9999/play/a00a/index.m3u8
@@ -445,9 +445,9 @@ http://185.248.173.79:9999/play/puls/index.m3u8
 http://185.248.173.79:9999/play/a00c/index.m3u8
 #EXTINF:-1 group-title="НИДЕРЛАНДЫ",SK1
 http://185.248.173.79:9999/play/a015/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",SK2 (clone)
+#EXTINF:-1 group-title="НИДЕРЛАНДЫ",SK2 (clone)
 http://185.248.173.79:9999/play/a016/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",SK3 (clone) (clone)
+#EXTINF:-1 group-title="НИДЕРЛАНДЫ",SK3 (clone) (clone)
 http://185.248.173.79:9999/play/a017/index.m3u8
 #EXTINF:-1 group-title="КОСТА-РИКА",STAR CRIME_ FOX
 http://185.248.173.79:9999/play/a01g/index.m3u8
@@ -461,13 +461,13 @@ http://185.248.173.79:9999/play/a004/index.m3u8
 http://185.248.173.79:9999/play/a00j/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",SUPER SPORT 7
 http://185.248.173.79:9999/play/a00k/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Saudi HD Mekka
+#EXTINF:-1 group-title="САУДОВСКАЯ АРАВИЯ",Saudi HD Mekka
 http://185.248.173.79:9999/play/saudihd/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Sitel MK
+#EXTINF:-1 group-title="МАКЕДОНИЯ",Sitel MK
 http://185.248.173.79:9999/play/a018/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Super TV -media
 http://185.248.173.79:9999/play/2hayat/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",SuperSport 2
+#EXTINF:-1 group-title="АЛБАНИЯ",SuperSport 2
 http://185.248.173.79:9999/play/arep/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",TEK RUMELI TV
 http://185.248.173.79:9999/play/a00e/index.m3u8
@@ -529,7 +529,7 @@ http://181.78.1.158:8000/play/a0dt/index.m3u8
 http://181.78.1.158:8000/play/a0dp/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",0.BABY TV
 http://181.78.1.158:8000/play/a0ge/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",0.CANAL LOCAL
+#EXTINF:-1 group-title="ИСПАНИЯ",0.CANAL LOCAL
 http://181.78.1.158:8000/play/a0g0/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",0.CINE CANAL
 http://181.78.1.158:8000/play/a0gx/index.m3u8
@@ -577,7 +577,7 @@ http://181.78.1.158:8000/play/a0f9/index.m3u8
 http://181.78.1.158:8000/play/a0f7/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",2. TELENOSTALGIA EQUIPO GLOBAL
 http://181.78.1.158:8000/play/a0f8/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",3. TELEMEDELLIN SRT
+#EXTINF:-1 group-title="КОЛУМБИЯ",3. TELEMEDELLIN SRT
 http://181.78.1.158:8000/play/a0db/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",AVIVAMIENTO
 http://181.78.1.158:8000/play/a0gr/index.m3u8
@@ -591,7 +591,7 @@ http://181.78.1.158:8000/play/a0h2/index.m3u8
 http://181.78.1.158:8000/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Baby TV
 http://181.78.1.158:8000/play/a0ia/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",CNN Español
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN Español
 http://181.78.1.158:8000/play/a0ic/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",CRISTOVISION
 http://181.78.1.158:8000/play/a0gq/index.m3u8
@@ -599,11 +599,11 @@ http://181.78.1.158:8000/play/a0gq/index.m3u8
 http://181.78.1.158:8000/play/a0fj/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal Capital
 http://181.78.1.158:8000/play/a0ja/index.m3u8
-#EXTINF:-1 group-title="КОЛУМБИЯ",Canal 13
+#EXTINF:-1 group-title="ЧИЛИ",Canal 13
 http://181.78.1.158:8000/play/a0j7/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal TRO
 http://181.78.1.158:8000/play/a0j8/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",Canal del Congreso
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal del Congreso
 http://181.78.1.158:8000/play/a0j4/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",Caracol HD
 http://181.78.1.158:8000/play/a07t/index.m3u8
@@ -619,7 +619,7 @@ http://181.78.1.158:8000/play/a0hw/index.m3u8
 http://181.78.1.158:8000/play/a09t/index.m3u8
 #EXTINF:-1 group-title="США",DHE
 http://181.78.1.158:8000/play/a0hp/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",DW Espaæol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",DW Espaæol
 http://181.78.1.158:8000/play/a0jh/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",De Peliculas
 http://181.78.1.158:8000/play/a0g3/index.m3u8
@@ -655,7 +655,7 @@ http://181.78.1.158:8000/play/a0hz/index.m3u8
 http://181.78.1.158:8000/play/a0ht/index.m3u8
 #EXTINF:-1 group-title="США",ESPN HD
 http://181.78.1.158:8000/play/a0hf/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",ESPN Premium HD
+#EXTINF:-1 group-title="США",ESPN Premium HD
 http://181.78.1.158:8000/play/a0hq/index.m3u8
 #EXTINF:-1 group-title="США",EWTN
 http://181.78.1.158:8000/play/a0gn/index.m3u8
@@ -689,7 +689,7 @@ http://181.78.1.158:8000/play/a0ib/index.m3u8
 http://181.78.1.158:8000/play/a0h1/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",ID HD
 http://181.78.1.158:8000/play/a0hc/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Las Estrellas HD
+#EXTINF:-1 group-title="МЕКСИКА",Las Estrellas HD
 http://181.78.1.158:8000/play/a0hk/index.m3u8
 #EXTINF:-1 group-title="США",Lifetime
 http://181.78.1.158:8000/play/a0io/index.m3u8
@@ -699,7 +699,7 @@ http://181.78.1.158:8000/play/a0is/index.m3u8
 http://181.78.1.158:8000/play/a0i4/index.m3u8
 #EXTINF:-1 group-title="АРГЕНТИНА",MÆsChic
 http://181.78.1.158:8000/play/a0jf/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",NTN 24 Horas
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",NTN 24 Horas
 http://181.78.1.158:8000/play/a0jg/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Nat Geo
 http://181.78.1.158:8000/play/a0h5/index.m3u8
@@ -717,7 +717,7 @@ http://181.78.1.158:8000/play/a0hl/index.m3u8
 http://181.78.1.158:8000/play/a0jm/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",RCN HD
 http://181.78.1.158:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title="КОЛУМБИЯ",Seæal Colombia
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Seæal Colombia
 http://181.78.1.158:8000/play/a0j3/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Sony HD
 http://181.78.1.158:8000/play/a0h9/index.m3u8
@@ -763,7 +763,7 @@ http://181.78.1.158:8000/play/a0bz/index.m3u8
 http://181.78.1.158:8000/play/a0ha/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",Win Sports+ HD
 http://181.78.1.158:8000/play/a0jy/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",123 TV
+#EXTINF:-1 group-title="LT",123 TV
 http://200.59.188.3:8000/play/a08r
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ALBA TV
 http://200.59.188.3:8000/play/a08s
@@ -781,7 +781,7 @@ http://200.59.188.3:8000/play/a0t7
 http://200.59.188.3:8000/play/a0xh
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Avila TV
 http://200.59.188.3:8000/play/a092
-#EXTINF:-1 group-title="ГЕРМАНИЯ",Azteca Deportes
+#EXTINF:-1 group-title="МЕКСИКА",Azteca Deportes
 http://200.59.188.3:8000/play/a0zn
 #EXTINF:-1 group-title="МЕКСИКА",Azteca Internacional
 http://200.59.188.3:8000/play/a0zo
@@ -791,7 +791,7 @@ http://200.59.188.3:8000/play/a0yj
 http://200.59.188.3:8000/play/a0yi
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Baby First
 http://200.59.188.3:8000/play/a105
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Bein sports x ñ
+#EXTINF:-1 group-title="КАТАР",Bein sports x ñ
 http://200.59.188.3:8000/play/a0cm
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Bjgtjme
 http://200.59.188.3:8000/play/a0c1
@@ -803,7 +803,7 @@ http://200.59.188.3:8000/play/a09h
 http://200.59.188.3:8000/play/a09g
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",CLAVE
 http://200.59.188.3:8000/play/a08i
-#EXTINF:-1 group-title="ИСПАНИЯ",CNN Espanol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN Espanol
 http://200.59.188.3:8000/play/a06d
 #EXTINF:-1 group-title="ВЕНЕСУЭЛА",COLOMBEIA
 http://200.59.188.3:8000/play/a08q
@@ -813,11 +813,11 @@ http://200.59.188.3:8000/play/a0yx
 http://200.59.188.3:8000/play/a039
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal Claro
 http://200.59.188.3:8000/play/a07t
-#EXTINF:-1 group-title="ИСПАНИЯ",Canal Estrellas
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal Estrellas
 http://200.59.188.3:8000/play/a07m
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canela Cinema
 http://200.59.188.3:8000/play/a10i
-#EXTINF:-1 group-title="МЕКСИКА",Canela Clasicos Mex
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canela Clasicos Mex
 http://200.59.188.3:8000/play/a0z6
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canela Novelas
 http://200.59.188.3:8000/play/a0ei
@@ -833,7 +833,7 @@ http://200.59.188.3:8000/play/a05j
 http://200.59.188.3:8000/play/a0te
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ConCiencia TV
 http://200.59.188.3:8000/play/a08t
-#EXTINF:-1 group-title="XK",DTV
+#EXTINF:-1 group-title="КОСОВО",DTV
 http://200.59.188.3:8000/play/a0xw
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Directv Sport HD
 http://200.59.188.3:8000/play/a0xe
@@ -861,7 +861,7 @@ http://200.59.188.3:8000/play/a05m
 http://200.59.188.3:8000/play/a0zm
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Esne TV
 http://200.59.188.3:8000/play/a046
-#EXTINF:-1 group-title="ГЕРМАНИЯ",FOX Deportes
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",FOX Deportes
 http://200.59.188.3:8000/play/a0yb
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",FRANCE 24 HD
 http://200.59.188.3:8000/play/a0gb
@@ -871,9 +871,9 @@ http://200.59.188.3:8000/play/a10v
 http://200.59.188.3:8000/play/a10t
 #EXTINF:-1 group-title="ВЕНЕСУЭЛА",GLOBOVISION
 http://200.59.188.3:8000/play/a093
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Golden Premiere 2 HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Golden Premiere 2 HD
 http://200.59.188.3:8000/play/a0zt
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Golden Premiere HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Golden Premiere HD
 http://200.59.188.3:8000/play/a0zs
 #EXTINF:-1 group-title="США",HBO Family-Wilmer
 http://200.59.188.3:8000/play/a0v8
@@ -891,7 +891,7 @@ http://200.59.188.3:8000/play/a0xd
 http://200.59.188.3:8000/play/a0au
 #EXTINF:-1 group-title="ПЕРУ",Latina
 http://200.59.188.3:8000/play/a10r
-#EXTINF:-1 group-title="ПЕРУ",Latina-Wilmer
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Latina-Wilmer
 http://200.59.188.3:8000/play/a0yt
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Lucha +
 http://200.59.188.3:8000/play/a0zd
@@ -901,11 +901,11 @@ http://200.59.188.3:8000/play/a08h
 http://200.59.188.3:8000/play/a0e0
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Mas Talk
 http://200.59.188.3:8000/play/a10q
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Meridiano
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",Meridiano
 http://200.59.188.3:8000/play/a096
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Mundo Peq
 http://200.59.188.3:8000/play/a0ed
-#EXTINF:-1 group-title="АРГЕНТИНА",NTN 24 Horas
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",NTN 24 Horas
 http://200.59.188.3:8000/play/a0pj
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Narco Drama
 http://200.59.188.3:8000/play/a0z4
@@ -935,7 +935,7 @@ http://200.59.188.3:8000/play/a0gg
 http://200.59.188.3:8000/play/a0y2
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Salsa Caribe
 http://200.59.188.3:8000/play/a09y
-#EXTINF:-1 group-title="ВЕНЕСУЭЛА",Show Ven TV
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Show Ven TV
 http://200.59.188.3:8000/play/a090
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Sony-Wilmer
 http://200.59.188.3:8000/play/a0yz
@@ -999,9 +999,9 @@ http://200.59.188.3:8000/play/a0zg
 http://200.59.188.3:8000/play/a09i
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",VPACO TV
 http://200.59.188.3:8000/play/a09d
-#EXTINF:-1 group-title="УРУГВАЙ",VTV
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",VTV
 http://200.59.188.3:8000/play/a08l
-#EXTINF:-1 group-title="УРУГВАЙ",VTV HD
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",VTV HD
 http://200.59.188.3:8000/play/a0iv
 #EXTINF:-1 group-title="ВЕНЕСУЭЛА",Venevision
 http://200.59.188.3:8000/play/a095
@@ -1093,7 +1093,7 @@ http://181.119.83.235:8000/play/C060/index.m3u8
 http://181.119.83.235:8000/play/C061/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",C 62 CANAL 9
 http://181.119.83.235:8000/play/C062/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",C 64 TLT HD
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",C 64 TLT HD
 http://181.119.83.235:8000/play/C064/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",C 65 TVFANB
 http://181.119.83.235:8000/play/C065/index.m3u8
@@ -1107,7 +1107,7 @@ http://181.119.83.235:8000/play/C069/index.m3u8
 http://181.119.83.235:8000/play/C070/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",C 71 VISION TV
 http://181.119.83.235:8000/play/C071/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",C 72 EXTREMA AR
+#EXTINF:-1 group-title="АРГЕНТИНА",C 72 EXTREMA AR
 http://181.119.83.235:8000/play/C072/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",C 73 COSMOS TV
 http://181.119.83.235:8000/play/C073/index.m3u8
@@ -1121,13 +1121,13 @@ http://181.119.83.235:8000/play/C077/index.m3u8
 http://181.119.83.235:8000/play/C078/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",C 79 EXTREMA
 http://181.119.83.235:8000/play/C079/index.m3u8
-#EXTINF:-1 group-title="КОЛУМБИЯ",C 81 Canal 11
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",C 81 Canal 11
 http://181.119.83.235:8000/play/C081/index.m3u8
 #EXTINF:-1 group-title="ГОНДУРАС",C 82 HCH
 http://181.119.83.235:8000/play/C082/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",C 83 Meridiano
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",C 83 Meridiano
 http://181.119.83.235:8000/play/C083/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",C 84 CGTN Documentary
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",C 84 CGTN Documentary
 http://181.119.83.235:8000/play/C084/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",C 85 RTV
 http://181.119.83.235:8000/play/C085/index.m3u8
@@ -1137,7 +1137,7 @@ http://181.119.83.235:8000/play/C086/index.m3u8
 http://181.119.83.235:8000/play/C087/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",C 88 VPACO TV
 http://181.119.83.235:8000/play/C088/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",C 89 VTV
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",C 89 VTV
 http://181.119.83.235:8000/play/C089/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",C 90 DTV
 http://181.119.83.235:8000/play/C090/index.m3u8
@@ -1147,7 +1147,7 @@ http://181.119.83.235:8000/play/a03l/index.m3u8
 http://154.197.91.169:8000/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Al Aoula Inter HD
 http://154.197.91.169:8000/play/a0gx/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",Al Jazeera Documentary HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Al Jazeera Documentary HD
 http://154.197.91.169:8000/play/a0hg/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Al Jazeera English HD
 http://154.197.91.169:8000/play/a0hf/index.m3u8
@@ -1159,25 +1159,25 @@ http://154.197.91.169:8000/play/a0hh/index.m3u8
 http://154.197.91.169:8000/play/a0he/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Al Maghribia HD
 http://154.197.91.169:8000/play/a0gv/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Alkass four HD
+#EXTINF:-1 group-title="КАТАР",Alkass four HD
 http://154.197.91.169:8000/play/a0hr/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Alkass one HD
+#EXTINF:-1 group-title="КАТАР",Alkass one HD
 http://154.197.91.169:8000/play/a0hp/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Alkass three HD
+#EXTINF:-1 group-title="КАТАР",Alkass three HD
 http://154.197.91.169:8000/play/a0ho/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Alkass two HD
+#EXTINF:-1 group-title="КАТАР",Alkass two HD
 http://154.197.91.169:8000/play/a0hq/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Almajd 01
+#EXTINF:-1 group-title="САУДОВСКАЯ АРАВИЯ",Almajd 01
 http://154.197.91.169:8000/play/a0g9/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Almajd 02
+#EXTINF:-1 group-title="САУДОВСКАЯ АРАВИЯ",Almajd 02
 http://154.197.91.169:8000/play/a0ga/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Almajd 03
+#EXTINF:-1 group-title="САУДОВСКАЯ АРАВИЯ",Almajd 03
 http://154.197.91.169:8000/play/a0gb/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Almajd 04
+#EXTINF:-1 group-title="САУДОВСКАЯ АРАВИЯ",Almajd 04
 http://154.197.91.169:8000/play/a0gc/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Almajd 05
+#EXTINF:-1 group-title="САУДОВСКАЯ АРАВИЯ",Almajd 05
 http://154.197.91.169:8000/play/a0gd/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Almajd 08
+#EXTINF:-1 group-title="САУДОВСКАЯ АРАВИЯ",Almajd 08
 http://154.197.91.169:8000/play/a0gg/index.m3u8
 #EXTINF:-1 group-title="MA",Arryadia HD
 http://154.197.91.169:8000/play/a0ht/index.m3u8
@@ -1195,9 +1195,9 @@ http://154.197.91.169:8000/play/a0gy/index.m3u8
 http://154.197.91.169:8000/play/a0gw/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Tamazight HD
 http://154.197.91.169:8000/play/a0h1/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",beIN SPORTS
+#EXTINF:-1 group-title="КАТАР",beIN SPORTS
 http://154.197.91.169:8000/play/a0f3/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",beIN SPORTS NEWS
+#EXTINF:-1 group-title="КАТАР",beIN SPORTS NEWS
 http://154.197.91.169:8000/play/a0fq/index.m3u8
 #EXTINF:-1 group-title="САУДОВСКАЯ АРАВИЯ",thmanyah.1
 http://154.197.91.169:8000/play/a0hk/index.m3u8
@@ -1249,7 +1249,7 @@ http://177.10.184.193:8000/play/a03v/index.m3u8
 http://177.10.184.193:8000/play/a0ez/index.m3u8
 #EXTINF:-1 group-title="ГОНДУРАС",Canal 11 - HON
 http://177.10.184.193:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="ДОМИНИКАНА",Canal 3 Telesistemas HND
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal 3 Telesistemas HND
 http://177.10.184.193:8000/play/a0ep/index.m3u8
 #EXTINF:-1 group-title="ГОНДУРАС",Canal 5 - HON
 http://177.10.184.193:8000/play/a04p/index.m3u8
@@ -1259,7 +1259,7 @@ http://177.10.184.193:8000/play/a0ah/index.m3u8
 http://177.10.184.193:8000/play/a0dw/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal Claro
 http://177.10.184.193:8000/play/a0do/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal VTV HND
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",Canal VTV HND
 http://177.10.184.193:8000/play/a05e/index.m3u8
 #EXTINF:-1 group-title="UK",Cartoonito
 http://177.10.184.193:8000/play/a03e/index.m3u8
@@ -1343,13 +1343,13 @@ http://177.10.184.193:8000/play/a0f1/index.m3u8
 http://177.10.184.193:8000/play/a048/index.m3u8
 #EXTINF:-1 group-title="США",FX HD
 http://177.10.184.193:8000/play/a0d2/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",Fiesta de Milagros tv
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Fiesta de Milagros tv
 http://177.10.184.193:8000/play/a0eg/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Film & arts HD
 http://177.10.184.193:8000/play/a0cy/index.m3u8
 #EXTINF:-1 group-title="МЕКСИКА",Golden
 http://177.10.184.193:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Golden Premiere 2 HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Golden Premiere 2 HD
 http://177.10.184.193:8000/play/a02v/index.m3u8
 #EXTINF:-1 group-title="США",H2
 http://177.10.184.193:8000/play/a04b/index.m3u8
@@ -1379,7 +1379,7 @@ http://177.10.184.193:8000/play/a02l/index.m3u8
 http://177.10.184.193:8000/play/a0ev/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",LIFE TIME
 http://177.10.184.193:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",La voz de Maria
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",La voz de Maria
 http://177.10.184.193:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Latin America Sport
 http://177.10.184.193:8000/play/a04h/index.m3u8
@@ -1393,7 +1393,7 @@ http://177.10.184.193:8000/play/a03r/index.m3u8
 http://177.10.184.193:8000/play/a042/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",MTV SIM HD
 http://177.10.184.193:8000/play/a09r/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",Mas Chic
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Mas Chic
 http://177.10.184.193:8000/play/a069/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Multicinema
 http://177.10.184.193:8000/play/a04m/index.m3u8
@@ -1435,7 +1435,7 @@ http://177.10.184.193:8000/play/a0eu/index.m3u8
 http://177.10.184.193:8000/play/a056/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",SULA TV
 http://177.10.184.193:8000/play/a0e3/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",SUYAPA TV
+#EXTINF:-1 group-title="ГОНДУРАС",SUYAPA TV
 http://177.10.184.193:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Sembrador
 http://177.10.184.193:8000/play/a04n/index.m3u8
@@ -1529,7 +1529,7 @@ http://202.164.50.194:8000/play/a004/index.m3u8
 http://202.164.50.194:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",7S MUSIC
 http://202.164.50.194:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="ПЕРУ",99 Percent
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",99 Percent
 http://202.164.50.194:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",9X JALWA
 http://202.164.50.194:8000/play/a01h/index.m3u8
@@ -1537,7 +1537,7 @@ http://202.164.50.194:8000/play/a01h/index.m3u8
 http://202.164.50.194:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",9X TASHAN
 http://202.164.50.194:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",9XM
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",9XM
 http://202.164.50.194:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",AASEERVATHAM TV
 http://202.164.50.194:8000/play/a02p/index.m3u8
@@ -1551,7 +1551,7 @@ http://202.164.50.194:8000/play/a02w/index.m3u8
 http://202.164.50.194:8000/play/a03j/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ARGUS
 http://202.164.50.194:8000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",ARYAN TV NATIONAL
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",ARYAN TV NATIONAL
 http://202.164.50.194:8000/play/a055/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ASSAM TALKS
 http://202.164.50.194:8000/play/a054/index.m3u8
@@ -1573,7 +1573,7 @@ http://202.164.50.194:8000/play/a005/index.m3u8
 http://202.164.50.194:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Bharat Samachar
 http://202.164.50.194:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="США",CBSN
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CBSN
 http://202.164.50.194:8000/play/a063/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Channel Win
 http://202.164.50.194:8000/play/a01b/index.m3u8
@@ -1591,13 +1591,13 @@ http://202.164.50.194:8000/play/a00q/index.m3u8
 http://202.164.50.194:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",DARSHAN 24
 http://202.164.50.194:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",DD India HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",DD India HD
 http://202.164.50.194:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",DD News HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",DD News HD
 http://202.164.50.194:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",DD SANSAD TV HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",DD SANSAD TV HD
 http://202.164.50.194:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",DD SPORTS HD 2.0
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",DD SPORTS HD 2.0
 http://202.164.50.194:8000/play/a05f/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",DD- SANSAD TV-RAJYA SABHA
 http://202.164.50.194:8000/play/a05b/index.m3u8
@@ -1639,7 +1639,7 @@ http://202.164.50.194:8000/play/a02x/index.m3u8
 http://202.164.50.194:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Goldmines Action
 http://202.164.50.194:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="БОЛИВИЯ",Goldmines Bollywood
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Goldmines Bollywood
 http://202.164.50.194:8000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Gujarat First
 http://202.164.50.194:8000/play/a046/index.m3u8
@@ -1671,7 +1671,7 @@ http://202.164.50.194:8000/play/a02k/index.m3u8
 http://202.164.50.194:8000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",KANAK NEWS
 http://202.164.50.194:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="США",KHUSHBOO
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",KHUSHBOO
 http://202.164.50.194:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Kannada Naaptol
 http://202.164.50.194:8000/play/a042/index.m3u8
@@ -1687,11 +1687,11 @@ http://202.164.50.194:8000/play/a021/index.m3u8
 http://202.164.50.194:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",MANORAMA NEWS
 http://202.164.50.194:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",MANORANJAN GRAND
+#EXTINF:-1 group-title="ИНДИЯ",MANORANJAN GRAND
 http://202.164.50.194:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="ПУЭРТО-РИКО",MANORANJAN PRIME
 http://202.164.50.194:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",MANORANJAN TV
+#EXTINF:-1 group-title="ИНДИЯ",MANORANJAN TV
 http://202.164.50.194:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",MASTIII
 http://202.164.50.194:8000/play/a018/index.m3u8
@@ -1701,7 +1701,7 @@ http://202.164.50.194:8000/play/a04u/index.m3u8
 http://202.164.50.194:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",MH ONE
 http://202.164.50.194:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",MH ONE DIL SE
+#EXTINF:-1 group-title="ШВЕЦИЯ",MH ONE DIL SE
 http://202.164.50.194:8000/play/a03x/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",MH ONE NEWS
 http://202.164.50.194:8000/play/a03u/index.m3u8
@@ -1729,7 +1729,7 @@ http://202.164.50.194:8000/play/a00k/index.m3u8
 http://202.164.50.194:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",NEWS 24
 http://202.164.50.194:8000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",NEWS LIVE
+#EXTINF:-1 group-title="ИНДИЯ",NEWS LIVE
 http://202.164.50.194:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",NEWS STATE BH/JH
 http://202.164.50.194:8000/play/a01y/index.m3u8
@@ -1755,9 +1755,9 @@ http://202.164.50.194:8000/play/a01x/index.m3u8
 http://202.164.50.194:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",News Nation
 http://202.164.50.194:8000/play/a035/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",News State Madhya Pradesh/Chhattisgarh
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",News State Madhya Pradesh/Chhattisgarh
 http://202.164.50.194:8000/play/a037/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",News State Uttarakhand/Uttar Pradesh
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",News State Uttarakhand/Uttar Pradesh
 http://202.164.50.194:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",OM TV
 http://202.164.50.194:8000/play/a01t/index.m3u8
@@ -1799,11 +1799,11 @@ http://202.164.50.194:8000/play/a01k/index.m3u8
 http://202.164.50.194:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",SANT WANI
 http://202.164.50.194:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",SHEMAROO MARATHIBANA
+#EXTINF:-1 group-title="ИНДИЯ",SHEMAROO MARATHIBANA
 http://202.164.50.194:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",SHEMAROO TV
+#EXTINF:-1 group-title="ИНДИЯ",SHEMAROO TV
 http://202.164.50.194:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",SHEMAROO UMANG
+#EXTINF:-1 group-title="ИНДИЯ",SHEMAROO UMANG
 http://202.164.50.194:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",SIRIKANNADA ALL TIME
 http://202.164.50.194:8000/play/a02q/index.m3u8
@@ -1815,7 +1815,7 @@ http://202.164.50.194:8000/play/a030/index.m3u8
 http://202.164.50.194:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Sach Bedhadak
 http://202.164.50.194:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Sadhna Prime News
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Sadhna Prime News
 http://202.164.50.194:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Sangeet Bangla
 http://202.164.50.194:8000/play/a014/index.m3u8
@@ -1849,11 +1849,11 @@ http://202.164.50.194:8000/play/a03b/index.m3u8
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",050) Fashion
 http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ",060) Заглушка
+#EXTINF:-1 group-title="TN",060) Заглушка
 http://91.247.68.229:8000/play/Zag/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ",063) ПРНК HD
+#EXTINF:-1 group-title="TN",063) ПРНК HD
 http://91.247.68.229:8000/play/prnk_HD/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",3ABN
+#EXTINF:-1 group-title="США",3ABN
 http://181.119.85.222:8000/play/a037/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",3ACINE
 http://181.119.85.222:8000/play/a005/index.m3u8
@@ -1895,7 +1895,7 @@ http://181.119.85.222:8000/play/a031/index.m3u8
 http://181.119.85.222:8000/play/a03j/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",CABLENOTICIAS
 http://181.119.85.222:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="КОЛУМБИЯ",CANAL 13
+#EXTINF:-1 group-title="ЧИЛИ",CANAL 13
 http://181.119.85.222:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",CANAL 8
 http://181.119.85.222:8000/play/a027/index.m3u8
@@ -2059,7 +2059,7 @@ http://181.119.85.222:8000/play/a02h/index.m3u8
 http://181.119.85.222:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="МЕКСИКА",MULTIPREMIER
 http://181.119.85.222:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Meridiano
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",Meridiano
 http://181.119.85.222:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",NAT GEO HD
 http://181.119.85.222:8000/play/a017/index.m3u8
@@ -2129,7 +2129,7 @@ http://181.119.85.222:8000/play/a042/index.m3u8
 http://181.119.85.222:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",TV AGRO
 http://181.119.85.222:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",TV PUBLICA HD
+#EXTINF:-1 group-title="АРГЕНТИНА",TV PUBLICA HD
 http://181.119.85.222:8000/play/a050/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",UNIVERSAL
 http://181.119.85.222:8000/play/a00x/index.m3u8
@@ -2141,7 +2141,7 @@ http://181.119.85.222:8000/play/a007/index.m3u8
 http://181.119.85.222:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",USA
 http://181.119.85.222:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="УРУГВАЙ",VTV
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",VTV
 http://181.119.85.222:8000/play/a04i/index.m3u8
 #EXTINF:-1 group-title="ВЕНЕСУЭЛА",Venevision
 http://181.119.85.222:8000/play/a04k/index.m3u8
@@ -2169,7 +2169,7 @@ http://181.78.12.119:16123/play/ch13/index.m3u8
 http://181.78.12.119:16123/play/ch14/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",RANCHENATO
 http://181.78.12.119:16123/play/ch15/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",el mundo del campo
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",el mundo del campo
 http://181.78.12.119:16123/play/a0dp/index.m3u8
 #EXTINF:-1 group-title="США",*ESPN HD
 http://181.78.12.119:16123/play/ch16/index.m3u8
@@ -2177,7 +2177,7 @@ http://181.78.12.119:16123/play/ch16/index.m3u8
 http://181.78.12.119:16123/play/ch17/index.m3u8
 #EXTINF:-1 group-title="США",ESPN 3 HD
 http://181.78.12.119:16123/play/ch18/index.m3u8
-#EXTINF:-1 group-title="США",ESPN5 HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",ESPN5 HD
 http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:-1 group-title="США",*ESPN 7 HD
 http://181.78.12.119:16123/play/ch20/index.m3u8
@@ -2201,7 +2201,7 @@ http://181.78.12.119:16123/play/ch30/index.m3u8
 http://181.78.12.119:16123/play/ch31/index.m3u8
 #EXTINF:-1 group-title="КИТАЙ",CGTN
 http://181.78.12.119:16123/play/ch32/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",Mas Chic
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Mas Chic
 http://181.78.12.119:16123/play/ch33/index.m3u8
 #EXTINF:-1 group-title="США",*Pasiones HD
 http://181.78.12.119:16123/play/ch35/index.m3u8
@@ -2221,7 +2221,7 @@ http://181.78.12.119:16123/play/ch41/index.m3u8
 http://181.78.12.119:16123/play/ch42/index.m3u8
 #EXTINF:-1 group-title="ВЕНЕСУЭЛА",TELESUR
 http://181.78.12.119:16123/play/ch43/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Las Estrellas
+#EXTINF:-1 group-title="МЕКСИКА",Las Estrellas
 http://181.78.12.119:16123/play/ch44/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Telenovelas
 http://181.78.12.119:16123/play/ch45/index.m3u8
@@ -2251,7 +2251,7 @@ http://181.78.12.119:16123/play/ch58/index.m3u8
 http://181.78.12.119:16123/play/ch58a/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",RCN HD
 http://181.78.12.119:16123/play/ch59/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",3abn
+#EXTINF:-1 group-title="США",3abn
 http://181.78.12.119:16123/play/a0dv/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",TELECARIBE
 http://181.78.12.119:16123/play/ch60/index.m3u8
@@ -2283,7 +2283,7 @@ http://181.78.12.119:16123/play/ch70/index.m3u8
 http://181.78.12.119:16123/play/ch71/index.m3u8
 #EXTINF:-1 group-title="США",CNN
 http://181.78.12.119:16123/play/ch73/index.m3u8
-#EXTINF:-1 group-title="США",ESPN4 HD
+#EXTINF:-1 group-title="НИДЕРЛАНДЫ",ESPN4 HD
 http://181.78.12.119:16123/play/ch90/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",*Cartoon Network HD
 http://181.78.12.119:16123/play/ch09/index.m3u8
@@ -2311,7 +2311,7 @@ http://181.78.12.119:16123/play/ch200/index.m3u8
 http://181.78.12.119:16123/play/a0cq/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",City TV
 http://181.78.12.119:16123/play/ch42a/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",DW (Deutsch +)
+#EXTINF:-1 group-title="ГЕРМАНИЯ",DW (Deutsch +)
 http://181.78.12.119:16123/play/a09o/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Discovery ch
 http://181.78.12.119:16123/play/ch22/index.m3u8
@@ -2327,7 +2327,7 @@ http://181.78.12.119:16123/play/a0dt/index.m3u8
 http://181.78.12.119:16123/play/ch46/index.m3u8
 #EXTINF:-1 group-title="США",HTV
 http://181.78.12.119:16123/play/a08x/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",NTN 24 Horas
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",NTN 24 Horas
 http://181.78.12.119:16123/play/ch80/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Nuestra Tele
 http://181.78.12.119:16123/play/a0aq/index.m3u8
@@ -2335,7 +2335,7 @@ http://181.78.12.119:16123/play/a0aq/index.m3u8
 http://181.78.12.119:16123/play/a0ce/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",RCN
 http://181.78.12.119:16123/play/ch59a/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",SRT A&E
+#EXTINF:-1 group-title="ОАЭ",SRT A&E
 http://181.78.12.119:16123/play/a0dc/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",SRT AXN
 http://181.78.12.119:16123/play/a0d9/index.m3u8
@@ -2375,7 +2375,7 @@ http://181.78.12.119:16123/play/ch203/index.m3u8
 http://181.78.12.119:16123/play/a0bl/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Ve plus
 http://181.78.12.119:16123/play/a0dm/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",3ABN
+#EXTINF:-1 group-title="США",3ABN
 http://170.231.55.178:9001/play/a02i
 #EXTINF:-1 group-title="США",AMC
 http://170.231.55.178:9001/play/a00d
@@ -2395,9 +2395,9 @@ http://170.231.55.178:9001/play/0b1
 http://170.231.55.178:9001/play/a026
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Baby TV
 http://170.231.55.178:9001/play/a027
-#EXTINF:-1 group-title="КОЛУМБИЯ",CANAL 11
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CANAL 11
 http://170.231.55.178:9001/play/a008
-#EXTINF:-1 group-title="КОЛУМБИЯ",CANAL 19 EL SALVADOR
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CANAL 19 EL SALVADOR
 http://170.231.55.178:9001/play/a02x
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",CANAL 4 EL SALVADOR
 http://170.231.55.178:9001/play/a02o
@@ -2417,7 +2417,7 @@ http://170.231.55.178:9001/play/a01h
 http://170.231.55.178:9001/play/a03g
 #EXTINF:-1 group-title="МЕКСИКА",Canal 5 HD
 http://170.231.55.178:9001/play/a001
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal VTV HND
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",Canal VTV HND
 http://170.231.55.178:9001/play/a00h
 #EXTINF:-1 group-title="UK",Cartoonito
 http://170.231.55.178:9001/play/a028
@@ -2465,7 +2465,7 @@ http://170.231.55.178:9001/play/a01i
 http://170.231.55.178:9001/play/a02t
 #EXTINF:-1 group-title="МЕКСИКА",GOLDEN
 http://170.231.55.178:9001/play/a01j
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Golden Premiere HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Golden Premiere HD
 http://170.231.55.178:9001/play/a01k
 #EXTINF:-1 group-title="США",H2
 http://170.231.55.178:9001/play/a02a
@@ -2477,7 +2477,7 @@ http://170.231.55.178:9001/play/a01l
 http://170.231.55.178:9001/play/a01m
 #EXTINF:-1 group-title="США",HBO Plus HD
 http://170.231.55.178:9001/play/a01n
-#EXTINF:-1 group-title="США",HBOXTREAM
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",HBOXTREAM
 http://170.231.55.178:9001/play/a01p
 #EXTINF:-1 group-title="ГОНДУРАС",HCH
 http://170.231.55.178:9001/play/a002
@@ -2521,7 +2521,7 @@ http://170.231.55.178:9001/play/a01w
 http://170.231.55.178:9001/play/a01v
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR CHANNEL HD
 http://170.231.55.178:9001/play/a01x
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",SUYAPA TV
+#EXTINF:-1 group-title="ГОНДУРАС",SUYAPA TV
 http://170.231.55.178:9001/play/a00w
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Sky Sport
 http://170.231.55.178:9001/play/a09p
@@ -2537,7 +2537,7 @@ http://170.231.55.178:9001/play/a00i
 http://170.231.55.178:9001/play/a00o
 #EXTINF:-1 group-title="ГОНДУРАС",TELECEIBA
 http://170.231.55.178:9001/play/a00j
-#EXTINF:-1 group-title="ВЕНЕСУЭЛА",TELECENTRO
+#EXTINF:-1 group-title="ДОМИНИКАНА",TELECENTRO
 http://170.231.55.178:9001/play/a00m
 #EXTINF:-1 group-title="ДОМИНИКАНА",TELEMICRO
 http://170.231.55.178:9001/play/a00n
@@ -2571,7 +2571,7 @@ http://170.231.55.178:9001/play/a003
 http://170.231.55.178:9001/play/a036
 #EXTINF:-1 group-title="США",Tooncast
 http://170.231.55.178:9001/play/a02d
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",UNE TV
+#EXTINF:-1 group-title="ГОНДУРАС",UNE TV
 http://170.231.55.178:9001/play/a00l
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",UNIVERSAL COMEDY
 http://170.231.55.178:9001/play/a0bj
@@ -2583,13 +2583,13 @@ http://170.231.55.178:9001/play/a02n
 http://170.231.55.178:9001/play/a020
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",WARNER HD
 http://170.231.55.178:9001/play/a021
-#EXTINF:-1 group-title="ГОНДУРАС",canal 11 Hon
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",canal 11 Hon
 http://170.231.55.178:9001/play/a040
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",la liga interiano
 http://170.231.55.178:9001/play/11
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",laliga 1
 http://170.231.55.178:9001/play/a08l
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",suyapa tv medios
+#EXTINF:-1 group-title="ГОНДУРАС",suyapa tv medios
 http://170.231.55.178:9001/play/a0az
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",15.3 RTS - LIKE TV
 http://205.235.6.29:8000/play/11/index.m3u8
@@ -2609,9 +2609,9 @@ http://205.235.6.29:8000/play/a0vg/index.m3u8
 http://205.235.6.29:8000/play/a0vk/index.m3u8
 #EXTINF:-1 group-title="ГВАТЕМАЛА",322 ROSA DE GUADLUPE 24/7
 http://205.235.6.29:8000/play/a0vj/index.m3u8
-#EXTINF:-1 group-title="ФРАНЦИЯ",351 - France 24
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",351 - France 24
 http://205.235.6.29:8000/play/a0vd/index.m3u8
-#EXTINF:-1 group-title="ПЕРУ",353 - CANAL NITRO
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",353 - CANAL NITRO
 http://205.235.6.29:8000/play/a0w5/index.m3u8
 #EXTINF:-1 group-title="ГЕРМАНИЯ",355 - 30.1 CANAL DEPORTES
 http://205.235.6.29:8000/play/a0w7/index.m3u8
@@ -2629,11 +2629,11 @@ http://205.235.6.29:8000/play/a0nb/index.m3u8
 http://205.235.6.29:8000/play/a0ru/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",CARACOL HD LIKETV
 http://205.235.6.29:8000/play/a0vf/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",CNN Espaæol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN Espaæol
 http://205.235.6.29:8000/play/a0qb/index.m3u8
 #EXTINF:-1 group-title="США",DHE
 http://205.235.6.29:8000/play/a0py/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",DW Espaæol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",DW Espaæol
 http://205.235.6.29:8000/play/a0s2/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",De PelŦcula
 http://205.235.6.29:8000/play/a0p8/index.m3u8
@@ -2661,7 +2661,7 @@ http://205.235.6.29:8000/play/a0vw/index.m3u8
 http://205.235.6.29:8000/play/a0vy/index.m3u8
 #EXTINF:-1 group-title="США",ESPN 7 HD
 http://205.235.6.29:8000/play/a0vu/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",ESPN Premium HD
+#EXTINF:-1 group-title="США",ESPN Premium HD
 http://205.235.6.29:8000/play/a0pz/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Food Network
 http://205.235.6.29:8000/play/a0px/index.m3u8
@@ -2677,11 +2677,11 @@ http://205.235.6.29:8000/play/a0oy/index.m3u8
 http://205.235.6.29:8000/play/a0qa/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",ID HD
 http://205.235.6.29:8000/play/a0r6/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Las Estrellas HD
+#EXTINF:-1 group-title="МЕКСИКА",Las Estrellas HD
 http://205.235.6.29:8000/play/a0n3/index.m3u8
 #EXTINF:-1 group-title="ПЕРУ",Latina HD
 http://205.235.6.29:8000/play/a0uw/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",MEGA HD
+#EXTINF:-1 group-title="ГРЕЦИЯ",MEGA HD
 http://205.235.6.29:8000/play/a0pq/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ORO MAR WEB
 http://205.235.6.29:8000/play/a0nw/index.m3u8
@@ -2745,7 +2745,7 @@ http://38.199.4.160:93/play/a02l
 http://38.199.4.160:93/play/a0bd
 #EXTINF:-1 group-title="ИСПАНИЯ",CLAN
 http://38.199.4.160:93/play/a0c7
-#EXTINF:-1 group-title="ИСПАНИЯ",CNN Espaæol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN Espaæol
 http://38.199.4.160:93/play/a08v
 #EXTINF:-1 group-title="КОЛУМБИЯ",Caracol HD
 http://38.199.4.160:93/play/a0ab
@@ -2753,7 +2753,7 @@ http://38.199.4.160:93/play/a0ab
 http://38.199.4.160:93/play/a0c3
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",DISTRITO COMEDIA
 http://38.199.4.160:93/play/a01c
-#EXTINF:-1 group-title="ИСПАНИЯ",DW Espaæol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",DW Espaæol
 http://38.199.4.160:93/play/a073
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Discovery H&H HD
 http://38.199.4.160:93/play/a07l
@@ -2805,7 +2805,7 @@ http://38.199.4.160:93/play/a053
 http://38.199.4.160:93/play/a077
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Gol TV
 http://38.199.4.160:93/play/a09g
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Golden Premiere 2 HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Golden Premiere 2 HD
 http://38.199.4.160:93/play/a0ao
 #EXTINF:-1 group-title="США",HBO Family HD
 http://38.199.4.160:93/play/a0c1
@@ -2837,7 +2837,7 @@ http://38.199.4.160:93/play/a0bu
 http://38.199.4.160:93/play/a09j
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Kanal D Drama
 http://38.199.4.160:93/play/a071
-#EXTINF:-1 group-title="ЧИЛИ",MEGA HD
+#EXTINF:-1 group-title="ГРЕЦИЯ",MEGA HD
 http://38.199.4.160:93/play/a09u
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",MIX REGGEETON
 http://38.199.4.160:93/play/a02w
@@ -2923,7 +2923,7 @@ http://38.199.4.160:93/play/a0bb
 http://38.199.4.160:93/play/a0am
 #EXTINF:-1 group-title="МЕКСИКА",bitme
 http://38.199.4.160:93/play/a063
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",123 TV (35e)
+#EXTINF:-1 group-title="LT",123 TV (35e)
 http://186.96.68.34:8000/play/a0lb/index.m3u8
 #EXTINF:-1 group-title="ГЕРМАНИЯ",A&E HD
 http://186.96.68.34:8000/play/a0ny/index.m3u8
@@ -2951,23 +2951,23 @@ http://186.96.68.34:8000/play/a0lo/index.m3u8
 http://186.96.68.34:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",CCS Movies
 http://186.96.68.34:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",CGTN (35e)
+#EXTINF:-1 group-title="КИТАЙ",CGTN (35e)
 http://186.96.68.34:8000/play/a0lq/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",CGTN Documentary (35e)
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CGTN Documentary (35e)
 http://186.96.68.34:8000/play/a0lr/index.m3u8
 #EXTINF:-1 group-title="ЧИЛИ",CHV
 http://186.96.68.34:8000/play/a0od/index.m3u8
 #EXTINF:-1 group-title="ЧИЛИ",CNN Chile
 http://186.96.68.34:8000/play/a0qi/index.m3u8
-#EXTINF:-1 group-title="КОЛУМБИЯ",Canal 13
+#EXTINF:-1 group-title="ЧИЛИ",Canal 13
 http://186.96.68.34:8000/play/a0qc/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal 24 Horas HD
 http://186.96.68.34:8000/play/a0ki/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal 9(35e)
 http://186.96.68.34:8000/play/a0lz/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",Canal Publico de Argentina (35e)
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal Publico de Argentina (35e)
 http://186.96.68.34:8000/play/a0lt/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",Canal de las Estrellas
+#EXTINF:-1 group-title="МЕКСИКА",Canal de las Estrellas
 http://186.96.68.34:8000/play/a0pc/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal vasco (35e)
 http://186.96.68.34:8000/play/a0lu/index.m3u8
@@ -2995,7 +2995,7 @@ http://186.96.68.34:8000/play/a0qa/index.m3u8
 http://186.96.68.34:8000/play/a0km/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",DISNEY CH
 http://186.96.68.34:8000/play/a0qu/index.m3u8
-#EXTINF:-1 group-title="XK",DTV (35e)
+#EXTINF:-1 group-title="КОСОВО",DTV (35e)
 http://186.96.68.34:8000/play/a0lx/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Discovery H&H
 http://186.96.68.34:8000/play/a0oy/index.m3u8
@@ -3027,9 +3027,9 @@ http://186.96.68.34:8000/play/a0oi/index.m3u8
 http://186.96.68.34:8000/play/a0p2/index.m3u8
 #EXTINF:-1 group-title="США",ESPN HD
 http://186.96.68.34:8000/play/a0o2/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",ESPN Premium HD
+#EXTINF:-1 group-title="США",ESPN Premium HD
 http://186.96.68.34:8000/play/a0ko/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",EWTN (35e)
+#EXTINF:-1 group-title="США",EWTN (35e)
 http://186.96.68.34:8000/play/a0m5/index.m3u8
 #EXTINF:-1 group-title="ЭКВАДОР",Ecuavisa (35e)
 http://186.96.68.34:8000/play/a0ly/index.m3u8
@@ -3081,11 +3081,11 @@ http://186.96.68.34:8000/play/a0qe/index.m3u8
 http://186.96.68.34:8000/play/a0pv/index.m3u8
 #EXTINF:-1 group-title="ИТАЛИЯ",MTV
 http://186.96.68.34:8000/play/a0pd/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",MTV Live
+#EXTINF:-1 group-title="ИТАЛИЯ",MTV Live
 http://186.96.68.34:8000/play/a0q5/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",Mas chic
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Mas chic
 http://186.96.68.34:8000/play/a0ql/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Meridiano (35e)
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",Meridiano (35e)
 http://186.96.68.34:8000/play/a0lj/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Nat Geo HD
 http://186.96.68.34:8000/play/a0jf/index.m3u8
@@ -3121,7 +3121,7 @@ http://186.96.68.34:8000/play/a0mv/index.m3u8
 http://186.96.68.34:8000/play/a0mn/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Radio Sur (35e)
 http://186.96.68.34:8000/play/a0mw/index.m3u8
-#EXTINF:-1 group-title="ВЕНЕСУЭЛА",Radio Ven-News (35e)
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Radio Ven-News (35e)
 http://186.96.68.34:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Red Advenir (35e)
 http://186.96.68.34:8000/play/a0me/index.m3u8
@@ -3129,7 +3129,7 @@ http://186.96.68.34:8000/play/a0me/index.m3u8
 http://186.96.68.34:8000/play/a0mc/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR CHANNEL HD
 http://186.96.68.34:8000/play/a0pj/index.m3u8
-#EXTINF:-1 group-title="ВЕНЕСУЭЛА",Show Ven (35e)
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Show Ven (35e)
 http://186.96.68.34:8000/play/a0lf/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Sony HD
 http://186.96.68.34:8000/play/a0o6/index.m3u8
@@ -3155,7 +3155,7 @@ http://186.96.68.34:8000/play/a0og/index.m3u8
 http://186.96.68.34:8000/play/a0pf/index.m3u8
 #EXTINF:-1 group-title="США",TNT Series
 http://186.96.68.34:8000/play/a0p4/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",TNT Sports Premiun HD
+#EXTINF:-1 group-title="США",TNT Sports Premiun HD
 http://186.96.68.34:8000/play/a0o9/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",TV Culturas (35e)
 http://186.96.68.34:8000/play/a0mx/index.m3u8
@@ -3163,7 +3163,7 @@ http://186.96.68.34:8000/play/a0mx/index.m3u8
 http://186.96.68.34:8000/play/a0le/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",TV Galicia (35e)
 http://186.96.68.34:8000/play/a0p7/index.m3u8
-#EXTINF:-1 group-title="LT",TV+ HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",TV+ HD
 http://186.96.68.34:8000/play/a0jd/index.m3u8
 #EXTINF:-1 group-title="TZ",TVE
 http://186.96.68.34:8000/play/a0l4/index.m3u8
@@ -3191,7 +3191,7 @@ http://186.96.68.34:8000/play/a0pg/index.m3u8
 http://186.96.68.34:8000/play/a0qd/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",VPACO (35e)
 http://186.96.68.34:8000/play/a0lm/index.m3u8
-#EXTINF:-1 group-title="УРУГВАЙ",VTV (35e)
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",VTV (35e)
 http://186.96.68.34:8000/play/a0l5/index.m3u8
 #EXTINF:-1 group-title="ВЕНЕСУЭЛА",Venevision (35e)
 http://186.96.68.34:8000/play/a0li/index.m3u8
@@ -3203,7 +3203,7 @@ http://186.96.68.34:8000/play/a0l6/index.m3u8
 http://186.96.68.34:8000/play/a0oa/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА",Zoom (35e)
 http://186.96.68.34:8000/play/a0mb/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ",1TV Rus
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",1TV Rus
 http://185.207.129.211:8000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="АЗЕРБАЙДЖАН",ARB
 http://185.207.129.211:8000/play/a00v/index.m3u8
@@ -3241,7 +3241,7 @@ http://185.207.129.211:8000/play/a00i/index.m3u8
 http://185.207.129.211:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Sony E!
 http://185.207.129.211:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ",TV 1000 Rus
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",TV 1000 Rus
 http://185.207.129.211:8000/play/a00m/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",TV 1000 action
 http://185.207.129.211:8000/play/a00o/index.m3u8
@@ -3253,7 +3253,7 @@ http://185.207.129.211:8000/play/a00r/index.m3u8
 http://185.207.129.211:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ViaSAT Sport
 http://185.207.129.211:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",3SERIES
+#EXTINF:-1 group-title="ТАИЛАНД",3SERIES
 http://45.184.87.142:8000/play/a02h
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",45do24horas
 http://45.184.87.142:8000/play/a03i
@@ -3295,15 +3295,15 @@ http://45.184.87.142:8000/play/a00b
 http://45.184.87.142:8000/play/a027
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ESP6 hd
 http://45.184.87.142:8000/play/a047
-#EXTINF:-1 group-title="США",ESPN2HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",ESPN2HD
 http://45.184.87.142:8000/play/a04a
-#EXTINF:-1 group-title="США",ESPN3HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",ESPN3HD
 http://45.184.87.142:8000/play/a04b
-#EXTINF:-1 group-title="США",ESPN4HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",ESPN4HD
 http://45.184.87.142:8000/play/a04c
-#EXTINF:-1 group-title="США",ESPN5HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",ESPN5HD
 http://45.184.87.142:8000/play/a048
-#EXTINF:-1 group-title="США",ESPNHD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",ESPNHD
 http://45.184.87.142:8000/play/a049
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ESTRELLAS
 http://45.184.87.142:8000/play/a02e
@@ -3321,7 +3321,7 @@ http://45.184.87.142:8000/play/a04o
 http://45.184.87.142:8000/play/a008
 #EXTINF:-1 group-title="МЕКСИКА",GOLDEN
 http://45.184.87.142:8000/play/a04u
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",GOLDEN PLUS
+#EXTINF:-1 group-title="МЕКСИКА",GOLDEN PLUS
 http://45.184.87.142:8000/play/a037
 #EXTINF:-1 group-title="МЕКСИКА",GOLDENEDGE
 http://45.184.87.142:8000/play/a04t
@@ -3333,17 +3333,17 @@ http://45.184.87.142:8000/play/a038
 http://45.184.87.142:8000/play/a03r
 #EXTINF:-1 group-title="США",HBO2
 http://45.184.87.142:8000/play/a05a
-#EXTINF:-1 group-title="США",HBOEXTRE
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",HBOEXTRE
 http://45.184.87.142:8000/play/a04l
-#EXTINF:-1 group-title="США",HBOHD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",HBOHD
 http://45.184.87.142:8000/play/a04k
-#EXTINF:-1 group-title="США",HBOPLUS
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",HBOPLUS
 http://45.184.87.142:8000/play/a05m
-#EXTINF:-1 group-title="ПЕРУ",HOLATV
+#EXTINF:-1 group-title="США",HOLATV
 http://45.184.87.142:8000/play/a01f
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ID DISCOVERY
 http://45.184.87.142:8000/play/a05n
-#EXTINF:-1 group-title="ПЕРУ",KARATV
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",KARATV
 http://45.184.87.142:8000/play/a02w
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",KARAURBANO
 http://45.184.87.142:8000/play/a02v
@@ -3389,7 +3389,7 @@ http://45.184.87.142:8000/play/a009
 http://45.184.87.142:8000/play/a02b
 #EXTINF:-1 group-title="США",TNT HD
 http://45.184.87.142:8000/play/a04e
-#EXTINF:-1 group-title="РОССИЯ",TNTNOVELAS
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",TNTNOVELAS
 http://45.184.87.142:8000/play/a02j
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",TTELEHITMUSICAA
 http://45.184.87.142:8000/play/a007
@@ -3425,15 +3425,15 @@ http://45.184.87.142:8000/play/a03u
 http://45.184.87.142:8000/play/a03t
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",discveryworl
 http://45.184.87.142:8000/play/a03y
-#EXTINF:-1 group-title="США",espn7hd
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",espn7hd
 http://45.184.87.142:8000/play/a046
-#EXTINF:-1 group-title="США",espnpremin hd
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",espnpremin hd
 http://45.184.87.142:8000/play/a045
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",estrenoshemanet
 http://45.184.87.142:8000/play/a04y
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",goku huala
 http://45.184.87.142:8000/play/a05k
-#EXTINF:-1 group-title="ПЕРУ",graciatv
+#EXTINF:-1 group-title="ЧИЛИ",graciatv
 http://45.184.87.142:8000/play/a03q
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",history 2
 http://45.184.87.142:8000/play/a03w
@@ -3443,7 +3443,7 @@ http://45.184.87.142:8000/play/a03v
 http://45.184.87.142:8000/play/a04v
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",kizzi
 http://45.184.87.142:8000/play/a044
-#EXTINF:-1 group-title="ПЕРУ",latinahd
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",latinahd
 http://45.184.87.142:8000/play/a04r
 #EXTINF:-1 group-title="FI",lovenature
 http://45.184.87.142:8000/play/a040
@@ -3459,7 +3459,7 @@ http://45.184.87.142:8000/play/a04g
 http://45.184.87.142:8000/play/a057
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",universal cinema
 http://45.184.87.142:8000/play/a05o
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",universal premiere
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",universal premiere
 http://45.184.87.142:8000/play/a058
 #EXTINF:-1 group-title="США",universalreality
 http://45.184.87.142:8000/play/a059
@@ -3469,7 +3469,7 @@ http://45.184.87.142:8000/play/a05p
 http://45.184.87.142:8000/play/a04d
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",warnerhd
 http://45.184.87.142:8000/play/a04f
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",123 TV
+#EXTINF:-1 group-title="LT",123 TV
 http://38.97.240.11:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="ГЕРМАНИЯ",A&E HD
 http://38.97.240.11:8000/play/a0ax/index.m3u8
@@ -3525,7 +3525,7 @@ http://38.97.240.11:8000/play/a05g/index.m3u8
 http://38.97.240.11:8000/play/a0gb/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal 24 Horas HD
 http://38.97.240.11:8000/play/a0hn/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Canal Estrellas
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal Estrellas
 http://38.97.240.11:8000/play/a03q/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Cartoon Network
 http://38.97.240.11:8000/play/a0k5/index.m3u8
@@ -3545,7 +3545,7 @@ http://38.97.240.11:8000/play/a0hp/index.m3u8
 http://38.97.240.11:8000/play/a05z/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",DISNEY JUNIOR
 http://38.97.240.11:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="XK",DTV
+#EXTINF:-1 group-title="КОСОВО",DTV
 http://38.97.240.11:8000/play/a055/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Discovery ID
 http://38.97.240.11:8000/play/a03v/index.m3u8
@@ -3591,7 +3591,7 @@ http://38.97.240.11:8000/play/a0as/index.m3u8
 http://38.97.240.11:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="США",ESPN HD
 http://38.97.240.11:8000/play/a0h6/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",ESPN Premium HD
+#EXTINF:-1 group-title="США",ESPN Premium HD
 http://38.97.240.11:8000/play/a0jr/index.m3u8
 #EXTINF:-1 group-title="ИСПАНИЯ",EWTN ESPAÑOL
 http://38.97.240.11:8000/play/a05d/index.m3u8
@@ -3645,7 +3645,7 @@ http://38.97.240.11:8000/play/a05q/index.m3u8
 http://38.97.240.11:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",La Red HD
 http://38.97.240.11:8000/play/a0hm/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Las Estrellas HD
+#EXTINF:-1 group-title="МЕКСИКА",Las Estrellas HD
 http://38.97.240.11:8000/play/a0gt/index.m3u8
 #EXTINF:-1 group-title="ПЕРУ",Latina
 http://38.97.240.11:8000/play/a0j0/index.m3u8
@@ -3655,9 +3655,9 @@ http://38.97.240.11:8000/play/a0di/index.m3u8
 http://38.97.240.11:8000/play/a0kc/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",MAX ANIME
 http://38.97.240.11:8000/play/a0nm/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",MEGA HD
+#EXTINF:-1 group-title="ГРЕЦИЯ",MEGA HD
 http://38.97.240.11:8000/play/a0am/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",MERIDIANO
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",MERIDIANO
 http://38.97.240.11:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",MOVIE FE
 http://38.97.240.11:8000/play/a0nj/index.m3u8
@@ -3665,7 +3665,7 @@ http://38.97.240.11:8000/play/a0nj/index.m3u8
 http://38.97.240.11:8000/play/a0k0/index.m3u8
 #EXTINF:-1 group-title="ИТАЛИЯ",MTV HD
 http://38.97.240.11:8000/play/a0bb/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",MTV LIVE HD
+#EXTINF:-1 group-title="ИТАЛИЯ",MTV LIVE HD
 http://38.97.240.11:8000/play/a0go/index.m3u8
 #EXTINF:-1 group-title="ГРЕЦИЯ",NSTV
 http://38.97.240.11:8000/play/a0no/index.m3u8
@@ -3753,7 +3753,7 @@ http://38.97.240.11:8000/play/a04q/index.m3u8
 http://38.97.240.11:8000/play/a053/index.m3u8
 #EXTINF:-1 group-title="ПЕРУ",TV Peru SD
 http://38.97.240.11:8000/play/a0j2/index.m3u8
-#EXTINF:-1 group-title="LT",TV+ HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",TV+ HD
 http://38.97.240.11:8000/play/a0hl/index.m3u8
 #EXTINF:-1 group-title="TZ",TVE
 http://38.97.240.11:8000/play/a0ka/index.m3u8
@@ -3777,7 +3777,7 @@ http://38.97.240.11:8000/play/a0jz/index.m3u8
 http://38.97.240.11:8000/play/a0i8/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Universal Comedy SD
 http://38.97.240.11:8000/play/a0i9/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Universal Premiere SD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Universal Premiere SD
 http://38.97.240.11:8000/play/a0i7/index.m3u8
 #EXTINF:-1 group-title="ВЕНЕСУЭЛА",VENEVISION
 http://38.97.240.11:8000/play/a04u/index.m3u8
@@ -3785,9 +3785,9 @@ http://38.97.240.11:8000/play/a04u/index.m3u8
 http://38.97.240.11:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",VPACO
 http://38.97.240.11:8000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="УРУГВАЙ",VTV
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",VTV
 http://38.97.240.11:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="УРУГВАЙ",VTV HD
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",VTV HD
 http://38.97.240.11:8000/play/a069/index.m3u8
 #EXTINF:-1 group-title="ПАКИСТАН",Venus
 http://38.97.240.11:8000/play/a0in/index.m3u8
@@ -3797,7 +3797,7 @@ http://38.97.240.11:8000/play/a087/index.m3u8
 http://38.97.240.11:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="ПЕРУ",Willax
 http://38.97.240.11:8000/play/a088/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",Zona Latina
+#EXTINF:-1 group-title="ПЕРУ",Zona Latina
 http://38.97.240.11:8000/play/a0k1/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО" tvg-id="AE Mundo",AE Mundo
 http://181.225.73.189:8001/play/a01b/index.m3u8
@@ -3807,11 +3807,11 @@ http://181.225.73.189:8001/play/a01y/index.m3u8
 http://181.225.73.189:8001/play/a03x/index.m3u8
 #EXTINF:-1 group-title="США",CNN
 http://181.225.73.189:8001/play/a05q/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ" tvg-id="CNN Espanol",CNN Espanol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО" tvg-id="CNN Espanol",CNN Espanol
 http://181.225.73.189:8001/play/a00p/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ" tvg-id="Canal Caracol",Canal Caracol
 http://181.225.73.189:8001/play/a03p/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ" tvg-id="Canal Estrellas",Canal Estrellas
+#EXTINF:-1 group-title="НЕИЗВЕСТНО" tvg-id="Canal Estrellas",Canal Estrellas
 http://181.225.73.189:8001/play/a01f/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО" tvg-id="Canal Institucional",Canal Institucional
 http://181.225.73.189:8001/play/a01m/index.m3u8
@@ -3819,7 +3819,7 @@ http://181.225.73.189:8001/play/a01m/index.m3u8
 http://181.225.73.189:8001/play/a03r/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО" tvg-id="Canal Uno",Canal Uno
 http://181.225.73.189:8001/play/a01j/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ" tvg-id="Canal del Congreso",Canal del Congreso
+#EXTINF:-1 group-title="НЕИЗВЕСТНО" tvg-id="Canal del Congreso",Canal del Congreso
 http://181.225.73.189:8001/play/a01n/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО" tvg-id="Capital",Capital
 http://181.225.73.189:8001/play/a01u/index.m3u8
@@ -3867,15 +3867,15 @@ http://181.225.73.189:8001/play/a00w/index.m3u8
 http://181.225.73.189:8001/play/a00u/index.m3u8
 #EXTINF:-1 group-title="США" tvg-id="HBO XTREME SD",HBO XTREME SD
 http://181.225.73.189:8001/play/a00v/index.m3u8
-#EXTINF:-1 group-title="США",HBO-FAMILY-V
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",HBO-FAMILY-V
 http://181.225.73.189:8001/play/a05m/index.m3u8
-#EXTINF:-1 group-title="США",HBO-P
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",HBO-P
 http://181.225.73.189:8001/play/a05l/index.m3u8
-#EXTINF:-1 group-title="США",HBO-PLUS
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",HBO-PLUS
 http://181.225.73.189:8001/play/a05o/index.m3u8
 #EXTINF:-1 group-title="США",HBO-SIGNATURE
 http://181.225.73.189:8001/play/a05p/index.m3u8
-#EXTINF:-1 group-title="США",HBO-XTRE
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",HBO-XTRE
 http://181.225.73.189:8001/play/a05n/index.m3u8
 #EXTINF:-1 group-title="США" tvg-id="Lifetime",Lifetime
 http://181.225.73.189:8001/play/a00m/index.m3u8
@@ -3929,7 +3929,7 @@ http://181.225.73.189:8001/play/a05r/index.m3u8
 http://181.225.73.189:8001/play/a013/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО" tvg-id="Win",Win
 http://181.225.73.189:8001/play/a022/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ" tvg-id="Zona Latina",Zona Latina
+#EXTINF:-1 group-title="ПЕРУ" tvg-id="Zona Latina",Zona Latina
 http://181.225.73.189:8001/play/a00d/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА" tvg-id="Zoom",Zoom
 http://181.225.73.189:8001/play/a01q/index.m3u8
@@ -3973,7 +3973,7 @@ http://181.119.66.250:2222/play/a02p/index.m3u8
 http://181.119.66.250:2222/play/a0ft/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Reggaeton.
 http://181.119.66.250:2222/play/a0fu/index.m3u8
-#EXTINF:-1 group-title="МЕКСИКА",Regional Mexican.
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Regional Mexican.
 http://181.119.66.250:2222/play/a0fw/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Rock Latino.
 http://181.119.66.250:2222/play/a0fv/index.m3u8
@@ -3989,7 +3989,7 @@ http://181.119.66.250:2222/play/a040/index.m3u8
 http://181.119.66.250:2222/play/a049/index.m3u8
 #EXTINF:-1 group-title="ЧИЛИ",ViaX.
 http://181.119.66.250:2222/play/a025/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",Zona Latina.
+#EXTINF:-1 group-title="ПЕРУ",Zona Latina.
 http://181.119.66.250:2222/play/a08o/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА",Zoom.
 http://181.119.66.250:2222/play/a03n/index.m3u8
@@ -4007,7 +4007,7 @@ http://38.199.5.160:8000/play/a0af/index.m3u8
 http://38.199.5.160:8000/play/a07m/index.m3u8
 #EXTINF:-1 group-title="ЧИЛИ",CNN Chile
 http://38.199.5.160:8000/play/a0bg/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",CNN Espaæol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN Espaæol
 http://38.199.5.160:8000/play/a08u/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Cartoon Network
 http://38.199.5.160:8000/play/a08k/index.m3u8
@@ -4049,7 +4049,7 @@ http://38.199.5.160:8000/play/a059/index.m3u8
 http://38.199.5.160:8000/play/a07w/index.m3u8
 #EXTINF:-1 group-title="США",ESPN HD
 http://38.199.5.160:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",ESPN Premium HD
+#EXTINF:-1 group-title="США",ESPN Premium HD
 http://38.199.5.160:8000/play/a05g/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",El Gourmet
 http://38.199.5.160:8000/play/a097/index.m3u8
@@ -4079,17 +4079,17 @@ http://38.199.5.160:8000/play/a0ap/index.m3u8
 http://38.199.5.160:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",LIGA1
 http://38.199.5.160:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Las Estrellas
+#EXTINF:-1 group-title="МЕКСИКА",Las Estrellas
 http://38.199.5.160:8000/play/a0ag/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Las Estrellas HD
+#EXTINF:-1 group-title="МЕКСИКА",Las Estrellas HD
 http://38.199.5.160:8000/play/a0bi/index.m3u8
 #EXTINF:-1 group-title="ПЕРУ",Latina HD
 http://38.199.5.160:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",MEGA HD
+#EXTINF:-1 group-title="ГРЕЦИЯ",MEGA HD
 http://38.199.5.160:8000/play/a0bf/index.m3u8
 #EXTINF:-1 group-title="ИТАЛИЯ",MTV HD
 http://38.199.5.160:8000/play/a09p/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",MTV Live
+#EXTINF:-1 group-title="ИТАЛИЯ",MTV Live
 http://38.199.5.160:8000/play/a0bo/index.m3u8
 #EXTINF:-1 group-title="ГРЕЦИЯ",NICKELODEON
 http://38.199.5.160:8000/play/a03w/index.m3u8
@@ -4117,7 +4117,7 @@ http://38.199.5.160:8000/play/a056/index.m3u8
 http://38.199.5.160:8000/play/a0aj/index.m3u8
 #EXTINF:-1 group-title="США",TNT Series
 http://38.199.5.160:8000/play/a0ai/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",TNT Sports Premiun HD
+#EXTINF:-1 group-title="США",TNT Sports Premiun HD
 http://38.199.5.160:8000/play/a05p/index.m3u8
 #EXTINF:-1 group-title="США",Telemundo
 http://38.199.5.160:8000/play/a0ac/index.m3u8
@@ -4133,7 +4133,7 @@ http://38.199.5.160:8000/play/a0az/index.m3u8
 http://38.199.5.160:8000/play/a07i/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Warner Channel HD
 http://38.199.5.160:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",13 C
+#EXTINF:-1 group-title="ФРАНЦИЯ",13 C
 http://38.250.229.23:8000/play/a0jt
 #EXTINF:-1 group-title="ЧИЛИ",24 Horas TVN
 http://38.250.229.23:8000/play/a0k6
@@ -4155,7 +4155,7 @@ http://38.250.229.23:8000/play/a0kg
 http://38.250.229.23:8000/play/a0rv
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Animal Planet
 http://38.250.229.23:8000/play/a0jw
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",BBC NEWS
+#EXTINF:-1 group-title="ВЕЛИКОБРИТАНИЯ",BBC NEWS
 http://38.250.229.23:8000/play/a0pn
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Baby TV
 http://38.250.229.23:8000/play/a0rg
@@ -4163,7 +4163,7 @@ http://38.250.229.23:8000/play/a0rg
 http://38.250.229.23:8000/play/a0oh
 #EXTINF:-1 group-title="ЧИЛИ",CNN Chile
 http://38.250.229.23:8000/play/a0qx
-#EXTINF:-1 group-title="ИСПАНИЯ",CNN Espaæol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN Espaæol
 http://38.250.229.23:8000/play/a0op
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN International
 http://38.250.229.23:8000/play/a0rk
@@ -4213,13 +4213,13 @@ http://38.250.229.23:8000/play/a0ae
 http://38.250.229.23:8000/play/a0bf
 #EXTINF:-1 group-title="США",ESPN 7
 http://38.250.229.23:8000/play/a0k5
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",ESPN Premium HD
+#EXTINF:-1 group-title="США",ESPN Premium HD
 http://38.250.229.23:8000/play/a0be
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ET Canal El Tiempo
 http://38.250.229.23:8000/play/a0rn
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ETC TV
 http://38.250.229.23:8000/play/a0qs
-#EXTINF:-1 group-title="АРГЕНТИНА",EWTN RELIGION
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",EWTN RELIGION
 http://38.250.229.23:8000/play/a0or
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",El Gourmet
 http://38.250.229.23:8000/play/a0jz
@@ -4249,7 +4249,7 @@ http://38.250.229.23:8000/play/a0f0
 http://38.250.229.23:8000/play/a05p
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",G - USA
 http://38.250.229.23:8000/play/a0ex
-#EXTINF:-1 group-title="ИСПАНИЯ",G - Via X Esports
+#EXTINF:-1 group-title="ЧИЛИ",G - Via X Esports
 http://38.250.229.23:8000/play/a0ev
 #EXTINF:-1 group-title="ПЕРУ",GOLPERU
 http://38.250.229.23:8000/play/a0of
@@ -4285,13 +4285,13 @@ http://38.250.229.23:8000/play/a0jy
 http://38.250.229.23:8000/play/a0k2
 #EXTINF:-1 group-title="РОССИЯ",ID HD
 http://38.250.229.23:8000/play/a0k0
-#EXTINF:-1 group-title="ИСПАНИЯ",Las Estrellas
+#EXTINF:-1 group-title="МЕКСИКА",Las Estrellas
 http://38.250.229.23:8000/play/a0k1
-#EXTINF:-1 group-title="ЧИЛИ",MEGA HD
+#EXTINF:-1 group-title="ГРЕЦИЯ",MEGA HD
 http://38.250.229.23:8000/play/a0ai
 #EXTINF:-1 group-title="ИТАЛИЯ",MTV
 http://38.250.229.23:8000/play/a0k3
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",MTV LIVE HD
+#EXTINF:-1 group-title="ИТАЛИЯ",MTV LIVE HD
 http://38.250.229.23:8000/play/a0kn
 #EXTINF:-1 group-title="АРГЕНТИНА",MÆsChic
 http://38.250.229.23:8000/play/a0en
@@ -4305,13 +4305,13 @@ http://38.250.229.23:8000/play/a0ab
 http://38.250.229.23:8000/play/a0ac
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",NN Antena 3
 http://38.250.229.23:8000/play/a0ps
-#EXTINF:-1 group-title="ФРАНЦИЯ",NN France 24
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",NN France 24
 http://38.250.229.23:8000/play/a0ph
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",NN Kanal D Drama
 http://38.250.229.23:8000/play/a0pi
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",NN RAI
 http://38.250.229.23:8000/play/a0pt
-#EXTINF:-1 group-title="АРГЕНТИНА",NTN 24 Horas
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",NTN 24 Horas
 http://38.250.229.23:8000/play/a0eq
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",National Geographic
 http://38.250.229.23:8000/play/a0jx
@@ -4343,7 +4343,7 @@ http://38.250.229.23:8000/play/a0ok
 http://38.250.229.23:8000/play/a0bc
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",RED Televisiðn
 http://38.250.229.23:8000/play/a0qe
-#EXTINF:-1 group-title="КОЛУМБИЯ",Seæal Colombia
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Seæal Colombia
 http://38.250.229.23:8000/play/a0p7
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Sony
 http://38.250.229.23:8000/play/a0ru
@@ -4361,9 +4361,9 @@ http://38.250.229.23:8000/play/a0k4
 http://38.250.229.23:8000/play/a0r4
 #EXTINF:-1 group-title="США",TNT Series HD
 http://38.250.229.23:8000/play/a0c2
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",TNT Sports Premiun HD
+#EXTINF:-1 group-title="США",TNT Sports Premiun HD
 http://38.250.229.23:8000/play/a0as
-#EXTINF:-1 group-title="LT",TV+
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",TV+
 http://38.250.229.23:8000/play/a0qf
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Teen Nick
 http://38.250.229.23:8000/play/a0qq
@@ -4407,7 +4407,7 @@ http://38.250.229.23:8000/play/a0ao
 http://38.250.229.23:8000/play/a0ou
 #EXTINF:-1 group-title="КОЛУМБИЯ",Win Sports+
 http://38.250.229.23:8000/play/a0k9
-#EXTINF:-1 group-title="ЧИЛИ",Zona Latina
+#EXTINF:-1 group-title="ПЕРУ",Zona Latina
 http://38.250.229.23:8000/play/a0qg
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Nacion Tv
 http://200.229.147.142:8000/play/a05q/index.m3u8
@@ -4419,7 +4419,7 @@ http://200.229.147.142:8000/play/a010/index.m3u8
 http://200.229.147.142:8000/play/a03j/index.m3u8
 #EXTINF:-1 group-title="ГРЕЦИЯ",Nickelodeon
 http://200.229.147.142:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",PANICO GT
+#EXTINF:-1 group-title="ГВАТЕМАЛА",PANICO GT
 http://200.229.147.142:8000/play/a08i/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",PICOSA
 http://200.229.147.142:8000/play/a05l/index.m3u8
@@ -4457,7 +4457,7 @@ http://200.229.147.142:8000/play/a04p/index.m3u8
 http://200.229.147.142:8000/play/a045/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR CHANNEL HD
 http://200.229.147.142:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",SUYAPA TV
+#EXTINF:-1 group-title="ГОНДУРАС",SUYAPA TV
 http://200.229.147.142:8000/play/a02q/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Sembrador
 http://200.229.147.142:8000/play/a076/index.m3u8
@@ -4535,7 +4535,7 @@ http://200.229.147.142:8000/play/a03i/index.m3u8
 http://200.229.147.142:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Tru TV
 http://200.229.147.142:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",UNE TV
+#EXTINF:-1 group-title="ГОНДУРАС",UNE TV
 http://200.229.147.142:8000/play/a069/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",UNIVERSAL COMEDY HD
 http://200.229.147.142:8000/play/a03v/index.m3u8
@@ -4567,7 +4567,7 @@ http://200.229.147.142:8000/play/a032/index.m3u8
 http://200.229.147.142:8000/play/a003/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",tegus
 http://200.229.147.142:8000/play/a086/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",3ABN
+#EXTINF:-1 group-title="США",3ABN
 http://200.229.147.142:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="ГЕРМАНИЯ",A&E
 http://200.229.147.142:8000/play/a034/index.m3u8
@@ -4605,13 +4605,13 @@ http://200.229.147.142:8000/play/a08p/index.m3u8
 http://200.229.147.142:8000/play/a08q/index.m3u8
 #EXTINF:-1 group-title="МЕКСИКА",Azteca Corazon SRT
 http://200.229.147.142:8000/play/a08r/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",Azteca Deporte SRT
+#EXTINF:-1 group-title="МЕКСИКА",Azteca Deporte SRT
 http://200.229.147.142:8000/play/a08v/index.m3u8
 #EXTINF:-1 group-title="МЕКСИКА",Azteca Internacional SRT
 http://200.229.147.142:8000/play/a08u/index.m3u8
 #EXTINF:-1 group-title="МЕКСИКА",BANDAMAX CP
 http://200.229.147.142:8000/play/a07b/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",BBC News
+#EXTINF:-1 group-title="ВЕЛИКОБРИТАНИЯ",BBC News
 http://200.229.147.142:8000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",BUNDESLIGA
 http://200.229.147.142:8000/play/a05b/index.m3u8
@@ -4621,9 +4621,9 @@ http://200.229.147.142:8000/play/a02a/index.m3u8
 http://200.229.147.142:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="МЕКСИКА",Bitme Calpules
 http://200.229.147.142:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title="КОЛУМБИЯ",CANAL 11 LOCAL CP
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CANAL 11 LOCAL CP
 http://200.229.147.142:8000/play/a07h/index.m3u8
-#EXTINF:-1 group-title="КОЛУМБИЯ",CANAL 12
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CANAL 12
 http://200.229.147.142:8000/play/a06w/index.m3u8
 #EXTINF:-1 group-title="МЕКСИКА",CANAL 5 HD Fibra
 http://200.229.147.142:8000/play/a05a/index.m3u8
@@ -4649,7 +4649,7 @@ http://200.229.147.142:8000/play/a068/index.m3u8
 http://200.229.147.142:8000/play/a08k/index.m3u8
 #EXTINF:-1 group-title="США",CINECANAL HD
 http://200.229.147.142:8000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",CINEMA PLATINO GT
+#EXTINF:-1 group-title="ГВАТЕМАЛА",CINEMA PLATINO GT
 http://200.229.147.142:8000/play/a08j/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN Internacional
 http://200.229.147.142:8000/play/a00c/index.m3u8
@@ -4667,7 +4667,7 @@ http://200.229.147.142:8000/play/a00x/index.m3u8
 http://200.229.147.142:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="ГВАТЕМАЛА",Canal 3 - GUA
 http://200.229.147.142:8000/play/a02w/index.m3u8
-#EXTINF:-1 group-title="ДОМИНИКАНА",Canal 3 Telesistemas HND
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal 3 Telesistemas HND
 http://200.229.147.142:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="ГОНДУРАС",Canal 5 - HON
 http://200.229.147.142:8000/play/a02x/index.m3u8
@@ -4683,7 +4683,7 @@ http://200.229.147.142:8000/play/a04e/index.m3u8
 http://200.229.147.142:8000/play/a02t/index.m3u8
 #EXTINF:-1 group-title="ГВАТЕМАЛА",Canal Azteca - GUA
 http://200.229.147.142:8000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal VTV HND
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",Canal VTV HND
 http://200.229.147.142:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Cartoon Network
 http://200.229.147.142:8000/play/a00z/index.m3u8
@@ -4695,7 +4695,7 @@ http://200.229.147.142:8000/play/a07v/index.m3u8
 http://200.229.147.142:8000/play/a07x/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Cine Latino
 http://200.229.147.142:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Cine Premium Tegus
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Cine Premium Tegus
 http://200.229.147.142:8000/play/a082/index.m3u8
 #EXTINF:-1 group-title="США",CineCanal
 http://200.229.147.142:8000/play/a04j/index.m3u8
@@ -4809,9 +4809,9 @@ http://200.229.147.142:8000/play/a06f/index.m3u8
 http://200.229.147.142:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Golden Choice Calpules
 http://200.229.147.142:8000/play/a07y/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Golden Premiere 2 HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Golden Premiere 2 HD
 http://200.229.147.142:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Golden Premiere HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Golden Premiere HD
 http://200.229.147.142:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Golf Channel
 http://200.229.147.142:8000/play/a00b/index.m3u8
@@ -4855,7 +4855,7 @@ http://200.229.147.142:8000/play/a03h/index.m3u8
 http://200.229.147.142:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="КИРГИЗИЯ",LTV CALPULES
 http://200.229.147.142:8000/play/a08w/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",La voz de Maria
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",La voz de Maria
 http://200.229.147.142:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Latin America Sport
 http://200.229.147.142:8000/play/a02k/index.m3u8
@@ -4879,7 +4879,7 @@ http://200.229.147.142:8000/play/a01e/index.m3u8
 http://200.229.147.142:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="КУБА",MULTIVISION
 http://200.229.147.142:8000/play/a06k/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",Mas Chic
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Mas Chic
 http://200.229.147.142:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Mi Musica Reguaeton Tegus
 http://200.229.147.142:8000/play/a07z/index.m3u8
@@ -4931,7 +4931,7 @@ http://148.113.207.98:8000/play/a003/index.m3u8
 http://148.113.207.98:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",TELEMUNDO MIAMI
 http://148.113.207.98:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="КОСТА-РИКА",TELETICA
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",TELETICA
 http://148.113.207.98:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="МЕКСИКА",TUDN
 http://148.113.207.98:8000/play/a002/index.m3u8
@@ -4941,7 +4941,7 @@ http://148.113.207.98:8000/play/a005/index.m3u8
 http://148.113.207.98:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",UNION RADIO TV
 http://148.113.207.98:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",3ABN
+#EXTINF:-1 group-title="США",3ABN
 http://45.173.201.51:4000/play/a0ap/index.m3u8
 #EXTINF:-1 group-title="ГЕРМАНИЯ",A&E
 http://45.173.201.51:4000/play/a0or/index.m3u8
@@ -4995,7 +4995,7 @@ http://45.173.201.51:4000/play/a0ll/index.m3u8
 http://45.173.201.51:4000/play/a0lj/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",DMKIDS
 http://45.173.201.51:4000/play/a0nk/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",DW Espaæol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",DW Espaæol
 http://45.173.201.51:4000/play/a0ix/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",De Película Latam
 http://45.173.201.51:4000/play/a0k1/index.m3u8
@@ -5055,9 +5055,9 @@ http://45.173.201.51:4000/play/a0dr/index.m3u8
 http://45.173.201.51:4000/play/a0py/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Golden Edge Latam
 http://45.173.201.51:4000/play/a0nw/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Golden Plus
+#EXTINF:-1 group-title="МЕКСИКА",Golden Plus
 http://45.173.201.51:4000/play/a0jx/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Golden Premier
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Golden Premier
 http://45.173.201.51:4000/play/a0jw/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",History 2
 http://45.173.201.51:4000/play/a0nx/index.m3u8
@@ -5081,7 +5081,7 @@ http://45.173.201.51:4000/play/a07f/index.m3u8
 http://45.173.201.51:4000/play/a0o1/index.m3u8
 #EXTINF:-1 group-title="ПЕРУ",LATINA NOTICIA - LIMA
 http://45.173.201.51:4000/play/a0cf/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Las Estrellas
+#EXTINF:-1 group-title="МЕКСИКА",Las Estrellas
 http://45.173.201.51:4000/play/a0hd/index.m3u8
 #EXTINF:-1 group-title="ПЕРУ",Latina HD
 http://45.173.201.51:4000/play/a068/index.m3u8
@@ -5173,51 +5173,51 @@ http://45.173.201.51:4000/play/a0p6/index.m3u8
 http://45.173.201.51:4000/play/a0e1/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ZKIDS
 http://45.173.201.51:4000/play/a0nl/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",&flix HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",&flix HD - Rs 19.00
 http://103.182.170.32:8888/play/a02a
-#EXTINF:-1 group-title="ИНДИЯ",&tv - Rs 6.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",&tv - Rs 6.00
 http://103.182.170.32:8888/play/a03v
-#EXTINF:-1 group-title="ИНДИЯ",Animal Planet - Rs 2.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Animal Planet - Rs 2.00
 http://103.182.170.32:8888/play/a049
-#EXTINF:-1 group-title="ИНДИЯ",BBC News - Rs 1.50
+#EXTINF:-1 group-title="ВЕЛИКОБРИТАНИЯ",BBC News - Rs 1.50
 http://103.182.170.32:8888/play/a04k
-#EXTINF:-1 group-title="ИНДИЯ",Cartoon Network - Rs 4.75
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Cartoon Network - Rs 4.75
 http://103.182.170.32:8888/play/a04o
-#EXTINF:-1 group-title="ИНДИЯ",Cartoon Network HD+ - Rs 6.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Cartoon Network HD+ - Rs 6.00
 http://103.182.170.32:8888/play/a035
 #EXTINF:-1 group-title="ИНДИЯ",Colors Bangla Cinema - Rs 5.00
 http://103.182.170.32:8888/play/a04a
-#EXTINF:-1 group-title="БОЛИВИЯ",Colors Cineplex Bollywood - Rs 0.10
+#EXTINF:-1 group-title="ИНДИЯ",Colors Cineplex Bollywood - Rs 0.10
 http://103.182.170.32:8888/play/a01o
 #EXTINF:-1 group-title="ИНДИЯ",Colors Cineplex HD - Rs 19.00
 http://103.182.170.32:8888/play/a04i
-#EXTINF:-1 group-title="ИНДИЯ",Colors HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Colors HD - Rs 19.00
 http://103.182.170.32:8888/play/a041
-#EXTINF:-1 group-title="ИНДИЯ",Discovery Kids - Rs 3.50
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Discovery Kids - Rs 3.50
 http://103.182.170.32:8888/play/a02o
-#EXTINF:-1 group-title="ИНДИЯ",Disney Channel - Rs 10.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Disney Channel - Rs 10.00
 http://103.182.170.32:8888/play/a04g
-#EXTINF:-1 group-title="ИНДИЯ",Disney International HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Disney International HD - Rs 19.00
 http://103.182.170.32:8888/play/a01y
-#EXTINF:-1 group-title="ИНДИЯ",Disney Junior - Rs 4.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Disney Junior - Rs 4.00
 http://103.182.170.32:8888/play/a03q
-#EXTINF:-1 group-title="ИНДИЯ",ETV Bal Bharat - Rs 4.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",ETV Bal Bharat - Rs 4.00
 http://103.182.170.32:8888/play/a022
-#EXTINF:-1 group-title="ИНДИЯ",Hungama - Rs 2.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Hungama - Rs 2.00
 http://103.182.170.32:8888/play/a04b
-#EXTINF:-1 group-title="ИНДИЯ",MTV HD - Rs 2.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",MTV HD - Rs 2.00
 http://103.182.170.32:8888/play/a025
-#EXTINF:-1 group-title="ИНДИЯ",Movies Now HD - Rs 14.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Movies Now HD - Rs 14.00
 http://103.182.170.32:8888/play/a01n
-#EXTINF:-1 group-title="ИНДИЯ",Nat Geo Wild HD - Rs 8.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Nat Geo Wild HD - Rs 8.00
 http://103.182.170.32:8888/play/a01r
-#EXTINF:-1 group-title="ИНДИЯ",Nick - Rs 6.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Nick - Rs 6.00
 http://103.182.170.32:8888/play/a04q
-#EXTINF:-1 group-title="ИНДИЯ",Nick Jr. - Rs 1.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Nick Jr. - Rs 1.00
 http://103.182.170.32:8888/play/a02q
-#EXTINF:-1 group-title="ИНДИЯ",Pogo - Rs 4.75
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Pogo - Rs 4.75
 http://103.182.170.32:8888/play/a02p
-#EXTINF:-1 group-title="ИНДИЯ",SET HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",SET HD - Rs 19.00
 http://103.182.170.32:8888/play/a03t
 #EXTINF:-1 group-title="ИНДИЯ",SONY TEN 3 HD - Rs 19.00
 http://103.182.170.32:8888/play/a03a
@@ -5227,49 +5227,49 @@ http://103.182.170.32:8888/play/a034
 http://103.182.170.32:8888/play/a02l
 #EXTINF:-1 group-title="ИНДИЯ",SONY MAX HD - Rs 19.00
 http://103.182.170.32:8888/play/a04f
-#EXTINF:-1 group-title="ИНДИЯ",SONY PIX HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",SONY PIX HD - Rs 19.00
 http://103.182.170.32:8888/play/a027
 #EXTINF:-1 group-title="ИНДИЯ",SONY SAB - Rs 19.00
 http://103.182.170.32:8888/play/a03r
-#EXTINF:-1 group-title="ИНДИЯ",SONY SPORTS TEN 1 - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",SONY SPORTS TEN 1 - Rs 19.00
 http://103.182.170.32:8888/play/a04j
-#EXTINF:-1 group-title="ИНДИЯ",SONY SPORTS TEN 3 - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",SONY SPORTS TEN 3 - Rs 19.00
 http://103.182.170.32:8888/play/a03p
 #EXTINF:-1 group-title="ИНДИЯ",SONY TEN 1 HD - Rs 19.00
 http://103.182.170.32:8888/play/a039
-#EXTINF:-1 group-title="ИНДИЯ",SONY YAY! - Rs 4.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",SONY YAY! - Rs 4.00
 http://103.182.170.32:8888/play/a04m
 #EXTINF:-1 group-title="ИНДИЯ",STAR GOLD HD - Rs 19.00
 http://103.182.170.32:8888/play/a02j
-#EXTINF:-1 group-title="ИНДИЯ",STAR Movies HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR Movies HD - Rs 19.00
 http://103.182.170.32:8888/play/a029
-#EXTINF:-1 group-title="ИНДИЯ",STAR Movies Select HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR Movies Select HD - Rs 19.00
 http://103.182.170.32:8888/play/a028
-#EXTINF:-1 group-title="ИНДИЯ",STAR PLUS - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR PLUS - Rs 19.00
 http://103.182.170.32:8888/play/a03o
-#EXTINF:-1 group-title="ИНДИЯ",STAR Plus HD - Rs 22.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR Plus HD - Rs 22.00
 http://103.182.170.32:8888/play/a03z
-#EXTINF:-1 group-title="ИНДИЯ",Sonic - Rs 1.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Sonic - Rs 1.00
 http://103.182.170.32:8888/play/a02s
-#EXTINF:-1 group-title="ИНДИЯ",Sony Sports Ten 4 HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Sony Sports Ten 4 HD - Rs 19.00
 http://103.182.170.32:8888/play/a036
-#EXTINF:-1 group-title="ИНДИЯ",Sports 18 - 1 HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Sports 18 - 1 HD - Rs 19.00
 http://103.182.170.32:8888/play/a04p
-#EXTINF:-1 group-title="ИНДИЯ",Sports 18 3 - Rs 4.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Sports 18 3 - Rs 4.00
 http://103.182.170.32:8888/play/a02i
-#EXTINF:-1 group-title="ИНДИЯ",Star Bharat - Rs 12.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Star Bharat - Rs 12.00
 http://103.182.170.32:8888/play/a02n
-#EXTINF:-1 group-title="ИНДИЯ",Star Bharat HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Star Bharat HD - Rs 19.00
 http://103.182.170.32:8888/play/a033
 #EXTINF:-1 group-title="ИНДИЯ",Star Gold 2 - Rs 3.00
 http://103.182.170.32:8888/play/a02k
 #EXTINF:-1 group-title="ИНДИЯ",Star Gold 2 HD - Rs 5.00
 http://103.182.170.32:8888/play/a01z
-#EXTINF:-1 group-title="ИНДИЯ",Star Jalsha HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Star Jalsha HD - Rs 19.00
 http://103.182.170.32:8888/play/a046
-#EXTINF:-1 group-title="ИНДИЯ",Star Life HD - Rs 2.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Star Life HD - Rs 2.00
 http://103.182.170.32:8888/play/a020
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Star Pravah HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Star Pravah HD - Rs 19.00
 http://103.182.170.32:8888/play/a04n
 #EXTINF:-1 group-title="ИНДИЯ",Star Sports 1 - Rs 19.00
 http://103.182.170.32:8888/play/a03b
@@ -5285,13 +5285,13 @@ http://103.182.170.32:8888/play/a03e
 http://103.182.170.32:8888/play/a045
 #EXTINF:-1 group-title="ИНДИЯ",Star Sports Select 2 HD - Rs 15.00
 http://103.182.170.32:8888/play/a047
-#EXTINF:-1 group-title="ФРАНЦИЯ",Sun Bangla - Free
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Sun Bangla - Free
 http://103.182.170.32:8888/play/a01v
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Sun Life - Rs 9.00
 http://103.182.170.32:8888/play/a03f
-#EXTINF:-1 group-title="ИНДИЯ",TEN 2 HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",TEN 2 HD - Rs 19.00
 http://103.182.170.32:8888/play/a026
-#EXTINF:-1 group-title="ИНДИЯ",TLC HD - Rs 3.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",TLC HD - Rs 3.00
 http://103.182.170.32:8888/play/a01q
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Travelxp HD - Rs 9.00
 http://103.182.170.32:8888/play/a01x
@@ -5299,7 +5299,7 @@ http://103.182.170.32:8888/play/a01x
 http://103.182.170.32:8888/play/a044
 #EXTINF:-1 group-title="ИНДИЯ",Zee Bangla HD - Rs 19.00
 http://103.182.170.32:8888/play/a048
-#EXTINF:-1 group-title="БОЛИВИЯ",Zee Bollywood - Rs 3.00
+#EXTINF:-1 group-title="ИНДИЯ",Zee Bollywood - Rs 3.00
 http://103.182.170.32:8888/play/a02r
 #EXTINF:-1 group-title="ИНДИЯ",Zee Cafe HD - Rs 10.00
 http://103.182.170.32:8888/play/a01w
@@ -5309,37 +5309,37 @@ http://103.182.170.32:8888/play/a054
 http://103.182.170.32:8888/play/a03s
 #EXTINF:-1 group-title="ИНДИЯ",Zee TV HD - Rs 19.00
 http://103.182.170.32:8888/play/a04r
-#EXTINF:0 group-title="РОССИЯ",02 РОССИЯ-1
+#EXTINF:0 group-title="LU",02 РОССИЯ-1
 http://193.25.8.59:8002/rossia1
-#EXTINF:0 group-title="РОССИЯ",04 НТВ
+#EXTINF:0 group-title="TN",04 НТВ
 http://193.25.8.59:8002/ntv
-#EXTINF:0 group-title="РОССИЯ",05 ПЯТЫЙ КАНАЛ
+#EXTINF:0 group-title="TN",05 ПЯТЫЙ КАНАЛ
 http://193.25.8.59:8000/5
-#EXTINF:0 group-title="РОССИЯ",06 РОССИЯ-К
+#EXTINF:0 group-title="TN",06 РОССИЯ-К
 http://193.25.8.59:8000/rossiak
-#EXTINF:0 group-title="РОССИЯ",07 РОССИЯ-24
+#EXTINF:0 group-title="ШВЕЦИЯ",07 РОССИЯ-24
 http://193.25.8.59:8000/rossia24
-#EXTINF:0 group-title="РОССИЯ",08 КАРУСЕЛЬ
+#EXTINF:0 group-title="TN",08 КАРУСЕЛЬ
 http://193.25.8.59:8000/karusel
-#EXTINF:0 group-title="РОССИЯ",09 ОТР
+#EXTINF:0 group-title="TN",09 ОТР
 http://193.25.8.59:8000/otr
-#EXTINF:0 group-title="РОССИЯ",10 ТВ Центр
+#EXTINF:0 group-title="TN",10 ТВ Центр
 http://193.25.8.59:8000/tvc
-#EXTINF:0 group-title="РОССИЯ",11 РЕН ТВ
+#EXTINF:0 group-title="TN",11 РЕН ТВ
 http://193.25.8.59:8000/ren
-#EXTINF:0 group-title="РОССИЯ",12 Спас
+#EXTINF:0 group-title="TN",12 Спас
 http://193.25.8.59:8000/spas
-#EXTINF:0 group-title="РОССИЯ",14 Домашний
+#EXTINF:0 group-title="TN",14 Домашний
 http://193.25.8.59:8000/dom
-#EXTINF:0 group-title="РОССИЯ",15 ТВ3
+#EXTINF:0 group-title="ТАИЛАНД",15 ТВ3
 http://193.25.8.59:8000/tv3
-#EXTINF:0 group-title="РОССИЯ",16 Пятница
+#EXTINF:0 group-title="TN",16 Пятница
 http://193.25.8.59:8000/pyatnitsa
-#EXTINF:0 group-title="РОССИЯ",17 Звезда
+#EXTINF:0 group-title="TN",17 Звезда
 http://193.25.8.59:8000/zvezda
-#EXTINF:0 group-title="РОССИЯ",18 МИР
+#EXTINF:0 group-title="TN",18 МИР
 http://193.25.8.59:8000/mir
-#EXTINF:0 group-title="РОССИЯ",20 МУЗ ТВ
+#EXTINF:0 group-title="TN",20 МУЗ ТВ
 http://193.25.8.59:8000/muz
 #EXTINF:0 group-title="НЕИЗВЕСТНО",2x2 (+7)
 http://193.25.8.59:8000/2x2
@@ -5373,7 +5373,7 @@ http://193.25.8.59:8000/Avto24
 http://193.25.8.59:8000/box
 #EXTINF:0 group-title="НИДЕРЛАНДЫ",FilmBox
 http://193.25.8.59:8000/FilmBOX
-#EXTINF:0 group-title="ПУЭРТО-РИКО",KHL Prime HD
+#EXTINF:0 group-title="НЕИЗВЕСТНО",KHL Prime HD
 http://193.25.8.59:8000/khl
 #EXTINF:0 group-title="НЕИЗВЕСТНО",Moskva 24
 http://193.25.8.59:8000/moskva24
@@ -5409,47 +5409,47 @@ http://193.25.8.59:8000/vremya
 http://193.25.8.59:8000/zdorovoetv
 #EXTINF:0 group-title="НЕИЗВЕСТНО",Zoo
 http://193.25.8.59:8000/zoo
-#EXTINF:0 group-title="РОССИЯ",Витрина ТВ
+#EXTINF:0 group-title="TN",Витрина ТВ
 http://193.25.8.59:8000/tvsale
-#EXTINF:0 group-title="РОССИЯ",Детский Мир
+#EXTINF:0 group-title="TN",Детский Мир
 http://193.25.8.59:8005/detmir
-#EXTINF:0 group-title="РОССИЯ",История
+#EXTINF:0 group-title="TN",История
 http://193.25.8.59:8000/History
-#EXTINF:0 group-title="РОССИЯ",Кинеко
+#EXTINF:0 group-title="TN",Кинеко
 http://193.25.8.59:8000/fox
-#EXTINF:0 group-title="РОССИЯ",Матч Арена
+#EXTINF:0 group-title="TN",Матч Арена
 http://193.25.8.59:8000/sport1
-#EXTINF:0 group-title="РОССИЯ",Матч Игра
+#EXTINF:0 group-title="TN",Матч Игра
 http://193.25.8.59:8000/sport
-#EXTINF:0 group-title="РОССИЯ",Матч ТВ HD
+#EXTINF:0 group-title="TN",Матч ТВ HD
 http://193.25.8.59:8000/rossia2
-#EXTINF:0 group-title="РОССИЯ",Мир Сериала
+#EXTINF:0 group-title="TN",Мир Сериала
 http://193.25.8.59:8000/mirseriala
-#EXTINF:0 group-title="РОССИЯ",Мосфильм. Золотая коллекция (+4)
+#EXTINF:0 group-title="TN",Мосфильм. Золотая коллекция (+4)
 http://193.25.8.59:8000/tnv
-#EXTINF:0 group-title="РОССИЯ",Моя Планета
+#EXTINF:0 group-title="TN",Моя Планета
 http://193.25.8.59:8000/myplanet
-#EXTINF:0 group-title="РОССИЯ",Мужской
+#EXTINF:0 group-title="TN",Мужской
 http://193.25.8.59:8000/muzhskoy
-#EXTINF:0 group-title="РОССИЯ",НТВ Хит
+#EXTINF:0 group-title="TN",НТВ Хит
 http://193.25.8.59:8000/Paramount
-#EXTINF:0 group-title="РОССИЯ",Наука
+#EXTINF:0 group-title="TN",Наука
 http://193.25.8.59:8000/nauka
-#EXTINF:0 group-title="РОССИЯ",Охота и Рыбалка
+#EXTINF:0 group-title="TN",Охота и Рыбалка
 http://193.25.8.59:8000/ohota
-#EXTINF:0 group-title="РОССИЯ",Русская ночь
+#EXTINF:0 group-title="TN",Русская ночь
 http://193.25.8.59:8000/playboy
-#EXTINF:0 group-title="РОССИЯ",Солнце (+7)
+#EXTINF:0 group-title="TN",Солнце (+7)
 http://193.25.8.59:8005/disney
-#EXTINF:0 group-title="РОССИЯ",Союз
+#EXTINF:0 group-title="TN",Союз
 http://193.25.8.59:8000/soyuz
-#EXTINF:0 group-title="РОССИЯ",ТНТ4 (+7)
+#EXTINF:0 group-title="ТАИЛАНД",ТНТ4 (+7)
 http://193.25.8.59:8000/tntcomedy
-#EXTINF:0 group-title="РОССИЯ",Тайны галактики
+#EXTINF:0 group-title="TN",Тайны галактики
 http://193.25.8.59:8000/galaxy
-#EXTINF:0 group-title="РОССИЯ",Театр
+#EXTINF:0 group-title="TN",Театр
 http://193.25.8.59:8000/teatr
-#EXTINF:0 group-title="РОССИЯ",Ю-ТВ
+#EXTINF:0 group-title="TN",Ю-ТВ
 http://193.25.8.59:8000/u
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Sony Wah
 http://163.61.227.29:8000/play/a04d/index.m3u8
@@ -5461,13 +5461,13 @@ http://163.61.227.29:8000/play/a04p/index.m3u8
 http://163.61.227.29:8000/play/a063/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",Star Gold Select HD - Rs 8.00
 http://163.61.227.29:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Star Gold Thrill
+#EXTINF:-1 group-title="ИНДИЯ",Star Gold Thrill
 http://163.61.227.29:8000/play/a04k/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Star News Asia
 http://163.61.227.29:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",Star Sports 1 HD - Rs 19.00
 http://163.61.227.29:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Star Sports 2
+#EXTINF:-1 group-title="ИНДИЯ",Star Sports 2
 http://163.61.227.29:8000/play/a069/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",Star Sports 2 Hindi HD - Rs 19.00
 http://163.61.227.29:8000/play/a012/index.m3u8
@@ -5481,7 +5481,7 @@ http://163.61.227.29:8000/play/a062/index.m3u8
 http://163.61.227.29:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Suno News
 http://163.61.227.29:8000/play/a02w/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",TLC HD - Rs 3.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",TLC HD - Rs 3.00
 http://163.61.227.29:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",The Q
 http://163.61.227.29:8000/play/a04v/index.m3u8
@@ -5501,19 +5501,19 @@ http://163.61.227.29:8000/play/a04j/index.m3u8
 http://163.61.227.29:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА",Zoom
 http://163.61.227.29:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",&Prive HD - Rs 3.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",&Prive HD - Rs 3.00
 http://163.61.227.29:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",&flix HD - Rs 10.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",&flix HD - Rs 10.00
 http://163.61.227.29:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",&pictures HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",&pictures HD - Rs 19.00
 http://163.61.227.29:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",&tv HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",&tv HD - Rs 19.00
 http://163.61.227.29:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",24 News HD
+#EXTINF:-1 group-title="ИНДИЯ",24 News HD
 http://163.61.227.29:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",92 ENT
 http://163.61.227.29:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",92 News HD
+#EXTINF:-1 group-title="ИНДИЯ",92 News HD
 http://163.61.227.29:8000/play/a05v/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",9X Jalwa
 http://163.61.227.29:8000/play/a05b/index.m3u8
@@ -5521,17 +5521,17 @@ http://163.61.227.29:8000/play/a05b/index.m3u8
 http://163.61.227.29:8000/play/a056/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",9X Tushan
 http://163.61.227.29:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",9XM
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",9XM
 http://163.61.227.29:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",AAJ ENT
+#EXTINF:-1 group-title="ПАКИСТАН",AAJ ENT
 http://163.61.227.29:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",AAJ News
+#EXTINF:-1 group-title="ПАКИСТАН",AAJ News
 http://163.61.227.29:8000/play/a02e/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",AAN HD
 http://163.61.227.29:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ABB TAKK
 http://163.61.227.29:8000/play/a02h/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",APlus Pakistan
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",APlus Pakistan
 http://163.61.227.29:8000/play/a03l/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ASports HD
 http://163.61.227.29:8000/play/a03t/index.m3u8
@@ -5555,7 +5555,7 @@ http://163.61.227.29:8000/play/a03q/index.m3u8
 http://163.61.227.29:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Aur Tv
 http://163.61.227.29:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Avt Khyber
+#EXTINF:-1 group-title="ПАКИСТАН",Avt Khyber
 http://163.61.227.29:8000/play/a039/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",B4U Kadak
 http://163.61.227.29:8000/play/a04g/index.m3u8
@@ -5569,13 +5569,13 @@ http://163.61.227.29:8000/play/a05s/index.m3u8
 http://163.61.227.29:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Big Magic
 http://163.61.227.29:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",By Pass
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",By Pass
 http://163.61.227.29:8000/play/a042/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Capital
 http://163.61.227.29:8000/play/a040/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Cartoon HD
 http://163.61.227.29:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Cartoon Network - Rs 5.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Cartoon Network - Rs 5.00
 http://163.61.227.29:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Chanel 5
 http://163.61.227.29:8000/play/a03m/index.m3u8
@@ -5583,7 +5583,7 @@ http://163.61.227.29:8000/play/a03m/index.m3u8
 http://163.61.227.29:8000/play/a034/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Chaupal
 http://163.61.227.29:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="БОЛИВИЯ",Cine Plex Bolly Wood
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Cine Plex Bolly Wood
 http://163.61.227.29:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",City 41
 http://163.61.227.29:8000/play/a02r/index.m3u8
@@ -5595,11 +5595,11 @@ http://163.61.227.29:8000/play/a02q/index.m3u8
 http://163.61.227.29:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Color Cineplex Super Hit
 http://163.61.227.29:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Colors HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Colors HD - Rs 19.00
 http://163.61.227.29:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",DD Kisan
 http://163.61.227.29:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",DD Punjabi
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",DD Punjabi
 http://163.61.227.29:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Dabang
 http://163.61.227.29:8000/play/a05a/index.m3u8
@@ -5607,19 +5607,19 @@ http://163.61.227.29:8000/play/a05a/index.m3u8
 http://163.61.227.29:8000/play/a04r/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Dangal 2
 http://163.61.227.29:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",Discover Pakistan
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Discover Pakistan
 http://163.61.227.29:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Discovery HD - Rs 10.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Discovery HD - Rs 10.00
 http://163.61.227.29:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Discovery Kids - Rs 4.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Discovery Kids - Rs 4.00
 http://163.61.227.29:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Discovery Turbo - Rs 1.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Discovery Turbo - Rs 1.00
 http://163.61.227.29:8000/play/a01w/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Disney
 http://163.61.227.29:8000/play/a05y/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Duniya News HD
 http://163.61.227.29:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Eurosport HD - Rs 7.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Eurosport HD - Rs 7.00
 http://163.61.227.29:8000/play/a01e/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Express ENT
 http://163.61.227.29:8000/play/a05i/index.m3u8
@@ -5655,27 +5655,27 @@ http://163.61.227.29:8000/play/a04l/index.m3u8
 http://163.61.227.29:8000/play/a05r/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Gold Mines Action
 http://163.61.227.29:8000/play/a05u/index.m3u8
-#EXTINF:-1 group-title="БОЛИВИЯ",GoldMine Bollywood
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",GoldMine Bollywood
 http://163.61.227.29:8000/play/a04x/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Green HD
 http://163.61.227.29:8000/play/a02v/index.m3u8
 #EXTINF:-1 group-title="ПАКИСТАН",HUM TV
 http://163.61.227.29:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",History TV18 HD - Rs 7.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",History TV18 HD - Rs 7.00
 http://163.61.227.29:8000/play/a017/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Hoora
 http://163.61.227.29:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Hum Masala
 http://163.61.227.29:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Hum News
+#EXTINF:-1 group-title="ПАКИСТАН",Hum News
 http://163.61.227.29:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",Inplus Pakistan
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Inplus Pakistan
 http://163.61.227.29:8000/play/a03z/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",JALWA
 http://163.61.227.29:8000/play/a02i/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА",K2 HD
 http://163.61.227.29:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Khyber News HD
+#EXTINF:-1 group-title="ПАКИСТАН",Khyber News HD
 http://163.61.227.29:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Kid Zone
 http://163.61.227.29:8000/play/a03x/index.m3u8
@@ -5687,37 +5687,37 @@ http://163.61.227.29:8000/play/a05q/index.m3u8
 http://163.61.227.29:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Lotus
 http://163.61.227.29:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",Ltn Family
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Ltn Family
 http://163.61.227.29:8000/play/a02k/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",MNX - Rs 5.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",MNX - Rs 5.00
 http://163.61.227.29:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",MTV HD - Rs 8.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",MTV HD - Rs 8.00
 http://163.61.227.29:8000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Madni
 http://163.61.227.29:8000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Manoranjan Grand
+#EXTINF:-1 group-title="ИНДИЯ",Manoranjan Grand
 http://163.61.227.29:8000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Manoranjan Movies
+#EXTINF:-1 group-title="ИНДИЯ",Manoranjan Movies
 http://163.61.227.29:8000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Manoranjan Prime
+#EXTINF:-1 group-title="ИНДИЯ",Manoranjan Prime
 http://163.61.227.29:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Manoranjan Tv
+#EXTINF:-1 group-title="ИНДИЯ",Manoranjan Tv
 http://163.61.227.29:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Metro 1
 http://163.61.227.29:8000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Metro 1
 http://163.61.227.29:8000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Movies Now HD - Rs 16.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Movies Now HD - Rs 16.00
 http://163.61.227.29:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Music India
 http://163.61.227.29:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",NATIONAL GEOGRAPHIC HD - Rs 14.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",NATIONAL GEOGRAPHIC HD - Rs 14.00
 http://163.61.227.29:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Nat Geo Wild HD - Rs 8.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Nat Geo Wild HD - Rs 8.00
 http://163.61.227.29:8000/play/a020/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Neo News
 http://163.61.227.29:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Nick Jr. - Rs 1.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Nick Jr. - Rs 1.00
 http://163.61.227.29:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ONE CLICK 1
 http://163.61.227.29:8000/play/a04y/index.m3u8
@@ -5731,7 +5731,7 @@ http://163.61.227.29:8000/play/a051/index.m3u8
 http://163.61.227.29:8000/play/a05o/index.m3u8
 #EXTINF:-1 group-title="ПАКИСТАН",PTV Home
 http://163.61.227.29:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Paigham Urdu
+#EXTINF:-1 group-title="ПАКИСТАН",Paigham Urdu
 http://163.61.227.29:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Pakistan TV
 http://163.61.227.29:8000/play/a05n/index.m3u8
@@ -5743,7 +5743,7 @@ http://163.61.227.29:8000/play/a05c/index.m3u8
 http://163.61.227.29:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Play Tv
 http://163.61.227.29:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Pogo - Rs 5.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Pogo - Rs 5.00
 http://163.61.227.29:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="ПАКИСТАН",Ptv News HD
 http://163.61.227.29:8000/play/a05m/index.m3u8
@@ -5757,23 +5757,23 @@ http://163.61.227.29:8000/play/a02s/index.m3u8
 http://163.61.227.29:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",SAB TV
 http://163.61.227.29:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",SET HD - Rs 25.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",SET HD - Rs 25.00
 http://163.61.227.29:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",SONY PIX HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",SONY PIX HD - Rs 19.00
 http://163.61.227.29:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",SONY SAB HD - Rs 25.00
 http://163.61.227.29:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",SONY SPORTS TEN 2 HD - Rs 25.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",SONY SPORTS TEN 2 HD - Rs 25.00
 http://163.61.227.29:8000/play/a01l/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",STAR GOLD HD - Rs 19.00
 http://163.61.227.29:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",STAR Movies HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR Movies HD - Rs 19.00
 http://163.61.227.29:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",STAR Movies Select HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR Movies Select HD - Rs 19.00
 http://163.61.227.29:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",STAR Plus HD - Rs 25.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR Plus HD - Rs 25.00
 http://163.61.227.29:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",STAR Plus HD - Rs 25.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR Plus HD - Rs 25.00
 http://163.61.227.29:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="ПАКИСТАН",Samaa
 http://163.61.227.29:8000/play/a037/index.m3u8
@@ -5783,7 +5783,7 @@ http://163.61.227.29:8000/play/a036/index.m3u8
 http://163.61.227.29:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Shemaro 3
 http://163.61.227.29:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="БОЛИВИЯ",Shemaro BollyWood
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Shemaro BollyWood
 http://163.61.227.29:8000/play/a059/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Shemaro Josh
 http://163.61.227.29:8000/play/a04m/index.m3u8
@@ -5793,9 +5793,9 @@ http://163.61.227.29:8000/play/a04q/index.m3u8
 http://163.61.227.29:8000/play/a048/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Show Box
 http://163.61.227.29:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Sindh News
+#EXTINF:-1 group-title="ПАКИСТАН",Sindh News
 http://163.61.227.29:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Sindh Tv
+#EXTINF:-1 group-title="ПАКИСТАН",Sindh Tv
 http://163.61.227.29:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",Sony Max HD
 http://163.61.227.29:8000/play/a061/index.m3u8
@@ -5845,7 +5845,7 @@ http://2.57.217.85:8000/play/a031/index.m3u8
 http://2.57.217.85:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",0ri- 119 VIP Megahit
 http://2.57.217.85:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",0ri- 120 VIP Premiere
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",0ri- 120 VIP Premiere
 http://2.57.217.85:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",0ri- 16-BBB
 http://2.57.217.85:8000/play/a06b/index.m3u8
@@ -5857,55 +5857,55 @@ http://2.57.217.85:8000/play/a03y/index.m3u8
 http://2.57.217.85:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",10-bmg
 http://2.57.217.85:8000/play/a081/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",11 კომედი TV (TVC)
+#EXTINF:-1 group-title="LT",11 კომედი TV (TVC)
 http://2.57.217.85:8000/play/a07b/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ",113-Киносемья
+#EXTINF:-1 group-title="TN",113-Киносемья
 http://2.57.217.85:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",160-რაგბიtv
+#EXTINF:-1 group-title="LT",160-რაგბიtv
 http://2.57.217.85:8000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",1arxi-sport
 http://2.57.217.85:8000/play/a09g/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ",232 Моя Планета
+#EXTINF:-1 group-title="TN",232 Моя Планета
 http://2.57.217.85:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ",233 Наука 2.0
+#EXTINF:-1 group-title="ИТАЛИЯ",233 Наука 2.0
 http://2.57.217.85:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ",234 ИСТОРИЯ ო
+#EXTINF:-1 group-title="TN",234 ИСТОРИЯ ო
 http://2.57.217.85:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ",238-Успех
+#EXTINF:-1 group-title="TN",238-Успех
 http://2.57.217.85:8000/play/a08p/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",25 თრიალეთი
+#EXTINF:-1 group-title="TN",25 თრიალეთი
 http://2.57.217.85:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ",266 САРАФАН
+#EXTINF:-1 group-title="TN",266 САРАФАН
 http://2.57.217.85:8000/play/a08l/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",29 სამეფო არხი HD
+#EXTINF:-1 group-title="TN",29 სამეფო არხი HD
 http://2.57.217.85:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",32 მეგა TV
+#EXTINF:-1 group-title="LT",32 მეგა TV
 http://2.57.217.85:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",42 გურია TV
+#EXTINF:-1 group-title="LT",42 გურია TV
 http://2.57.217.85:8000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",4ever
 http://2.57.217.85:8000/play/a08h/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",54 სეზონი tv
+#EXTINF:-1 group-title="LT",54 სეზონი tv
 http://2.57.217.85:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",56 meteo tv
 http://2.57.217.85:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",57 ჯორჯიან თაიმსი
+#EXTINF:-1 group-title="TN",57 ჯორჯიან თაიმსი
 http://2.57.217.85:8000/play/a02a/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",6-კავკასია BK
 http://2.57.217.85:8000/play/a06x/index.m3u8
-#EXTINF:-1 group-title="ФРАНЦИЯ",60 freedom
+#EXTINF:-1 group-title="УКРАИНА",60 freedom
 http://2.57.217.85:8000/play/a03g/index.m3u8
-#EXTINF:-1 group-title="ФРАНЦИЯ",60 freedom 2strimerebi
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",60 freedom 2strimerebi
 http://2.57.217.85:8000/play/a08o/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",63 1+1
 http://2.57.217.85:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",97 ICTV2
+#EXTINF:-1 group-title="УКРАИНА",97 ICTV2
 http://2.57.217.85:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ",98-Настоящее время
+#EXTINF:-1 group-title="TN",98-Настоящее время
 http://2.57.217.85:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",997 პარლამენტი
+#EXTINF:-1 group-title="TN",997 პარლამენტი
 http://2.57.217.85:8000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",998 ეგრისი
+#EXTINF:-1 group-title="TN",998 ეგრისი
 http://2.57.217.85:8000/play/a03i/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",BKP 25 თრიალეთი
 http://2.57.217.85:8000/play/a088/index.m3u8
@@ -5955,7 +5955,7 @@ http://2.57.217.85:8000/play/a09h/index.m3u8
 http://2.57.217.85:8000/play/a09p/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",pulsi tv
 http://2.57.217.85:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ",srt rus test
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",srt rus test
 http://2.57.217.85:8000/play/a08k/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",srt-tvc
 http://2.57.217.85:8000/play/a09d/index.m3u8
@@ -6033,9 +6033,9 @@ http://5.57.74.130:8000/play/a04t/index.m3u8
 http://5.57.74.130:8000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="СЕРБИЯ",B1
 http://5.57.74.130:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",BBC Earth
+#EXTINF:-1 group-title="ВЕЛИКОБРИТАНИЯ",BBC Earth
 http://5.57.74.130:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",BBC News
+#EXTINF:-1 group-title="ВЕЛИКОБРИТАНИЯ",BBC News
 http://5.57.74.130:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",BN HD
 http://5.57.74.130:8000/play/a01l/index.m3u8
@@ -6113,7 +6113,7 @@ http://5.57.74.130:8000/play/a01v/index.m3u8
 http://5.57.74.130:8000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",FilmBox Extra HD
 http://5.57.74.130:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",FilmBox Premium HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",FilmBox Premium HD
 http://5.57.74.130:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Filmbox Arthouse
 http://5.57.74.130:8000/play/a00m/index.m3u8
@@ -6181,7 +6181,7 @@ http://5.57.74.130:8000/play/a02k/index.m3u8
 http://5.57.74.130:8000/play/a03v/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Pink Comedy
 http://5.57.74.130:8000/play/a049/index.m3u8
-#EXTINF:-1 group-title="КОСТА-РИКА",Pink Crime and Mistery
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Pink Crime and Mistery
 http://5.57.74.130:8000/play/a02e/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Pink Family
 http://5.57.74.130:8000/play/a02l/index.m3u8
@@ -6195,7 +6195,7 @@ http://5.57.74.130:8000/play/a02d/index.m3u8
 http://5.57.74.130:8000/play/a02g/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Pink Music
 http://5.57.74.130:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",Pink Premium HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Pink Premium HD
 http://5.57.74.130:8000/play/a047/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Pink Reality
 http://5.57.74.130:8000/play/a046/index.m3u8
@@ -6221,7 +6221,7 @@ http://5.57.74.130:8000/play/a03s/index.m3u8
 http://5.57.74.130:8000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Prva Life HD
 http://5.57.74.130:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Prva Plus HD
+#EXTINF:-1 group-title="СЕРБИЯ",Prva Plus HD
 http://5.57.74.130:8000/play/a04e/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Prva TV CG
 http://5.57.74.130:8000/play/a01c/index.m3u8
@@ -6257,7 +6257,7 @@ http://5.57.74.130:8000/play/a01g/index.m3u8
 http://5.57.74.130:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Slobodna TV
 http://5.57.74.130:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="КОСТА-РИКА",Star Crime HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Star Crime HD
 http://5.57.74.130:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="ГРЕЦИЯ",Star HD
 http://5.57.74.130:8000/play/a02a/index.m3u8
@@ -6287,7 +6287,7 @@ http://5.57.74.130:8000/play/a01t/index.m3u8
 http://5.57.74.130:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",TV MOST
 http://5.57.74.130:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",TV Palma Plus
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",TV Palma Plus
 http://5.57.74.130:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",TV Ras
 http://5.57.74.130:8000/play/a01b/index.m3u8
@@ -6299,7 +6299,7 @@ http://5.57.74.130:8000/play/a038/index.m3u8
 http://5.57.74.130:8000/play/a04i/index.m3u8
 #EXTINF:-1 group-title="СЕРБИЯ",V5
 http://5.57.74.130:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="УРУГВАЙ",VTV
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",VTV
 http://5.57.74.130:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Viasat Explore HD
 http://5.57.74.130:8000/play/a033/index.m3u8
@@ -6311,11 +6311,11 @@ http://5.57.74.130:8000/play/a011/index.m3u8
 http://190.14.10.19:16000/play/a02x/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",009 Antena 3
 http://190.14.10.19:16000/play/a038/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",012 AXN HD
+#EXTINF:-1 group-title="ЯПОНИЯ",012 AXN HD
 http://190.14.10.19:16000/play/a07o/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",014 Azcorazon
+#EXTINF:-1 group-title="МЕКСИКА",014 Azcorazon
 http://190.14.10.19:16000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",015 Azmundo
+#EXTINF:-1 group-title="МЕКСИКА",015 Azmundo
 http://190.14.10.19:16000/play/a067/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",016 Baby TV
 http://190.14.10.19:16000/play/a035/index.m3u8
@@ -6329,11 +6329,11 @@ http://190.14.10.19:16000/play/a08v/index.m3u8
 http://190.14.10.19:16000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",026 CARTOON NT HD
 http://190.14.10.19:16000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",027 Cartoonito
+#EXTINF:-1 group-title="UK",027 Cartoonito
 http://190.14.10.19:16000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",030 Cine Latino
 http://190.14.10.19:16000/play/a07b/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",031 CINECANAL HD
+#EXTINF:-1 group-title="США",031 CINECANAL HD
 http://190.14.10.19:16000/play/a06o/index.m3u8
 #EXTINF:-1 group-title="США",032 CineMax
 http://190.14.10.19:16000/play/a07c/index.m3u8
@@ -6363,7 +6363,7 @@ http://190.14.10.19:16000/play/a05c/index.m3u8
 http://190.14.10.19:16000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",051 EURO Channel
 http://190.14.10.19:16000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",053 EWTN
+#EXTINF:-1 group-title="США",053 EWTN
 http://190.14.10.19:16000/play/a02y/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",054 Exa TV
 http://190.14.10.19:16000/play/a06j/index.m3u8
@@ -6373,11 +6373,11 @@ http://190.14.10.19:16000/play/a07u/index.m3u8
 http://190.14.10.19:16000/play/a02w/index.m3u8
 #EXTINF:-1 group-title="КОСТА-РИКА",059 FUTV CR
 http://190.14.10.19:16000/play/a06q/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",061 Golden
+#EXTINF:-1 group-title="МЕКСИКА",061 Golden
 http://190.14.10.19:16000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="ГВАТЕМАЛА",063 Guatevision-GUA
 http://190.14.10.19:16000/play/a021/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",064 H2
+#EXTINF:-1 group-title="США",064 H2
 http://190.14.10.19:16000/play/a05b/index.m3u8
 #EXTINF:-1 group-title="США",065 HBO Family HD
 http://190.14.10.19:16000/play/a043/index.m3u8
@@ -6389,45 +6389,45 @@ http://190.14.10.19:16000/play/a042/index.m3u8
 http://190.14.10.19:16000/play/a08k/index.m3u8
 #EXTINF:-1 group-title="США",069 HBO2 HD
 http://190.14.10.19:16000/play/a041/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",070 History HD
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",070 History HD
 http://190.14.10.19:16000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",071 Hola!TV
+#EXTINF:-1 group-title="США",071 Hola!TV
 http://190.14.10.19:16000/play/a03c/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",072 Home Garden Latino
 http://190.14.10.19:16000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",073 HTV
+#EXTINF:-1 group-title="США",073 HTV
 http://190.14.10.19:16000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",074 ID
+#EXTINF:-1 group-title="РОССИЯ",074 ID
 http://190.14.10.19:16000/play/a073/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",076 La voz de Maria
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",076 La voz de Maria
 http://190.14.10.19:16000/play/a074/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",077 Latin America Sport
 http://190.14.10.19:16000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",078 LIFE TIME
 http://190.14.10.19:16000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",079 Mas Chic
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",079 Mas Chic
 http://190.14.10.19:16000/play/a037/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",081 MTV 00s
 http://190.14.10.19:16000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",082 MTV HD
+#EXTINF:-1 group-title="ИТАЛИЯ",082 MTV HD
 http://190.14.10.19:16000/play/a031/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",083 MTV Hits
 http://190.14.10.19:16000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="МЕКСИКА",084 Multimedios
 http://190.14.10.19:16000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",085 Multipremier
+#EXTINF:-1 group-title="МЕКСИКА",085 Multipremier
 http://190.14.10.19:16000/play/a07a/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",086 Nat Geo HD
 http://190.14.10.19:16000/play/a07v/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",088 Nick Jr
 http://190.14.10.19:16000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",089 Nickelodeon
+#EXTINF:-1 group-title="ГРЕЦИЯ",089 Nickelodeon
 http://190.14.10.19:16000/play/a06y/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",090 Paramount HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",090 Paramount HD
 http://190.14.10.19:16000/play/a07w/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",091 Playboy
 http://190.14.10.19:16000/play/a045/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",092 Pasiones HD
+#EXTINF:-1 group-title="США",092 Pasiones HD
 http://190.14.10.19:16000/play/a080/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",093 RCN Novelas
 http://190.14.10.19:16000/play/a059/index.m3u8
@@ -6437,7 +6437,7 @@ http://190.14.10.19:16000/play/a05q/index.m3u8
 http://190.14.10.19:16000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",096 SONY HD
 http://190.14.10.19:16000/play/a06n/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",098 SPACE HD
+#EXTINF:-1 group-title="АРГЕНТИНА",098 SPACE HD
 http://190.14.10.19:16000/play/a07p/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",099 STAR CHANNEL
 http://190.14.10.19:16000/play/a070/index.m3u8
@@ -6445,7 +6445,7 @@ http://190.14.10.19:16000/play/a070/index.m3u8
 http://190.14.10.19:16000/play/a05d/index.m3u8
 #EXTINF:-1 group-title="США",103 TBS
 http://190.14.10.19:16000/play/a02l/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",104 TCM
+#EXTINF:-1 group-title="США",104 TCM
 http://190.14.10.19:16000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="ДОМИНИКАНА",106 Tele Antillas - RD
 http://190.14.10.19:16000/play/a023/index.m3u8
@@ -6455,15 +6455,15 @@ http://190.14.10.19:16000/play/a04y/index.m3u8
 http://190.14.10.19:16000/play/a025/index.m3u8
 #EXTINF:-1 group-title="ДОМИНИКАНА",111 Teleuniverso - RD
 http://190.14.10.19:16000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",113 TLC
+#EXTINF:-1 group-title="США",113 TLC
 http://190.14.10.19:16000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="США",114 TNT
 http://190.14.10.19:16000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="США",115 TNT Series HD
 http://190.14.10.19:16000/play/a07x/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",116 Tooncast
+#EXTINF:-1 group-title="США",116 Tooncast
 http://190.14.10.19:16000/play/a066/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",117 TVChile
+#EXTINF:-1 group-title="ЧИЛИ",117 TVChile
 http://190.14.10.19:16000/play/a039/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",118 Universal
 http://190.14.10.19:16000/play/a078/index.m3u8
@@ -6471,9 +6471,9 @@ http://190.14.10.19:16000/play/a078/index.m3u8
 http://190.14.10.19:16000/play/a05r/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",122 WARNER HD
 http://190.14.10.19:16000/play/a06m/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",123 ZooMoo
+#EXTINF:-1 group-title="SG",123 ZooMoo
 http://190.14.10.19:16000/play/a036/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",132 Golden Premiere 2 HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",132 Golden Premiere 2 HD
 http://190.14.10.19:16000/play/a08q/index.m3u8
 #EXTINF:-1 group-title="США",133 AMC HD
 http://190.14.10.19:16000/play/a098/index.m3u8
@@ -6485,19 +6485,19 @@ http://190.14.10.19:16000/play/a094/index.m3u8
 http://190.14.10.19:16000/play/a092/index.m3u8
 #EXTINF:-1 group-title="США",137 FX HD
 http://190.14.10.19:16000/play/a099/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",138 Telemundo
+#EXTINF:-1 group-title="США",138 Telemundo
 http://190.14.10.19:16000/play/a09a/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",139 TNT Novelas
 http://190.14.10.19:16000/play/a09b/index.m3u8
 #EXTINF:-1 group-title="США",140 TNT Series HD
 http://190.14.10.19:16000/play/a097/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",141 Univision HD
+#EXTINF:-1 group-title="США",141 Univision HD
 http://190.14.10.19:16000/play/a09c/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",142 Animal Planet HD
 http://190.14.10.19:16000/play/a09d/index.m3u8
 #EXTINF:-1 group-title="ИСПАНИЯ",143 ESPN 5 HD
 http://190.14.10.19:16000/play/a09e/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",144 A&E HD
+#EXTINF:-1 group-title="ГЕРМАНИЯ",144 A&E HD
 http://190.14.10.19:16000/play/a09k/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",145 Sembrador
 http://190.14.10.19:16000/play/a09n/index.m3u8
@@ -6525,11 +6525,11 @@ http://190.14.10.19:16000/play/a00ps/index.m3u8
 http://190.14.10.19:16000/play/a09y/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",002 -TBN Enlace
 http://190.14.10.19:16000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",012 AXN HD
+#EXTINF:-1 group-title="ЯПОНИЯ",012 AXN HD
 http://190.14.10.19:16000/play/a07o/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",014 Azcorazon
+#EXTINF:-1 group-title="МЕКСИКА",014 Azcorazon
 http://190.14.10.19:16000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",015 Azmundo
+#EXTINF:-1 group-title="МЕКСИКА",015 Azmundo
 http://190.14.10.19:16000/play/a067/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",016 Baby TV
 http://190.14.10.19:16000/play/a035/index.m3u8
@@ -6543,11 +6543,11 @@ http://190.14.10.19:16000/play/a08v/index.m3u8
 http://190.14.10.19:16000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",026 CARTOON NT HD
 http://190.14.10.19:16000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",027 Cartoonito
+#EXTINF:-1 group-title="UK",027 Cartoonito
 http://190.14.10.19:16000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",030 Cine Latino
 http://190.14.10.19:16000/play/a07b/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",031 CINECANAL HD
+#EXTINF:-1 group-title="США",031 CINECANAL HD
 http://190.14.10.19:16000/play/a06o/index.m3u8
 #EXTINF:-1 group-title="США",032 CineMax
 http://190.14.10.19:16000/play/a07c/index.m3u8
@@ -6577,7 +6577,7 @@ http://190.14.10.19:16000/play/a05c/index.m3u8
 http://190.14.10.19:16000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",051 EURO Channel
 http://190.14.10.19:16000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",053 EWTN
+#EXTINF:-1 group-title="США",053 EWTN
 http://190.14.10.19:16000/play/a02y/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",054 Exa TV
 http://190.14.10.19:16000/play/a06j/index.m3u8
@@ -6587,11 +6587,11 @@ http://190.14.10.19:16000/play/a07u/index.m3u8
 http://190.14.10.19:16000/play/a02w/index.m3u8
 #EXTINF:-1 group-title="КОСТА-РИКА",059 FUTV CR
 http://190.14.10.19:16000/play/a06q/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",061 Golden
+#EXTINF:-1 group-title="МЕКСИКА",061 Golden
 http://190.14.10.19:16000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="ГВАТЕМАЛА",063 Guatevision-GUA
 http://190.14.10.19:16000/play/a021/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",064 H2
+#EXTINF:-1 group-title="США",064 H2
 http://190.14.10.19:16000/play/a05b/index.m3u8
 #EXTINF:-1 group-title="США",065 HBO Family HD
 http://190.14.10.19:16000/play/a043/index.m3u8
@@ -6603,45 +6603,45 @@ http://190.14.10.19:16000/play/a042/index.m3u8
 http://190.14.10.19:16000/play/a08k/index.m3u8
 #EXTINF:-1 group-title="США",069 HBO2 HD
 http://190.14.10.19:16000/play/a041/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",070 History HD
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",070 History HD
 http://190.14.10.19:16000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",071 Hola!TV
+#EXTINF:-1 group-title="США",071 Hola!TV
 http://190.14.10.19:16000/play/a03c/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",072 Home Garden Latino
 http://190.14.10.19:16000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",073 HTV
+#EXTINF:-1 group-title="США",073 HTV
 http://190.14.10.19:16000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",074 ID
+#EXTINF:-1 group-title="РОССИЯ",074 ID
 http://190.14.10.19:16000/play/a073/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",076 La voz de Maria
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",076 La voz de Maria
 http://190.14.10.19:16000/play/a074/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",077 Latin America Sport
 http://190.14.10.19:16000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",078 LIFE TIME
 http://190.14.10.19:16000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",079 Mas Chic
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",079 Mas Chic
 http://190.14.10.19:16000/play/a037/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",081 MTV 00s
 http://190.14.10.19:16000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",082 MTV HD
+#EXTINF:-1 group-title="ИТАЛИЯ",082 MTV HD
 http://190.14.10.19:16000/play/a031/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",083 MTV Hits
 http://190.14.10.19:16000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="МЕКСИКА",084 Multimedios
 http://190.14.10.19:16000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",085 Multipremier
+#EXTINF:-1 group-title="МЕКСИКА",085 Multipremier
 http://190.14.10.19:16000/play/a07a/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",086 Nat Geo HD
 http://190.14.10.19:16000/play/a07v/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",088 Nick Jr
 http://190.14.10.19:16000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",089 Nickelodeon
+#EXTINF:-1 group-title="ГРЕЦИЯ",089 Nickelodeon
 http://190.14.10.19:16000/play/a06y/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",090 Paramount HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",090 Paramount HD
 http://190.14.10.19:16000/play/a07w/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",091 Playboy
 http://190.14.10.19:16000/play/a045/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",092 Pasiones HD
+#EXTINF:-1 group-title="США",092 Pasiones HD
 http://190.14.10.19:16000/play/a080/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",093 RCN Novelas
 http://190.14.10.19:16000/play/a059/index.m3u8
@@ -6651,7 +6651,7 @@ http://190.14.10.19:16000/play/a05q/index.m3u8
 http://190.14.10.19:16000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",096 SONY HD
 http://190.14.10.19:16000/play/a06n/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",098 SPACE HD
+#EXTINF:-1 group-title="АРГЕНТИНА",098 SPACE HD
 http://190.14.10.19:16000/play/a07p/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",099 STAR CHANNEL
 http://190.14.10.19:16000/play/a070/index.m3u8
@@ -6659,7 +6659,7 @@ http://190.14.10.19:16000/play/a070/index.m3u8
 http://190.14.10.19:16000/play/a05d/index.m3u8
 #EXTINF:-1 group-title="США",103 TBS
 http://190.14.10.19:16000/play/a02l/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",104 TCM
+#EXTINF:-1 group-title="США",104 TCM
 http://190.14.10.19:16000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="ДОМИНИКАНА",106 Tele Antillas - RD
 http://190.14.10.19:16000/play/a023/index.m3u8
@@ -6669,15 +6669,15 @@ http://190.14.10.19:16000/play/a04y/index.m3u8
 http://190.14.10.19:16000/play/a025/index.m3u8
 #EXTINF:-1 group-title="ДОМИНИКАНА",111 Teleuniverso - RD
 http://190.14.10.19:16000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",113 TLC
+#EXTINF:-1 group-title="США",113 TLC
 http://190.14.10.19:16000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="США",114 TNT
 http://190.14.10.19:16000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="США",115 TNT Series HD
 http://190.14.10.19:16000/play/a07x/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",116 Tooncast
+#EXTINF:-1 group-title="США",116 Tooncast
 http://190.14.10.19:16000/play/a066/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",117 TVChile
+#EXTINF:-1 group-title="ЧИЛИ",117 TVChile
 http://190.14.10.19:16000/play/a039/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",118 Universal
 http://190.14.10.19:16000/play/a078/index.m3u8
@@ -6685,9 +6685,9 @@ http://190.14.10.19:16000/play/a078/index.m3u8
 http://190.14.10.19:16000/play/a05r/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",122 WARNER HD
 http://190.14.10.19:16000/play/a06m/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",123 ZooMoo
+#EXTINF:-1 group-title="SG",123 ZooMoo
 http://190.14.10.19:16000/play/a036/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",132 Golden Premiere 2 HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",132 Golden Premiere 2 HD
 http://190.14.10.19:16000/play/a08q/index.m3u8
 #EXTINF:-1 group-title="США",133 AMC HD
 http://190.14.10.19:16000/play/a098/index.m3u8
@@ -6699,19 +6699,19 @@ http://190.14.10.19:16000/play/a094/index.m3u8
 http://190.14.10.19:16000/play/a092/index.m3u8
 #EXTINF:-1 group-title="США",137 FX HD
 http://190.14.10.19:16000/play/a099/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",138 Telemundo
+#EXTINF:-1 group-title="США",138 Telemundo
 http://190.14.10.19:16000/play/a09a/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",139 TNT Novelas
 http://190.14.10.19:16000/play/a09b/index.m3u8
 #EXTINF:-1 group-title="США",140 TNT Series HD
 http://190.14.10.19:16000/play/a097/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",141 Univision HD
+#EXTINF:-1 group-title="США",141 Univision HD
 http://190.14.10.19:16000/play/a09c/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",142 Animal Planet HD
 http://190.14.10.19:16000/play/a09d/index.m3u8
 #EXTINF:-1 group-title="ИСПАНИЯ",143 ESPN 5 HD
 http://190.14.10.19:16000/play/a09e/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",144 A&E HD
+#EXTINF:-1 group-title="ГЕРМАНИЯ",144 A&E HD
 http://190.14.10.19:16000/play/a09k/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",145 Sembrador
 http://190.14.10.19:16000/play/a09n/index.m3u8
@@ -6765,13 +6765,13 @@ http://103.147.87.50:8001/play/a00t/index.m3u8
 http://103.147.87.50:8001/play/a00u/index.m3u8
 #EXTINF:-1 group-title="ПОРТУГАЛИЯ",45-031-PTV National
 http://103.147.87.50:8001/play/a00v/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",45-032-KTN ENT
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",45-032-KTN ENT
 http://103.147.87.50:8001/play/a00w/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",45-033-KTN NEWS
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",45-033-KTN NEWS
 http://103.147.87.50:8001/play/a00x/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",45-034-ABBTAKK HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",45-034-ABBTAKK HD
 http://103.147.87.50:8001/play/a00y/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",45-035-Discover Pakistan
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",45-035-Discover Pakistan
 http://103.147.87.50:8001/play/a00z/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",45-036-TV5
 http://103.147.87.50:8001/play/a010/index.m3u8
@@ -6807,7 +6807,7 @@ http://103.147.87.50:8001/play/a01f/index.m3u8
 http://103.147.87.50:8001/play/a01g/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",47-054-ACTION CINEMA
 http://103.147.87.50:8001/play/a01i/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",47-055-ZEE ANMOL
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",47-055-ZEE ANMOL
 http://103.147.87.50:8001/play/a01j/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",47-057-B4U MUSIC
 http://103.147.87.50:8001/play/a01m/index.m3u8
@@ -6819,7 +6819,7 @@ http://103.147.87.50:8001/play/a01o/index.m3u8
 http://103.147.87.50:8001/play/a01p/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",47-061-SUNO NEWS HD
 http://103.147.87.50:8001/play/a01q/index.m3u8
-#EXTINF:-1 group-title="ВЕНЕСУЭЛА",47-062-Venus Entertainment
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",47-062-Venus Entertainment
 http://103.147.87.50:8001/play/a01r/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",47-113-Showbox
 http://103.147.87.50:8001/play/a04j/index.m3u8
@@ -6833,7 +6833,7 @@ http://103.147.87.50:8001/play/a01s/index.m3u8
 http://103.147.87.50:8001/play/a01t/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",48-065-ROHI TV
 http://103.147.87.50:8001/play/a01u/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",48-066-Dunya News HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",48-066-Dunya News HD
 http://103.147.87.50:8001/play/a01v/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",48-067-Lahore News
 http://103.147.87.50:8001/play/a01w/index.m3u8
@@ -6857,7 +6857,7 @@ http://103.147.87.50:8001/play/a024/index.m3u8
 http://103.147.87.50:8001/play/a025/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",48-077-Roze TV
 http://103.147.87.50:8001/play/a026/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",48-078-APlus Pakistan
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",48-078-APlus Pakistan
 http://103.147.87.50:8001/play/a027/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",49-001-MASALA TV
 http://103.147.87.50:8001/play/a048/index.m3u8
@@ -6873,7 +6873,7 @@ http://103.147.87.50:8001/play/a02b/index.m3u8
 http://103.147.87.50:8001/play/a02c/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",49-084-HUM HD
 http://103.147.87.50:8001/play/a02d/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",49-085-Geo News
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",49-085-Geo News
 http://103.147.87.50:8001/play/a02e/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",49-086-EXP NEWS
 http://103.147.87.50:8001/play/a02f/index.m3u8
@@ -6881,9 +6881,9 @@ http://103.147.87.50:8001/play/a02f/index.m3u8
 http://103.147.87.50:8001/play/a02g/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",49-088-HUM NEWS HD
 http://103.147.87.50:8001/play/a02h/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",50-089-ARYMusik
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",50-089-ARYMusik
 http://103.147.87.50:8001/play/a02i/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",50-090-AVT Khyber
+#EXTINF:-1 group-title="ПАКИСТАН",50-090-AVT Khyber
 http://103.147.87.50:8001/play/a02j/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",50-091-Khyber News
 http://103.147.87.50:8001/play/a02k/index.m3u8
@@ -6891,7 +6891,7 @@ http://103.147.87.50:8001/play/a02k/index.m3u8
 http://103.147.87.50:8001/play/a02l/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",50-094-Public News
 http://103.147.87.50:8001/play/a02n/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",50-095-ARY DigitalAsia HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",50-095-ARY DigitalAsia HD
 http://103.147.87.50:8001/play/a02o/index.m3u8
 #EXTINF:-1 group-title="ПАНАМА",50-096-PAIGHAM TV
 http://103.147.87.50:8001/play/a02p/index.m3u8
@@ -6899,15 +6899,15 @@ http://103.147.87.50:8001/play/a02p/index.m3u8
 http://103.147.87.50:8001/play/a02r/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",50-099-MADANI TV
 http://103.147.87.50:8001/play/a02s/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",50-100-ARY News Asia
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",50-100-ARY News Asia
 http://103.147.87.50:8001/play/a02t/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",50-101-ARYQTV
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",50-101-ARYQTV
 http://103.147.87.50:8001/play/a02u/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",50-102-Bethat TV
 http://103.147.87.50:8001/play/a02v/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",50-103-Hidayat TV
 http://103.147.87.50:8001/play/a02w/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",50-104-ARYZindagi
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",50-104-ARYZindagi
 http://103.147.87.50:8001/play/a02x/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",50-105-7 NEWS
 http://103.147.87.50:8001/play/a04b/index.m3u8
@@ -6923,7 +6923,7 @@ http://103.147.87.50:8001/play/a04f/index.m3u8
 http://103.147.87.50:8001/play/a04g/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",50-111-MUNTAZIR TV
 http://103.147.87.50:8001/play/a04h/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",26TV
+#EXTINF:-1 group-title="LT",26TV
 http://190.104.67.56:234/play/a05x/index.m3u8
 #EXTINF:-1 group-title="ГЕРМАНИЯ",A&E HD
 http://190.104.67.56:234/play/a09h/index.m3u8
@@ -6953,11 +6953,11 @@ http://190.104.67.56:234/play/a06j/index.m3u8
 http://190.104.67.56:234/play/a05v/index.m3u8
 #EXTINF:-1 group-title="ЧИЛИ",CHV HD
 http://190.104.67.56:234/play/a0p2/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",CNN en Espaæol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN en Espaæol
 http://190.104.67.56:234/play/a093/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal a
 http://190.104.67.56:234/play/a06d/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",Canal de la Ciudad
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal de la Ciudad
 http://190.104.67.56:234/play/a07c/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Cartoon Network HD
 http://190.104.67.56:234/play/a083/index.m3u8
@@ -7009,11 +7009,11 @@ http://190.104.67.56:234/play/a0on/index.m3u8
 http://190.104.67.56:234/play/a0nu/index.m3u8
 #EXTINF:-1 group-title="США",ESPN HD
 http://190.104.67.56:234/play/a099/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",ESPN Premium HD
+#EXTINF:-1 group-title="США",ESPN Premium HD
 http://190.104.67.56:234/play/a086/index.m3u8
-#EXTINF:-1 group-title="ФИЛИППИНЫ",ETC
+#EXTINF:-1 group-title="PH",ETC
 http://190.104.67.56:234/play/a0p8/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",El Canal de las Estrellas
+#EXTINF:-1 group-title="МЕКСИКА",El Canal de las Estrellas
 http://190.104.67.56:234/play/a07x/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",El Gourmet
 http://190.104.67.56:234/play/a07u/index.m3u8
@@ -7065,13 +7065,13 @@ http://190.104.67.56:234/play/a0ol/index.m3u8
 http://190.104.67.56:234/play/a05y/index.m3u8
 #EXTINF:-1 group-title="США",Lifetime
 http://190.104.67.56:234/play/a07l/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",MEGA HD
+#EXTINF:-1 group-title="ГРЕЦИЯ",MEGA HD
 http://190.104.67.56:234/play/a0p4/index.m3u8
 #EXTINF:-1 group-title="ИТАЛИЯ",MTV
 http://190.104.67.56:234/play/a06r/index.m3u8
 #EXTINF:-1 group-title="ИТАЛИЯ",MTV HD
 http://190.104.67.56:234/play/a0od/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",MTV LIVE HD
+#EXTINF:-1 group-title="ИТАЛИЯ",MTV LIVE HD
 http://190.104.67.56:234/play/a0oo/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",MTV×00
 http://190.104.67.56:234/play/a092/index.m3u8
@@ -7093,9 +7093,9 @@ http://190.104.67.56:234/play/a073/index.m3u8
 http://190.104.67.56:234/play/a0p3/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Quiero Musica
 http://190.104.67.56:234/play/a06s/index.m3u8
-#EXTINF:-1 group-title="ИТАЛИЯ",RAI Italia
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",RAI Italia
 http://190.104.67.56:234/play/a06u/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",RT en Espaæol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",RT en Espaæol
 http://190.104.67.56:234/play/a07d/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Rural
 http://190.104.67.56:234/play/a06k/index.m3u8
@@ -7125,7 +7125,7 @@ http://190.104.67.56:234/play/a08e/index.m3u8
 http://190.104.67.56:234/play/a08c/index.m3u8
 #EXTINF:-1 group-title="США",TNT Sports HD
 http://190.104.67.56:234/play/a06z/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",TV Publica HD
+#EXTINF:-1 group-title="АРГЕНТИНА",TV Publica HD
 http://190.104.67.56:234/play/a095/index.m3u8
 #EXTINF:-1 group-title="TZ",TVE
 http://190.104.67.56:234/play/a080/index.m3u8
@@ -7151,7 +7151,7 @@ http://190.104.67.56:234/play/a06m/index.m3u8
 http://190.104.67.56:234/play/a08k/index.m3u8
 #EXTINF:-1 group-title="АРГЕНТИНА",el trece HD
 http://190.104.67.56:234/play/a07b/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",123 TV (35e)
+#EXTINF:-1 group-title="LT",123 TV (35e)
 http://38.188.48.83:8000/play/a0lb/index.m3u8
 #EXTINF:-1 group-title="ГЕРМАНИЯ",A&E HD
 http://38.188.48.83:8000/play/a0ny/index.m3u8
@@ -7183,9 +7183,9 @@ http://38.188.48.83:8000/play/a0m4/index.m3u8
 http://38.188.48.83:8000/play/a0m9/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",CANAL I (35e)
 http://38.188.48.83:8000/play/a0lo/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",CGTN (35e)
+#EXTINF:-1 group-title="КИТАЙ",CGTN (35e)
 http://38.188.48.83:8000/play/a0lq/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",CGTN Documentary (35e)
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CGTN Documentary (35e)
 http://38.188.48.83:8000/play/a0lr/index.m3u8
 #EXTINF:-1 group-title="ЧИЛИ",CHV
 http://38.188.48.83:8000/play/a0od/index.m3u8
@@ -7193,15 +7193,15 @@ http://38.188.48.83:8000/play/a0od/index.m3u8
 http://38.188.48.83:8000/play/a0qi/index.m3u8
 #EXTINF:-1 group-title="КУБА",CUBAVISION (35e)
 http://38.188.48.83:8000/play/a0m8/index.m3u8
-#EXTINF:-1 group-title="КОЛУМБИЯ",Canal 13
+#EXTINF:-1 group-title="ЧИЛИ",Canal 13
 http://38.188.48.83:8000/play/a0qc/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal 24 Horas HD
 http://38.188.48.83:8000/play/a0ki/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal 9 (35e)
 http://38.188.48.83:8000/play/a0m0/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",Canal Publico de Argentina (35e)
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal Publico de Argentina (35e)
 http://38.188.48.83:8000/play/a0lt/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",Canal de las Estrellas
+#EXTINF:-1 group-title="МЕКСИКА",Canal de las Estrellas
 http://38.188.48.83:8000/play/a0pc/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal vasco (35e)
 http://38.188.48.83:8000/play/a0lu/index.m3u8
@@ -7229,7 +7229,7 @@ http://38.188.48.83:8000/play/a0qa/index.m3u8
 http://38.188.48.83:8000/play/a0km/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",DISNEY CH
 http://38.188.48.83:8000/play/a0qu/index.m3u8
-#EXTINF:-1 group-title="XK",DTV (35e)
+#EXTINF:-1 group-title="КОСОВО",DTV (35e)
 http://38.188.48.83:8000/play/a0lx/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Discovery H&H
 http://38.188.48.83:8000/play/a0oy/index.m3u8
@@ -7263,9 +7263,9 @@ http://38.188.48.83:8000/play/a0oi/index.m3u8
 http://38.188.48.83:8000/play/a0p2/index.m3u8
 #EXTINF:-1 group-title="США",ESPN HD
 http://38.188.48.83:8000/play/a0o2/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",ESPN Premium HD
+#EXTINF:-1 group-title="США",ESPN Premium HD
 http://38.188.48.83:8000/play/a0ko/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",EWTN (35e)
+#EXTINF:-1 group-title="США",EWTN (35e)
 http://38.188.48.83:8000/play/a0m5/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",El Gourmet HD
 http://38.188.48.83:8000/play/a0pa/index.m3u8
@@ -7319,9 +7319,9 @@ http://38.188.48.83:8000/play/a0pv/index.m3u8
 http://38.188.48.83:8000/play/a0pd/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",MTV 00s
 http://38.188.48.83:8000/play/a0pi/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",MTV Live
+#EXTINF:-1 group-title="ИТАЛИЯ",MTV Live
 http://38.188.48.83:8000/play/a0q5/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Meridiano (35e)
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",Meridiano (35e)
 http://38.188.48.83:8000/play/a0lj/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Nat Geo HD
 http://38.188.48.83:8000/play/a0jf/index.m3u8
@@ -7359,7 +7359,7 @@ http://38.188.48.83:8000/play/a0mv/index.m3u8
 http://38.188.48.83:8000/play/a0mn/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Radio Sur (35e)
 http://38.188.48.83:8000/play/a0mw/index.m3u8
-#EXTINF:-1 group-title="ВЕНЕСУЭЛА",Radio Ven-News (35e)
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Radio Ven-News (35e)
 http://38.188.48.83:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Red Advenir (35e)
 http://38.188.48.83:8000/play/a0me/index.m3u8
@@ -7367,7 +7367,7 @@ http://38.188.48.83:8000/play/a0me/index.m3u8
 http://38.188.48.83:8000/play/a0mc/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR CHANNEL HD
 http://38.188.48.83:8000/play/a0pj/index.m3u8
-#EXTINF:-1 group-title="ВЕНЕСУЭЛА",Show Ven (35e)
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Show Ven (35e)
 http://38.188.48.83:8000/play/a0lf/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Sony HD
 http://38.188.48.83:8000/play/a0o6/index.m3u8
@@ -7393,13 +7393,13 @@ http://38.188.48.83:8000/play/a0og/index.m3u8
 http://38.188.48.83:8000/play/a0pf/index.m3u8
 #EXTINF:-1 group-title="США",TNT Series
 http://38.188.48.83:8000/play/a0p4/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",TNT Sports Premiun HD
+#EXTINF:-1 group-title="США",TNT Sports Premiun HD
 http://38.188.48.83:8000/play/a0o9/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",TV Culturas (35e)
 http://38.188.48.83:8000/play/a0mx/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",TV Galicia (35e)
 http://38.188.48.83:8000/play/a0p7/index.m3u8
-#EXTINF:-1 group-title="LT",TV+ HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",TV+ HD
 http://38.188.48.83:8000/play/a0jd/index.m3u8
 #EXTINF:-1 group-title="TZ",TVE
 http://38.188.48.83:8000/play/a0l4/index.m3u8
@@ -7429,7 +7429,7 @@ http://38.188.48.83:8000/play/a0pg/index.m3u8
 http://38.188.48.83:8000/play/a0qd/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",VPACO (35e)
 http://38.188.48.83:8000/play/a0lm/index.m3u8
-#EXTINF:-1 group-title="УРУГВАЙ",VTV (35e)
+#EXTINF:-1 group-title="ВЕНЕСУЭЛА",VTV (35e)
 http://38.188.48.83:8000/play/a0l5/index.m3u8
 #EXTINF:-1 group-title="ВЕНЕСУЭЛА",Venevision (35e)
 http://38.188.48.83:8000/play/a0li/index.m3u8
@@ -7441,15 +7441,15 @@ http://38.188.48.83:8000/play/a0l6/index.m3u8
 http://38.188.48.83:8000/play/a0ky/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Warner Channel HD
 http://38.188.48.83:8000/play/a0oa/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",Zona Latina
+#EXTINF:-1 group-title="ПЕРУ",Zona Latina
 http://38.188.48.83:8000/play/a0l2/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА",Zoom (35e)
 http://38.188.48.83:8000/play/a0mb/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО", 1: LIGA 1 MAX
+#EXTINF:-1 group-title="ПЕРУ", 1: LIGA 1 MAX
 http://38.56.113.170:8000/play/a069/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО", T01 TVPeru 7.3
 http://38.56.113.170:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО", T01- IPe
+#EXTINF:-1 group-title="КОРЕЯ", T01- IPe
 http://38.56.113.170:8000/play/a02e/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО", T01- Rad. Nac.
 http://38.56.113.170:8000/play/a052/index.m3u8
@@ -7487,19 +7487,19 @@ http://38.56.113.170:8000/play/a01u/index.m3u8
 http://38.56.113.170:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",1P IMPERIO TV
 http://38.56.113.170:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",2: LIGA 1 MAX
+#EXTINF:-1 group-title="ПЕРУ",2: LIGA 1 MAX
 http://38.56.113.170:8000/play/a07g/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",3: LIGA 1 MAX
+#EXTINF:-1 group-title="ПЕРУ",3: LIGA 1 MAX
 http://38.56.113.170:8000/play/a06m/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",4: LIGA 1 MAX BASICO
+#EXTINF:-1 group-title="ПЕРУ",4: LIGA 1 MAX BASICO
 http://38.56.113.170:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",5: LIGA 1 MAX
+#EXTINF:-1 group-title="ПЕРУ",5: LIGA 1 MAX
 http://38.56.113.170:8000/play/a06q/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",6: LIGA 1 MAX
+#EXTINF:-1 group-title="ПЕРУ",6: LIGA 1 MAX
 http://38.56.113.170:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",7: LIGA 1 MAX (NEXT F)
+#EXTINF:-1 group-title="ПЕРУ",7: LIGA 1 MAX (NEXT F)
 http://38.56.113.170:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",8: LIGA 1 MAX
+#EXTINF:-1 group-title="ПЕРУ",8: LIGA 1 MAX
 http://38.56.113.170:8000/play/a07q/index.m3u8
 #EXTINF:-1 group-title="США",9P CINEMAX HD
 http://38.56.113.170:8000/play/a023/index.m3u8
@@ -7537,7 +7537,7 @@ http://38.56.113.170:8000/play/a06w/index.m3u8
 http://38.56.113.170:8000/play/a070/index.m3u8
 #EXTINF:-1 group-title="АРГЕНТИНА",ESPN2 ARGENTINO
 http://38.56.113.170:8000/play/a06y/index.m3u8
-#EXTINF:-1 group-title="США",ESPN5 2
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",ESPN5 2
 http://38.56.113.170:8000/play/a071/index.m3u8
 #EXTINF:-1 group-title="США",FX
 http://38.56.113.170:8000/play/a06h/index.m3u8
@@ -7565,7 +7565,7 @@ http://38.56.113.170:8000/play/a05o/index.m3u8
 http://38.56.113.170:8000/play/a01v/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR CHANNEL 2
 http://38.56.113.170:8000/play/a061/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",T01-TVPeru HD
+#EXTINF:-1 group-title="ПЕРУ",T01-TVPeru HD
 http://38.56.113.170:8000/play/a02c/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",T01-ip2- IMPERIO TV HD
 http://38.56.113.170:8000/play/a02l/index.m3u8
@@ -7597,13 +7597,13 @@ http://38.56.113.170:8000/play/a013/index.m3u8
 http://38.56.113.170:8000/play/a02q/index.m3u8
 #EXTINF:-1 group-title="ПЕРУ",T05- ATV+ HD
 http://38.56.113.170:8000/play/a02g/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",T05-LaTele HD
+#EXTINF:-1 group-title="ПАРАГВАЙ",T05-LaTele HD
 http://38.56.113.170:8000/play/a02i/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",T05-ip2-MACHUPICCHU TV
 http://38.56.113.170:8000/play/a00m/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",T06-IP2-RTV EL DIARIO
 http://38.56.113.170:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="ПЕРУ",T07-AmericaTV HD
+#EXTINF:-1 group-title="КОЛУМБИЯ",T07-AmericaTV HD
 http://38.56.113.170:8000/play/a066/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",T14 TV+ HD
 http://38.56.113.170:8000/play/a04j/index.m3u8
@@ -7623,7 +7623,7 @@ http://38.56.113.170:8000/play/a054/index.m3u8
 http://38.56.113.170:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ALSACIAS TV
 http://38.188.186.47:4000/play/a06v
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",BANDAMAX (DISTRITO)
+#EXTINF:-1 group-title="МЕКСИКА",BANDAMAX (DISTRITO)
 http://38.188.186.47:4000/play/a00f
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",CINE FAMILIAR
 http://38.188.186.47:4000/play/a005
@@ -7671,7 +7671,7 @@ http://38.188.186.47:4000/play/a03r
 http://38.188.186.47:4000/play/hya2
 #EXTINF:-1 group-title="ПУЭРТО-РИКО",STAR PREMIUM
 http://38.188.186.47:4000/play/a00b
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",SUYAPA TV
+#EXTINF:-1 group-title="ГОНДУРАС",SUYAPA TV
 http://38.188.186.47:4000/play/a008
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Sextream
 http://38.188.186.47:4000/play/a00n
@@ -7691,7 +7691,7 @@ http://38.188.186.47:4000/play/a073
 http://38.188.186.47:4000/play/a00u
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",TV SAN MARCOS
 http://38.188.186.47:4000/play/a05v
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",UNE TV
+#EXTINF:-1 group-title="ГОНДУРАС",UNE TV
 http://38.188.186.47:4000/play/a00y
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",UNIVERSAL TV (TEN 10) (DW)
 http://38.188.186.47:4000/play/a003
@@ -7709,7 +7709,7 @@ http://38.188.186.47:4000/play/a06a
 http://189.50.210.3:8008/play/a04k/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Antena 3
 http://189.50.210.3:8008/play/a06s/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",BBC NEWS
+#EXTINF:-1 group-title="ВЕЛИКОБРИТАНИЯ",BBC NEWS
 http://189.50.210.3:8008/play/a06o/index.m3u8
 #EXTINF:-1 group-title="ЧИЛИ",CHV HD
 http://189.50.210.3:8008/play/a046/index.m3u8
@@ -7717,7 +7717,7 @@ http://189.50.210.3:8008/play/a046/index.m3u8
 http://189.50.210.3:8008/play/a07j/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal Capital
 http://189.50.210.3:8008/play/a06g/index.m3u8
-#EXTINF:-1 group-title="КОЛУМБИЯ",Canal 13
+#EXTINF:-1 group-title="ЧИЛИ",Canal 13
 http://189.50.210.3:8008/play/a06d/index.m3u8
 #EXTINF:-1 group-title="ЧИЛИ",Canal 13 HD
 http://189.50.210.3:8008/play/a02s/index.m3u8
@@ -7729,7 +7729,7 @@ http://189.50.210.3:8008/play/a068/index.m3u8
 http://189.50.210.3:8008/play/a06e/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal Test
 http://189.50.210.3:8008/play/a066/index.m3u8
-#EXTINF:-1 group-title="ГЕРМАНИЯ",Canal del Congreso
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal del Congreso
 http://189.50.210.3:8008/play/a06a/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",Caracol HD
 http://189.50.210.3:8008/play/a04j/index.m3u8
@@ -7739,7 +7739,7 @@ http://189.50.210.3:8008/play/a02z/index.m3u8
 http://189.50.210.3:8008/play/a06h/index.m3u8
 #EXTINF:-1 group-title="США",DHE
 http://189.50.210.3:8008/play/a07p/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",DW Espaæol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",DW Espaæol
 http://189.50.210.3:8008/play/a06u/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Discovery H&H HD
 http://189.50.210.3:8008/play/a047/index.m3u8
@@ -7789,9 +7789,9 @@ http://189.50.210.3:8008/play/a038/index.m3u8
 http://189.50.210.3:8008/play/a04h/index.m3u8
 #EXTINF:-1 group-title="США",ESPN HD
 http://189.50.210.3:8008/play/a07m/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",ESPN Premium HD
+#EXTINF:-1 group-title="США",ESPN Premium HD
 http://189.50.210.3:8008/play/a07q/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",ESPN Premium HD
+#EXTINF:-1 group-title="США",ESPN Premium HD
 http://189.50.210.3:8008/play/a04l/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ET Canal El Tiempo
 http://189.50.210.3:8008/play/a06r/index.m3u8
@@ -7831,19 +7831,19 @@ http://189.50.210.3:8008/play/a06l/index.m3u8
 http://189.50.210.3:8008/play/a06k/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",La Red
 http://189.50.210.3:8008/play/a07k/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Las Estrellas HD
+#EXTINF:-1 group-title="МЕКСИКА",Las Estrellas HD
 http://189.50.210.3:8008/play/a07o/index.m3u8
 #EXTINF:-1 group-title="ПЕРУ",Latina HD
 http://189.50.210.3:8008/play/a04m/index.m3u8
 #EXTINF:-1 group-title="США",Lifetime
 http://189.50.210.3:8008/play/a05w/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",MEGA HD
+#EXTINF:-1 group-title="ГРЕЦИЯ",MEGA HD
 http://189.50.210.3:8008/play/a02r/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",MEGA HD
+#EXTINF:-1 group-title="ГРЕЦИЯ",MEGA HD
 http://189.50.210.3:8008/play/a07g/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Movistar Informa
 http://189.50.210.3:8008/play/a061/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",NTN 24 Horas
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",NTN 24 Horas
 http://189.50.210.3:8008/play/a06p/index.m3u8
 #EXTINF:-1 group-title="ГЕРМАНИЯ",Nick HD
 http://189.50.210.3:8008/play/a035/index.m3u8
@@ -7867,7 +7867,7 @@ http://189.50.210.3:8008/play/a04i/index.m3u8
 http://189.50.210.3:8008/play/a075/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR CHANNEL HD
 http://189.50.210.3:8008/play/a02w/index.m3u8
-#EXTINF:-1 group-title="КОЛУМБИЯ",Seæal Colombia
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Seæal Colombia
 http://189.50.210.3:8008/play/a069/index.m3u8
 #EXTINF:-1 group-title="АРГЕНТИНА",Space HD
 http://189.50.210.3:8008/play/a02y/index.m3u8
@@ -7883,13 +7883,13 @@ http://189.50.210.3:8008/play/a049/index.m3u8
 http://189.50.210.3:8008/play/a05t/index.m3u8
 #EXTINF:-1 group-title="США",TNT Series HD
 http://189.50.210.3:8008/play/a04f/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",TNT Sports Premium SD
+#EXTINF:-1 group-title="США",TNT Sports Premium SD
 http://189.50.210.3:8008/play/a074/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",TNT Sports Premiun HD
+#EXTINF:-1 group-title="США",TNT Sports Premiun HD
 http://189.50.210.3:8008/play/a031/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",TNT Sports Premiun HD
+#EXTINF:-1 group-title="США",TNT Sports Premiun HD
 http://189.50.210.3:8008/play/a07c/index.m3u8
-#EXTINF:-1 group-title="LT",TV+
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",TV+
 http://189.50.210.3:8008/play/a07i/index.m3u8
 #EXTINF:-1 group-title="ЧИЛИ",TVN HD
 http://189.50.210.3:8008/play/a079/index.m3u8
@@ -7909,7 +7909,7 @@ http://189.50.210.3:8008/play/a06c/index.m3u8
 http://189.50.210.3:8008/play/a06x/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",USA
 http://189.50.210.3:8008/play/a06z/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Via X Esports
+#EXTINF:-1 group-title="ЧИЛИ",Via X Esports
 http://189.50.210.3:8008/play/a06y/index.m3u8
 #EXTINF:-1 group-title="ПЕРУ",WILLAX
 http://189.50.210.3:8008/play/a05m/index.m3u8
@@ -7951,7 +7951,7 @@ http://179.1.201.133:55223/play/CANALINFANTIL
 http://179.1.201.133:55223/play/CANALINSTITU
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",CANAL UNO
 http://179.1.201.133:55223/play/CANALUNO
-#EXTINF:-1 group-title="КОЛУМБИЯ",CARACOL HD2 BACKUP
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CARACOL HD2 BACKUP
 http://179.1.201.133:55223/play/a0bo
 #EXTINF:-1 group-title="КОЛУМБИЯ",CARACOL TDT
 http://179.1.201.133:55223/play/a0j9
@@ -7961,7 +7961,7 @@ http://179.1.201.133:55223/play/CARACOL
 http://179.1.201.133:55223/play/a0jy
 #EXTINF:-1 group-title="КОЛУМБИЯ",CARACOL TRANS
 http://179.1.201.133:55223/play/a0iy
-#EXTINF:-1 group-title="КОЛУМБИЯ",CARACOLHD2 TDT
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CARACOLHD2 TDT
 http://179.1.201.133:55223/play/CARACOLHD2
 #EXTINF:-1 group-title="ЧИЛИ",CHV HD
 http://179.1.201.133:55223/play/a0gh
@@ -7975,9 +7975,9 @@ http://179.1.201.133:55223/play/CINEPREMIUM
 http://179.1.201.133:55223/play/a09y
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",CNC QUINDIO
 http://179.1.201.133:55223/play/a0il
-#EXTINF:-1 group-title="ИСПАНИЯ",CNN Espaæol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN Espaæol
 http://179.1.201.133:55223/play/a0ey
-#EXTINF:-1 group-title="ИСПАНИЯ",CNN Espaæol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN Espaæol
 http://179.1.201.133:55223/play/a0au
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN International
 http://179.1.201.133:55223/play/a0en
@@ -7987,13 +7987,13 @@ http://179.1.201.133:55223/play/a0jz
 http://179.1.201.133:55223/play/a0a9
 #EXTINF:-1 group-title="КОЛУМБИЯ",Canal 1
 http://179.1.201.133:55223/play/a0jj
-#EXTINF:-1 group-title="КОЛУМБИЯ",Canal 13
+#EXTINF:-1 group-title="ЧИЛИ",Canal 13
 http://179.1.201.133:55223/play/a09p
-#EXTINF:-1 group-title="КОЛУМБИЯ",Canal 13
+#EXTINF:-1 group-title="ЧИЛИ",Canal 13
 http://179.1.201.133:55223/play/a0a6
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal TRO
 http://179.1.201.133:55223/play/a0a7
-#EXTINF:-1 group-title="ГЕРМАНИЯ",Canal del Congreso
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal del Congreso
 http://179.1.201.133:55223/play/a0a3
 #EXTINF:-1 group-title="КОЛУМБИЯ",Caracol
 http://179.1.201.133:55223/play/a0bf
@@ -8085,9 +8085,9 @@ http://179.1.201.133:55223/play/a0gs
 http://179.1.201.133:55223/play/a0bp
 #EXTINF:-1 group-title="США",ESPN HD - TRANS
 http://179.1.201.133:55223/play/a0j2
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",ESPN Premium HD
+#EXTINF:-1 group-title="США",ESPN Premium HD
 http://179.1.201.133:55223/play/a09e
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",ESPN Premium HD
+#EXTINF:-1 group-title="США",ESPN Premium HD
 http://179.1.201.133:55223/play/a0gu
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ET Canal El Tiempo
 http://179.1.201.133:55223/play/a0jv
@@ -8177,7 +8177,7 @@ http://179.1.201.133:55223/play/LAKALLE
 http://179.1.201.133:55223/play/LOVENATURE
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",La Red HD
 http://179.1.201.133:55223/play/a0ig
-#EXTINF:-1 group-title="ИСПАНИЯ",Las Estrellas HD
+#EXTINF:-1 group-title="МЕКСИКА",Las Estrellas HD
 http://179.1.201.133:55223/play/a0gt
 #EXTINF:-1 group-title="ПЕРУ",Latina HD
 http://179.1.201.133:55223/play/a08m
@@ -8189,9 +8189,9 @@ http://179.1.201.133:55223/play/a0if
 http://179.1.201.133:55223/play/a0hn
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Love Nature
 http://179.1.201.133:55223/play/a09o
-#EXTINF:-1 group-title="ЧИЛИ",MEGA HD
+#EXTINF:-1 group-title="ГРЕЦИЯ",MEGA HD
 http://179.1.201.133:55223/play/a08d
-#EXTINF:-1 group-title="ЧИЛИ",MEGA HD
+#EXTINF:-1 group-title="ГРЕЦИЯ",MEGA HD
 http://179.1.201.133:55223/play/a0gq
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",MI MUSICA POPULAR
 http://179.1.201.133:55223/play/MUSICAPOPULAR
@@ -8207,7 +8207,7 @@ http://179.1.201.133:55223/play/a0gb
 http://179.1.201.133:55223/play/MULTIPREMIER
 #EXTINF:-1 group-title="ГЕРМАНИЯ",MUNDO DEL CAMPO SRT
 http://179.1.201.133:55223/play/a0iu
-#EXTINF:-1 group-title="ГЕРМАНИЯ",Mundo del Campo
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Mundo del Campo
 http://179.1.201.133:55223/play/a0ii
 #EXTINF:-1 group-title="АРГЕНТИНА",MÆsChic
 http://179.1.201.133:55223/play/a0cu
@@ -8233,9 +8233,9 @@ http://82.214.109.68:8000/play/a02t/index.m3u8
 http://82.214.109.68:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ServusTV HD Oesterreich
 http://82.214.109.68:8000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",TV SA
+#EXTINF:-1 group-title="САУДОВСКАЯ АРАВИЯ",TV SA
 http://82.214.109.68:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",13 C
+#EXTINF:-1 group-title="ФРАНЦИЯ",13 C
 http://38.43.132.201:8000/play/a0gg/index.m3u8
 #EXTINF:-1 group-title="ГЕРМАНИЯ",A&E HD
 http://38.43.132.201:8000/play/a0an/index.m3u8
@@ -8261,7 +8261,7 @@ http://38.43.132.201:8000/play/a07o/index.m3u8
 http://38.43.132.201:8000/play/a0jx/index.m3u8
 #EXTINF:-1 group-title="ЧИЛИ",CHV
 http://38.43.132.201:8000/play/a0eh/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",CNN Espaæol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN Espaæol
 http://38.43.132.201:8000/play/a0go/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN International
 http://38.43.132.201:8000/play/a0fp/index.m3u8
@@ -8315,7 +8315,7 @@ http://38.43.132.201:8000/play/a0dj/index.m3u8
 http://38.43.132.201:8000/play/a0dq/index.m3u8
 #EXTINF:-1 group-title="США",ESPN HD
 http://38.43.132.201:8000/play/a0lu/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",ESPN Premium HD
+#EXTINF:-1 group-title="США",ESPN Premium HD
 http://38.43.132.201:8000/play/a0j6/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ETC TV
 http://38.43.132.201:8000/play/a0hw/index.m3u8
@@ -8355,7 +8355,7 @@ http://38.43.132.201:8000/play/a0f9/index.m3u8
 http://38.43.132.201:8000/play/a0ie/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ",ID HD
 http://38.43.132.201:8000/play/a0dn/index.m3u8
-#EXTINF:-1 group-title="ИСПАНИЯ",Las Estrellas HD
+#EXTINF:-1 group-title="МЕКСИКА",Las Estrellas HD
 http://38.43.132.201:8000/play/a0iv/index.m3u8
 #EXTINF:-1 group-title="ПЕРУ",Latina
 http://38.43.132.201:8000/play/a0le/index.m3u8
@@ -8369,9 +8369,9 @@ http://38.43.132.201:8000/play/a0jf/index.m3u8
 http://38.43.132.201:8000/play/a0cz/index.m3u8
 #EXTINF:-1 group-title="ГРЕЦИЯ",MEGA
 http://38.43.132.201:8000/play/a0gh/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",MEGA HD
+#EXTINF:-1 group-title="ГРЕЦИЯ",MEGA HD
 http://38.43.132.201:8000/play/a0j3/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",MTV LIVE HD
+#EXTINF:-1 group-title="ИТАЛИЯ",MTV LIVE HD
 http://38.43.132.201:8000/play/a0ed/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Movistar TV
 http://38.43.132.201:8000/play/a0hg/index.m3u8
@@ -8439,11 +8439,11 @@ http://38.43.132.201:8000/play/a0ee/index.m3u8
 http://38.43.132.201:8000/play/a0i3/index.m3u8
 #EXTINF:-1 group-title="США",TNT Series HD
 http://38.43.132.201:8000/play/a0ls/index.m3u8
-#EXTINF:-1 group-title="ПУЭРТО-РИКО",TNT Sports Premium SD
+#EXTINF:-1 group-title="США",TNT Sports Premium SD
 http://38.43.132.201:8000/play/a0iu/index.m3u8
 #EXTINF:-1 group-title="ПЕРУ",TV PERU
 http://38.43.132.201:8000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="LT",TV+
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",TV+
 http://38.43.132.201:8000/play/a0hj/index.m3u8
 #EXTINF:-1 group-title="TZ",TVE
 http://38.43.132.201:8000/play/a0gf/index.m3u8
@@ -8483,7 +8483,7 @@ http://38.43.132.201:8000/play/a0dl/index.m3u8
 http://38.43.132.201:8000/play/a0lz/index.m3u8
 #EXTINF:-1 group-title="КОЛУМБИЯ",Win Sports
 http://38.43.132.201:8000/play/a087/index.m3u8
-#EXTINF:-1 group-title="ЧИЛИ",Zona Latina
+#EXTINF:-1 group-title="ПЕРУ",Zona Latina
 http://38.43.132.201:8000/play/a0jy/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",AE Mundo
 http://181.78.23.26:45000/play/a01m
@@ -8497,13 +8497,13 @@ http://181.78.23.26:45000/play/a01d
 http://181.78.23.26:45000/play/a012
 #EXTINF:-1 group-title="КОЛУМБИЯ",CARACOL HD
 http://181.78.23.26:45000/play/a022
-#EXTINF:-1 group-title="ИСПАНИЯ",CNN Espanol
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",CNN Espanol
 http://181.78.23.26:45000/play/a00i
 #EXTINF:-1 group-title="КОЛУМБИЯ",Canal Caracol
 http://181.78.23.26:45000/play/a02g
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal Claro
 http://181.78.23.26:45000/play/a01x
-#EXTINF:-1 group-title="ИСПАНИЯ",Canal Estrellas
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal Estrellas
 http://181.78.23.26:45000/play/a01q
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal Institucional
 http://181.78.23.26:45000/play/a02k
@@ -8511,7 +8511,7 @@ http://181.78.23.26:45000/play/a02k
 http://181.78.23.26:45000/play/a02h
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal Uno
 http://181.78.23.26:45000/play/a02e
-#EXTINF:-1 group-title="ГЕРМАНИЯ",Canal del Congreso
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Canal del Congreso
 http://181.78.23.26:45000/play/a02l
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Capital
 http://181.78.23.26:45000/play/a02w
@@ -8569,49 +8569,49 @@ http://181.78.23.26:45000/play/a02x
 http://181.78.23.26:45000/play/a005
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",HomeandHealth
 http://181.78.23.26:45000/play/a020
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|BABY TV
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",IPTV|BABY TV
 http://181.78.23.26:45000/play/a03k
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|BETHEL
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",IPTV|BETHEL
 http://181.78.23.26:45000/play/a03l
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|CABLENOTICIAS
+#EXTINF:-1 group-title="КОЛУМБИЯ",IPTV|CABLENOTICIAS
 http://181.78.23.26:45000/play/a03n
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|CINE FAMILIAR
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",IPTV|CINE FAMILIAR
 http://181.78.23.26:45000/play/a03u
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|CINE HISPANO
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",IPTV|CINE HISPANO
 http://181.78.23.26:45000/play/a03v
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|CINE INFANTIL
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",IPTV|CINE INFANTIL
 http://181.78.23.26:45000/play/a03w
 #EXTINF:-1 group-title="ПУЭРТО-РИКО",IPTV|CINE PREMIUN
 http://181.78.23.26:45000/play/a03x
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|CRISTOVISION
+#EXTINF:-1 group-title="КОЛУМБИЯ",IPTV|CRISTOVISION
 http://181.78.23.26:45000/play/a040
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|DE PELICULA
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",IPTV|DE PELICULA
 http://181.78.23.26:45000/play/a041
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|GOLDEN
+#EXTINF:-1 group-title="МЕКСИКА",IPTV|GOLDEN
 http://181.78.23.26:45000/play/a04c
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|HOGAR TV
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",IPTV|HOGAR TV
 http://181.78.23.26:45000/play/a050
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|MI MUSICA POPULAR
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",IPTV|MI MUSICA POPULAR
 http://181.78.23.26:45000/play/a04e
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|MI MUSICA REGGAETON
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",IPTV|MI MUSICA REGGAETON
 http://181.78.23.26:45000/play/a04f
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|MI MUSICA SALSA
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",IPTV|MI MUSICA SALSA
 http://181.78.23.26:45000/play/a04h
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|RUMBA TV
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",IPTV|RUMBA TV
 http://181.78.23.26:45000/play/a04k
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|TELEAMIGA
+#EXTINF:-1 group-title="КОЛУМБИЯ",IPTV|TELEAMIGA
 http://181.78.23.26:45000/play/a04n
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|TELEANTILLA
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",IPTV|TELEANTILLA
 http://181.78.23.26:45000/play/a04o
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|TELEMEDELLIN
+#EXTINF:-1 group-title="КОЛУМБИЯ",IPTV|TELEMEDELLIN
 http://181.78.23.26:45000/play/a04r
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|TELENOSTALGIA
+#EXTINF:-1 group-title="КОЛУМБИЯ",IPTV|TELENOSTALGIA
 http://181.78.23.26:45000/play/a04s
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|TELENOVELAS
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",IPTV|TELENOVELAS
 http://181.78.23.26:45000/play/a04t
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|TELEVIDA
+#EXTINF:-1 group-title="ПЕРУ",IPTV|TELEVIDA
 http://181.78.23.26:45000/play/a04x
-#EXTINF:-1 group-title="ПАКИСТАН",IPTV|TVAGRO
+#EXTINF:-1 group-title="КОЛУМБИЯ",IPTV|TVAGRO
 http://181.78.23.26:45000/play/a051
 #EXTINF:-1 group-title="США",Lifetime
 http://181.78.23.26:45000/play/a00e
@@ -8677,33 +8677,33 @@ http://181.78.23.26:45000/play/a02s
 http://181.78.23.26:45000/play/a036
 #EXTINF:-1 group-title="АРГЕНТИНА",tyc
 http://181.78.23.26:45000/play/a04m
-#EXTINF:-1 group-title="ИНДИЯ",&Xplor HD - Rs 4.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",&Xplor HD - Rs 4.00
 http://66.102.120.18:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",&flix HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",&flix HD - Rs 19.00
 http://66.102.120.18:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",&pictures HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",&pictures HD - Rs 19.00
 http://66.102.120.18:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",&tv HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",&tv HD - Rs 19.00
 http://66.102.120.18:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",24 News HD
+#EXTINF:-1 group-title="ИНДИЯ",24 News HD
 http://66.102.120.18:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",24B HD
 http://66.102.120.18:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",365 NEWS
+#EXTINF:-1 group-title="ИНДИЯ",365 NEWS
 http://66.102.120.18:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",8XM HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",8XM HD
 http://66.102.120.18:8000/play/a050/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",92 Entertainment
+#EXTINF:-1 group-title="ID",92 Entertainment
 http://66.102.120.18:8000/play/a06m/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",92 News HD
+#EXTINF:-1 group-title="ИНДИЯ",92 News HD
 http://66.102.120.18:8000/play/a04y/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",A SportsHD
 http://66.102.120.18:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",A1 TV
 http://66.102.120.18:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",AAJ ENTERTANMENT
+#EXTINF:-1 group-title="ПАКИСТАН",AAJ ENTERTANMENT
 http://66.102.120.18:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",AAJ NEWS
+#EXTINF:-1 group-title="ПАКИСТАН",AAJ NEWS
 http://66.102.120.18:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",AAN TV - HD
 http://66.102.120.18:8000/play/a05j/index.m3u8
@@ -8713,13 +8713,13 @@ http://66.102.120.18:8000/play/a051/index.m3u8
 http://66.102.120.18:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",APNA CHANNEL HD
 http://66.102.120.18:8000/play/a04z/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",APlus Pakistan
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",APlus Pakistan
 http://66.102.120.18:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",ARYDigitalAsia HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",ARYDigitalAsia HD
 http://66.102.120.18:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="ПАКИСТАН",ARYMusik
 http://66.102.120.18:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",ARYNewsAsia
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",ARYNewsAsia
 http://66.102.120.18:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="ПАКИСТАН",ARYZindagi
 http://66.102.120.18:8000/play/a031/index.m3u8
@@ -8729,13 +8729,13 @@ http://66.102.120.18:8000/play/a03t/index.m3u8
 http://66.102.120.18:8000/play/a06i/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Al Jazeera English HD
 http://66.102.120.18:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Animal Planet HD - Rs 5.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Animal Planet HD - Rs 5.00
 http://66.102.120.18:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="ФРАНЦИЯ",B4U Movies - Free
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",B4U Movies - Free
 http://66.102.120.18:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",BBC News
+#EXTINF:-1 group-title="ВЕЛИКОБРИТАНИЯ",BBC News
 http://66.102.120.18:8000/play/a074/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",BOL News Urdu
+#EXTINF:-1 group-title="ПАКИСТАН",BOL News Urdu
 http://66.102.120.18:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",CITY-21
 http://66.102.120.18:8000/play/a05z/index.m3u8
@@ -8747,35 +8747,35 @@ http://66.102.120.18:8000/play/a03h/index.m3u8
 http://66.102.120.18:8000/play/a06z/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Capital TV
 http://66.102.120.18:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Cartoon Network - Rs 4.75
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Cartoon Network - Rs 4.75
 http://66.102.120.18:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Cartoon Network HD+ - Rs 7.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Cartoon Network HD+ - Rs 7.00
 http://66.102.120.18:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="БОЛИВИЯ",Colors Cineplex Bollywood - Rs 0.10
+#EXTINF:-1 group-title="ИНДИЯ",Colors Cineplex Bollywood - Rs 0.10
 http://66.102.120.18:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Colors HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Colors HD - Rs 19.00
 http://66.102.120.18:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",Colors Infinity HD - Rs 15.0
 http://66.102.120.18:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",DW English HD
 http://66.102.120.18:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",Discover Pakistan
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Discover Pakistan
 http://66.102.120.18:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",Discover Pakistan
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Discover Pakistan
 http://66.102.120.18:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Discovery HD - Rs 8.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Discovery HD - Rs 8.00
 http://66.102.120.18:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Discovery Kids - Rs 3.50
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Discovery Kids - Rs 3.50
 http://66.102.120.18:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Discovery Science - Rs 1.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Discovery Science - Rs 1.00
 http://66.102.120.18:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Discovery Turbo - Rs 1.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Discovery Turbo - Rs 1.00
 http://66.102.120.18:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Disney Channel HD - Rs 17.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Disney Channel HD - Rs 17.00
 http://66.102.120.18:8000/play/a013/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Disney International HD
 http://66.102.120.18:8000/play/a078/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Disney Junior - Rs 4.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Disney Junior - Rs 4.00
 http://66.102.120.18:8000/play/a004/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Disny
 http://66.102.120.18:8000/play/a070/index.m3u8
@@ -8785,7 +8785,7 @@ http://66.102.120.18:8000/play/a04u/index.m3u8
 http://66.102.120.18:8000/play/a054/index.m3u8
 #EXTINF:-1 group-title="ПАКИСТАН",EXPRESS NEWS
 http://66.102.120.18:8000/play/a053/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Eurosport HD - Rs 6.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Eurosport HD - Rs 6.00
 http://66.102.120.18:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",FAST SPORTS HD
 http://66.102.120.18:8000/play/a05f/index.m3u8
@@ -8817,17 +8817,17 @@ http://66.102.120.18:8000/play/a05l/index.m3u8
 http://66.102.120.18:8000/play/a05o/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",HUM HD
 http://66.102.120.18:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",HUM NEWS HD
+#EXTINF:-1 group-title="ПАКИСТАН",HUM NEWS HD
 http://66.102.120.18:8000/play/a05e/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",HUM SITARAY
 http://66.102.120.18:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Hidayat TV
 http://66.102.120.18:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",History TV18 HD - Rs 7.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",History TV18 HD - Rs 7.00
 http://66.102.120.18:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",INPLUS Pakistan
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",INPLUS Pakistan
 http://66.102.120.18:8000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Investigation Discovery - Rs 1.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Investigation Discovery - Rs 1.00
 http://66.102.120.18:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Isaac TV
 http://66.102.120.18:8000/play/a04j/index.m3u8
@@ -8837,11 +8837,11 @@ http://66.102.120.18:8000/play/a052/index.m3u8
 http://66.102.120.18:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",KSA SPORT2 HD
 http://66.102.120.18:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Khyber News HD
+#EXTINF:-1 group-title="ПАКИСТАН",Khyber News HD
 http://66.102.120.18:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",Kidzone Pakistan
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Kidzone Pakistan
 http://66.102.120.18:8000/play/a02l/index.m3u8
-#EXTINF:-1 group-title="АРГЕНТИНА",LTN FAMILY
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",LTN FAMILY
 http://66.102.120.18:8000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Lahore News HD
 http://66.102.120.18:8000/play/a04x/index.m3u8
@@ -8879,7 +8879,7 @@ http://66.102.120.18:8000/play/a07f/index.m3u8
 http://66.102.120.18:8000/play/a02j/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Metro 1
 http://66.102.120.18:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",NATIONAL GEOGRAPHIC HD - Rs 14.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",NATIONAL GEOGRAPHIC HD - Rs 14.00
 http://66.102.120.18:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",NEO NEWS HD
 http://66.102.120.18:8000/play/a05g/index.m3u8
@@ -8887,13 +8887,13 @@ http://66.102.120.18:8000/play/a05g/index.m3u8
 http://66.102.120.18:8000/play/a057/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",NHK WORLD-JPN
 http://66.102.120.18:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",NOOR TV PK
+#EXTINF:-1 group-title="ПАКИСТАН",NOOR TV PK
 http://66.102.120.18:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Nat Geo Wild HD - Rs 8.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Nat Geo Wild HD - Rs 8.00
 http://66.102.120.18:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Nick - Rs 6.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Nick - Rs 6.00
 http://66.102.120.18:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Nick Jr. - Rs 1.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Nick Jr. - Rs 1.00
 http://66.102.120.18:8000/play/a00m/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",ONYX HD
 http://66.102.120.18:8000/play/a041/index.m3u8
@@ -8903,13 +8903,13 @@ http://66.102.120.18:8000/play/a04r/index.m3u8
 http://66.102.120.18:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="ПАКИСТАН",PTV WORLD HD
 http://66.102.120.18:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="ПАКИСТАН",PTV-SPORTS-HD
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",PTV-SPORTS-HD
 http://66.102.120.18:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="ПАНАМА",Paigham Pashto
+#EXTINF:-1 group-title="ПАКИСТАН",Paigham Pashto
 http://66.102.120.18:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Paigham Urdu
+#EXTINF:-1 group-title="ПАКИСТАН",Paigham Urdu
 http://66.102.120.18:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Paigham Urdu
+#EXTINF:-1 group-title="ПАКИСТАН",Paigham Urdu
 http://66.102.120.18:8000/play/a04k/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Peace TV English HD
 http://66.102.120.18:8000/play/a05q/index.m3u8
@@ -8917,7 +8917,7 @@ http://66.102.120.18:8000/play/a05q/index.m3u8
 http://66.102.120.18:8000/play/a05p/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",Planet Fun HD
 http://66.102.120.18:8000/play/a02k/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Pogo - Rs 4.75
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Pogo - Rs 4.75
 http://66.102.120.18:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",QURAN TV
 http://66.102.120.18:8000/play/a04h/index.m3u8
@@ -8927,17 +8927,17 @@ http://66.102.120.18:8000/play/a043/index.m3u8
 http://66.102.120.18:8000/play/a05y/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",RUBIX HD
 http://66.102.120.18:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Romedy Now - Rs 5.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Romedy Now - Rs 5.00
 http://66.102.120.18:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="ПАКИСТАН",SAMAA
 http://66.102.120.18:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",SAUDI CH For Quran HD
+#EXTINF:-1 group-title="САУДОВСКАЯ АРАВИЯ",SAUDI CH For Quran HD
 http://66.102.120.18:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",SAUDI CH For Sunnah HD
+#EXTINF:-1 group-title="САУДОВСКАЯ АРАВИЯ",SAUDI CH For Sunnah HD
 http://66.102.120.18:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",SET HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",SET HD - Rs 19.00
 http://66.102.120.18:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",SONY BBC EARTH HD - Rs 19.00
+#EXTINF:-1 group-title="ВЕЛИКОБРИТАНИЯ",SONY BBC EARTH HD - Rs 19.00
 http://66.102.120.18:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",SONY MAX - Rs 19.00
 http://66.102.120.18:8000/play/a00u/index.m3u8
@@ -8945,31 +8945,31 @@ http://66.102.120.18:8000/play/a00u/index.m3u8
 http://66.102.120.18:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",SONY MAX HD
 http://66.102.120.18:8000/play/a071/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",SONY PIX HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",SONY PIX HD - Rs 19.00
 http://66.102.120.18:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",SONY SPORTS TEN 1 HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",SONY SPORTS TEN 1 HD - Rs 19.00
 http://66.102.120.18:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",SONY SPORTS TEN 2 HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",SONY SPORTS TEN 2 HD - Rs 19.00
 http://66.102.120.18:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",SONY SPORTS TEN 3 Hindi HD
 http://66.102.120.18:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",SONY SPORTS TEN 5 Hindi HD
 http://66.102.120.18:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",SONY YAY! - Rs 4.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",SONY YAY! - Rs 4.00
 http://66.102.120.18:8000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",STAR GOLD HD - Rs 19.00
 http://66.102.120.18:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",STAR Movies HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR Movies HD - Rs 19.00
 http://66.102.120.18:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",STAR Movies Select HD - Rs 19.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR Movies Select HD - Rs 19.00
 http://66.102.120.18:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",STAR Plus HD - Rs 22.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR Plus HD - Rs 22.00
 http://66.102.120.18:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR SPORTS S1 HD
+#EXTINF:-1 group-title="ИНДИЯ",STAR SPORTS S1 HD
 http://66.102.120.18:8000/play/a06x/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR SPORTS S2 HD
+#EXTINF:-1 group-title="ИНДИЯ",STAR SPORTS S2 HD
 http://66.102.120.18:8000/play/a06y/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR Sports 1 Hindi HD
+#EXTINF:-1 group-title="ИНДИЯ",STAR Sports 1 Hindi HD
 http://66.102.120.18:8000/play/a072/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",STAR Sports2 Hindi HD
 http://66.102.120.18:8000/play/a00v/index.m3u8
@@ -8979,15 +8979,15 @@ http://66.102.120.18:8000/play/a05n/index.m3u8
 http://66.102.120.18:8000/play/a035/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",See TV
 http://66.102.120.18:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Sindh News
+#EXTINF:-1 group-title="ПАКИСТАН",Sindh News
 http://66.102.120.18:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Sindh TV
+#EXTINF:-1 group-title="ПАКИСТАН",Sindh TV
 http://66.102.120.18:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="ИНДИЯ",Sonic - Rs 1.00
+#EXTINF:-1 group-title="НЕИЗВЕСТНО",Sonic - Rs 1.00
 http://66.102.120.18:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",Star Gold 2 - Rs 3.00
 http://66.102.120.18:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Star Gold 2 HD
+#EXTINF:-1 group-title="ИНДИЯ",Star Gold 2 HD
 http://66.102.120.18:8000/play/a077/index.m3u8
 #EXTINF:-1 group-title="ИНДИЯ",Star Gold Romance - Rs 2.00
 http://66.102.120.18:8000/play/a00r/index.m3u8
@@ -9009,25 +9009,25 @@ http://185.248.173.79:1525/play/arta/index.m3u8
 http://185.248.173.79:1525/play/fira/index.m3u8
 #EXTINF:-1 group-title="YT",KTV
 http://185.248.173.79:1525/play/ktv/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Kanal 10
+#EXTINF:-1 group-title="КОСОВО",Kanal 10
 http://185.248.173.79:1525/play/k10a/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",N1 BH
 http://185.248.173.79:1525/play/a005/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",RTV 21
+#EXTINF:-1 group-title="КОСОВО",RTV 21
 http://185.248.173.79:1525/play/rtv21a/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",RTV21 macedoni
 http://185.248.173.79:1525/play/rtvkm/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",T 7
 http://185.248.173.79:1525/play/t7aa/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Tring Action
+#EXTINF:-1 group-title="АЛБАНИЯ",Tring Action
 http://185.248.173.79:1525/play/tacta/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Tring Series
+#EXTINF:-1 group-title="АЛБАНИЯ",Tring Series
 http://185.248.173.79:1525/play/a00c/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Tring fantazi
+#EXTINF:-1 group-title="АЛБАНИЯ",Tring fantazi
 http://185.248.173.79:1525/play/fana/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Tring shqip
+#EXTINF:-1 group-title="АЛБАНИЯ",Tring shqip
 http://185.248.173.79:1525/play/trsh/index.m3u8
-#EXTINF:-1 group-title="НЕИЗВЕСТНО",Tring super
+#EXTINF:-1 group-title="АЛБАНИЯ",Tring super
 http://185.248.173.79:1525/play/tsupa/index.m3u8
 #EXTINF:-1 group-title="НЕИЗВЕСТНО",teve 1
 http://185.248.173.79:1525/play/teva/index.m3u8
